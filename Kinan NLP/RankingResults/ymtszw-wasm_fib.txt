@@ -1,0 +1,8 @@
+Qiita post
+0.41105202145790726
+details
+0.38598246490344823
+wasm_fib
+
+Example WebAssembly execution
+0.20296551363864446

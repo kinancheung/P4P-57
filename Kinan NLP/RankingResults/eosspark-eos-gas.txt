@@ -1,0 +1,4 @@
+EOS FORK CHAIN
+0.5
+GAS
+0.5

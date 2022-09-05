@@ -1,0 +1,12 @@
+date
+0.2639433034716266
+GitHub Release Date
+
+GitHub
+0.24769784134761774
+GitHub release
+0.2050182581685407
+GitHub latest commit
+0.14398995816901747
+PCoin Core integration/staging repository
+0.13935063884319743

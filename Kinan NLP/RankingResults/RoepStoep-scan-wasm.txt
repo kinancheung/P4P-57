@@ -1,0 +1,24 @@
+WASM
+0.14816264266467544
+asm.js 
+
+Excludes bitbases / eval files
+0.13636302027962816
+sources
+0.12550565403484626
+client side analysis
+0.1254210275932493
+github.com/rhalbersma/scan
+0.11616677279665505
+lidraughts
+0.1081025589729743
+hjetten.home.xs4all.nl/scan/scan.html
+
+Original Scan
+0.09061162401079098
+Fabien Letouzeys draughts engine
+0.08332701481704338
+scan-wasm
+
+Modified version
+0.06633968483013744

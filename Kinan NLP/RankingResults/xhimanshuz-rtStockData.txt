@@ -1,0 +1,31 @@
+cross-platform Real-time Stock data viewer
+0.18670410360697437
+Qt
+0.18262226005252014
+./
+0.1411802343365602
+/rtStockViewer/rtStockCurrentUi
+
+Prebuild X64 - Linux
+
+Download Prebuild x64 Release
+0.14110789010512137
+Platform
+
+GNU/Linux
+Android/iOS
+Windows
+MacOS
+WebAssembly
+0.09481446266629116
+qt wasm
+0.08897427142125694
+gcc
+GNU/Linux x64
+
+Current progress
+0.08886787120445402
+text
+alt text
+alt text
+0.07572890660682191

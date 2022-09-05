@@ -1,0 +1,29 @@
+path
+Install emsdk
+0.15175865273359057
+bin folder
+0.1061751545313802
+gen file
+0.1035684550315196
+# edit
+0.09653184005042509
+Installation
+
+Install Make
+0.09384675989899649
+Copy mingw32-make.exe
+0.09076519244188723
+Emscripten
+0.08909690985327898
+path
+Install C/C++ Intellisense VS Code extension
+Update settings C_Cpp.default.includePath
+0.07614001771556592
+C++
+0.07000342642178355
+valid path
+0.06988896233320738
+WebGL C++
+
+Project
+0.05222462898836508

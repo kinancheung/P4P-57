@@ -1,0 +1,34 @@
+contract
+0.1775631220818129
+contracts
+0.14938487988087784
+hellohello.cpp - cpp source
+0.12935090398348578
+directoryhello - code
+0.09747246534454002
+hello.clauses.md - ricardian_clauses file
+0.07540974502475997
+eosio
+0.06499779488478351
+given dir name
+0.06000733387195688
+script
+0.058802506228254586
+IDE Recommend
+
+vscode
+
+Directory structure
+
+eosiolib - EOSIO contracts library
+libc++ - C++ standard library
+contracts
+0.05870049337547735
+quick dapp development
+0.05407354488889628
+hello.abi
+0.038330013460488865
+eosio-dapp-boilerplate
+
+A simple template
+0.03590719697466592

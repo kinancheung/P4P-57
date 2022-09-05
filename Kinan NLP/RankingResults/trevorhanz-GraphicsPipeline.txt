@@ -1,0 +1,62 @@
+mkdir build
+> cd build
+> cmake <source directory>
+> cmake
+0.07551356965230935
+cmake
+0.057243225115647896
+Building
+0.057241576542290715
+Android NDK
+0.05154919108980513
+toolchain file
+0.05029705675741578
+build directory
+0.04649598890313047
+development
+0.045957927295062206
+following commands
+0.04550335051857412
+larger, more complex, domain specific engines ontop
+0.04510485327851061
+=
+0.03957118851004319
+android
+0.03754945561886236
+high efficiency
+0.036267296897995335
+broad platform support
+0.0344262495365105
+main goals
+0.03193497064341398
+graphics APIs
+0.03150981266540608
+emscripten compiler
+0.030122732615571576
+Building
+
+Building
+0.02994355632620686
+platform specific functions
+0.02938489737032564
+CMake
+0.026759619285784072
+Emscripten.cmake
+0.02668242838893264
+cmake \
+    -DCMAKE_TOOLCHAIN_FILE=<NDK directory>/build/cmake/android.toolchain.cmake \
+0.02520686992963464
+Building Qt5 support
+
+Qt5 support
+0.024896152656264773
+native interface support
+0.024583613165253388
+Qt5 support
+0.02438415364580079
+high-performance low-level graphics engine
+0.024313947087013628
+light-weight abstraction layer
+0.024069186154447357
+GraphicsPipeline
+0.02348713034978676

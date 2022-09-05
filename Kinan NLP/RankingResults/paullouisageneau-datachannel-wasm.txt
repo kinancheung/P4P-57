@@ -1,0 +1,71 @@
+datachannel-wasm
+0.09913512221906184
+libdatachannel
+0.09511247977289626
+submodule
+0.048621014599851686
+browsers
+0.04691764833252661
+WebAssembly
+0.04537301018661693
+datachannel-wasm - C++ WebRTC Data Channels
+0.04480610913024437
+https://github.com/paullouisageneau/datachannel-wasm.git deps/datachannel-wasm
+$ git submodule update
+0.03907382836053968
+MIT Gitter Discord
+0.03364188586846872
+same C++ code
+0.033142910119341326
+addition
+0.03138146152021416
+WebSockets
+0.02894878553870691
+native targets
+0.028782433080104104
+interface
+0.024781869489831226
+tracks
+0.023925669494419672
+media transport
+0.02312125169729706
+subset
+0.022815624146127315
+LICENSE
+0.022484352355720237
+same API
+0.02139242963056417
+Installation
+0.021109730170628636
+Emscripten project
+0.02069393451800087
+endif
+0.019681793982510395
+Microsoft Windows
+0.01951467333789161
+Building
+
+Building
+0.018819719017246345
+Apple macOS
+0.018798152417352068
+wrappers
+0.0183594973876024
+wasm
+0.01813875813340043
+WebSocket wrapper
+0.01812099713058689
+environment
+0.01792878458473529
+add_subdirectory(deps/libdatachannel EXCLUDE_FROM_ALL
+0.01744456289722224
+emsdk
+0.01739034069219376
+multiplayer game Convergence
+0.017284218591491814
+cmake
+0.01649308554539982
+option(NO_MEDIA "Disable media support
+0.015288723706762916
+Platform/Emscripten.cmake
+0.011475142344442173

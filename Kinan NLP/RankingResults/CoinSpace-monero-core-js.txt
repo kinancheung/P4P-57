@@ -1,0 +1,53 @@
+npm
+0.12002919012716157
+Chrome Console
+0.059868531189488865
+Debug
+0.05930350543406963
+Install https://goo.gle/wasm-debugging-extension
+0.053426557439413595
+Path substitutions
+0.05120585459991901
+Development
+
+docker-compose
+0.04961647198736285
+extension options
+0.049004225930333344
+WebAssembly Debugging
+0.04730080804082481
+Enable DWARF support
+0.04565451194599626
+Experiments panel
+0.043305859040991185
+DevTools
+0.04205838069926134
+top right corner
+0.040980158893823816
+Module: MyMoneroCoreCpp_WASM.wasm
+/app
+[path_to_monero_core_js]
+
+Open Chrome DevTools
+0.04074113135946348
+file://
+0.03932484260465071
+Sources
+0.03726856981189198
+gear () icon
+0.03538051449917356
+Monero transactions
+0.03429140589197587
+break point
+0.03149149104330455
+docker exec
+0.03140758408850771
+Version
+License
+
+JS library
+0.030863667854375842
+cp
+0.030170498096970484
+Core JS
+0.027306239421039623

@@ -1,0 +1,60 @@
+more info
+0.05585764882403167
+article
+0.055310006445676844
+C implementation
+0.050377996177259625
+Open Simplex Noise
+0.048312507375724054
+https://github.com/sol-prog/Perlin_Noise
+0.043916529811418185
+MapGen.zip file
+0.0437567441350615
+5.15.2
+0.04224237675901297
+Implemented Algorithms
+0.04195548143935257
+Releases
+0.04181378720388508
+https://github.com/MarcoCiaramella/OpenSimplex2
+
+Web Assembly build
+0.04026631911949343
+arch2
+0.04015454711761441
+Perlin Noise
+0.03993851294420978
+Qt framework
+0.03962122169176481
+Qt Creator
+
+Qt version
+0.03914569203984544
+Windows
+0.03896935248463286
+version
+0.038688989725236655
+linux
+0.03812258032157636
+browser
+0.03784154967537307
+White Noise
+Cellular Automata
+OpenSimplex2F
+Perlin Noise
+Voronoi
+0.037366114297352385
+Credits
+
+The C++ implementation
+0.03608343281665094
+Texture Maps
+0.033397297928152596
+simple GUI app
+0.032204964285030016
+organic cell-like version
+0.0312852535790064
+Map Generator
+0.02967820810485708
+QT+=widgets
+0.023692885697781215

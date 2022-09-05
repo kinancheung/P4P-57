@@ -1,0 +1,62 @@
+Windows Driver Kit
+0.10651499262776234
+
+0.08178830421765283
+
+Expression -> Term
+0.05658988172694569
+int32_t
+0.05166433280816225
++
+0.04962576540377809
+maximum
+0.04836726341821338
+expression
+0.04781321680096704
+Microsoft Docs
+0.045630022156758515
+WDK
+0.04345567187508652
+Node.js
+0.043300539650953894
+Download
+0.04152914904862177
+Example
+0.041239890731270344
+UTF-8 NUL
+0.040295409160074375
+Windows app development
+Visual Studio Older
+0.03002684306547438
+Expression
+0.029713065841001265
+Windows SDK and developer tools
+0.02958979028739453
+int_calc.cmd)(source.txt)x64
+0.02749467538513167
+Visual Studio Community
+0.025945428409979234
+test_int_calc.cmd)(test_YYYY-MM-DD_nnn
+0.02549600849109541
+variable
+0.0230541753832565
+int_calc_compiler.exe
+0.022609498759880095
+value1 = value2
+0.022436735229061103
+int_calc_object_hash.log
+0.02030901962748069
+int_calc.wasm
+0.017569156678810323
+int_calc_compiler
+
+WebAssembly 32  x64 JIT C Visual Studio  C  Windows API 
+
+
+
+
+
+C:\>echo.>int_calc_compiler-master.zip:Zone
+0.015802725076136958
+Shinichi Ichikawa
+0.012138438139050963

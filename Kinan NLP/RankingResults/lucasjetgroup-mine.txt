@@ -1,0 +1,12 @@
+diffs
+0.2506870127957824
+tech@ mailing list
+0.2221878456247008
+Pull requests
+0.204578772878135
+OpenBSDs official CVS src repository
+0.18309533906960784
+src
+
+Public git conversion mirror
+0.13945102963177378

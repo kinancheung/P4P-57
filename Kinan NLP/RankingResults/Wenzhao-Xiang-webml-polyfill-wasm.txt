@@ -1,0 +1,36 @@
+CMake
+0.092941904748846
+source
+0.09257866075345697
+node.js
+0.08812742585026886
+Java
+0.07808309172885053
+webml-polyfill-wasm
+
+Fork
+0.0723459218205385
+cross compilation
+0.061984318710376005
+Prerequisites
+
+Python
+0.06192064357448041
+emsdk
+0.06153659223319223
+git clone
+0.05973208083520793
+Install Emscripten
+0.05931163306453506
+Set CMAKE_TOOLCHAIN_FILE
+0.05834395214820869
+system package manager
+0.057928295869757895
+CMAKE_TOOLCHAIN_FILE=/yourDownloadDir/emsdk/emscripten/yourVersion/cmake/Modules/Platform/Emscripten.cmake
+0.046061024110005
+output file
+0.037138307235887374
+Download tensorflow dependencies
+0.03664848551492293
+new directory
+0.03531766180146606

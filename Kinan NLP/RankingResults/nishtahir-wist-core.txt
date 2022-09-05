@@ -1,0 +1,29 @@
+emsdk environment
+0.12638839481237313
+new vagrant box
+0.09362302844818794
+WebAssembly
+0.0902679622907612
+wist parser
+0.08983275281599597
+included Vagrant file
+0.0897597789374999
+Emscripten SDK
+0.08349689863019
+elevated sudo mode
+0.08255702457865378
+enviroment variables
+0.07932744984450715
+WASM module
+0.07201888763213385
+source
+0.06787289135675158
+Makefile
+
+$ cd /vagrant/
+$ emmake
+0.06740523916978484
+wist-core
+
+Experimental implementation
+0.057449691483160675

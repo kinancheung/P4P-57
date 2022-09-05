@@ -1,0 +1,21 @@
+loop function
+0.1722479570022411
+emscripten_set_main_loop(em_callback_func func
+0.11636782980744939
+app
+0.11149413708389685
+screen
+0.11075439242611876
+int fps
+0.10758043431934194
+http.server
+0.10255740844473174
+local debugging
+emcc
+0.09536114770039855
+sdl_2_0_sample.html -s USE_SDL=2
+
+ python3
+0.09426221671608054
+dev env
+0.08937447649974134

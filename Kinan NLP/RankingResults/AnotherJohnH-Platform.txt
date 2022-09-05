@@ -1,0 +1,176 @@
+SDL2
+0.06687044760790375
+application
+0.05314391006995156
+new project
+0.033070890564284736
+Linux
+0.02954820371595438
+i
+0.02478761543532551
+initial version
+0.024370328470898834
+Kindle3
+0.023488651513446427
+source installation
+0.021095173295046784
+build machine
+0.019423029402520556
+Platform
+0.019338034331231845
+other projects
+0.018712726918428336
+submodule
+0.018609970463331554
+development install
+0.018194941377521315
+Emscripten
+0.015840170492784335
+d
+0.015452016763975247
+style
+0.015378469610960115
+primary target platforms
+0.015348539420040878
+following packages
+0.014787283626630277
+project root directory>/.clang-format
+Install template/.gitignore
+0.014511591931074607
+Application
+0.013571026469878154
+headers
+0.013031992576375287
+Foo] : <name
+0.012817697399922591
+Description
+0.012420556804950179
+set
+0.0123158102650065
+filename
+0.012197812064819853
+static runtime libraries
+0.012193946821613323
+directory>/Source/<filename
+0.011924664374949066
+linSDL2.a
+0.011483559599060725
+Version
+0.011307479953043358
+C++11
+0.011197934266164878
+foo
+0.010866245189357918
+access
+0.010837215873469506
+C++
+0.010523352934087984
+Raspberry Pi
+0.01038148919975947
+template/.clang-format
+0.0101566251068138
+intended deployment
+0.010116774119941968
+gcc/g++
+0.0100478261886865
+MineSweeper
+0.010017890221667516
+integration
+0.009970880772700707
+arm-linux-gnueabihf targets
+0.009879886236040383
+old kernel
+0.009661805607297062
+copyright owner
+0.009581593187148806
+Copyright year
+0.009413487116821873
+Kindle
+0.009307197807333268
+console
+0.00929294568042735
+User name
+0.00907634678307081
+APIs
+0.009013337949142924
+https://github.com/AnotherJohnH/Platform.git
+cd Platform
+./INSTALL_TEMPLATE
+
+Project dir
+0.008901897405450157
+Low-level 2D
+0.008866070455917783
+Build Status
+Coverity Scan
+0.008861433739758874
+libc
+0.008852379448255256
+mkdir MyProject
+cd MyProject
+git init
+0.008826515767832034
+John D. Haughton
+0.00872945070056515
+suitable
+platform
+0.0087051163515849
+cd build_native
+0.008570679203779668
+git commit
+0.008516250868239938
+NDK installation
+0.008509992261754572
+embedded or limited memory enviornment
+0.008370420663212783
+standard libraries
+0.00828403137898159
+actual app
+0.008186407500836794
+apt-get install cmake
+sudo apt-get install g++-4.7
+
+Browser
+0.008142378322947591
+wheel avoiding functionality
+0.008126564761749774
+update
+brew install cmake
+brew install
+0.0080992086050619
+portable applications
+0.008026461362203832
+macOS 10.14
+Mojave
+0.00796384312434346
+issue
+0.007957032254527534
+places
+0.00791906127015084
+Xcode project file
+0.007867051055000818
+Simple GUIs
+Audio processing and synthesis
+MIDI
+Console applicationsCommand line processing
+0.007689763141385335
+apt-get install
+0.007611929524509368
+Memory
+0.007567791783895852
+project root directory>/CMakeLists.txt
+Install template/Doxyfile to <project root
+0.00754445828568566
+space indent
+0.007510595450044675
+API
+
+
+Some static data structures
+0.007380727716487052
+preference
+0.007371387801250878
+Platform
+
+A platform abstraction layer
+0.006461724213722802

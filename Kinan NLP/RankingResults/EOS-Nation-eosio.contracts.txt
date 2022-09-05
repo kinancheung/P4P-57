@@ -1,0 +1,29 @@
+EOS User Agreement
+0.13849492214851813
+https://github.com/EOSIO/eosio.contracts/releases/tag/v1.9.2
+
+Amendments
+0.12834036306216368
+EUA
+0.12376740911907036
+d7bc0a5
+0.11606823991210555
+eosio-cpp --version
+eosio-cpp version 1.7.0
+
+$ shasum
+0.10745207837040258
+Resources
+
+v1.9.2 release candidate
+0.10743277029957424
+Checksum
+
+Branch
+0.10460552431873618
+eosio.system.wasm
+0.08996890593869317
+eosio.contracts
+
+Version
+0.08386978683073612

@@ -1,0 +1,4 @@
+wasmdemomvvm
+0.5
+npm
+0.5

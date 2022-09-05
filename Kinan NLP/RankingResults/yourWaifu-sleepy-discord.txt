@@ -1,0 +1,83 @@
+Sleepy Discord
+
+C++ library
+0.0914457747902784
+C++ library
+0.05966452160448876
+develop branch
+0.05132827933556209
+Message
+0.0487171364935331
+Hello
+0.03661123268373491
+Sleepy Flower Girl
+
+More complex examples
+0.03533874257219945
+libraries
+0.03432976147651695
+own code
+0.03420438037195653
+public SleepyDiscord::DiscordClient
+0.03387319009957103
+versions
+0.030850949077493018
+consoles
+0.02814235880308531
+many things
+0.027653086901861294
+#
+0.026824848891949245
+Progress
+0.026711799912016693
+microcontrollers
+0.026413118859873116
+Work
+0.026073653309189097
+whcg hello
+
+Possible Output
+0.025810873773789416
+Input
+0.025803732629075603
+sleepy_discord/sleepy_discord.h"
+
+class
+0.02561716801787472
+native support
+0.02409221614109407
+thing
+0.024050354148275208
+bot
+0.022589864696638352
+cutting edge
+0.02066495598556091
+caution
+0.02029814386735794
+Rock Paper Scissors
+Unofficial Discord 3DS Client
+WebAssembly Client
+0.020222555293169388
+void onMessage(SleepyDiscord::Message message
+0.019792657820624792
+novelty
+0.019660895287145302
+Windows MSVC Ubuntu
+0.019143133412584726
+GCC Ubuntu Clang Docs
+Master Build Status Build Status C/C++ CI N/A
+Develop Build Status Build Status C/C++ CI documentation
+0.018649747292454822
+message.startsWith("whcg hello"))
+            sendMessage(message.channelID
+0.0178040275021439
+cpr
+0.016258732899720865
+older version
+0.016090888091056302
+message.author.username
+0.015906706880875487
+%
+0.015369716711967431
+docs repo
+0.013990794365281532

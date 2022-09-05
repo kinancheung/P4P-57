@@ -1,0 +1,10 @@
+Slides
+0.34872223638526234
+https://speakerdeck.com/olafurw/sandbox-games-using-webassembly-and-c-plus-plus-to-make-a-simple-game
+0.32058466314427814
+CPPP Conference talk
+0.21402300197307333
+talk-cppp-webassembly
+
+Example code
+0.11667009849738647

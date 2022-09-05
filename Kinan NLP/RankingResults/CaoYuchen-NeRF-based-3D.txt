@@ -1,0 +1,10 @@
+Nerf-based 3D reconstruction
+0.31771516590793314
+CMU
+0.3116741790875881
+Streaming Video Generation
+0.19345737686959708
+NeRF-based-3D
+
+Final Project
+0.17715327813488158

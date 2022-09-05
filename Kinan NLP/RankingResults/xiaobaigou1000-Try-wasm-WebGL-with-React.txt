@@ -1,0 +1,39 @@
+_
+0.09668408374013912
+scriptDir
+0.09633100379239831
+stateundefined
+
+    const
+0.0799858124372511
+hookwasm contextdefault
+0.07421878753977793
+export default Module
+0.07260962629073427
+context, setContext
+0.06117901326397695
+wasmModuleBuilder.default(Module).then((result
+0.06008498913526914
+canvas.current
+0.05388073367094298
+setContext(result
+0.049549504130040965
+emcmake cmake
+0.04774615199935078
+return
+0.04766452986907445
+useEffect
+0.04619596448387701
+canvas id="wasm
+0.04566250927646151
+const canvas = useRef
+0.0454750676908314
+function
+0.0449010417668577
+emcmakecmakecmake configure
+
+$ cmake
+0.04455933460038067
+mkdir build
+$ cd
+0.0332718463126358

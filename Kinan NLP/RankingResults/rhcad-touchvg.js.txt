@@ -1,0 +1,13 @@
+sdk-upstream-master-64bit --shallow
+0.23349548638347006
+cd
+0.17443383747867444
+https://github.com/juj/emsdk.git ../emsdk
+cp misc
+0.17067896480493408
+WebAssembly Binaryen
+0.1522135767893359
+/emsdk/emsdk_env.sh
+0.14370393032940013
+emrun
+0.1254742042141852

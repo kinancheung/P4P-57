@@ -1,0 +1,2 @@
+Custom WASM text format
+1.0

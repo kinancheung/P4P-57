@@ -1,0 +1,33 @@
+Makefile
+cleaning code
+comment code
+settings
+0.10235239022488316
+prober
+0.10185813715428998
+Planned features
+0.09547117145670952
+Highscore
+0.08892297470840735
+options
+0.0859339856922797
+file
+automated snake
+0.07994811161926797
+menu screen
+0.07158237496754508
+WASM/web build
+.desktop file/install option
+0.062080193894579444
+learning Project
+0.056139568485671
+library
+0.05480728315940756
+fancy, performant or readable code
+0.05383744817115839
+C99
+0.0537721039280919
+small snake
+0.04832969465735706
++AUTHOR
+0.044964561880351944

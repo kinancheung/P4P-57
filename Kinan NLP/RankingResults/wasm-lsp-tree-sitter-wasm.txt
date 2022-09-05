@@ -1,0 +1,36 @@
+Phase
+0.17650724574790494
+WebAssembly
+0.09536197114132758
+annotations
+0.07049520108268872
+Implementation
+0.06678018477309731
+multi-memory
+ simd
+
+Phase
+0.06449639380211417
+Standardization
+0.06437548990838762
+bulk-memory-operations
+0.06017077998710246
+reference-types
+0.05718734377654225
+following features
+0.0571312284975133
+threads
+0.05705222126013815
+Specification
+0.052677013788934184
+exception-handling
+ function-references
+0.052174559227865534
+included grammars
+0.0495500740497842
+Proposal
+0.04881731763902433
+Supported Document Types
+
+extension
+0.027222975317575143

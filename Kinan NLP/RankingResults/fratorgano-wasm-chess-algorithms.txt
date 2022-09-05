@@ -1,0 +1,82 @@
+Minimax
+Negamax AB - Negamax
+0.047669174007010144
+time
+Iterative Deepening Table - Iterative Deepening
+0.044938078869973745
+WASM
+0.04395493765654785
+package
+0.04346312301112887
+simple transposition table
+0.04327033184543915
+rust
+0.03936726469792537
+wasm-bindgen - Helping
+0.03832055578268408
+end
+0.03093496726332507
+results
+0.02997292386541582
+normal search
+Iterative Deepening - Negamax AB
+0.029535297458583507
+Random
+0.02871828913801692
+performance
+0.02845444110653754
+chess
+0.028161036630289397
+version
+0.02806379695431946
+website
+0.02777307236777378
+Commands
+
+wasm-pack build
+0.02754781402797185
+Implemented algorithms
+0.027480171693596393
+Rust and Node.js
+shakmaty - Library
+0.027387867050418763
+quiescent search
+0.02605188261439112
+random move
+0.025571721367708515
+application
+0.024524189428689246
+server-side
+0.02340405855011498
+orders
+0.023198766211551737
+std::time::Instant
+0.022264737519275997
+increased depth
+0.021881879243974778
+Javascript
+0.02183705093557021
+Dependencies/Modules
+0.021284818046199513
+cargo test - Compile rust code
+0.021251618846524663
+alpha-beta pruning
+Negamax AB Table - Negamax AB
+0.021186207197200067
+module
+0.020910248118240896
+Web APIs
+0.02012805811462315
+integration
+Serde - Framework
+0.019819748257320136
+optimized chess game tree exploration
+0.01953146002326181
+data
+0.019035400406020923
+node-modules
+0.018718689416157865
+wasm-chess-algorithms
+
+Node.js packet
+0.014386322276216564

@@ -1,0 +1,51 @@
+software
+0.05293560133632758
+businesses
+0.05261920973839547
+Biometric Hardware Secured Keys
+0.05151834576781451
+Support
+0.050519555270857386
+Apollochain
+0.048147005569510654
+Decentralized Applications
+0.045040673812024055
+Powerful Infrastructure
+0.044516784387719124
+groundbreaking features
+0.04405304961161023
+seconds
+0.043332640340450174
+Low-overhead Byzantine Fault Tolerant Finality
+0.043156444313463306
+Parallel Execution
+0.043103125421972505
+Free Rate Limited Transactions 
+Low Latency Block confirmation
+0.042196427091518364
+Web Assembly
+0.041672764324278445
+Context Free Validation Logic
+0.04164993860790249
+Apollochain source code repository
+0.041112629049472646
+Apple Secure Enclave
+0.03980312115804288
+Sparse Header Light Client Validation
+Scheduled Recurring Transactions
+0.03892797915513986
+Smart contract platform
+0.0385658251048715
+high-performance and high-security blockchain-based applications
+0.03768791901457426
+Time Delay Security
+Hierarchical Role Based Permissions
+0.03568606854542577
+EOSIO code
+0.03456716844115256
+optional high-overhead, low-latency BFT finality
+0.03451374304299353
+Inter Blockchain Communication
+0.028812043921321757
+Apollochain - one new public chain
+0.025861936973160783

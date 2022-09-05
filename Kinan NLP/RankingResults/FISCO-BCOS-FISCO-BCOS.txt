@@ -1,0 +1,49 @@
+FISCO BCOS
+0.36683960635024426
+stable
+
+
+
+FISCO BCOS
+
+
+
+
+
+
+
+
+
+
+
+
+
+star
+
+
+
+FISCO BCOSFISCO
+0.22552989278764426
+MVP
+
+
+
+
+
+License
+
+FISCO BCOSApache License
+0.19902656365617927
+PBFTPBFT
+
+
+WeBankBlockchain
+0.12489524902002222
+English
+
+
+
+codecov
+CodeFactor
+GitHub
+0.08370868818591035

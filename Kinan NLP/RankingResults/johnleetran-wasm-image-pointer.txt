@@ -1,0 +1,2 @@
+wasm-image-pointer
+1.0

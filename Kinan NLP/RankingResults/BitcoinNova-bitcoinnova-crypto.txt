@@ -1,0 +1,225 @@
+crypto
+0.04526348064670773
+necessary files
+0.04353776479259915
+cmake
+0.03038505225173042
+bitcoinnova
+0.029289898218359197
+build process
+0.028963689499565105
+cryptography library
+0.02530460273425021
+master --recursive --single-branch https://github.com/BitcoinNova/bitcoinnova-crypto
+0.02402449050549304
+BitcoinNova
+0.023774436638199222
+binaries
+0.023009637035056655
+Copyright
+0.02247646190324092
+clang++-6.0
+git clone
+0.020491268255676497
+c
+0.018001348555420498
+build
+cd
+0.01776745257094831
+npm install
+0.017302272498315608
+Native Javascript
+0.017096137990028026
+Visual Studio
+0.015971132487825692
+add-apt-repository ppa:ubuntu-toolchain-r/test
+0.014949479343552688
+faster performance
+0.013199788885308547
+CMake arguments
+0.012758023641509696
+default
+0.012558316821643111
+command
+0.011910543209921997
+development environments
+0.011771696545506041
+dependencies
+0.01121379496113329
+while
+0.01098772441439807
+CryptoNote developers
+0.01072446413731632
+llvm
+export CC=/usr
+0.010642497026072895
+Prerequisites
+0.010595689329626031
+Linux
+
+Ubuntu
+0.010117881706873496
+Clang
+
+Prerequisites
+
+Install XCode
+0.01010582117248768
+Community
+
+Copypasta
+0.009041819176068508
+CC
+0.009033099899446185
+CXX
+0.008435295305712315
+environment
+0.00817719917345428
+your_bitcoinnova
+0.007720345101815702
+example
+0.007672647431499405
+method
+0.007596743068909641
+noticable difference
+0.007594751567264121
+apt-get update
+sudo apt-get install aptitude -y
+sudo aptitude install
+0.007506521743964536
+license
+0.007489632430594752
+ubuntu
+0.007472469191730216
+variety
+0.007401973582277678
+Administrator
+0.007332883276297577
+MSBuild bitcoinnova-crypto.sln /p
+0.007095035982044815
+software
+0.007041379108445038
+better experience
+0.007039793981486216
+optimized native builds
+0.007019838988290485
+windows-build-tools
+0.0069998574511438705
+vs2017
+0.006909847238874457
+open x64 Native Tools Command Prompt
+0.006898965986583154
+errors
+0.0068685203079727145
+script
+0.006867253606178153
+Windows Powershell console
+0.006867216165707993
+step
+0.006860110111448161
+machine
+0.006830062499890063
+Configuration=Release
+0.00680473182729025
+Pull Requests
+0.0068039036404558655
+Extensive docs
+0.0068035204423113685
+start menu
+0.006772051657573252
+Update
+0.0067559981308819815
+following packages
+0.006752270771414562
+particular system type
+0.006704479283581345
+systems
+0.006614401433742012
+WASM
+
+Node.js Module
+
+Dependencies
+0.006597342661257352
+P/Invoke
+0.006509815059231077
+reason
+0.006488189444936012
+Win64
+0.006461213837797448
+Standalone Cryptography Library
+0.00644308633088587
+Node v11
+0.006429872624963471
+repository
+0.006381647419408987
+Monero Project
+0.006379032870883063
++6.x LTS
+0.006345910874096895
+set PATH="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin";%PATH%
+cmake
+0.006342278034908687
+various other projects
+0.006340023976355641
+https://raw.githubusercontent.com/Homebrew/install/master/install
+0.006330279990953388
+clang
+0.006305357174044485
+Turtlecoin Developers
+0.0062875874457190475
+libraries
+0.006188555221083055
+jsbuild folder
+0.006178820070391347
+first time
+0.006083850045830263
+works
+0.006003436690030603
+Node.js >= 6.x
+C++
+C#
+0.005989500330230496
+bitcoinnova-crypto-static.lib
+bitcoinnova-crypto-shared.lib
+bitcoinnova-crypto-shared.dll
+
+Native Javascript
+0.005971766349167098
+libbitcoinnova-crypto.a
+0.0058809477354914656
+particuar system
+0.00585633553599442
+bit
+0.005762137462867715
+Developer Tools
+0.00574012716572681
+|| /usr/bin/ruby -e "$(curl
+0.005653694776120899
+Build Optimization
+
+The CMake build system
+0.00552803226985887
+Linux
+
+Installation
+
+npm
+0.005523595612845435
+included LICENSE file
+0.005351000500066157
+Nova
+0.005318166198210338
+version
+0.005130469112595111
+more information
+0.005045756242441645
+build-essential git cmake
+git clone
+0.004981556775104454
+Xenial
+0.004812382654612255
+Aptitude::ProblemResolver::SolutionCost=100*canceled-actions,200*removals
+0.004700745349586662
+wget
+0.004678018813186716

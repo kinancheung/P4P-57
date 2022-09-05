@@ -1,0 +1,6 @@
+wasm::ModuleReader::read*()exit(1
+0.3949810564565885
+Binaryen
+0.3275962309937576
+WebAssembly
+0.2774227125496534

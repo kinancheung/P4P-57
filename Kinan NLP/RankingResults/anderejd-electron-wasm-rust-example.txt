@@ -1,0 +1,47 @@
+install npm dependencies
+0.09106463889684682
+Rust example
+0.07124976026291042
+WebAssembly
+0.06788433249972911
+WASM
+0.06558172379204463
+example application
+0.06395376563472424
+minimal Electron
+0.06201010007666512
+Rust setup
+0.059155922406656014
+electron-wasm-rust-example
+0.05906008018271376
+app
+0.038698839395954206
+NPM
+0.03820980428981255
+end-users
+0.036746175299962255
+Install Node.js
+0.03599984106508874
+Install Rust https://www.rust-lang.org/
+0.03464303194564296
+repository git clone git@github.com
+0.0340062838493324
+https://github.com/electron-userland/electron-builder
+0.032282766265453997
+Cargo.toml
+0.03135333357247126
+build.ps1
+0.030901689648430354
+wasm-bindgen-cli
+
+NPM setup
+0.030221742008328927
+same version
+0.030032556150722495
+issue
+0.029201556549692698
+scripts
+0.029000622788002774
+wasm32-unknown-unknown
+Install wasm-bindgen
+0.028741433418814313

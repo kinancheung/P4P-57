@@ -1,0 +1,44 @@
+cleos
+0.18266637196554242
+fud.token
+0.09936293419867225
+table
+0.07781880821924915
+action fud.bank init
+0.06671700645819126
+inflate
+0.06533078670822179
+account eosio fud.token
+0.06302635118901351
+~/contracts
+0.058136675486306646
+contract
+0.052870956042078296
+eosio.contracts
+0.04907190331898213
+eosio.token
+0.04574630214640278
+eosio.token
+
+Setup accounts
+0.044816956710408445
+issuance
+0.041425851288112936
+FUD
+0.04046421780062168
+active --add-code
+cleos
+0.028245329173233042
+bank deposit
+0.024381392838826687
+fud.bank@active
+
+Setup inflation contract
+
+eosio-cpp -o inflation.wasm inflation.cpp --abigen
+cleos set contract
+0.02316801200983578
+EOSIO Contract
+0.020390377915749536
+cron job
+0.01635976653055164

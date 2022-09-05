@@ -1,0 +1,103 @@
+Java
+0.06056582759157655
+C++
+0.05481989207824076
+#
+0.05418930951261717
+Objective-C
+0.042726824565393264
+std::vector
+0.038452489220296045
+many standard types
+0.033328947202366226
+namespace
+0.03170248856471736
+std::string
+0.03070129375721119
+fly bindings
+0.02693699727140199
+Java Link
+
+Modern C++17 wrapper
+0.026595634015383104
+# Scapix Language Bridge
+
+Tweet
+
+Automatic
+0.024955208917999485
+JavaScript
+0.02435672757544626
+Python
+0.024032234099766337
+chat
+0.024022885064921184
+WebAssembly
+0.023261618744478123
+java_api/java/lang/System.h
+0.02315918956371305
+scapix::link::java
+0.022493979651673976
+Swift
+0.02191528446045579
+APIs
+0.01988742662408986
+JDK
+0.019046990515605558
+Bridge code
+0.018434142071295512
+license agreement
+0.01815849169826056
+languages
+0.016621669003408036
+source
+0.016530644178530077
+JNI
+0.015897460853057207
+tiny_bridge
+0.015866739853661212
+type-safe APIs
+automatic resource management
+ZERO runtime
+0.01537583106039029
+std::map
+0.015312557022806398
+zone_strings = java::text::DateFormatSymbols::getInstance()->getZoneStrings
+0.015226011808578391
+example
+scapix_example_objc - minimal example, ObjC/Swift, XCode integration
+example1 - extended example
+0.015109874151750104
+scapix::link::java::convert<> interface
+0.014974504561463195
+type
+0.014921272339551235
+scapix_bridge_headers
+0.014730052193808473
+IDL definitions
+0.014668320885914446
+java::lang::System::getProperties
+0.014617656886194989
+void test
+0.014497387658075771
+pre-generated C++ headers
+0.014362372932517416
+REQUIRED
+0.014326883199988868
+java::util::Locale::getISOLanguages
+0.014293023135367539
+charge
+0.014236702401343391
+Documentation
+
+Examples
+0.013761122870875763
+version = java::lang::System::getProperty("java.version
+0.013321801914181279
+commercial and/or open source applications
+0.013246364973459596
+written JNI code
+automatic C++/Java type conversion
+0.012951286087008637
+include(FetchContent
+0.011406577261158492

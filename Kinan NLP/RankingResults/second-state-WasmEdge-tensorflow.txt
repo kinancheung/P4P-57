@@ -1,0 +1,133 @@
+WasmEdge
+0.07721364948131844
+library libwasmedge-tensorflow_c.so
+0.06291138529075141
+# Tools
+0.03484279879015137
+build/lib/libwasmedge
+0.03355789110068363
+Tensorflow C library
+0.03316059335264865
+header
+0.031065432811487697
+docker image
+0.030904626268526737
+executables
+0.025331784858525094
+CMake
+0.025168766172692307
+apt install
+0.02271654437914799
+libwasmedgeHostModuleWasmEdgeTensorflow.a
+0.02214655998709133
+libraries
+0.021611934203978996
+libwasmedgeHostModuleWasmEdgeTensorflowLite.a
+0.020858876887155067
+TensorFlow
+0.01877546258797196
+project
+0.018679786807480683
+libwasmedge-tensorflowlite_c.so
+0.018521380839129596
+C API
+0.01796164358050217
+wasmedge-tensorflow import object
+0.016150876483053515
+environment
+0.016066059375367564
+g++
+0.015831584848569703
+compilers
+0.01571591067579272
+Option
+0.015527982756697603
+WasmEdge-tensorflow-deps-TF-0.10.1-alpha.2-manylinux2014_x86_64.tar.gz
+rm
+0.015429780960482099
+libtensorflow.so
+0.014767372015845324
+pre-built shared libraries
+0.014678536252024236
+libtensorflow.so.2
+0.014667345423190366
+libboost>=1.68
+0.012506717974577293
+clang++
+0.012383092144909381
+libwasmedge-tensorflow_c.so
+0.012204982729910848
+cmake>=3.11
+0.012120468407601327
+tensorflowlite.h
+0.011815340908986166
+run
+0.011679035368436147
+wasmedge
+0.011342106922985833
+statical linking
+0.011248902407649402
+libtensorflow_framework.so.2.6.0
+0.011102656185195216
+libtensorflow_framework.so
+0.011044606304592143
+libtensorflow.so.2.6.0
+0.010803161820100158
+support
+0.010620686458260493
+libtensorflow_framework.so.2
+0.010519802317651738
+docker
+cmake -DWASMEDGE_CORE_PATH=<path
+0.010474105960588977
+tensorflow_c.so
+0.010140805775796406
+tensorflowlite_c.so
+0.010134259312140664
+specific version
+0.010079544752930662
+https://github.com/second-state/WasmEdge-tensorflow-deps/releases/download/0.10.1-alpha.2/WasmEdge-tensorflow-deps-TFLite-0.10.1-alpha.2-manylinux2014_x86_64.tar.gz
+tar -zxvf WasmEdge-tensorflow-deps-TFLite-0.10.1-alpha.2-manylinux2014_x86_64.tar.gz
+rm
+0.009842452152512997
+ubuntu
+0.009796342786767309
+include/wasmedge-tensorflow.h
+0.009759303484517591
+dev
+0.00923423292611568
+git clone
+0.009139195188524372
+Release
+0.009100892200491203
+https://github.com/second-state/WasmEdge-tensorflow.git
+cd WasmEdge-tensorflow
+git checkout 0.10.1-alpha.2
+0.009080417386224206
+server side applications
+0.008914254405370026
+Requirements
+
+The WasmEdge Tensorflow
+0.008798303121087231
+high performance WebAssembly runtime
+0.008783222958625266
+mkdir
+0.008580193931236064
+path
+0.00840251289528153
+cmake
+0.008160639204049892
+options
+0.008002734672741194
+WasmEdge-tensorflow/source/folder>:/root/WasmEdge-tensorflow \
+    wasmedge/wasmedge
+0.007936673339253512
+Build WasmEdge-Tensorflow
+
+WasmEdge-Tensorflow
+0.007653712212456813
+tools
+0.0074350885841001375
+new repository
+0.0068949866080660486

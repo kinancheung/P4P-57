@@ -1,0 +1,52 @@
+new project directory
+0.1006747891262114
+following command
+0.05753840742091204
+-DCMAKE_SH="CMAKE_SH-NOTFOUND
+0.05498167427116391
+C++ base libraries
+0.054522571093531896
+Compile
+0.0541923316822508
+MinGW Makefiles
+0.05317647691339186
+C
+0.05250019233205755
+specified path
+0.0508459012894732
+re
+0.04411216699627541
+Windows
+0.04393893094945923
+custom C++ library files
+0.04089826526246025
+simple cmake file
+0.040640826646924
+autoproject.sh
+0.03874825059874194
+-DCLANG_ROOT=
+0.03856130181257155
+platon-s2wasm platon-wast2wasm path
+0.03818090720066348
+WebAssembly
+
+platon-contract
+
+Platon-contract
+0.03776439463463403
+original project file
+0.03703395595256598
+pWASM
+
+PlatON
+0.03448840855055789
+new contract file
+0.03447895298795589
+clang llvm-link llc
+0.033562521970616516
+platon-abigen designation
+
+User contract
+0.03260151446790371
+CMakeLists.txt
+0.026557257839677786

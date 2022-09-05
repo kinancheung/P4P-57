@@ -1,0 +1,6 @@
+PrimeNumberGenerator
+
+Prime Number Generator Console Application
+0.5
+WASM experiment
+0.5

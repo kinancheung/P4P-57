@@ -1,0 +1,44 @@
+pikchr-wasm
+
+Usage
+
+import pikchr
+0.12926939872944515
+Default entrypoint
+0.11484968070424298
+speed
+0.09534535559827148
+kb min+gzip
+// import pikchr
+0.09166766153343453
+Pikchr
+0.06896134877416135
+BSD
+0.05905837472358729
+Richard Hipp
+0.05500615914295844
+string back
+
+Licenses
+
+Library
+0.0502503998705866
+SVG
+0.04905082243573379
+Install
+
+npm install
+0.0465224918914879
+Fabio Spampinato
+Pikchr
+0.045461228107701035
+fast and small port
+0.045369771483273
+bundle size
+0.04376541134718532
+pikchr.loadWASM
+0.03830529262704625
+const svg = pikchr.render
+0.03391687707529113
+WASM instance
+0.03319972595559374

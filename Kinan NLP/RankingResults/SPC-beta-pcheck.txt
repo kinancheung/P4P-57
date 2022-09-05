@@ -1,0 +1,22 @@
+apt update
+0.14634981839160358
+jni
+0.13820620365797798
+apt-get install
+0.11590481286920858
+pkg-config bsdmainutils curl
+0.10312812240508291
+apt install build-essential libtool autotools-dev
+0.08973409238998785
+apple-darwin/share/config.site
+0.08710174775810835
+--prefix=$PWD
+0.08197420990113437
+linux
+0.07137677720893726
+cmake curl g++-multilib libtool binutils-gold bsdmainutils
+0.0693179771320678
+libz-dev python3-setuptools libtinfo5 xorriso
+0.048774813548210505
+--disable-online-rust --disable-shared --with-pic --enable-module-recovery
+0.04813142473768114

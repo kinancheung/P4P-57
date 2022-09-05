@@ -1,0 +1,48 @@
+Diagrama de Classes
+0.08706869658439907
+componentes
+0.06795181764426081
+com suas devidas
+0.06265040826689199
+revistas
+0.059398705683029
+e referncias
+0.0523360517572004
+Objetos
+0.04974658516990994
+IFSC
+
+Definir o Problema
+
+Nesse desafio
+0.04890558164957813
+quais
+0.04604655202828145
+lemrbo algum detalhe em
+0.04574345259676154
+talvez firabase
+0.04492525495635454
+Casos de Uso
+
+Cadastrar livros
+0.043930592839033444
+digitais que ele possui
+0.04363934467835546
+como por exemplo
+0.042963509245573274
+Banco de dados
+0.04250342744543102
+links
+0.0408618648703565
+tenho diversos livros
+0.04030075414532122
+edio
+0.03946374044579147
+entre outros
+0.03851208013020171
+ideia  tentar resolver um problema que tenho
+0.03494580809365687
+Funcionais
+0.03473380451025988
+Desafio de Programao Orientada
+0.03337196725935228

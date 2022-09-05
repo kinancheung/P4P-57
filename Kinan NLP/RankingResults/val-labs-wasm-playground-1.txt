@@ -1,0 +1,6 @@
+wasm-playground-1
+
+WebAssembly Playground
+0.5
+v1
+0.5

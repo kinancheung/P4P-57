@@ -1,0 +1,89 @@
+cleos
+0.0746568479703127
+deposit,<pair_id>
+
+
+
+$ cleos transfer myaccount curve.sx "10.0000 USDT" "deposit,SXA
+0.06097775736050492
+action
+0.05127393272863513
+deposit,SXA
+0.0480096699129841
+USN@danchortoken"
+
+deposit
+
+memo schema
+0.0368626694395227
+User Inputs
+const asset
+0.035424604184483954
+automated market maker
+0.0325572037716142
+correlated assets
+0.0313362253434403
+stable currencies
+0.030369871912078697
+swap liquidity pool
+0.030313188426210946
+sx.rex
+eosio.token
+
+Testing
+
+Requirements
+0.030280568736661122
+amplified AMM
+0.029707676831766405
+sx.utils
+0.029578791290079325
+Blanc - Toolchain
+0.028626094806219273
+Audits
+
+SlowMist Audit
+0.028100481993390082
+command line tool
+0.02614720102243155
+WebAssembly-based Blockchain Contracts
+0.025849238165378968
+EOS
+0.025799888892932513
+= asset{100000
+0.02461562162988539
+code curve.sx
+code hash
+0.024504493905307446
+KnownSec
+0.023498270264970204
+Bats - Bash Automated Testing System
+0.023005561913235998
+EOSIO - nodeos
+0.022818590263513436
+shasum
+0.022486922448472772
+USDT
+0.02247227429688145
+Sentnl Audit
+0.022061281080922705
+#
+0.020976089799777844
+eosio-cpp curve.sx.cpp
+0.020876452098985924
+SX Curve
+
+SX Curve
+0.020468382823081593
+USDT@tethertether
+0.020105122551125034
+lptoken.sx
+0.019831518302300007
+git checkout v1.0.3
+$ eosio-cpp --version
+eosio-cpp version
+0.019334822327240247
+./scripts
+0.019135522658363064
+swap,<min_return>,<pair_ids
+0.017937160847289836

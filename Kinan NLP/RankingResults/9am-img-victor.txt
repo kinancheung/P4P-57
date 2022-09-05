@@ -1,0 +1,101 @@
+@9am/img
+0.06894567372220783
+LSD worker
+0.051833162277687056
+victor
+0.04707550722907486
+image URL
+title
+0.04398921910036327
+import { register
+0.039356412186422315
+--victor-stroke
+0.036816132747381485
+faster version
+0.03666493199655203
+String
+0.034193094380528775
+Name Type Default Description
+0.03072460855399382
+svg path stroke
+0.03067759547650268
+worker plugin.1
+0.026869352505090514
+attributes
+0.025151651838556645
+Development
+
+Install
+0.023416217476444266
+data
+0.02239238982732579
+src
+0.021684019337710633
+ImageData
+0.020736056387843052
+Line Segment Detector
+0.020647198493961502
+onmessage
+0.020343435344974764
+API
+0.01985287798140927
+Jrmie Jakubowicz
+0.019817519269537776
+Jean-Michel Morel
+0.019619820937925834
+example
+0.019507518569271767
+Rafael Grompone von Gioi
+0.019371289447170845
+Emscripten
+0.019320112896235975
+Gregory Randall
+0.01914107307860396
+component
+0.01827131848385594
+index.html
+
+
+Open localhost:3000
+0.018226972241380913
+own worker.js
+0.018092783098536284
+fastWorker.js
+0.0176462523055584
+fastWorker.wasm
+0.017170804355530655
+index.htmlNotice
+0.01714302315639655
+screen readers
+0.01713467973770068
+browser
+
+Testing
+
+TBD
+
+References
+0.01653476926630046
+License
+
+MIT
+0.0163788282694684
+https://cdn.skypack.dev/@9am/img-victor
+0.01556155988525297
+npm run dev
+0.014383302276692132
+skypack
+0.01415241955140122
+--victor-transition css <transition> exclude transition property 3200ms ease-in-out transition
+0.013125321250814215
+web component
+worker {Worker} LSD worker
+0.012809896622354051
+brightness(1) blur(0) filter
+0.012266580564176247
+linejoin
+--victor-img-filter css <filter> opacity(0) brightness(20) blur(4px) filter
+0.011897152929833545
+origin image
+--victor-img-hover-filter css
+0.011057464941970683

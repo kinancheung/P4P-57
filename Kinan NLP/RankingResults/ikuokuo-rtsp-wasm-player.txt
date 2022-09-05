@@ -1,0 +1,287 @@
+#
+0.060541107748686734
+--enable-gpl
+0.030891857686741846
+apt install
+0.030772884952639443
+git clone https://github.com/ikuokuo/rtsp-wasm-player.git
+cd rtsp-wasm-player
+export MY_ROOT=`pwd
+0.02570220942786449
+#  https://developer.nvidia.com/blog/nvidia-ffmpeg-transcoding-guide/
+git clone
+0.021107883759515427
+\
+0.020794610133607325
+Wasm OpenGL
+0.019380145079601237
+https://git.ffmpeg.org/ffmpeg.git $MY_ROOT/3rdparty/source/ffmpeg
+cd
+0.018682399163948274
+=
+0.017886484557589958
+FFmpeg
+0.016969410992729597
+cd
+0.016419350977472578
+YUV
+0.016031571155101832
+USE_SDL=2
+0.015617164060768728
+WASM=1
+0.01555211291792008
+yaml-cpp
+0.015411365482602513
+hevc_nvenc \
+--enable-hwaccel=h264_nvdec --enable-hwaccel
+0.012796658648331228
+WebSocket
+0.012700988402297914
+ssl
+0.012402866821812696
+--target
+0.012389872448602825
+cmake
+0.012013213038116208
+rtsp-ws-proxy
+0.011475915523272484
+MY_ROOT/3rdparty/glog
+
+# glew
+0.011156922433712187
+# ffmpeg
+0.01102199148567658
+stream infos
+0.011002812859999296
+nlohmann/json
+0.010917633372025459
+RTSP Wasm Player
+
+Overview
+
+# RTSP WebSocket Proxy
+RTSP/Webcam/File > FFmpeg
+0.01077324243539117
+Beast
+0.01063266553182659
+# WS Local Player
+0.010577688083304627
+INITIAL_MEMORY=104857600
+0.010371939163229647
+Release
+0.010221400138491087
+MY_ROOT/3rdparty/
+0.01021152444229058
+rootdir
+0.00952892834873945
+# NVIDIA Video Codec
+0.009057718950421756
+--disable
+0.009027599531845395
+emcc default options
+0.00901090272935349
+Packets
+0.008680708150850555
+tools
+0.00851441691612571
+MY_ROOT/3rdparty/boost_1_76_0/
+0.008472863911239942
+config file
+0.008465804449627693
+emsdk
+0.007963519403773102
+wanna
+0.007730422228260654
+UTIL_LOGGER_ENABLE
+0.007373610839164085
+macro
+0.007200998604711115
+M
+0.007106660364192217
+-g2
+0.006621003238224841
+HTTP
+0.006588184933070852
+COOP
+0.0060963004390102
+doc
+0.00601412481284949
+CORS
+0.005965222385259459
+MY_ROOT/3rdparty/
+tar --bzip2
+0.005933125159258201
+projects
+0.005873150412490145
+https://github.com/boostorg/beast
+wget
+0.005836587548565433
+ln
+0.005748475442957901
+stdout
+0.005618000892844805
+emcc
+0.005597626532915073
+https
+0.00557155376472125
+RTSP/Webcam/File open, decode (h264/hevc/rawvideo
+0.005548537725943235
+https://developer.nvidia.com/nvidia-video-codec-sdk
+0.005494528038375798
+nvidia
+0.005478643452480865
+annexb format
+0.00547296088113744
+bitstream filter
+0.005391253891381394
+http://127.0.0.1:8080
+0.0053773245173443975
+glm
+0.00537360781619136
+hevc
+0.005319004955340694
+boost_1_76_0.tar.bz2
+0.005310816003454309
+glog: logging
+0.0052796975685324
+https://github.com/nlohmann/json
+0.00527774493853066
+browser
+#  use https
+0.0052616862143855195
+change
+0.005245255008097027
+glfw3
+0.005171927043842242
+-DYAML_CPP_BUILD_TESTS
+0.005163055215432125
+SDK
+0.005132598448977326
+CMAKE_OPTIONS="-DCMAKE_BUILD_TYPE
+0.005101164848039345
+h264/hevc encoders
+0.005065090539517923
+https://stackoverflow.com/a/60516812
+0.0050638811830935535
+libglew-dev libglfw3-dev
+0.005039463363431748
+Release -DCMAKE_INSTALL_PREFIX=_install -DUSE_SSL=ON"
+
+#
+0.005003890337474334
+scale
+0.004974082183837359
+WebGL
+0.004955793602679359
+https://github.com/emscripten-core/emscripten/blob/main/src/settings.js
+0.004902907853687734
+./bootstrap.sh --prefix=$MY_ROOT/3rdparty/boost-1.76 --with-libraries
+0.004896124142795458
+ws
+0.004865071829912053
+https://www.boost.org/
+0.004860932085143911
+decode_
+0.004792788780000001
+./emsdk activate latest
+# Activate PATH
+0.004785529212404218
+http://127.0.0.1:8000
+0.004752998342570721
+latest version
+0.004675117692044876
+Ubuntu
+0.004672599698687428
+video filters
+0.004609183722506424
+build-essential git wget yasm
+
+# cmake
+0.0046084742714702686
+sudo
+0.004590015413595435
+default config
+0.004567404257989743
+https://emscripten.org/docs/debugging/Sanitizers.html
+0.004548191034317182
+wasm libraries
+0.0045206627627053485
+h264_mp4toannexb
+0.004513000145325161
+threads
+0.0045003726303904385
+https://emscripten.org/docs/tools_reference/emcc.html
+0.004468348443586269
+apt install libssl-dev
+0.004433950575963918
+third-party dependencies
+0.004417209022919236
+other environment variables
+0.0044140014968420075
+Usage
+
+Prerequisites
+0.004345956758269922
+current user
+0.004335197152913594
+ffmpeg-4.4
+0.004319745585082027
+inline-asm
+0.0042858677901505375
+v0.5.0 https://github.com/google/glog.git
+0.004282110326670122
+\
+--enable-gpl --enable-version3 \
+--disable-programs
+0.004277654959930367
+mkdir
+0.0042453951865700145
+current terminal
+source
+0.004243483496975849
+SSL certificate
+0.0041881453916537015
+apt install libx264-dev libx265-dev -y
+# --enable-libx264 --enable-libx265 \
+# --enable-encoder=libx264 --enable-encoder=libx265 \
+
+# glog
+0.0038867489536401614
+\
+-I ../3rdparty/json/single_include \
+0.0037951964161516564
+emmake
+0.003751276612025626
+python http server
+python
+0.003747906264418272
+import: chrome://settings/certificates
+
+# Method
+0.0036957156667540127
+OpenCV_DIR=~/opencv-4/lib/cmake/opencv4
+
+#
+0.0035378242300162636
+\
+--enable-decoder=hevc --enable-parser=hevc \
+--enable-demuxer=rtsp \
+--enable-demuxer=rawvideo --enable-decoder
+0.003526078536719396
+/3rdparty/glm \
+-L dist/ffmpeg/lib
+0.0034762169861844204
+/common
+0.0033324559720204774
+--extra-ldflags=-L$CUDA_HOME/lib64 \
+--enable-decoder=h264_cuvid --enable-decoder
+0.0032416785457803216
+BGR/YUV > OpenCV/OpenGL display
+0.0030374143462033407
+./_output/bin/rtsp-local-player_ocv ./cfg_webcam.yaml
+
+
+
+FFmpeg  RTSP/Webcam 
+RTSP H264/HEVC  Wasm
+0.0025256367138485583

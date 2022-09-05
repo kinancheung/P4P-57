@@ -1,0 +1,10 @@
+C++ WebAssembly
+0.311714798579539
+Maloanwax
+0.297855770688077
+WAX Blockchain
+0.21119333721058992
+wax-cpu-smartcontract
+
+Smartcontract
+0.17923609352179426

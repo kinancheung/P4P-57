@@ -1,0 +1,63 @@
+project
+0.09673728160987476
+HOME/telegram-configuration
+0.05573212997693813
+Optional
+0.0526613867225762
+GitHub
+0.04868794826993827
+app
+
+python3 build-system
+0.047168365863209064
+git clone
+0.04466161232451002
+Make/Make.py \
+    --bazel="$HOME/bazel-dist/bazel" \
+    --cacheDir="$HOME/telegram-bazel-cache
+0.04396369040408923
+rebuilds
+0.04349297424271237
+mkdir
+0.041677586873280804
+Main Bazel build file
+0.03987289456001481
+https://github.com/bazelbuild/bazel/releases/download/4.0.0/bazel-4.0.0-darwin-x86_64
+0.039327814179395876
+mv
+0.038736998045942196
+-j8 https://github.com/TelegramMessenger/Telegram-iOS.git
+
+Download Bazel
+0.0374307876631632
+submodules
+0.03741247365222802
+build cache directory
+0.037323920230966166
+Resources folders
+0.03399570166315828
+provisioning profiles
+0.03186429879707389
+values
+0.030476614177216234
+App Store
+0.027216057546674596
+configuration parameters
+0.02708128277403763
+HOME/bazel-dist
+curl
+0.026806333035084593
+configuration/
+0.026556097701967225
+codesigning certificates
+0.02568117556389723
+flag
+0.025215078929856204
+Make/Make.py \
+0.022610730865949308
+Heymate iOS Source Code Compilation Guide
+
+Compilation Guide
+
+Install Xcode
+0.017608764326245776

@@ -1,0 +1,29 @@
+google chrome browser
+0.2151896519269955
+re
+0.155285977161218
+-
+0.110805164828974
+open https://zineos.github.io/ncnn-webassembly-blazeface/index.html
+0.08565999716953333
+chrome://flags
+0.08378615216981995
+index.html
+0.07305122500927703
+github pages(chrome
+0.053295458784493696
+Method
+0.04794983679693458
+https://www.mozilla.org/en-US/firefox/channel/desktop
+
+
+launch firefox-nightly browser
+0.047467204507536456
+firefox
+0.046342999443405725
+http server
+
+python3
+0.0409281519054753
+locally(firefox
+0.040238180296336724

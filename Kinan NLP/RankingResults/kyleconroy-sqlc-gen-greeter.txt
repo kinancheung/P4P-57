@@ -1,0 +1,2 @@
+sqlc-gen-json-wasm
+1.0

@@ -1,0 +1,24 @@
+falafel - Rollup server
+0.11764425429635221
+blockchain - Solidity smart contracts
+0.09913666958882664
+barretenberg
+0.09678561494337923
+TypeScript
+0.08355733504558081
+barretenberg - C++ cryptographic library
+0.08282111826733432
+following sub projects
+0.08279387157430744
+barretenberg.js - TypeScript wrapper around WASM build
+0.07903855673267891
+Aztec Connect system
+0.07717692616304048
+rollup provider
+0.0762044837794087
+sdk - SDK
+0.0734361317467412
+Previous bugs
+0.06738376013432881
+AZTEC
+0.0640212777280208

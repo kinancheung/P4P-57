@@ -1,0 +1,46 @@
+null init
+0.1431152975496919
+call_contract
+0.12846454081248898
+get_account init10
+0.07174122449593678
+create
+0.06526047934887486
+NFT
+1,id
+get_table_rows_ex  init10  item
+0.06235699735683335
+category":"tokentypes","tkname":"testnft","burnable":"1","transferable":"1","uri":"string","max_issue_days":"30","max_supply":"10000"}" false true
+
+4,NFT
+call_contract  28182  28182  null issue
+0.052572823530103285
+tokentypes
+0.05252925606005136
+to":"25997","category":"tokentypes
+0.0488025020764772
+true itemstats
+0.04809339896584007
+false true
+
+
+ABI
+0.045423267796074765
+category":"tokentypes","tkname":"testnft
+0.04172263641727754
+get_table_objects
+0.039624969414386646
+nft.cpp
+0.03853966970993036
+gxx
+0.03790824148569806
+version":"0
+0.03637428803216494
+owner":"25997","item_ids":[2
+0.036188532842157575
+false accounts
+0.029288137792670296
+YOYOW.NFT
+
+yoyow contract
+0.021993736313342047

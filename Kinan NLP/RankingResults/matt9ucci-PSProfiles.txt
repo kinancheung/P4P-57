@@ -1,0 +1,12 @@
+Installation
+
+git clone https://github.com/matt9ucci/PSProfiles.git
+0.26795416192745986
+Split-Path $PROFILE
+0.24967381068923952
+Windows PowerShell
+0.1896451370485045
+PSProfiles
+0.1602557622650744
+PROFILE
+0.1324711280697218

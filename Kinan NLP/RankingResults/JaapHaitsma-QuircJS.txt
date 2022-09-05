@@ -1,0 +1,10 @@
+Progressive Web App
+0.22720110626443793
+Glitch.com
+0.22243712649786995
+Quirc QR code decoder library
+0.20743988551928474
+Javascript bindings
+0.17738668987198547
+QuircJS
+0.16553519184642176

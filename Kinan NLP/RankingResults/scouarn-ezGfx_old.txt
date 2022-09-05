@@ -1,0 +1,107 @@
+windows
+0.05889249917797973
+3D ext
+0.04433853250043926
+buttons
+0.04199616391581039
+path
+0.04114578104925259
+sliders
+0.039824374899213456
+backslash
+0.03943350813300447
+textboxes
+0.035913511530524286
+keystate
+0.035903220865771565
+png
+0.03514342085841363
+keys
+0.03413171218252624
+splines calculation / bezier curves
+0.03254066290787813
+key
+scancode style keys
+0.03050134397516977
+scripting language
+0.030410838337724858
+Formats
+0.030009238310666833
+jpeg
+config files / json files
+material files
+0.029655233167193797
+key
+0.029570633860215374
+fly
+0.02921691217131042
+windows
+
+Misc
+
+Redo vectors
+0.029033136458774984
+proper clipping
+
+
+camera point
+0.02770772897661917
+WM ==> automatic device detection
+0.02748084813866278
+function
+
+
+lights
+
+
+triangle vertex
+0.02617557818821471
+voxel engine
+0.02564251440642292
+pointers
+0.025086241566733013
+2D
+0.024747179850436646
+documentation
+wasm support
+0.023895242586028192
+textures
+0.02320228269821673
+triangles
+
+
+Other projection matrices
+
+
+wireframe shader
+
+
+vertex color shader
+
+
+mipmap / smooth / color interpolation
+0.023089953404730905
+demo
+"mode 7" demo
+
+Fonts
+
+UTF fonts
+0.02246422167502394
+python API
+
+
+lua / python / lisp / perl / js / bash / brainfuck / BNF
+0.022433569525291283
+TODO
+
+Important/Misc
+
+alpha blending
+0.02145298744378751
+Detailed documentation
+0.020797601574368312
+simple cross-platform graphics library project
+0.02019030553287356
+Semi-private repo
+0.017973020130720677

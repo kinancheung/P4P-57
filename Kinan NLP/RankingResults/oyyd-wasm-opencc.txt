@@ -1,0 +1,81 @@
+new DictSource(s2t.json
+0.07672350408587288
+s2t.json
+        const dictSource
+0.06754634176259475
+npm
+0.056777287166404386
+DictSource
+0.05094056550878654
+_
+0.04627160500210378
+OpenCCWasm
+0.045299410803457285
+cd wasm
+0.03796800658995991
+run test
+
+License
+
+OpenCC/src/wasmCMakeLists.txtwasmjs/wasm/docsgh-pages
+0.03551614347705184
+Converter
+0.03543563543614461
+script src="./opencc-asm.js"></script
+0.03478014915328581
+<
+0.03449989093793571
+OpenCCWasm_.ready().then
+0.03379582518907166
+converter.delete
+0.028456327913756813
+run
+0.02520196517817038
+opencc-asm.js.mem
+0.02419131712076571
+= require(wasm-opencc
+0.02397704049284236
+nodenpm
+0.023322030431676178
+gzip164kB
+0.023245027976593797
+dictSource.setDictProxy((dictName
+0.021806342583165262
+new Converter(string semgentation
+0.021489162515047976
+dictName
+0.021050411348484576
+DictSource.setDictProxy(function proxy
+0.020968111016199602
+Array
+0.02096594940924101
+DictSource.get()
+
+DictSource.get()
+
+DictSource.get()PromisePromiseresolveConverterrejectnew Converter
+0.020318916058026167
+return
+0.0198275643220818
+DOCTYPE html>
+<html>
+  <head></head>
+  <body
+0.019647249182142848
+readyConverterNodeready
+0.019435656425796595
+distdist.mem.mem
+0.018982510315404363
+dictSource.get
+0.01812294012848529
+const converter = new Converter(...args)
+  console.log(converter.convert
+0.017868044893111848
+Converter.delete
+0.015767677168634395
+bundlewasm-openccbundle
+0.014618125367318609
+Apache
+0.012739477793387459
+travis-ribbon
+0.012443787246997903

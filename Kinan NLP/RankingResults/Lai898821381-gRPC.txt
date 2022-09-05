@@ -1,0 +1,82 @@
+HelloReply reply
+0.0847216116310913
+HelloRequest
+0.07766294466206827
+Greeter
+0.045323551255245634
+pushd cmake
+0.04521605613384908
+rpc SayHello
+0.04051256882820505
+std::cout << status.error_code
+0.039009290254768306
+std::string prefix("Hello
+0.03461485268053173
+std::endl
+0.0345149155550505
+mkdir
+0.029892630590156066
+return
+0.029200754421528995
+HelloReply* reply) override
+0.029081251749331856
+string name
+0.02846395581275451
+HelloReply
+0.027361742799688976
+grpc
+0.0263521317000125
+request
+0.023445903380233044
+request->name
+0.022034940230129016
+reply->set_message(prefix
+0.022010272413537292
+stub_->SayHelloAgain(&context
+0.02191859204337767
+request.set_name(user
+0.021758527144897552
+user
+0.021620186800916007
+same pattern
+0.021568751793887404
+git clone
+0.019115272317977994
+ClientContext context
+0.01906789009628979
+build-essential aotoconf libtool pkg-config
+0.01730809031339113
+ON -DgRPC_BUILD_TESTS=OFF -DCMAKE_INSTALL_PREFIX=$MY_INSTALL_DIR
+0.017127893260954215
+int main(int argc
+0.016978006003444082
+char** argv
+0.01689270188050109
+message
+0.016718025502403387
+apt install
+0.01635573344646538
+status.ok
+0.01624208690765604
+stubs newly available method
+0.016238754022160774
+Status SayHelloAgain(ServerContext* context
+0.01623468422492636
+RPC
+0.014862839755048896
+Status SayHello(ServerContext
+0.014837760132566657
+greeter_server.cc
+
+class GreeterClient
+0.014643468042829743
+./greeter_client
+vim grpc/examples/protos/helloworld.proto
+
+service
+0.01443784301656742
+status.error_message()
+                << std::endl
+0.014013297911533744
+cd grpc/examples/cpp/helloworld
+0.01264022128402236

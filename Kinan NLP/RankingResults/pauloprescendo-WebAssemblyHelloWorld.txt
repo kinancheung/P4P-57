@@ -1,0 +1,11 @@
+hello.html
+0.2868597778135403
+--emrun
+emrun
+0.280043790800201
+simple "Hello World" program
+0.15622477742979535
+WebAssemblyHelloWorld
+0.14748324751099162
+Compile steps
+0.1293884064454718

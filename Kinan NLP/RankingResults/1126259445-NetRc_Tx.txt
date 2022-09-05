@@ -1,0 +1,37 @@
+1.SmartConfig_AirKiss_To_MQTT
+0.0959643573145386
+smartconfig
+0.0907332345915395
+MQTT 
+ smartConfig
+0.08333343079278756
+nbsp;&nbsp;&nbsp;&nbsp
+0.08054500172436956
+WIFI
+0.07968950222082118
+NetRc_Tx
+0.07874776299354595
+AIAI
+0.0758851802685315
+ESP8266_RTOS_SDK
+0.07388295264245676
+demo
+0.07304190458061771
+cd /Ai-examples/1.SmartConfig_AirKiss_To_MQTT
+0.07229167479347358
+RTOS C freeRtos
+0.0628107261060419
+ESP8266
+0.049267246345718364
+flash 
+make monitor
+
+
+
+PHPhttps://github.com/zoujingli/WeChatDeveloper
+PHP Oauth2.0https://github.com/bshaffer/oauth2-server-php
+PHP http://www.thinkphp.cn
+ Apache License
+0.047409556031202775
+5.MACID
+0.03639746959435534

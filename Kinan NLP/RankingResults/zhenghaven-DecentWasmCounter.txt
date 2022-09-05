@@ -1,0 +1,32 @@
+additional WASM code
+0.151128627875316
+instructions
+0.11075023576601725
+analysis
+0.08601582191057887
+WASM instruction counting
+0.07121003666895144
+idea
+0.07119314400351548
+number
+0.06979378231828999
+different approach
+0.06954226864121145
+wabt::Module instance
+0.05908678897459278
+pre-defined threshold
+0.05665481571252377
+counter
+0.05561571978275248
+library
+0.05294313992882022
+Detailed Documentation
+0.051914001939768355
+WASM runtime
+0.05175869456026449
+docs/README.md
+
+Code Status
+
+Unit TestsTesting
+0.04239292191739785

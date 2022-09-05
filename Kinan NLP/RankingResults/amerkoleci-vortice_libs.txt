@@ -1,0 +1,11 @@
+collection
+0.30260471068022654
+cross-platform libraries
+0.2808005758084843
+MIT
+
+vortice libs
+0.22801356300077216
+status
+License
+0.18858115051051685

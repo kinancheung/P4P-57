@@ -1,0 +1,27 @@
+test.wast
+    wasm
+0.1908965029998622
+test.wasm
+0.12094087256371064
+test.s
+0.11206198966470356
+verbose
+0.09284425012983546
+~/opt/wasm/bin/llc -filetype=asm
+0.09170933834819711
+linux-gnu/
+0.09016312361503927
+threadsafe-statics
+0.06733718561509561
+--target=wasm32
+0.06071199248249985
+arg=-I/home/zepple/wasm  -context=/home/zepple/wasm
+0.04909930041112813
+external tool
+
+compile eos
+0.04839527461399329
+arg=--target
+0.04174706520571903
+mkdir
+0.03409310435021595

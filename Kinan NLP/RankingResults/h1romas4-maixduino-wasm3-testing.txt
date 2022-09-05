@@ -1,0 +1,46 @@
+firmware              firmware bin path
+0.10600629306528093
+cd
+0.09998590009618581
+&
+0.09067603701290959
+# set
+0.08780376844487406
+kflash
+0.08499923517709242
+cmake
+0.07712996482692903
+goE
+0.05340560088337838
+lifegame
+0.04725245591194724
+standalone
+0.04271138465297432
+positional arguments
+0.040339042994612787
+git clone
+0.04028760586994841
+https://github.com/h1romas4/maixduino-wasm3-testing.git
+cd maixduino-wasm3-testing
+
+maixduino-wasm3-bitblt
+
+cd maixduino-wasm3-bitblt
+mkdir build
+0.03927744846533093
+bitblt
+0.03793356963197482
+maixduino-wasm3-lifegame
+mkdir build
+0.035420632414246034
+GCC
+0.03433304008874595
+Maixduino
+0.029050938352899187
+WebAssembly
+0.028501739205222823
+version
+Wasm3 0.4.6
+AssemblyScript 0.9.1
+kendryte-standalone-sdk V0.5.6
+0.02488534290544703

@@ -1,0 +1,123 @@
+AD
+0.1150375935620005
+initial public blockchains
+0.034878314716264694
+many third-party libraries
+0.034581179289273706
+ad
+0.029580214965831568
+kind
+0.025144071049167587
+software
+0.024517172566742955
+warranty
+0.024249111363782352
+following operating systems
+0.022969504555497827
+open source software
+0.019324055618380395
+organizations
+0.018338114226171435
+foregoing
+0.017620086516384813
+BSD
+0.017325333711744034
+WAVM
+0.01716474597458761
+bugs
+0.016889980929864334
+companies
+0.016691721205938415
+Apache License
+0.016668352736894765
+WABT
+0.01590642263910272
+representation
+0.015844197774047507
+generality
+0.01574443361310814
+faulty code
+0.01521819997981821
+errors
+0.015117493726560892
+clause
+0.015010417664138973
+private keys
+0.014438190105357468
+event
+0.014166650373600109
+Biometric Hardware Secured Keys
+0.014094909166559337
+Ubuntu
+0.013962573602655265
+MacOS
+0.013811881345035824
+Support
+0.01367982463780112
+CentOS 7
+Ubuntu
+0.013453961448001223
+damage
+0.013427987655444892
+Amazon Linux
+0.013414856464384086
+businesses
+0.013342598068429775
+possibility
+0.01321430445140552
+LICENSE
+0.012866226401011593
+security
+0.01261895327176379
+Parallel Execution
+0.012594054721479954
+part
+0.012309410850579036
+WebAssembly
+0.012188041975773865
+copyright and license terms
+0.012169403621144905
+Note
+0.01216816942954588
+damages
+0.012142500094564326
+Context Free Validation Logic
+0.012130443845432102
+Low-overhead Byzantine Fault Tolerant Finality
+0.012063354005752064
+seconds
+0.012054779428769908
+Decentralized Applications
+0.01196561009514757
+public testnet
+0.011834878176323498
+Powerful Infrastructure
+0.011834640671227192
+Apple Secure Enclave
+0.01183404117304625
+own risk
+0.011720958715706987
+release
+0.011628950904074939
+groundbreaking features
+0.011519044721296648
+Sparse Header Light Client Validation
+Scheduled Recurring Transactions
+Time Delay Security
+Hierarchical Role Based Permissions
+0.01145552677105579
+large or small ways
+0.011394134159539
+Free Rate Limited Transactions
+Low Latency Block confirmation
+0.011329116129286863
+Smart contract platform
+0.01122713205326232
+AD source code repository
+0.011178577330061315
+high-performance and high-security blockchain-based applications
+0.010384615120507975
+functionality or compromise computer systems
+0.010322557429669383
+optional high-overhead, low-latency BFT finality
+0.010236423199998726

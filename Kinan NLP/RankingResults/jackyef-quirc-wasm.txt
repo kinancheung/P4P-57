@@ -1,0 +1,95 @@
+WASM module
+0.07133891475599093
+KB
+0.06599732959216081
+directory
+0.04353137050591797
+gzipped version
+0.03947454932408393
+mkdir libjpeg
+tar xvzf
+0.0332842629715854
+app
+0.031558276252597856
+library
+0.03000270877218611
+jpeglib
+0.02626686625511371
+emmake wrapper
+0.025636174971378593
+Source codes
+0.024849949755337126
+Quirc-JpegLib
+0.024832137872980834
+C
+0.024076934859295563
+quirc
+0.02301148008389728
+local server
+0.022732474182654977
+size
+0.021548750552978235
+Javascript glue code size
+0.021447046883219373
+unzip
+0.02117346334203187
+Untar
+0.02086777708051189
+process
+0.020575724285343506
+References
+
+Quirc Library - https://github.com/dlbeer/quirc
+0.01988514135548766
+#
+0.019561104582740796
+error message
+0.019492577371059715
+https://www.npmjs.com/package/quirc-wasm-emcc
+0.019473725228336694
+Emscripten
+0.019457048525387845
+emconfigure
+0.01903884378655789
+target
+0.01882641546690515
+npm package
+0.018786654397327678
+quirc-wasm-emcc
+
+Size
+0.01849485364594855
+host architecture/operating system
+0.018492510759345205
+cd wasm
+
+Install
+0.01838772610144819
+dynamic linker
+0.01805064575637299
+Independent Jpeg Group (IJG) website
+0.017441628847663013
+JPEG lib
+0.017338307891622
+configure script
+0.016937336282269257
+Jpeg Library - https://github.com/libjpeg-turbo/libjpeg-turbo
+0.01672233532066896
+https://kripken.github.io/emscripten-site/index.html
+0.016632699897024185
+index.html
+
+Quirc-Wasm Decode Local Jpeg Image File
+
+Install Emscripten
+0.016337285292571432
+Jpeg lib build environment
+0.016272904127115947
+scanner
+0.016246753903111626
+decode qr code image
+0.016106018178642375
+first step
+0.01604362853669344
+project
+0.013767662446433543

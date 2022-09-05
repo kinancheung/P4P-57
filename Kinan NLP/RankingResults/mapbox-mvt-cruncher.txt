@@ -1,0 +1,38 @@
+vtzero
+0.08990894600387737
+https://github.com/mapbox/vtzero
+0.08593411635855709
+https://github.com/mapbox/protozero
+0.07526747123728288
+https://kripken.github.io/emscripten-site/docs/getting_started/downloads.html
+0.06970572407696873
+Edit Jamroot
+0.06884594045114818
+setup
+0.06595739740456355
+source
+0.06342255495132608
+boost
+0.06141374354312444
+emscripten SDK
+0.06001508823731189
+https://github.com/mapbox/geometry.hpp)
+protozero
+0.05781840110563672
+b2
+0.057469287437596626
+Copy *.js and *.wasm files
+0.0492944973092979
+html directory
+Start web server busybox httpd
+0.04372670674373027
+drag-n-drop MVT
+0.04169139995777143
+Open http://localhost:8000/html/mvt2svg.html
+0.038767924114007785
+DEMO
+
+Web browser
+0.037194382539802104
+browser
+0.03356641852799721

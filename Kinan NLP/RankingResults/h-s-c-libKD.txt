@@ -1,0 +1,107 @@
+Android
+0.07911793859233152
+Windows
+0.07096358215317124
+Linux
+0.05601938537119202
+C
+0.033991869436485994
+Web
+0.027783083088482832
+Github Actions
+0.02618257716905729
+KD_FALSE
+0.025989966635920073
+run
+0.025720230641675834
+Web support
+Experimental OSX/iOS support
+0.02529142593949228
+CMake
+0.025188463837449025
+KD_TRUE
+0.024361142451307254
+Time functions
+0.023823208161784064
+Web.
+Specification
+
+Details
+
+Threads
+0.02377007212775782
+File system
+Network sockets
+0.023564141491579142
+Examples
+
+Binaries
+0.022803299407945687
+KD/kd.h
+0.022731823626525344
+KDboolean
+0.02255052813823506
+KDint KD_APIENTRY kdMain(KDint argc
+0.022249734184711392
+default
+0.021820397220234586
+Mingw-w64
+0.02175965994188761
+while(run)
+    {
+        const KDEvent *event
+0.021613634326340947
+String and memory functions
+0.021034109154430443
+const
+0.02077267829208093
+Input/output
+Windowing
+Assertions
+0.020615963941387573
+Intel C++
+0.020596959268173287
+kdDefaultEvent(event
+0.01987070248609541
+EGL implementation
+0.01979706110742053
+case(KD_EVENT_QUIT
+0.019537749180346876
+exit
+Memory allocation
+Mathematical functions
+0.019526106606944864
+Compilers
+
+Visual C++
+0.019466348904006867
+synchronization
+Events
+Application startup
+0.01946214696249465
+return
+0.01921592031338615
+GCC
+0.016966694291126985
+https://packagecloud.io/install/repositories/h-s-c/libKD/script.deb.sh
+0.016544616389788557
+apt-get install libkd
+
+Fedora
+
+curl -s https://packagecloud.io/install/repositories/h-s-c/libKD/script.rpm.sh
+0.016210961725408056
+Ninja
+0.01537546594971937
+clean, simple and maintainable manner
+0.01509760575521715
+ninja
+0.014614391940080188
+bash
+dnf install libkd
+0.01370155628299238
+License
+0.012828189986496957
+Zlib License
+Git Flow
+0.011468607518835956

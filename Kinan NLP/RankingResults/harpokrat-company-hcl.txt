@@ -1,0 +1,4 @@
+HCL Core
+
+Technical documentation
+1.0

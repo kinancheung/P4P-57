@@ -1,0 +1,88 @@
+functions
+0.051772952548869954
+tests
+0.05071183671418678
+project
+0.04606847199247644
+WASM3 source
+0.045439003410482535
+API
+0.04444863964831232
+access exported memory
+0.03164833071558937
+Java Native Interface
+0.029384875925510725
+wasmModuleByteArray
+0.029329480229796066
+Resources
+0.029140463751609086
+WASM modules
+0.028037599038053047
+local machine
+0.028015848000146663
+Higher order type conversions
+0.02744501973381675
+repository
+0.027210726988128996
+use
+0.0265282771514677
+New Project
+0.026201538928669874
+Existing Sources
+0.026159034678607695
+Open Android Studio
+0.02564357855902593
+JNI
+0.025499475963226978
+Strings
+0.02546467328037984
+JVM and Android
+Bind imported memory
+0.02542584737613848
+library module
+
+Roadmap
+
+Bind host functions
+0.025207762257961716
+Optional
+0.025168371094866533
+correct folder
+0.025117545225294288
+./scripts
+0.024442427111164833
+KWasm3 directory
+0.022981334857492222
+WASM3
+Expose Wasm3 Memory
+0.02296065231143552
+setup script
+0.022693985071379385
+fastest WebAssembly Interpreter
+KWasm - Inspiration
+0.022039749250107765
+Exported functions API return
+0.021950366186876007
+Rust (wasm32-unknown-unknown target
+0.020659134536202908
+Android SDK Manager
+0.019558152746964676
+.withHostFunction<Int, Int>("env
+0.018036843208295794
+result = KWasm3.builder
+0.017242228130883375
+myImportedFunction
+0.01633590498541817
+Kotlin/Android
+0.016102969121159678
+Development
+
+Requirements
+
+Android Studio
+Android NDK
+0.015908432372521496
+KWasm3
+
+A JNI Wasm3 wrapper
+0.014018466897480649

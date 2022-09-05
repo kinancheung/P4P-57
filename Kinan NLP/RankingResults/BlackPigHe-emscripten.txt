@@ -1,0 +1,65 @@
+emconfigure
+0.0797599309137545
+CFLAGS="-O3" --disable-extra-programs --disable-rtcd
+
+
+makesoa
+
+  emmake
+0.07912648188547255
+emscriptendocker
+0.0717553820298334
+opusgithub
+
+docker cpdocker
+0.07044918931778289
+EXPORTED_RUNTIME_METHODS=[FS_createFolder,FS_createPath,FS_createDataFile,FS_createPreloadedFile,FS_createLazyFile,FS_createLink,FS_createDevice,FS_unlink,ccall,cwrap,setValue,getValue,ALLOC_NORMAL,ALLOC_STACK,ALLOC_DYNAMIC,ALLOC_NONE,allocate,getMemory,AsciiToString,stringToAscii,UTF8ArrayToString,UTF8ToString,stringToUTF8Array,stringToUTF8,lengthBytesUTF8,stackTrace,addOnPreRun,addOnInit,addOnPreMain,addOnExit,addOnPostRun,intArrayFromString,intArrayToString,writeStringToMemory,writeArrayToMemory,writeAsciiToMemory,addRunDependency,removeRunDependency
+0.06524650392271673
+emscripten 
+docker exec
+0.06328423507918601
+EXPORTED_FUNCTIONS=
+0.06045927841726514
+EXPORTED_RUNTIME_METHODS="[_opus_decode,_opus_decoder_create,_opus_decoder_destroy
+0.05977845607702903
+EXPORTED_FUNCTIONS="[_opus_decode,_opus_decoder_create,_opus_decoder_destroy
+0.05940320764409542
+pull 
+
+
+
+
+docker run
+0.05852690327642378
+\
+                            -s EXPORTED_RUNTIME_METHODS="[cwrap,getValue,setValue
+0.05847283455173262
+emcclibopus.ajs
+
+  emcc .libs
+0.05713054607605241
+file src
+0.056765222832343636
+https://github.com/emscripten-core/emscripten/blob/master/src/settings.js
+0.05238750424977497
+Content-Typeapplication/wasm
+Module
+
+
+
+js html
+0.040391415736054655
+wasmweb
+IDEAspringboot
+web
+
+
+
+demoinputData pcm
+javacjs
+0.03464705305587371
+daemon.json
+
+{
+ "registry-mirrors
+0.03241585493460874

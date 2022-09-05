@@ -1,0 +1,8 @@
+Java code
+0.40790706961253304
+WebAssembly
+0.37857741239751996
+java-wasm
+
+JavaScript library
+0.21351551798994683

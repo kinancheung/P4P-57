@@ -1,0 +1,23 @@
+WebAssembly interpreter
+0.12922588914651217
+running process
+0.10970808737821791
+state
+0.10047093050599813
+semantics - WebAssembly
+0.09747494972664056
+Directory organization
+0.09656650555891558
+point
+0.08755564371324333
+code
+0.08695615956260982
+process - data structures
+0.0848491578679338
+implementation - implementation-specific behavior
+module - data structures
+0.08196906552116257
+shell - top-level shell program
+0.06841340900413945
+early experimental prototype
+0.05681020201462655

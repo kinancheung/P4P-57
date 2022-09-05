@@ -1,0 +1,16 @@
+Android
+0.2442402283194288
+Windows
+0.1712509359971965
+Flutter
+0.15837308975018108
+international communication services
+0.1281733771677701
+app
+0.11888570947281485
+Google Play
+0.10451503895428856
+Private Channel
+
+A modern VPN client
+0.0745616203383205

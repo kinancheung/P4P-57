@@ -1,0 +1,10 @@
+basic functions
+0.25033040892965314
+upgrades
+0.24692295791858
+testing
+0.21449403997244804
+governance controlled canisters
+0.2064718097856868
+Compound-style Governance Framework
+0.0817807833936322

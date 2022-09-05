@@ -1,0 +1,101 @@
+Ctrl+C
+0.030896771206487074
+Ctrl+V
+0.030820699406719786
+ctan
+0.03022703644078455
+int16
+0.029110904786644413
+int32
+0.0290815695675249
+tan
+0.028776747011691375
+apt-get install gcc
+0.0285530663969738
+sin
+0.028380940275870306
+zeros
+0.027764857688824467
+formulas
+0.026846971683225664
+fix clipboard
+0.02674654389271253
+NaN
+0.026498710417688524
+web target
+0.0263696460204882
+\n` characters
+0.02627084384207629
+INF warning
+0.02623255590137974
+guards
+0.026100142424453108
+sawtooth, triangle, white noise, gauss, hamming, hann, bartlett, flat top, sigmoid
+
+
+available output array formats
+0.025648073663461186
+generated headers
+
+Building
+
+Portable version
+0.02494568179042879
+int8
+0.02451342371659754
+float (double)
+unsigned: uint8, uint16, uint32
+
+
+configurable amplitude and y-axis offset
+selectable int range behaviour
+0.02441472040262315
+editing
+0.024191264863984135
+waveform formula
+0.0241044943681424
+broken comments
+0.02400627078763872
+buildLut() function
+0.023873148335155248
+type casting
+0.022738520924939453
+arrays
+0.022320110335623776
+available waveform presets
+0.022142062129761903
+todo
+0.02197075355234423
+Online version
+0.02194313536510842
+array size computation
+0.021728470626263766
+hexadecimal
+0.021329778843301624
+bytes/kbytes/megabytes
+0.020085164479309095
+waveforms
+0.019738264037825488
+./emsdk install
+0.019060250057360235
+BeginPlot
+0.018532627657696865
+Tool installation
+0.018353494261089977
+selectable array output format
+0.01825397763514066
+C/C++
+0.017122834846908325
+libglfw3-dev libgles2-mesa-dev
+0.016851496708519268
+cd emsdk
+0.01440335232507267
+https://github.com/ocornut/imgui.git
+git clone
+0.013832129128421106
+release deployment
+0.012740650807089603
+Dr LUT - Lookup Table Generator 
+
+Online tool
+0.01247784138664761

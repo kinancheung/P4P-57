@@ -1,0 +1,10 @@
+algorithm
+0.37912518804946793
+minimax
+0.3578164494245777
+C++
+0.19187530123144264
+wasm-tic-tac-toe-ai
+
+A Tic-Tac-Toe AI player
+0.07118306129451166

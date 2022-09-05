@@ -1,0 +1,18 @@
+https://itch.io/jam/wasm4
+0.21097404680012952
+Playable game
+0.2012377635579288
+Game Jam
+0.1943928096326953
+https://chemecse.itch.io/w4-sokoban
+
+sokoban-screenshot-1
+
+sokoban-screenshot-2
+0.16483757595142104
+WASM-4 fantasy console
+0.13689882055704028
+w4 sokoban
+
+A sokoban game
+0.09165898350078461

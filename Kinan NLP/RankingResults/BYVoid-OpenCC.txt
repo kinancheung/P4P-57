@@ -1,0 +1,259 @@
+Traditional Chinese
+0.0820327202581069
+OpenCC
+0.04918974635039927
+Taiwan
+0.04561209048362585
+Hong Kong
+0.036862018927167124
+opencc
+0.03249358345787816
+Traditional Chinese 
+t2s.json Traditional Chinese
+0.02281025314440999
+Taiwan Standard OpenCC 
+hk2t.json Traditional Chinese
+0.021918481179075813
+const converter = new OpenCC(s2t.json
+0.020723213280582024
+iOSOpenCC
+0.020691410606978076
+Japanese Kanji
+0.020522410450040763
+Mac
+0.016469876567286313
+CMake
+
+Linux
+0.015996030100635897
+=
+0.015850798804916667
+Shinjitai
+0.01518193970884425
+#
+0.013922768807961838
+opencc.h"
+
+int main
+0.013700115821680658
+character-level and phrase-level conversion
+0.01351028149866519
+pod
+0.01247070972111834
+SwiftyOpenCC
+0.012169619682727324
+
+0.011550070211896402
+const char
+0.011509140713990928
+NEWS
+
+Links
+0.011476183740253046
+History
+0.011381975145415349
+Mandarin
+0.011004567561973608
+Introduction
+0.010900298617750975
+Cantonese
+0.01067683319857268
+iOS
+0.010656444176686156
+WebAssembly
+0.010455640949269282
+string
+0.010367458148953998
+Discussion
+0.010247218942350277
+wasm-opencc
+Browser Extension
+0.01018148808719925
+opencc4j
+Android
+0.010056891528960757
+Mainland China
+0.010006325960387776
+https://github.com/BYVoid/OpenCC/wiki/%E7%B7%A3%E7%94%B1
+ http://ytenx.org/byohlyuk/KienxPyan
+
+Contributors 
+
+BYVoid
+
+Peng Huang
+LI
+0.009945858040057966
+Go
+
+Configurations 
+
+
+
+s2t.json
+0.00987592294491375
+Telegram
+0.009868492413288054
+Taiwanese idiom
+0.009829981658582952
+translation tool
+0.009815498546001191
+regional idioms
+0.0094670453254665
+t2tw.json
+0.009303393434807006
+default
+0.009261427856871503
+conversions
+0.009165399055539574
+opencc4php
+Pure JavaScript
+0.009115735085155115
+Test
+0.008987950164943997
+Convert
+0.008940337224139634
+async function main
+0.008818800571926369
+require(opencc
+0.008541548119992075
+X
+0.008526435377386583
+Kyjitai
+0.00841101165929192
+opensource project
+0.008050237657453623
+Download
+0.007984612293216346
+Online demo
+0.0077815893619856595
+calls
+0.007763999621109725
+libraries
+0.007760536971155402
+opencc_dict --help
+opencc_phrase_extract --help
+
+Others
+0.00773528624294471
+Node.js
+
+npm npm
+0.007727234518452706
+ts-demo.ts
+0.00766455652705062
+Python
+
+PyPI pip
+0.007661323250191895
+return
+0.007615183737618247
+Command Line
+
+opencc
+0.007545498837100693
+const SimpleConverter converter("s2t.json
+0.007537495841950809
+test
+
+Windows Visual Studio
+0.007399265752696158
+API
+0.007268299855984488
+converter.convert
+0.006960940601645775
+return 0;
+}
+
+
+Document
+0.006934130214356158
+strlen(input
+0.006862235779882554
+benchmark
+
+Example results
+0.006682271879407432
+darts-clone BSD License
+marisa-trie BSD License
+tclap MIT License
+0.006681861329057381
+opencc
+converter = opencc
+0.006652208914185948
+Third Party Library
+0.00650587968534076
+Github CI
+0.006444606079497963
+rapidjson
+0.006148069333384303
+CPU
+0.005501620810963822
+Kefu Chai
+Kan-Ru Chen
+Ma Xiaojun
+Jiang Jiang
+Ruey-Cheng Chen
+Paul Meng
+Lawrence Lau
+
+
+Marguerite Su
+Brian White
+Qijiang Fan
+LEOYoon-Tsaw
+Steven Yao
+Pellaeon Lin
+stony
+steelywing
+
+Weng Xuetian
+Ma Tao
+Heinz Wiesinger
+J.W
+Amo Wu
+Mark Tsai
+Zhe Wang
+0.005227987639214319
+ms
+0.005120942052698861
+hk2
+0.005084545898144107
+BM_Convert/100
+0.005083887763998997
+jp2
+0.005032556083402679
+s2hk
+0.004661328218723771
+Open Chinese Convert 
+
+Travis
+AppVeyor
+C/C++ CI
+Node.js CI
+Python CI
+
+Introduction 
+
+OpenCC
+
+Open Chinese Convert
+0.0044061669506283135
+OpenCC  OpenCC 
+
+ibus-pinyin
+fcitx
+rimeime
+libgooglepinyin
+ibus-libpinyin
+alfred-chinese-converter
+GoldenDict
+
+License 
+
+Apache License
+0.004383064894140886
+t2jp
+0.0038783527526743467
+list
+0.0037787793356154247

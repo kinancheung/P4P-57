@@ -1,0 +1,77 @@
+\
+0.17110513768590793
+cd
+0.05414669162365311
+coscc program
+0.03960148261196721
+contentos contracts wasm and abi file
+0.03615089952489668
+-get install
+0.03611953592059271
+https://dl.bintray.com/boostorg/release/1.67.0/source/boost_1_67_0.tar.bz2 && \
+  tar
+0.034911430286970094
+https://github.com/llvm-mirror/llvm.git && \
+    cd llvm
+0.03318819221425277
+wasm-compiler
+0.033125180886563285
+https://github.com/llvm-mirror/clang.git
+0.032741310553884295
+release_40
+0.032340176977418936
+instruction
+0.02857242488765802
+-j12
+0.026768538937221854
+mkdir build
+0.025378339062985148
+git submodule update
+0.0242587168798186
+wabt
+0.02357948983576276
+abi
+0.02200212318587366
+--single-branch
+0.02147119070408437
+/wabt-1.0.10
+0.021215132313839726
+-j2
+0.020842802585598827
+master https://github.com/coschain/wasm-compiler.git
+0.020707937955148966
+-DCMAKE_INSTALL_PREFIX=/root/opt/wasm
+0.020657265647932875
+ubuntu
+0.020154445045262908
+tool
+0.02013523055061013
+Unix Makefiles
+0.02002705168996776
+xxx.wasm xxx.cpp
+cosiocc
+0.019732072344973164
+wabt-1.0.10-linux.tar.gz
+0.017594604323911266
+-DLLVM_EXPERIMENTAL_TARGETS_TO_BUILD=WebAssembly -DCMAKE_BUILD_TYPE=Release
+0.017556191081539132
+mkdir build && \
+    cd build && \
+    cmake
+0.01750935197315045
+project
+0.017222330368133105
+xxx.abi xxx.cpp
+0.016099523999375275
+basic software
+
+  apt-get update
+0.015952793745474616
+libclang-4.0-dev \
+0.0158625445228987
+Linux-x86_64.tar.gz
+0.015403964701016157
+&
+0.014821355384341286
+bin/
+0.01304453998731411

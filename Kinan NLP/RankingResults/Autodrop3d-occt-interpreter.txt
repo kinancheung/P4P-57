@@ -1,0 +1,24 @@
+docker
+0.12449438836647617
+JSketcher project
+0.11970059307453637
+OpenCASCADE
+0.09451849784480616
+wasm-builder_1.0
+0.09271271644560455
+version
+0.08998398787327493
+pwd)/build
+0.08096102563435281
+wasm:/build
+0.07762304146992378
+docker build -t xibyte/occt
+0.07508251064441897
+NPM package
+0.06400683287815484
+https://github.com/xibyte/jsketcher
+0.06283441995042287
+build environment
+0.0610566195061409
+wrapper and javascript API extensions
+0.05702536631188712

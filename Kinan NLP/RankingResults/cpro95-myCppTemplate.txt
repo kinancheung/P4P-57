@@ -1,0 +1,31 @@
+library order
+0.15701549621887628
+SQLiteCpp
+0.12548061382833306
+wasm
+0.09734494932715153
+CMakeLists.txt
+0.0943857229135398
+Important Notes
+0.08744194050814488
+target_link_libraries
+0.08004893057538905
+emmake
+0.07987456385330004
+CMakeLists order
+0.07592690298348517
+cd build2
+    emcmake cmake
+0.07127984041525062
+target_link_libraries(${This}
+    mySqlite3
+    SQLiteCpp
+    sqlite3
+)
+
+License
+
+MIT License
+0.06577937674468413
+mkdir build2
+0.06542166263184553

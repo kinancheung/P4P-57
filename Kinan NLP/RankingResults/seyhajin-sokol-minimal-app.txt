@@ -1,0 +1,56 @@
+sokol application
+0.07829245769135358
+Make
+0.0732315188975507
+local repository
+0.05544112503387512
+x64
+0.05259220296128542
+Windows
+0.04931920174015914
+WASM
+0.047937838648282285
+entry
+0.046592356200508174
+samples
+0.044948602910392585
+window
+0.04417602168019743
+build-mingw-gcc.cmd
+0.04174779048566587
+Prerequisites
+
+Git client
+C/C++ compiler
+0.03824206072864642
+script
+0.0375325218620655
+sokol_app.h app framework wrapper
+0.03751493770095114
+Description
+sokol_gfx.h 3D-API wrapper
+0.03709478747444663
+C
+0.036546557815111944
+repository
+
+Launch git
+0.03564714994537617
+minimalistic header-only cross-platform libs
+0.035066059094002594
+https://github.com/seyhajin/sokol-boilerplate-app.git
+0.03496940153531454
+MinGW-GCC
+0.03493587262997241
+GL + Metal + D3D11
+0.03451840434727175
+web and native apps
+
+More informations
+0.02916127781636319
+unified cmdline/URL arg parser
+0.028659601431936445
+app
+0.023598424458251978
+Launch
+0.022233826911018974

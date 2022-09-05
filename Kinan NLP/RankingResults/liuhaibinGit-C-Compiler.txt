@@ -1,0 +1,8 @@
+linuxCMake3.4.3
+
+./setup.sh
+
+c
+
+./compile.sh test.c test
+1.0

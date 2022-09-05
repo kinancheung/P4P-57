@@ -1,0 +1,163 @@
+github folder
+0.0484864038948549
+Website
+0.04104620504727435
+one
+0.03482291462405776
+files
+0.03056361455297824
+Click
+0.026512706114110125
+devices menu
+0.02551593186562108
+model
+0.02322119617397334
+mobile phone
+0.02149556472965565
+Impulse
+0.021016289079753368
+GitHub https://github.com/GavidD/David
+website
+0.017627572636479554
+features
+0.017496339859519476
+July 7th
+0.01706703975184154
+>
+0.016715468632914652
+repository Github
+0.016253045636297946
+transfer Learning
+0.01595288080924599
+edit
+0.015523180783400014
+labels
+0.015445801372348175
+https://github.com/DiamondAaronXG/summer-2021-ml-gearbots-aaron
+0.015307789745696073
+ml
+0.015154616571800601
+yes-no
+0.015071489996919867
+%
+0.014870973922516928
+index.html
+0.014693523202328525
+Generate
+0.01457369489702046
+access
+0.014497673895068931
+impulse design
+0.014315449161449714
+new device
+0.014212162072815072
+camera"
+Change label
+0.014086571658789935
+machine
+0.01403187745419993
+copied edgeimpulse WA "WASM" edge-impulse-standalone.js
+0.013998961999555614
+lines
+0.01391852425202471
+v0.0.1
+0.013877629563087806
+Repo
+0.013671792004989507
+Engineering design group
+0.013657424555172168
+copied https://github.com/hpssjellis/my-examples-of-edge-impulse/blob/main/public/downloads/index.html
+0.013612160757821132
+Data Aquisiton
+0.013559673483978085
+webpage
+
+deployment --> WA
+0.013529930974911593
+yellow star processing
+0.01346100309964245
+name-0unknown-1item-2item
+0.013280480291081889
+Collect Images
+0.013048435033179281
+label
+0.012762487391553326
+unzip
+0.01271775999167568
+Start
+0.012626927259171994
+webAssembly
+0.012560965401176568
+percents
+0.012214407794385231
+https://mik-97.github.io/summer-2021-ml-mikolas/public/index.html
+0.011851536786548579
+Label"
+Collect +30 images
+0.011414831425331303
+repo
+0.011337295647243157
+https://shaunoh.github.io/gearrbot-robotics-me/public/index.html
+0.0112151366564498
+https://raw.githubusercontent.com/hpssjellis/my-examples-of-edge-impulse/main/public/downloads/index.html
+0.011112958450372488
+https://poderman.github.io/Rc-car/public/
+0.010778370342211985
+webpages "gitpages
+0.010770343720153553
+July 5th 9am-noon
+Set everybodies github
+0.010768562305730854
+Price List
+0.010684102422545977
+https://gavidd.github.io/David/public/
+0.01061474346003848
+classes
+0.010589852061334858
+RC car ML
+0.010553180570774525
+https://midnight4577.github.io/public/index.html
+0.010484554213256938
+classification mode
+0.010185292017096916
+Romeo
+0.0099069774372432
+Spring 2021
+
+Shaun
+
+Repo  https://github.com/shaunoh/gearrbot-robotics-me
+Website https://shaunoh.github.io/gearrbot-robotics-me/public/index.html
+
+
+
+MIA Students
+
+Morgan
+
+Website https://Morganv2.github.io/Machine-Learning-Gear-Bots-Jeremy/public/index.html
+
+Darren
+
+Myt Github
+0.009702556975109774
+Sumer
+0.009647800685023099
+EdgeImpulse.com
+Click Profile Picture
+0.009218711941658405
+old posenet
+0.00867444334162679
+https://darrenkwon.github.io/Gearbots-Engineering-2020-/public/
+
+Ethan
+
+Github https://github.com/ethan-will/machine-learning-gearbots-eth
+Website https://ethan-will.github.io/machine-learning-gearbots-eth/public/
+
+Old Photon motor connections
+0.008628786212410824
+Machine-Learning-Gearbots-Jeremy
+0.007626756873830059
+image
+0.006156664457669271

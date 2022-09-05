@@ -1,0 +1,73 @@
+static lib
+
+Download zbar source code
+0.12702976257407547
+opencv static library
+0.06452556658106988
+\
+0.05389120332145635
+DEFS="-DZNO_MESSAGES
+0.049867456299559666
+CFLAGS=-Os
+0.04511139717396646
+Build ZBar
+0.04417289435361717
+Generate
+0.04400883107620891
+setup
+
+
+
+Build boost
+0.04393390282030598
+em
+0.041178162475065706
+--without-xshm
+0.0411444591607245
+EMSDK
+
+Refer scripts
+0.04040511923566692
+files
+0.03928949935896945
+ZBAR_SOURCE}/zbar/.libs
+0.039007586992639814
+build-opencv-lib.sh
+0.03620032003492473
+python3
+0.03266863312098818
+\
+    link=static \
+    variant=release \
+    threading=single \
+    runtime-link=static \
+    wave %
+0.028605270080645076
+xv
+0.028522260369156432
+Platform/Emscripten.cmake
+0.027823080134435817
+\
+    --cmake_option="-DCMAKE_CROSSCOMPILING_EMULATOR=/Volumes/data/proj_shell/emsdk/node/14.15.5_64bit/bin/node"
+
+Setup EMSDK submodules
+
+npm
+0.027771354548733872
+build_js \
+    --build_wasm \
+    --cmake_option="-DCMAKE_TOOLCHAIN_FILE=/Volumes/data/proj_shell/emsdk/upstream/emscripten/cmake/Modules
+0.027636736166569646
+libiconv
+0.027084078177872697
+emar q libboost_wave.a \
+    bin.v2/libs/wave/build/emscripten-2.0.23/release/link-static/visibility-hidden/*.bc
+0.026149042211526214
+Zbar
+0.02302041833562469
+module name
+
+archive lib bc file(s
+0.02117525708791376
+project
+0.01977770830828243

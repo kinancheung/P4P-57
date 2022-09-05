@@ -1,0 +1,86 @@
+# Install CDT
+0.05412745558115052
+time
+0.0476375086528711
+Ubuntu
+0.04541763689570854
+tests
+0.044356290210543624
+development
+0.04189098127299992
+dev
+0.041556156606114926
+CMake options
+0.040683822267361204
+apt-get update
+0.03592661826496697
+\
+        curl
+0.03360614726219121
+cd
+0.03260950704129908
+mkdir
+0.03213401176598526
+personnel
+0.031483196569207665
+cmake -DCMAKE_BUILD_TYPE=Release
+0.029293949161650963
+https://github.com/EOSIO/eosio.cdt/releases/download/v1.7.0/eosio.cdt_1.7.0-1-ubuntu-18.04_amd64.deb
+dpkg
+0.02916288657014565
+curl
+0.029130184698608296
+future releases
+0.027904407475813003
+contracts
+0.027493169950777826
+additional operating systems
+0.026610834440485415
+Dockerfiles
+0.025965808656375718
+support
+0.025808957312034496
+following build approach
+0.025064691939214574
+Build scripts
+0.024848566431528506
+ctest
+0.0242004091997123
+ON
+0.022717496422496
+sources
+0.021965652875602263
+Mandel
+export PATH=~/work/mandel/build/bin:$PATH
+
+# cd
+0.02111974754009717
+nproc
+0.020103074164590187
+Debug
+0.01883187187236198
+-DSYSTEM_CONFIGURABLE_WASM_LIMITS=OFF       Disables use
+0.018678836653009206
+CONFIGURABLE_WASM_LIMITS
+                                            protocol feature
+-DSYSTEM_BLOCKCHAIN_PARAMETERS=OFF          Disables use
+0.01780304300054223
+\
+        pkg-config                  \
+        time
+0.01736109538590911
+cd ~/work
+git clone
+0.016920735170542427
+dev            \
+        libzstd-dev                 \
+        llvm-11-dev                 \
+        npm                         \
+        ninja-build
+0.01659251655043775
+v3.0.0-rc1
+0.016147747499838796
+Repo organization
+
+branch description
+0.014844984637825933

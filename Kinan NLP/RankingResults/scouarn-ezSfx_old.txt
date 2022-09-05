@@ -1,0 +1,44 @@
+block
+0.12908637264678854
+block)
+instruments
+0.11571856982802652
+stream
+0.11330732950129135
+pcm array
+0.09654399804070392
+windows
+0.08353066961829415
+note demo
+oscilloscope emulator demo
+score / midi editor / midi note sequencer
+
+Misc
+
+audio
+0.08016570402046784
+midi
+0.07710123341587995
+fly file reading
+0.07621299050436195
+mp3
+0.06821439065770152
+TODO
+
+Important
+
+portable device name
+0.06118137171802836
+Platforms
+
+no alsa
+wasm support
+
+New extensions
+
+audio steam
+0.05158320345916159
+ezSfx
+
+Cross-platform sound engine
+0.047354166589294366

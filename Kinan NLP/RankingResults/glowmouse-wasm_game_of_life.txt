@@ -1,0 +1,9 @@
+Life
+0.4296182651003172
+https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
+My Version: https://glowmouse.github.io/wasm_game_of_life/
+The board
+0.3853085634883168
+Glider Guns
+Cells
+0.1850731714113657

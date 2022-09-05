@@ -1,0 +1,14 @@
+wasm-bindgen-cli
+0.20772806027550647
+target
+0.20143526619493596
+WEB
+
+Add web assembly target
+0.18916281585068684
+cargo install
+0.17555988111757506
+Star shooter
+0.14544611632584636
+--target web ./target/wasm32-unknown-unknown/release
+0.0806678602354489

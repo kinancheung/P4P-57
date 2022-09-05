@@ -1,0 +1,225 @@
+necessary files
+0.04762911254061528
+build process
+0.031707752691151274
+cryptography library
+0.027644102519520857
+cmake
+0.02562531344480755
+binaries
+0.024779106676979933
+master --single-branch https://github.com/turtlecoin/turtlecoin-crypto
+cd turtlecoin-crypto
+0.02408541197134766
+TurtleCoin
+0.022440726178645197
+clang++-6.0
+git clone
+0.021610407113809682
+build
+cd
+0.020185804079757633
+Copyright
+0.019555413399710668
+TurtleCoinCrypto = require(turtlecoin-crypto
+0.0193868274483132
+c
+0.01881665136448259
+Native Javascript
+0.01877747414164439
+npm install
+0.017613198385025813
+Visual Studio
+0.017094741407192363
+add-apt-repository ppa:ubuntu-toolchain-r/test
+0.01593511945733294
+faster performance
+0.014187731921836401
+Forknote Project
+0.013946150219304471
+CMake arguments
+0.013752815545200438
+default
+0.013438634951595195
+command
+0.012745406691145886
+Bytecoin Developers
+0.012680203305917079
+development environments
+0.012608624357787444
+dependencies
+0.012155381684509475
+Prerequisites
+0.01134132760056469
+CryptoNote developers
+0.011267223208019164
+while
+0.011196871045734713
+Linux
+
+Ubuntu
+0.01076786073610471
+Clang
+
+Prerequisites
+
+Install XCode
+0.010390357131032662
+CC
+0.00971099720141888
+llvm
+export CC=/usr
+0.009420399007340843
+CXX
+0.009018304515859476
+environment
+0.008752705348313303
+TurtleCoin Community
+
+Copypasta
+0.008342235638886395
+license
+0.00827835066710469
+noticable difference
+0.008133933526024715
+method
+0.008098632000572686
+example
+0.008031990990100135
+variety
+0.008028491961487704
+apt-get update
+sudo apt-get install aptitude -y
+sudo aptitude install
+0.0079246712301166
+ubuntu
+0.007875033184622873
+Administrator
+0.007785256934858108
+script
+0.007728754222920502
+MSBuild turtlecoin-crypto.sln /p
+0.0075978890020713796
+better experience
+0.0075003292052428505
+software
+0.007482913835005975
+machine
+0.007482717015330724
+optimized native builds
+0.007438889272354848
+Pull Requests
+0.0073752459489341785
+windows-build-tools
+0.007365438375354793
+Extensive docs
+0.00736385652611374
+errors
+0.007328614207396465
+step
+0.007324642113920808
+Windows Powershell console
+0.007283659605828783
+Configuration=Release
+0.007277319917237854
+Update
+0.007228672072854218
+following packages
+0.007218858395628382
+bash
+0.007203710865825875
+open x64 Native Tools Command Prompt
+0.007187183976175274
+Native Javascriptturtlecoin-crypto.js
+
+
+WASMturtlecoin-crypto-wasm.js
+
+Thanks
+
+Cryptonote Developers
+0.007136361935364335
+jsbuild folder
+0.007126227285035203
+particular system type
+0.007103519297890442
+start menu
+0.007091418921311663
+WASM
+
+Node.js Module
+
+Dependencies
+0.007078129914796042
+systems
+0.007056650701162886
+set PATH="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin";%PATH%
+cmake
+0.007023010776454163
+P/Invoke
+0.006999877127852763
+reason
+0.006915095458643486
+Win64
+0.0068669863255566305
+Node v11
+0.006862121052548978
+various other projects
+0.006858852669992756
++6.x LTS
+0.006776186018699892
+clang
+0.006657003172088229
+vs2017
+0.0066544938312066565
+your_turtlecoin
+0.0066477922625523996
+repository
+0.006621026934714211
+libraries
+0.0065990385327569945
+works
+0.006463022429100225
+Node.js >= 6.x
+C++
+C#
+0.006452586260863761
+first time
+0.006445758668177471
+https://raw.githubusercontent.com/Homebrew/install/master/install
+0.006364994622459317
+libturtlecoin-crypto-static.a
+
+OSX/Apple
+0.0062354874484853474
+particuar system
+0.006220577145512529
+bit
+0.006167534382971424
+Developer Tools
+0.006007574715161902
+|| /usr/bin/ruby -e "$(curl
+0.005866801084310095
+Build Optimization
+
+The CMake build system
+0.005721764377882228
+included LICENSE file
+0.0056030000410447495
+version
+0.0054287274588362255
+Build Status Build status
+0.005318476779002041
+more information
+0.005287765918728298
+build-essential git cmake
+git clone
+0.005162058607793967
+Xenial
+0.005087989737447502
+Aptitude::ProblemResolver::SolutionCost=100*canceled-actions,200*removals
+0.00494788072525368
+wget
+0.00491698528311755
+image
+0.0040717741112317575

@@ -1,0 +1,6 @@
+Envari
+
+Lightweight handmade CPP multiplatform engine
+0.5
+Desktop/Android
+0.5

@@ -1,0 +1,2 @@
+light-server
+1.0

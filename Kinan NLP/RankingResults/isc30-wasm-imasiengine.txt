@@ -1,0 +1,3 @@
+https://github.com/isc30/wasm-imasiengine.git
+git submodule update
+1.0

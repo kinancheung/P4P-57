@@ -1,0 +1,34 @@
+open source C++ game engine
+0.11972116816729744
+multiplatform
+0.11315461277151107
+Python
+0.10828684423465419
+Vulkan
+0.09335074454767632
+DirectX
+0.09190572768997776
+time
+0.0768506380898922
+engine develope
+0.07359291751800826
+Open GL
+0.07268598136612812
+scripting language
+0.07197683459217408
+ToDo
+
+Renderer
+Physics
+Shader managment system
+Asset Importer
+File Explorer
+Animation managment system
+Sounds managment system
+Interpretter system
+0.06765074226934414
+BunnyEngine
+0.05852360308444679
+backend
+Build system
+0.05230018566888944

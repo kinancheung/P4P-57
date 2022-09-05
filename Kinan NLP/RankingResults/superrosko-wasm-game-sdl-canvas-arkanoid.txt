@@ -1,0 +1,38 @@
+WASM
+0.09121534575571683
+canvas animation
+0.09026409480388259
+MIT License
+0.08131723620113512
+C
+0.0797058869719515
+https://pages.rdevelab.ru/wasm-game-sdl-canvas-arkanoid/index.html
+0.07904269665030333
+Demo
+0.07840824310457423
+Emscripten
+0.07081052429797563
+arkanoid example
+0.06932092568862315
+License File
+0.06468967013619076
+latest version
+0.06109275088606161
+more information
+0.056785494075501604
+npm
+0.055962750944294905
+Introduction
+
+A simple implementation
+0.04767392209956237
+Credits
+
+Dmitriy Bespalov
+0.04692937965101132
+wasm-game-sdl-canvas-arkanoid
+
+Packagist Version
+Packagist
+GitHub code size
+0.026781078733215447

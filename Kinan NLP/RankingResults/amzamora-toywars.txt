@@ -1,0 +1,20 @@
+raylib
+0.24025070374849344
+compiles
+0.15750758612646876
+Dependencies
+
+Toywars
+0.13700851929510655
+toywars
+0.0965205122917194
+simple tactics game
+0.0937931945587264
+Ubuntu
+0.09115957625745888
+apt install libasound2-dev mesa-common-dev libx11-dev libxrandr-dev libxi-dev xorg-dev libgl1-mesa-dev libglu1-mesa-dev
+0.06974536302782389
+distro
+0.05904872474966629
+linux machine
+0.05496581994453651

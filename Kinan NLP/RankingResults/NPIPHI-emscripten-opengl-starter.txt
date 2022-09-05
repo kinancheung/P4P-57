@@ -1,0 +1,23 @@
+main.html
+0.19783487271905284
+error message
+0.12236573533288642
+local server
+0.12208723527316598
+cross origin requests
+0.11702357450068174
+favorite browser
+0.1116958524807716
+one
+0.1049428165189005
+npm install http-server -g
+http-server
+0.09570579293327505
+emmake
+0.08054847635032253
+emscripten run
+
+mkdir build-wasm
+cd build-wasm
+emcmake cmake
+0.04779564389094306

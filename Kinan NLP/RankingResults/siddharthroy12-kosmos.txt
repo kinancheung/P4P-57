@@ -1,0 +1,38 @@
+--build
+0.13095765829313846
+college project
+0.11488121456895573
+C99
+0.101902499124767
+Gameplay
+
+Building
+
+Linux
+
+Install
+0.09868739402840315
+./kosmos
+
+Cross Compiling
+0.08868494191251444
+libraries
+0.08550932736653295
+apt install libasound2-dev mesa-common-dev libx11-dev libxrandr-dev libxi-dev xorg-dev libgl1-mesa-dev libglu1-mesa-dev
+0.0756643097163878
+C compiler
+0.06646777466725295
+kosmos.exe
+
+Window
+
+Install cmake
+0.06314644906480453
+mkdir
+0.05959569473390314
+MinGW
+0.05742673352937755
+Kosmos
+
+A bullet-hell shooter game
+0.05707600299396244

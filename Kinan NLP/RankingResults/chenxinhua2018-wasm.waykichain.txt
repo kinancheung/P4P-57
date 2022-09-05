@@ -1,0 +1,18 @@
+curl
+0.18213943932813165
+http://127.0.0.1:6968
+0.15937562712467018
+jsonrpc":"2.0","id":"curltext","method":"callwasmcontracttx","params":["wLKf2NqwtHk3BfzK5wMDfbKYN1SC3weyR4","0-1","create",{"issuer":"walker","maximum_supply":"100000.0000 BTC"},1000000,11000000000000
+0.13111401268564818
+jsonrpc":"2.0","id":"curltext","method":"setcodewasmcontracttx","params":["wLKf2NqwtHk3BfzK5wMDfbKYN1SC3weyR4","0-1","/home/xiaoyu/src/token.wasm","/home/xiaoyu/src/token.abi",11000000000000,"token"]} -H content-type:application/json
+0.11511108694132874
+token.abi
+0.1109177378209204
+wasm.cdt/samples
+0.09780830781410252
+token.wasm
+0.09512341757027579
+xiaoyu"},1000000,11000000000000
+0.06580226004581642
+set wasm code
+0.04260811066910594

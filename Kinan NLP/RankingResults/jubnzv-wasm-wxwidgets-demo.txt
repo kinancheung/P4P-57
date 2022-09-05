@@ -1,0 +1,43 @@
+wxWidgets
+0.0968749614074808
+web
+0.09257662493303091
+OpenGL
+0.08663098173687042
+command
+0.07176251783142393
+wx desktop application
+0.059550971599358155
+WASM
+0.05344144950982434
+result
+0.05262202369231039
+configured environment
+0.04969629052639796
+Debian 10 use
+0.0495798530417734
+http://localhost:8000/
+0.04766312049972034
+SimpleHTTPServer
+0.047174945378120156
+static
+python
+0.04433319480615361
+Requirements
+0.04383332403688191
+same graphic scene
+0.03784202978304313
+pushd example
+0.035995780991261814
+Ubuntu
+0.0358190161762848
+install libwxgtk3.0-gtk3-dev libglew-dev libgl1-mesa-dev
+
+Building
+0.03538712100771559
+git clone https://github.com/jubnzv/wasm-wxwidgets-demo example
+0.03493515897905418
+wasm-wxwidgets-demo
+
+Cross-platform GUI application
+0.02428063406329391

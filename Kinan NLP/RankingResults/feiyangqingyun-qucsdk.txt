@@ -1,0 +1,25 @@
+liu/Qt/Qt5.14.0/5.14.0/gcc_64/plugins/designerQt Creator
+0.20558108963606161
+liu/Qt/5.15.2
+0.1178886406937978
+Creator C:\Qt\Qt5.15.2\Tools\QtCreator\bin\plugins\designer
+linuxQt Designer
+0.11253255754219543
+linux-deepin
+0.09515104899722188
+bindesigner.exedemo.uiUI
+qtcreatorqtcreatorqt++qtcreatorqtqt5.12.3msvc
+windowsQt Designer
+0.09501043997524924
+liu/Qt/Qt Creator.app/Contents/PlugIns/designer
+ https://blog.csdn.net/u014779536/article/details/106923566
+0.08527506889873321
+liu/Qt/Qt5.14.0/Tools/QtCreator/lib/Qt/plugins/designer
+macQt Designer
+0.08221543371051719
+web
+0.07190171976289497
+QQ517216493feiyangqingyun
+0.06961473675958284
+Qtsdksdkdemo
+0.06482926402374564

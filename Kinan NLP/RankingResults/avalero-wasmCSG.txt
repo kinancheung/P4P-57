@@ -1,0 +1,39 @@
+dist directory
+0.07703726292056079
+https://emscripten.org/
+Add emcc
+0.07591166655927814
+emscripten compiler
+0.07488762220143358
+wasm
+0.07218069601433263
+PATH
+0.07191152458550212
+js
+0.07120234305337754
+https://github.com/chandlerprall/ThreeCSG
+0.06942065146368878
+project root directory
+
+Build
+
+npm install
+0.06876267373459483
+computation time
+0.06616150988704134
+goal
+0.06421229926114011
+C++
+0.06294507535154727
+Build Instructions
+0.06122583704901104
+JavaScript Library
+0.059689999404224606
+results
+0.05948795616920354
+dist folder
+
+Check
+
+npm run
+0.04496288234506377

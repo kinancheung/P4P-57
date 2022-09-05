@@ -1,0 +1,36 @@
+developers
+0.12951215822594864
+Architecture
+0.12796799972535672
+extensions
+0.12102070911894908
+Event/message bus - publish/subscribe
+0.1175011367429547
+robust 3D role-playing games
+0.0840291441856593
+coding ability
+0.07583797722766071
+C++
+0.06554778800356062
+request/reply
+
+Entity Component System
+0.06491745299721634
+3D RPG Engine
+0.05961821034730634
+Lighting
+
+Animation
+
+Physics
+
+General Bibliography
+0.05494673736648788
+UI
+
+Gameplay
+
+Graphics
+0.05300904123764351
+Inspirations
+0.046091644821256134

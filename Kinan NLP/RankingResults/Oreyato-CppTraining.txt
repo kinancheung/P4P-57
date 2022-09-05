@@ -1,0 +1,8 @@
+Text Adventure
+0.41776376603071275
+Lunar Landing
+0.3996830394805801
+Codex
+
+Pong technical file
+0.18255319448870705

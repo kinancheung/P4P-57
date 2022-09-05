@@ -1,0 +1,12 @@
+execution
+0.2646104352239457
+client side browsers
+0.234899806720904
+web assembly bytecode
+0.20988757850455111
+BASIC programming language
+0.17213962993377588
+B_to_Wasm_Compiler
+
+A compiler
+0.11846254961682279

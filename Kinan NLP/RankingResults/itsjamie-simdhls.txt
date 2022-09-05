@@ -1,0 +1,6 @@
+SIMDHLS
+
+Parse HLS (HTTP Live Streaming) manifests
+0.5
+SIMD operations
+0.5

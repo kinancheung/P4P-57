@@ -1,0 +1,6 @@
+WebAssembly
+0.40116627157873813
+WASM
+0.3589031853914358
+performance comparison demo
+0.2399305430298258

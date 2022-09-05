@@ -1,0 +1,53 @@
+Robot Raconteur
+0.14915942364326024
+Pyodide
+0.0825349883824891
+browser
+0.07081507902441525
+Wason Technology
+0.06125602886075477
+full scientific Python stack
+0.05746415952777009
+following script tag
+0.043939928219966305
+C++
+0.034226258900130285
+transport
+0.031073283087038488
+LLC
+0.030281655523302208
+Emscripten WebSockets
+Use Emscripten functions
+0.02910622787830584
+Web Assembly
+0.029085154080442873
+registered trademarks
+0.028885928005011687
+blocking functions
+0.028819346741582853
+rights
+0.028113125239156544
+languagePluginLoader.then
+0.02742527241763769
+pyodide
+0.026998423082805416
+Several changes
+0.026699838638891926
+PhD
+0.026547143338967776
+timers
+0.025257039856474935
+Emscripten
+0.025008338523451645
+modified fork
+0.024618788691535835
+references
+0.024046639696896816
+boost_asio
+0.02328971124453575
+script src="https://robotraconteur.github.io/robotraconteur_pyodide/pyodide.js"></script
+0.02221646073418169
+Apache
+0.022111858796152607
+console.log(pyodide.runPython(import sys\nsys.version
+0.021019897864841465

@@ -1,0 +1,65 @@
+perfect6502
+0.0625256760963038
+Dear
+ImGui and
+Sokol
+0.0581083045699049
+visual6502 project
+0.04530623007564727
+more chips
+0.041812052454391235
+https://github.com/linuxlewis/tripy
+0.041745878344750686
+Tripy
+0.04152695187866423
+IconFontCppHeaders
+0.041020761561587946
+https://github.com/floooh/chips
+0.04004882608694035
+https://github.com/juliettef/IconFontCppHeaders
+0.03895112415556974
+https://github.com/trebonian/visual6502
+0.03833939586926935
+ImGuiColorTextEdit
+0.03775521285375953
+https://github.com/ocornut/imgui/
+0.03525446124830259
+UI
+0.035001489955312395
+https://github.com/BalazsJako/ImGuiColorTextEdit
+ImGuiMarkdown
+0.033883488141691454
+visual6502
+0.03360633404417943
+Font Awesome
+0.03303006832170638
+Software
+0.02830553298048119
+ancient ICs
+0.027966454326142542
+emulation
+0.027585507618691604
+subdirectories
+0.026834837847721126
+https://github.com/floooh/sokol
+The Chips Headers
+0.0264973132023286
+asmx
+0.02631371309521182
+files
+0.02504749595713784
+native+wasm app
+0.024618635859874182
+respective
+github repositories
+0.0245289221639652
+various licenses
+0.023867770399530298
+TL;DR
+0.023720902153141335
+WASM Version
+0.022858718849124167
+WIP
+0.017877930543552675
+Next generation transistor level simulation
+0.0160600093451164

@@ -1,0 +1,4 @@
+Ejemplo de la Charla de C++ y Webassembly
+
+Creado como acompaamiento de la charla dada el 30 de enero de 2020 para el Madrid C/C++ User Group
+1.0

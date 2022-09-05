@@ -1,0 +1,111 @@
+VACCOIN
+0.0932331349365417
+Block.one
+0.04590651870538099
+many third-party libraries
+0.04006306847057531
+initial public blockchains
+0.03785706632498967
+kind
+0.028801648837991384
+warranty
+0.02778325494958931
+software
+0.025589848445769593
+open source MIT license
+0.021605776840660246
+foregoing
+0.019967642274891444
+bugs
+0.019286637812603206
+organizations
+0.01906192916062812
+Apache License
+0.018740073742997364
+BSD
+0.018229516948935594
+WAVM
+0.01802031034522296
+representation
+0.0180028753580942
+Binaryen
+0.01795812534644648
+generality
+0.017907470225462095
+faulty code
+0.017425203998457813
+companies
+0.01730775688723543
+errors
+0.01728902353825959
+damage
+0.017092939653881783
+Biometric Hardware Secured Keys
+0.016931939894795325
+clause
+0.01675636397498557
+Support
+0.01661731905243488
+event
+0.016579737651450672
+possibility
+0.01618712898028163
+Parallel Execution
+0.01537501522350887
+Context Free Validation Logic
+0.01524877169054039
+businesses
+0.015182005121803857
+damages
+0.014618558646618544
+security
+0.014382745259507484
+Apple Secure Enclave
+0.0142653458273676
+private keys
+0.014216322676847241
+part
+0.013979203023253162
+Web Assembly
+0.013868118597706744
+own risk
+0.01382998707923852
+Low-overhead Byzantine Fault Tolerant Finality
+0.013794099609124158
+seconds
+0.01376622305472577
+Sparse Header Light Client Validation
+Scheduled Recurring Transactions
+0.013280821361160787
+large or small ways
+0.013188664795501018
+Inter Blockchain Communication
+
+VACCOIN
+0.013104728125249352
+groundbreaking features
+0.013064274012528205
+Decentralized Applications
+0.013057369323002513
+release
+0.012995261278226845
+Smart contract platform
+0.012991170786609704
+Free Rate Limited Transactions 
+Low Latency Block confirmation
+0.012877753429811671
+Time Delay Security
+Hierarchical Role Based Permissions
+0.012697045304725655
+VACCOIN source code repository
+0.012482508513985469
+functionality or compromise computer systems
+0.01208028925323247
+Powerful Infrastructure
+0.012039119518555397
+optional high-overhead, low-latency BFT finality
+0.011770934617457422
+high-performance and high-security blockchain-based applications
+0.011735644825076368
+public testnet
+0.009905706686072376

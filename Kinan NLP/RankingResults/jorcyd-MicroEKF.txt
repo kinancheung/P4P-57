@@ -1,0 +1,44 @@
+misusage
+0.06674250902362318
+form
+0.06081499976314868
+potential virtual/physical harm
+0.0568625806532838
+newer and exotic plataforms
+0.055373452260189866
+test
+0.05407759374208964
+applications
+0.05323560218982348
+mathematical derivation
+0.051740010956088704
+Kalman Filters
+0.051735750106317174
+author
+0.04988796799597943
+https://resourcium.org/journey/introduction-kalman-filter
+0.04792986374930765
+WebAssembly
+0.0471695996909292
+further details
+0.04672352932937784
+warranties
+0.04575448184894464
+code
+0.044941977654971904
+own risk
+0.04058711520529849
+middle-end
+0.03849917670183814
+embedded systems
+0.03419490965000584
+simondlevys original TinyEKF (https://github.com/simondlevy/TinyEKF) project
+0.03367034546326495
+branch
+0.03344173701694822
+C/C++ sources
+0.03294070587775369
+direct fork/derivation
+0.03197082345196536
+MicroEKF
+0.021705267668850618

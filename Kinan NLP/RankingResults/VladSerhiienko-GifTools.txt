@@ -1,0 +1,6 @@
+GifTools
+
+Utilities
+0.5
+GIFs
+0.5

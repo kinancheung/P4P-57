@@ -1,0 +1,10 @@
+starter
+0.2406472792376651
+basic HTML web application
+0.2243510729471905
+repo
+0.21743360806166429
+Vanilla JavaScript App
+0.1650832760134452
+front-end frameworks
+0.152484763740035

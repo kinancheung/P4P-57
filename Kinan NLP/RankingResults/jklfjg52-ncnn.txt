@@ -1,0 +1,244 @@
+ncnn
+0.0674435955633216
+Build Status
+0.04257811084675403
+platform
+0.03235002212788432
+Face Detection
+0.031649995300430986
+macOS
+Build
+0.029977011973882767
+-
+0.026485419103135514
+macOS
+0.016461571871856366
+VS2017
+0.014304547778027797
+Linux
+0.013634832875984415
+third party dependencies
+0.01348763785514581
+CNN network
+0.012743679872186926
+mobile platforms
+0.01263893468256867
+Build Status Build Status
+0.01137628973450163
+cross
+0.010857524393271714
+Windows x64
+0.010316038815513278
+calculation speed
+0.010256389523183104
+WebAssembly
+0.010106690561599326
+custom layer step
+0.010037420533622377
+iOS
+0.009957703946190114
+Qzone
+0.009893111081102678
+WeChat
+0.00979578677710395
+C++
+0.009754557639410895
+AllWinner
+0.009727542720776104
+alexnet
+0.009706881597955554
+NanoDet
+0.009692785087172069
+design
+0.00950999020212406
+Pi3
+0.009444566559102262
+Segmentation
+0.009432621201036226
+SSDLite
+0.009099718565188427
+detailed steps
+0.009043168604534335
+QQ
+0.008932881001254323
+beginning
+0.008902544351851872
+Pitu
+0.008615005266796486
+Android
+0.008601840616220288
+MobileNetV3
+0.008512585709097976
+fingertips
+0.008512304370631465
+Faster-RCNN R-FCN
+0.008485703735986967
+ARM Cortex-A family
+0.008453015764777746
+PSPNet UNet YOLACT
+0.008357437914231974
+Loongson
+0.008308814775859008
+VGG-SSD MobileNet-SSD SqueezeNet-SSD MobileNetV2-SSDLite
+0.008020045890797866
+multiple input
+0.00794213180513087
+android, ios and so on
+ARM NEON assembly level
+0.0079400694618702
+termux
+0.00788304313655432
+multi-branch structure
+0.007783739919231346
+netron
+0.00775409508292495
+MTCNN RetinaFace scrfd
+0.007647767305217885
+wrong result
+0.007623388391684768
+artificial intelligence
+0.007588588996743432
+ARM
+0.007567241781675822
+ResNet DenseNet SENet FPN
+0.007554284785214842
+Linux / NVIDIA Jetson / Raspberry
+0.00754304464978452
+binary package
+0.007532916800202764
+part
+0.007433506417307622
+convolutional neural networks
+0.007415497360819498
+mobile phone cpu
+0.0074130221085384205
+beginners
+0.007405174733235333
+many Tencent applications
+0.007399065823182991
+Developers
+0.007359321474633905
+step
+0.0073568936993124055
+algorithm models
+0.0073355162868065545
+GCC
+0.007321315206543297
+CNN 
+
+Classical CNN
+0.007300145981269117
+Linux / Windows / macOS / Raspberry Pi3
+0.007285130174807668
+careful optimization
+0.007283629868762682
+deployment
+0.007258975011761584
+Pose Estimation
+0.007258529472090366
+intelligent APPs
+0.007236005810174368
+known open source frameworks
+0.0071128893161478335
+Light-weight CNN
+0.007071434189205979
+VGG AlexNet GoogleNet Inception
+0.007069346715342774
+other computing framework
+Pure C++ implementation
+0.007030141062045473
+MIPS
+0.0069763815081218
+AllWinner D1 / Loongson
+0.00689757364638656
+SqueezeNet MobileNetV1/V2/V3 ShuffleNetV1/V2 MNasNet
+0.006778523022343869
+high
+Sophisticated memory management and data structure design
+0.006754061220107554
+BLAS / NNPACK
+0.006735482613262978
+64bit
+0.006697613665538169
+Android / NVIDIA Jetson / iOS / WebAssembly
+0.006695085928136346
+box
+0.006588601616504108
+high-performance neural network inference computing framework
+0.0065119190215120575
+ncnn low-level operation api
+
+ncnn param and model file spec
+
+ncnn operation param weight table
+0.006365444645316168
+Build Status
+Android Build Status Build Status Build Status Build Status
+Android-x86 Build Status Build Status Build Status Build Status
+iOS Build Status Build Status
+0.006347418371368725
+8bit quantization
+0.006274097502205024
+half-precision floating point storage
+0.006135711022710266
+RISC-V GCC/Newlib Build Status Build Status  
+
+
+Support
+0.006033327987125735
+low memory footprint
+Supports multi-core parallel computing acceleration
+0.005554211282295933
+copy reference load network model
+0.005515519519484843
+VS2015
+0.00549400062004796
+Support direct memory
+0.0054671348638118
+QQ637093648
+0.005459300618925897
+32bit) CPU (64bit) GPU (32bit) GPU
+0.005456309023466357
+less than 700K
+0.0054273894448117
+less than 300K
+Extensible model design
+0.005372646978912247
+vulkan api
+0.005332807374481509
+https://discord.gg/YRsxgmF
+
+
+Current building status matrix
+
+System CPU
+0.005294741652226434
+LITTLE cpu scheduling optimization
+Supports GPU acceleration
+0.005154987632062888
+Build Status Build Status  Build Status
+macOS  Build Status  Build Status
+0.005115933534775367
+LITTLE cpu
+0.00461975756312532
+K 300K
+0.004490889541531936
+License
+Build Status
+download
+codecov
+Language grade
+0.004267623027733412
+good optimization
+ = known work
+0.004183350173156936
+QvQ
+
+
+supported platform matrix
+0.004104661206898998
+nvidia-gpu     /
+qcom-cpu
+0.0030269122689997596
+BSD
+0.002698402282314531

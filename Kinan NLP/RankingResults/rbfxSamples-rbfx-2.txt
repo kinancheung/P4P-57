@@ -1,0 +1,319 @@
+https://nothings.org
+0.022151204091547062
+animation
+0.019746383519248525
+rbfx
+0.016056809524868147
+Direct3D11
+OpenGL
+0.012724954968890988
+Dear ImGui integration
+0.01158175607882359
+original project
+0.010800343326341973
+Open Asset Import Library
+Alternative model/animation import
+0.01070837648280326
+Urho3D game engine
+0.010604763696989155
+LOD
+Software
+0.009310136027647303
+CodeLite
+0.009283547614385072
+QtCreator
+0.009275342679289396
+CodeBlocks
+0.00919367695728444
+CLion
+0.009128624921944157
+Eclipse
+0.008970085767716874
+1.1.0
+0.008944243182531444
+GCC
+0.008856544749144653
+rapidjson
+0.008800966851892123
+following third-party libraries
+0.008751807823731295
+Clang
+0.008740918620301758
+material
+0.008634408466801436
+Supported compiler toolchains
+0.008541884898944908
+MSVC
+0.008422600184683476
+Xcode
+0.008356446433236516
+joystick
+0.00811747992019275
+MinGW
+0.008037183409622888
+ETCPACK
+0.007805833619094008
+SLikeNet
+0.007801147433097379
+Geometry
+0.007799749508886885
+mouse
+0.0077484608720449506
+https://github.com/Ericsson/ETCPACK
+0.007732953768874834
+https://chromium.googlesource.com/webm/libwebp
+0.007713332990944245
+html
+0.00757564838658083
+WebP
+0.007498214623826745
+depth bias
+0.007492213176792417
+Visual Studio
+0.007450876958543582
+addition
+0.007435086305208647
+touch input
+0.007415366094281674
+occlusion
+0.007313757852353724
+Background loading
+0.007283591631165411
+resources
+Keyboard
+0.007237102182791203
+possibility
+0.007211126077486415
+Networking
+0.007192893356646405
+subset
+0.00711781563257899
+spot
+0.007105540788917676
+object
+0.007060042551799801
+2D sprites
+0.007056778454970676
+tracy
+0.007050233871160411
+http://pugixml.org
+0.007034805550044969
+differences
+0.007028062768705229
+https://github.com/miloyip/rapidjson
+0.0070066902969455535
+https://github.com/ocornut/imgui/tree/docking
+0.006959614214641152
+Normal offset adjustment
+0.006949789025332323
+Civetweb
+0.006899934158693158
+Post-processing
+HDR rendering
+0.006886361052584132
+cross-compiling derivatives
+0.00687330351978062
+https://bitbucket.org/wolfpld/tracy/
+0.00687136584080827
+css
+0.006865940100680348
+stb_vorbis
+0.006797911066088854
+particles
+0.006764827666680994
+PBR
+0.006744050408746705
+details
+0.006732715121213808
+LICENSE
+0.006731330286997609
+directional lights
+0.006719487672357458
+Point
+0.006714016421846461
+http://www.bulletphysics.org
+0.00669751081340922
+GLEW
+0.006658355265836893
+reflections
+0.006634884686291628
+Particle rendering
+Geomipmapped terrain
+Static and skinned decals
+0.00658096812624224
+Supported IDEs
+0.006576189167262572
+https://github.com/civetweb/civetweb
+0.0065596304054899674
+WAV format support
+TrueType font
+0.0065485485139349965
+lights
+Shadow mapping
+0.00652430199357938
+3D scene
+0.006479899895775961
+https://www.freetype.org
+0.006461242178344583
+DDS / KTX / PVR
+0.006451804401998674
+stb_image
+0.006445795826555619
+Supports
+0.006414745713531538
+https://github.com/juliettef/IconFontCppHeaders
+0.0064138957434391386
+tools
+0.006413548287256952
+IconFontCppHeaders
+0.006358663449087048
+pugixml
+0.006344792785655352
+Screenshots
+
+Editor
+
+Dependencies
+
+rbfx
+0.006326266967049173
+build instructions
+0.006315338845723431
+capstone
+0.006260394198586682
+SDL 2.0
+Physics
+0.00625178782464072
+Cross-platform support
+0.006232417821997239
+Bullet
+2D physics
+0.006227647907918566
+Auxiliary view
+0.006216660040192985
+Bullet
+0.006211869082765579
+light typesCascaded shadow maps
+0.00620583367888019
+Box2D
+Scripting
+0.006150659551410385
+CLI11 v1.5.1
+0.0061484885729405185
+Task-based multithreading
+Hierarchical performance profiler
+Scene and object load
+0.00614347942927789
+http://glew.sourceforge.net
+0.006125945470893471
+https://icculus.org/mojoshader
+0.006125099401983286
+Ogg Vorbis support
+0.00612427684169083
+Pathfinding and crowd simulation
+0.006083380707739079
+fork-specific documentation
+0.0060755054934302465
+experimental fork
+0.006037520803387574
+https://github.com/Unity-Technologies/crunch/
+0.006018504755948836
+bit and 64-bit build
+Build
+0.006003033363133805
+GitHub Wiki
+0.005986992586535543
+Doxygen Documentation
+0.005976200324674277
+Inbuilt UI
+0.005961836669498698
+core functionality
+0.005906901402078937
+2D and 3D audio playback
+0.005870021648635787
+bugs
+0.005828210864373605
+active developement
+0.005822894522231108
+Recast/Detour
+Inverse kinematics
+Image loading
+0.005792361174000592
+overview
+
+Multiple rendering API
+0.00578936511775163
+issue tracker
+0.005777704939227603
+MIT license
+0.005770169925308655
+vertex morph
+0.005738213909731368
+https://github.com/lz4/lz4
+0.005735517901327556
+WEBP image format
+0.005722645310971584
+WIP
+0.0056912326179731415
+https://github.com/CedricGuillemet/ImGuizmo
+0.00568005507176479
+GLSL shaders
+0.005640505283993161
+formats
+0.005624558636775685
+http://www.mono-project.com/download/stable/
+0.005616531257284593
+WebGL
+
+
+HLSL
+0.0055776769125489
+undo & redo capabilities
+0.0055665451476687375
+relevant information
+0.005545611981930196
+binary, XML and JSON formats
+0.005530949782420602
+https://github.com/CLIUtils/CLI11/)
+fmt 6.0.0 (http://fmtlib.net/)
+spdlog 1.4.2 (https://github.com/gabime/spdlog/)
+EASTL 3.17.06
+0.005504622181587353
+Mono
+0.005479439783702513
+https://codesuppository.blogspot.com/2006/03/john-ratcliffs-code-suppository-blog.html
+0.005419552528073038
+https://github.com/anrieff/libcpuid
+0.005416898994175102
+hot code reload
+Model/scene/animation/material import
+0.005406050989727067
+hardware skinning
+0.005330773009566673
+HLSL bytecode
+Configurable rendering pipeline
+0.005312874036251907
+https://www.libsdl.org
+0.005295095307571861
+single external library
+0.005257423376589321
+Rebel Fork
+0.005199284289023089
+https://github.com/mikke89/RmlUi
+0.005116423323191988
+catch2
+0.005073170679554228
+default implementations
+0.004862400248127205
+Embree
+0.004631585313039509
+Platforms
+
+Graphics API/Platform Windows UWP Linux MacOS iOS
+0.004484769290249795
+SWIG
+0.004454963904705934
+https://github.com/syoyo/tinygltf
+0.004422600659152493
+chat
+0.003912019574664287

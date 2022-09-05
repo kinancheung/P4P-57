@@ -1,0 +1,160 @@
+seconds
+0.06796975606367632
+CSS
+    ExpiresByType text/css                              "access
+0.06237489723533751
+OCCT WebGL Viewer sample
+0.036914686141959724
+.wasm file
+0.03604787740466827
+OCCT libraries
+0.033167738751490546
+emsdk documentation
+0.03281864603236738
+.htaccess file
+0.02254942108859349
+build folder location  :
+    > DocumentRoot
+0.02122235951299577
+Configure CMake
+0.02108788557182493
+configuration
+0.018747669434988217
+FreeType static library
+0.018380407669924832
+Emscripten SDK
+0.017418196877942445
+base path
+0.01590880627162605
+local server
+0.015720974800521238
+building and installation steps
+0.015183982970641293
+Web application
+0.01472398100009353
+httpd.conf
+0.013768554142197359
+Line
+0.01376014210153143
+Java
+0.01303190574955788
+CLang
+0.012345405754784315
+Python
+0.012333563909224451
+# Web
+0.012254463800611546
+paths
+0.012216651399749246
+pache
+0.011524831825222211
+end
+0.011193450506906804
+model
+0.011028020567383914
+account
+0.011022562338158319
+BREP format
+0.010893076570090483
+web server settings
+0.010558869096263924
+MinGW
+0.010540385691537556
+Windows host
+0.010518042800884362
+directory
+0.010459936817051452
+ReadMe.md
+0.010423585172540823
+github.com/devinrhode2/pache
+0.010332078005036301
+code
+0.010300711129095582
+Installation
+0.010137636103807485
+root
+0.010038259281102017
+cross-compilation toolchain
+0.00986071858456704
+WebAssembly module
+0.009829936596303065
+button
+0.009650320794627366
+C++
+0.009524111918530333
+simple way
+0.00941843327818568
+Open CASCADE 3D Viewer
+0.009341855313227218
+WebGL 2.0 capable browser
+0.009318392305280983
+Sample
+0.009266253098318801
+project
+0.009138260003775952
+ExpiresActive
+0.008920455010416523
+attempts
+0.008910578333022093
+compression
+0.008793565126730974
+http://localhost
+0.008695589274415248
+https://stackoverflow.com/questions/61049517/build-latest-freetype-with-emscripten
+0.008630934439218063
+https://gzip.swimburger.net/
+0.008612654207543646
+ExpiresDefault                                      "access
+0.008606225023561691
+Command prompt
+0.008525421832966066
+compatible browser
+0.008488645378926714
+vc14
+0.008373991355826458
+disable BUILD_MODULE_Draw
+0.008280582836874419
+Install Apache Lounge
+0.008184880426163658
+Code .htaccess
+
+# Prevent
+0.008179930289362878
+caching bug
+0.008152282362410406
+IfModule mod_expires.c
+0.008020866208217991
+install
+0.007996655971061412
+-
+0.007786886359986334
+> emcmake
+0.0077529978812206895
+wasm\lib\cmake\opencascade
+0.0077225580138101935
+OpenCASCADE_DIR
+0.007697754672347434
+Expires headers
+0.007589030914633225
+> cd "C:/build_folder_location"
+    > emmake
+0.006901884903243505
+build_folder_location"
+    > <Directory "build_folder_location
+0.00684456629673586
+C:/Users
+0.0065443255573166565
+cmake/Modules/Platform/Emscripten.cmake
+    - freetype_DIR
+0.006460287918811203
+Manifest files
+0.006455302396855378
+ExpiresByType application/xml                       "access plus 0 seconds"
+    ExpiresByType text/xml                              "access plus 0 seconds"
+
+  # Favicon
+0.006450245085261425
+CMAKE_INSTALL_PREFIX
+0.00625760796850079
+web-app-manifest+json
+0.005895592470353805

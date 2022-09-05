@@ -1,0 +1,8 @@
+compilation
+0.5
+threshold-wasm
+schnorrkel
+pem-rs
+signatory-secp256k1
+miracl-core
+0.5

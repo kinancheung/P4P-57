@@ -1,0 +1,146 @@
+BESIO
+0.08825052296621018
+Block.one
+0.03719558763399102
+initial public blockchains
+0.033021616695277166
+many third-party libraries
+0.03229260126111071
+software
+0.030242742216768786
+kind
+0.022743521051112506
+warranty
+0.02195244655587697
+Inter Blockchain Communication
+
+BESIO
+0.01854710836919217
+open source MIT license
+0.01797287072756612
+Fedora
+0.01772604504668319
+organizations
+0.01622541147212395
+foregoing
+0.015739124428037748
+bugs
+0.015282129139572343
+companies
+0.01483859690124478
+Apache License
+0.014716593479357849
+BSD
+0.01434420910692006
+representation
+0.01426881433458599
+WAVM
+0.014180134159700203
+generality
+0.014162390722081974
+Binaryen
+0.014122234500050106
+damage
+0.01397650418376263
+faulty code
+0.013881131531857126
+errors
+0.013767094979751773
+event
+0.013433527537785893
+possibility
+0.013274038348783275
+clause
+0.013237510190008064
+Biometric Hardware Secured Keys
+0.013086236706174231
+private keys
+0.012863323107036168
+Support
+0.012852221314622497
+blocks
+0.01283631944794445
+account creation
+0.012806548114316859
+damages
+0.012006525435269127
+Parallel Execution
+0.011902286883867989
+Context Free Validation Logic
+0.011788075084995698
+businesses
+0.011579824788077585
+process
+0.011356773700512069
+security
+0.011344494923700236
+own risk
+0.011322034504716394
+Centos
+0.01131105566713679
+Apple Secure Enclave
+0.011100047300631334
+release
+0.011072972068891017
+part
+0.011064612645312109
+Web Assembly
+0.010788535293014075
+public testnet
+0.010737074507035795
+Low-overhead Byzantine Fault Tolerant Finality
+0.010719274690324925
+large or small ways
+0.01070177332924296
+seconds
+0.010699143233615134
+sample contract
+0.010674841494911852
+simple test network
+0.010532818867606751
+Instructions
+0.010518544898781741
+Sparse Header Light Client Validation
+Scheduled Recurring Transactions
+0.010357384666566603
+groundbreaking features
+0.010207875149917939
+Smart contract platform
+0.010135279844455988
+Free Rate Limited Transactions 
+Low Latency Block confirmation
+0.010063838240674798
+following operating systems
+0.010063012192182301
+Powerful Infrastructure
+0.010055651400847208
+Time Delay Security
+Hierarchical Role Based Permissions
+0.00993303512949387
+functionality or compromise computer systems
+0.009905752728378773
+Decentralized Applications
+0.009888408441249507
+MacOS 10.13.x
+0.009797790089212508
+Ubuntu 16.04 (Ubuntu
+0.009728225350245905
+Resources
+
+Website
+Blog
+Developer Portal
+0.009648202114682258
+blockchain
+0.00951802409631675
+Ubuntu 18.04
+MacOS Darwin
+0.009485412437370777
+BESIO source code repository
+0.009250755889883801
+optional high-overhead, low-latency BFT finality
+0.009224769276655607
+high-performance and high-security blockchain-based applications
+0.009133279373934657
+StackExchange
+0.008543438030780583

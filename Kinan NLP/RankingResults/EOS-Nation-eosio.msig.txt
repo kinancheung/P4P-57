@@ -1,0 +1,28 @@
+patch2 release
+0.16790222340327643
+EOSIO
+0.13127733143264525
+eosio.msig.wasm
+0.08905142321141449
+inline
+0.0869108026096961
+Checksum
+
+Branch v1.8.3-inline-msig-patch2
+0.0865667341067191
+Jungle 3 testnet
+
+$ cleos
+0.08497073655106996
+v1.8.3
+0.08074567645492989
+eosio-cpp --version
+eosio-cpp version
+0.07940726836809679
+shasum
+0.0724335343255666
+git clone git@github.com
+0.06433074765320558
+code eosio.msig
+code hash
+0.05640352188337995

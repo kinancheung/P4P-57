@@ -1,0 +1,126 @@
+NGK
+0.1128395471446204
+initial public blockchains
+0.034980220823286105
+many third-party libraries
+0.03399932983039745
+ngk
+0.029115311527545984
+kind
+0.024679479655898517
+software
+0.024195781534696245
+warranty
+0.023794738771062956
+Ubuntu
+0.023727514623753585
+following operating systems
+0.0220309175540332
+open source software
+0.019120875706873233
+organizations
+0.018099971885002997
+foregoing
+0.017348790457364833
+BSD
+0.017054825886986744
+WAVM
+0.01689616600504153
+bugs
+0.016651561163038803
+companies
+0.016497281394799564
+Apache License
+0.016405496549354706
+WABT
+0.015655333809015463
+representation
+0.015599766641141802
+generality
+0.015504303433402757
+CentOS
+0.015261661378438467
+faulty code
+0.015006909819223525
+errors
+0.014906183916854849
+clause
+0.014780715928781314
+private keys
+0.014265497384123185
+Biometric Hardware Secured Keys
+0.014127714855858422
+Linux
+0.014125448790661825
+event
+0.013971610688504665
+Support
+0.013697989467669027
+damage
+0.013262593347608773
+MacOS
+0.013240756244024385
+businesses
+0.013171794996277254
+Parallel Execution
+0.013080044991355134
+possibility
+0.013051248560195561
+Context Free Validation Logic
+0.012969511058553217
+LICENSE
+0.012711182871928793
+security
+0.0123914985265769
+WebAssembly
+0.012117631949842035
+part
+0.01209692737266502
+Apple Secure Enclave
+0.012038269342961377
+copyright and license terms
+0.012024616058619118
+damages
+0.01198307796277879
+Low-overhead Byzantine Fault Tolerant Finality
+0.011953409569361426
+seconds
+0.011941447341950077
+Decentralized Applications
+0.011824932210828969
+release
+0.011731486669931715
+public testnet
+0.011702292558591985
+Powerful Infrastructure
+0.011692259469782296
+own risk
+0.01156513025014958
+Sparse Header Light Client Validation
+Scheduled Recurring Transactions
+Time Delay Security
+Hierarchical Role Based Permissions
+0.01141497695116216
+groundbreaking features
+0.01139480734728154
+large or small ways
+0.011244815093572615
+Free Rate Limited Transactions
+Low Latency Block confirmation
+0.01121604558310345
+Smart contract platform
+0.01116549092726572
+NGK source code repository
+0.01105364704632168
+Inter Blockchain Communication
+
+Disclaimer
+
+ngk
+0.010971752422133364
+high-performance and high-security blockchain-based applications
+0.010280919445464526
+functionality or compromise computer systems
+0.010190046647432394
+optional high-overhead, low-latency BFT finality
+0.010176440554847873

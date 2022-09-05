@@ -1,0 +1,47 @@
+webR Ports - R packages
+0.11680149925913423
+named
+package
+0.10518678446872777
+loadPackage(package_name) JS command
+0.07452077444704167
+dist directory
+0.06529799070008109
+point
+0.05431584054698889
+webR javascript environment
+0.054252945186487156
+simplest way
+0.05000271577405391
+environment
+0.048394246096358964
+Packages
+0.04823446482083091
+virtual filesystem
+0.04496888810847739
+docker image
+0.04447954993319847
+emscripten toolchain
+0.044074913461116416
+native R
+0.04292241601771958
+PATH
+0.03943478386732227
+georgestagg/webR
+0.0391853009879138
+src/package_name directory
+0.037622986693594165
+repo
+0.036559039661500065
+dependencies
+0.02925577656610575
+forcats
+ggplot2
+ncldata
+purrr
+readr
+stringr
+svglite
+tibble
+tidyr
+0.02448908340334738

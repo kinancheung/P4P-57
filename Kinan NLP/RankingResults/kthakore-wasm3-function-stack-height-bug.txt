@@ -1,0 +1,6 @@
+wasm-opt 
+wasm-strip
+rustup
+0.5
+cargo
+0.5

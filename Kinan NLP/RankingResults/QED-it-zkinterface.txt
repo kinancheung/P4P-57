@@ -1,0 +1,264 @@
+systems
+0.036345935797536755
+knowledge interoperability
+0.0276386917012558
+zkInterface
+0.026067567555910796
+zkif example
+0.02026943029052269
+Rust implementation
+0.01998485522662767
+messages
+0.019423242520428687
+specification
+0.018929909529696892
+frontends
+0.01723870418349103
+cryptographic backends
+0.016731757044224225
+protocol
+0.015991880233427378
+whole constraint system
+0.01567594940478763
+implementations
+0.015324491644713565
+variable assignments
+0.015047799624530765
+complex code
+0.014902324056319033
+rust/src
+0.014544500746313114
+FlatBuffers
+0.014261369776314474
+standard tool
+0.012894359149791345
+gadgets
+0.012205450886583227
+languages
+0.011698154836120914
+Repository content
+0.01145258557878671
+monolithic representation
+0.011441149281783173
+proofs
+0.01132693618804024
+implementation guide section
+0.011247660422300892
+richer and more nuanced forms
+0.011004612688556438
+example circuit
+0.01057951982398933
+serialization format
+0.010456602092133603
+higher-level specifications
+0.010414988150569706
+frontend
+0.010271218803135753
+associated tools
+0.009871603820332397
+statements
+0.009816710577663725
+gadget libraries
+0.009802369670849834
+Gadgets
+0.009360548226724103
+following commands
+0.00934066833013537
+flatc
+0.009324694128369412
+messages
+rust/src/writing.rs Rust helpers
+0.0092030136671668
+Circuit
+0.009062880569391259
+live demo
+0.008951742829718265
+| zkif_bulletproofs
+0.008746477428771342
+R1CSConstraints
+0.00782694584668163
+frameworks
+0.007610176304574649
+different authors
+0.007526441575373618
+C++ example
+cpp/libsnark_integration.hpp Libsnark
+0.007366005698236908
+convention
+0.007219141956849379
+exchange
+0.007158092695332955
+Witness
+0.007154326273273106
+circuits
+0.00697752714967332
+collection
+0.006866163283403925
+production
+0.006831244259150986
+instructions
+0.00665043703148806
+simple special case
+0.006646814640216895
+file
+0.006485260235024202
+Technical recommendations
+0.006384254345520587
+formats
+0.006345050984192212
+application writers
+0.006239520784723561
+spec
+0.006228527383021944
+smaller building blocks
+0.006179002166378747
+components
+0.00617874448521879
+feature
+0.006161475298598599
+zkinterface
+0.006148956246146064
+files
+0.006130994276092126
+general-purpose zero-knowledge proof systems
+0.0061105499365945466
+more details
+0.006095701440955171
+compilation
+0.0060710822192439175
+folder
+0.006060575520853544
+variable mapping
+Witness reduction
+0.006054862486503169
+example.zkif
+0.00604176246855364
+execution
+0.006041479177411739
+need
+0.006024369765747635
+specified statement semantics
+0.006018256437599221
+dependencies
+0.005977382588592675
+limitations
+0.005971260815094077
+goal
+0.005923796045987161
+verify
+0.005916167277574687
+Integration examples
+
+Dalek Bulletproofs
+
+Install
+
+git clone
+0.005889502908373834
+language-agnostic calling conventions
+0.005876432935486511
+Extension
+0.005733744346316891
+above
+0.005675457548954607
+performance and security needs
+0.0056362116256621735
+NIZKs
+0.005615960216125013
+more information
+0.005594768670286569
+cd
+0.005558359850899509
+cargo install
+0.005554659099886193
+level
+0.0055523285929078865
+functional and development needs
+0.0055230255743211314
+backend
+0.005512955934316498
+version
+0.005499477840444556
+way
+0.005480951122898827
+Specification
+
+The zkInterface specification document providers
+0.005467318473000426
+gadget interface definition
+0.005451191240802851
+scope
+0.005398489929180526
+reusable and interoperable form
+Procedural interoperability
+0.005391231635951658
+non-interactive proof systems
+0.005357265965943807
+cargo run example  > example.zkif
+cargo run
+0.00534630751182485
+memory
+0.005325405218211108
+examples
+0.005311370069015581
+FFI call
+0.005293080168523049
+https://github.com/google/flatbuffers.git
+cd flatbuffers
+cmake
+0.0052755688815967995
+NP relations
+0.005210158217824646
+Current Status
+
+Implementations
+0.00516864576535013
+first revision
+0.005109661641763155
+cpp/zkinterface_generated.h Generated C++
+0.005104094135593728
+WebAssembly modules
+0.0050419033158558176
+Circuit Type Export Circuits Import Circuits
+0.00502010474965956
+docs
+
+Integration instructions
+0.004980338633207256
+Unix Makefiles
+0.004930650063249577
+R1CS/QAP-style constraint system representation
+0.00491390091682369
+ZoKrates
+0.0048605375403418995
+setup
+0.004792942979050966
+Dalek Bulletproofs
+0.004773482331377698
+ZKProof community
+0.004768059592423168
+API
+0.004705340830615823
+rust directory
+0.0045935876900206766
+Backends
+0.004579945030277958
+Mir
+0.004566481667841517
+-DCMAKE_INSTALL_PREFIX=$ZKINTERFACE_LIBSNARK_PATH
+0.004413712767895514
+https://github.com/QED-it/zkinterface-bellman.git
+cd zkinterface-bellman
+cargo install
+0.004265142207879288
+C++
+js/ NPM package zkinterface
+js/zkinterface_generated.js Generated JavaScript code
+0.0042297234958016865
+ZKINTERFACE_LIBSNARK_PATH
+0.004202248935798606
+export ZKINTERFACE_LIBSNARK_PATH=$PWD/dist
+PATH=$PATH:$ZKINTERFACE_LIBSNARK_PATH/bin
+
+git clone https://github.com/QED-it/zkinterface.git
+0.003973566543519063

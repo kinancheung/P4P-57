@@ -1,0 +1,12 @@
+mcl
+she-wasm
+picojson
+0.40245173485733693
+kazuho
+
+Author
+
+MITSUNARI Shigeo(&#104;&#101;&#x72;&#x75;&#x6d;&#105;&#x40;&#110;&#x69;&#102;&#116;&#121;&#x2e;&#x63;&#x6f;&#109
+0.3632332239947227
+Oblivious Transfer demo
+0.23431504114794016

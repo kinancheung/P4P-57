@@ -1,0 +1,86 @@
+Python
+0.08949744575820749
+interactive analytics and data visualization component
+0.05504948628991929
+WebAssembly
+0.04797183541836452
+browser
+0.04593310725761072
+Apache Arrow
+0.04365415474873851
+Jupyterlab
+0.04300996783441788
+notebooks
+0.03546119111604353
+dashboards
+0.0351627811972587
+applications
+0.03225237230575258
+streaming
+0.03124188116968673
+reports
+0.031153953870489887
+WebWorker
+0.02930884160605205
+concert
+0.029242592163895444
+support
+0.026177445724477562
+suite
+0.024460746653876
+Datagrid and
+D3FC Chart plugins
+0.024359168065260173
+WebSocket server
+0.023387863256714325
+fast, memory efficient streaming query engine
+0.022794662333192828
+Perspective
+0.022384530976775202
+FINOS
+0.02227603788952933
+C++
+0.021906281230200796
+JupyterLab widget
+0.02137565341322547
+user-configurable
+analytics
+0.021304490576215383
+ExprTK
+0.020842407731494532
+Junyuan Tan
+0.020758715432911676
+framework-agnostic User Interface
+Custom Element
+0.020497124340154382
+high-performance columnar
+expression language
+0.02042741574156926
+Fintech Open Source Foundation
+0.01980165830175827
+notebook
+0.01932617038118819
+scalable production
+Voila and
+Holoviz applications
+0.017264939946219297
+J.P. Morgan
+0.016807769244795927
+JupyterCon
+0.01598185067850541
+large and/or streaming datasets
+0.01482616494072615
+Movies
+0.012905900327295543
+Perspective
+Perspective
+
+npm
+PyPI
+Build Status
+
+Perspective
+0.01077844485187845
+new plugin
+Streaming, cross-sectional data visualization
+0.010414947225598593

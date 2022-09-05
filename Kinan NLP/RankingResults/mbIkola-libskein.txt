@@ -1,0 +1,47 @@
+wasm compilation
+0.12205604436416281
+project root
+0.08543405164102578
+wrappers
+0.05928504583619618
+source
+0.05431984855501761
+emscripten SDK
+npm
+0.05330697987320646
+build targets
+0.04693998809382849
+docker
+0.045269377656357516
+pc
+0.044646602732359264
+node-webassembly project
+0.04462948457828193
+package.json
+0.0433663707018129
+CLion
+0.042919502707813514
+emscripten folder
+0.04197942131021767
+details
+0.04064948167349452
+build-tools-essential, clang
+0.039036861612352154
+browsers asm.js
+0.03615958266352212
+wasm module
+
+** Source code author
+0.036095126590675534
+Skein hash
+0.03395092293170559
+Purpose
+
+static library
+0.03310549420028094
+Doug Whiting
+0.032667802873774396
+further iterative modifications/optimizations
+0.032131350411060335
+compiled to few other non-standard platforms
+0.032050658992854544

@@ -1,0 +1,14 @@
+Operator Splitting
+0.18750077203091292
+Tassilo Kugelstadt
+0.17051668427821337
+Eigen
+0.15665099908454258
+Fast Corotated FEM
+0.15380482219262778
+include/Eigen/Eigen
+0.15074527481159014
+Finite Element Method
+0.10095269609597424
+https://galoko.github.io/FEM_WASM/
+0.07982875150613962

@@ -1,0 +1,7 @@
+blendshape
+0.40116627157873813
+facialAnimation----Youtubehttps://www.youtube.com/watch?v=CirS4GIoRDo&ab_channel=LingfengZhang
+CCD IK-----youtubehttps://www.youtube.com/watch?v=9ZFghHpgR_o&t=1s&ab_channel=LingfengZhang
+0.3589031853914358
+c++
+0.2399305430298258

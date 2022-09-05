@@ -1,0 +1,28 @@
+sandbox game project
+0.16305286292394439
+part
+0.13331802261857187
+fun
+0.08286454914611506
+learning process
+0.08059473491361668
+Technologies
+
+Several technologies
+0.08007160008545225
+several things
+0.07809515259959716
+Goals
+0.07670283149137415
+C/C++ coding
+0.07583505617695326
+Learn game development
+0.07413234770989482
+https://www.libsdl.org/
+0.061262909201867874
+https://visualstudio.microsoft.com/vs/community/
+0.04914622336678798
+Powershell - https://docs.microsoft.com/en-us/learn/modules/introduction-to-powershell/
+Docker - https://www.docker.com/
+Git - https://git-scm.com/
+0.04492370976582437

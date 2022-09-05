@@ -1,0 +1,112 @@
+3D scene
+0.06354645651205781
+Normal)Quadratic 
+Cubic 
+
+
+Rational
+0.04117875333301531
+implicit curves
+0.038753323840558226
+text
+0.03531250052795763
+icons
+0.0347852868072323
+Library
+
+Graphics API
+0.032229855067100244
+other GUI elements
+0.03183541152947849
+Stroke Width
+0.03110175483863931
+logos
+0.030003424552577002
+top
+0.027325147215402308
+classic 2D menu overlay
+0.02642195550467473
+wall
+0.025205520556887056
+HUD
+0.025111961950748544
+abitrary planes
+0.02476210892431056
+camera movement
+0.024649913166307505
+Filling
+0.024550527188772885
+mid air
+0.023997258261178808
+flat surface
+0.023581812482084713
+Integral
+0.021714907161467914
+showcase example
+0.02147640852143057
+Feature Roadmap
+0.021283597238909314
+polygon tesselation
+0.02121800947885237
+Docs
+crates.io
+
+Contrast Renderer
+
+Contrast
+0.02101765983332196
+Rational
+0.020482590025340832
+actions
+0.020402488371940433
+Closed / Open 
+Line Joins(Clipped) Miter 
+Bevel 
+Round 
+
+
+Line Caps
+0.0203650700088217
+wgpu
+Geometric Algebra
+0.01999103911798448
+Normal)Quadratic
+0.019927013706429776
+other forward-rendering code
+0.019169760377479843
+planar vector graphics
+0.01914607670125536
+Rust
+0.018848915756254792
+winit
+0.01844409179318962
+Rudimentary support
+ Planned support
+0.017960967987783252
+geometric_algebra
+[Optional] Font Loader: ttf-parser
+
+Dependencies
+0.01785771746103451
+Dependencies
+
+Dependencies
+0.017849743455157014
+Arc
+0.01746145195436447
+Animations
+0.017023300842280955
+web-gpu based 2D renderer
+0.016762496220363004
+log
+0.01630709575435032
+Shaders 
+Blending 
+Instancing 
+
+
+FillingPathsPolygons 
+Bezier CurvesIntegral
+0.015547743809817906
+Repeating Gap Intervals
+0.015388882163186221

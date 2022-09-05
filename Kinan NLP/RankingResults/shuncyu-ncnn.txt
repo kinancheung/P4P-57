@@ -1,0 +1,212 @@
+ncnn
+0.06418997138041146
+Build Status
+0.04567907195620271
+platform
+0.03605105758423691
+Linux
+0.03364258842852794
+Detection
+0.02930276695032768
+-
+0.02680266909447407
+MacOSX
+0.021496252435490543
+efficient ncnn implementation
+0.01851013941205964
+iOS
+0.018227835074094194
+cross-compiling
+Build
+0.017299194655144297
+third party dependencies
+0.014608652539284162
+cross
+0.014216865516146315
+CNN network
+0.013541751598990934
+mobile platforms
+0.013056590508657727
+x86
+0.011825721673250248
+calculation speed
+0.011435530031175048
+VS2017
+0.01139117066227181
+custom layer step
+0.0112711761478775
+Raspberry Pi
+0.011102168024669637
+Qzone
+0.0106210536797543
+WeChat
+0.010500496365977895
++
+0.010457346331086505
+Windows x64
+0.01037694482700616
+alexnet
+0.010367142514905985
+design
+0.010144550436960074
+ARM Cortex-A family
+0.010103842953942451
+detailed steps
+0.009679914287268342
+QQ
+0.009589279273459334
+beginning
+0.009481194441231359
+android, ios and so on
+ARM NEON assembly level
+0.00937854009461528
+Pitu
+0.009199890155540104
+fingertips
+0.009160196868264966
+Faster-RCNN R-FCN
+0.009143194255110846
+MTCNN facedetection
+0.009127731659005793
+Android
+0.009122611844751684
+GCC
+0.00900450373402744
+YOLOV2 YOLOV3 MobileNet-YOLOV3
+0.00894261017324159
+VGG-SSD MobileNet-SSD SqueezeNet-SSD MobileNetV2
+0.008872207961993277
+multiple input
+0.008740734133267205
+netron
+0.008626351827024998
+multi-branch structure
+0.008582113832347603
+SSDLite
+0.008439628181218555
+Clang
+0.008434542288698048
+Segmentation
+0.008393139715426913
+wrong result
+0.008368426502537548
+other computing framework
+Pure C
+0.008348018163506563
+PSPNet UNet
+0.008254115581561968
+part
+0.00824515997506372
+artificial intelligence
+0.008174674235212533
+NVIDIA Jetson
+0.008170770771899673
+careful optimization
+0.0081680080898161
+convolutional neural networks
+0.00816103031527941
+ResNet DenseNet SENet FPN
+0.008086190807425226
+Build Status  Build Status
+0.00808536168231012
+step
+0.008081012055325573
+beginners
+0.007978247517780614
+mobile phone cpu
+0.007973630337587127
+many Tencent applications
+0.007943481753610926
+Developers
+0.007921771808979641
+algorithm models
+0.007900074272850267
+Linux / Windows / Raspberry Pi3
+0.007833093062314965
+intelligent APPs
+0.007807379875849844
+CNN 
+
+Classical CNN
+0.007772070173940059
+BLAS / NNPACK
+0.007725577682912155
+binary package
+0.00772468004063477
+known open source frameworks
+0.007631801469310793
+deployment
+0.007626030531201119
+Light-weight CNN
+0.0076054542031880005
+high
+Sophisticated memory management and data structure design
+0.0075338889819901635
+VGG AlexNet GoogleNet Inception
+0.007520426250968682
+ncnn low-level operation api
+
+ncnn param and model file spec
+
+ncnn operation param weight table
+0.007510264233213495
+64bit
+0.0074128872722557205
+half-precision floating point storage
+0.00740562152333792
+8bit quantization
+0.007374707519937566
+SqueezeNet MobileNetV1/V2/V3 ShuffleNetV1/V2 MNasNet
+0.0073305255028720435
+known work
+0.006767493775325975
+Support direct memory
+0.006741249358752991
+copy reference load network model
+0.006558296682349565
+caffe/pytorch/mxnet/onnx models
+0.006341617762586662
+low memory footprint
+Supports multi-core parallel computing acceleration
+0.006213892564469374
+BSD
+0.006206001229108948
+Clause
+0.006180096297023318
+less than 300K
+Extensible model design
+0.006165687111872968
+less than 700K
+0.006127805326260819
+high-performance neural network inference computing framework
+0.006072102268197594
+vulkan api
+0.005991893115889325
+LITTLE cpu scheduling optimization
+Supports GPU acceleration
+0.005773559240354492
+Build Status  Build Status
+MacOS  Build Status  Build Status
+Android Build Status Build Status Build Status Build Status
+Android-x86 Build Status Build Status Build Status Build Status
+iOS Build Status Build Status  Build Status
+iOS Simulator Build Status Build Status  
+WebAssembly
+0.005533616391204888
+C++
+0.004815309237469857
+LITTLE cpu
+0.004688987490002848
+arm-cpu    / /
+arm-gpu    / /
+apple-cpu / / / / 
+apple-gpu / / / / 
+
+
+Example project
+
+QQ637093648
+0.004088730950791852
+nvidia-gpu     /
+qcom-cpu
+0.003918343494244667

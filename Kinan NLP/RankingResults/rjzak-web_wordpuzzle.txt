@@ -1,0 +1,17 @@
+WebAssembly
+0.2269774219493951
+Rust version
+0.18792756845771302
+C & Go versions
+0.15191329893305633
+Web Server
+
+C version
+Go version
+0.11374865394533529
+incomplete implementations
+0.11304156179473174
+Wordle Clone
+0.103276138587283
+network communications
+0.10311535633248577

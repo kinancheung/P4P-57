@@ -1,0 +1,98 @@
+bugs
+0.04948126461835049
+performance problems
+0.04735336042557234
+project
+0.04498068255800488
+Maki
+0.04004445456946857
+few examples
+0.0373273349229072
+cd maki
+mkdir build
+0.03311195161727902
+volume
+0.02958829267683651
+cd
+0.027994685400550178
+documentation
+0.0277814393337976
+cmake
+0.027635611313193337
+&
+0.026019543193782812
+feature requests
+0.025471117433217016
+morphing
+0.025459749341600786
+comments
+0.02511463896432602
+program
+0.025065238511170682
+development
+0.025031679683385464
+-DCMAKE_BUILD_TYPE=Release -Dplatform=glfw
+cmake
+0.02491865200989393
+maki_showcase.ipynb
+0.024010681950880526
+Python
+0.023951171925502307
+example maki.cpython-310-x86_64-linux-gnu.so
+0.023900166735548112
+interactive and programmatic animation development
+0.023706137217473822
+moment
+0.023578027405269028
+look
+0.02326891611695442
+author
+0.023229997568021046
+root
+0.023136666405638776
+Knickknack Inscriber
+0.021048610119348776
+compiled shared object
+0.020515553589840647
+image
+0.020033625417177865
+related note
+0.019901181662707296
+modes
+0.019684329542505825
+Time Travel
+0.019149287839957525
+Debug and Release builds
+0.0184905364037052
+issues
+0.018430196445626726
+build directory
+0.018106939854917445
+cross-platform project
+0.017848363405951976
+References
+
+opengl_reference
+lynton_legacy
+lynton
+ray_tracer
+Light
+The Cherno OpenGL
+opengl-tutorial.org
+imgui-cmake
+marshalling glm types
+0.016589092516227515
+Maki
+
+Mathematical Animation
+0.01602026600651336
+Linux-builds
+0.014692390389516953
+article
+0.014371731192090776
+media-libs/glew
+
+Compilation
+
+git clone https://github.com/christopher-besch/maki
+0.013956433715287347

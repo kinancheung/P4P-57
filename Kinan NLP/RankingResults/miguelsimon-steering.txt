@@ -1,0 +1,47 @@
+build
+0.10874487445559904
+static html website
+0.08095385595366801
+clang-tidy
+0.07699866040731645
+WebAssembly
+0.07301437980701618
+source
+0.056477442295581506
+http://localhost:8000/
+0.054645895924518434
+make fmt
+0.053964244880638106
+./build
+0.048662950099775254
+make docs
+0.04533737275280018
+local_server
+0.04505574978854721
+C++
+0.04493855378890365
+executable version
+0.04427820405173111
+submodules
+0.04398824137426805
+repo
+0.04081742130597356
+tidy runs
+0.03773482110291617
+easiest way
+0.03621656361502526
+cmake
+0.03601221013876745
+clone --recurse-submodules git@github.com
+0.03156280808310057
+emscripten toolchain
+cmake
+A modern C++ compiler
+SDL2 library
+0.021275293578830394
+Overview
+
+Demo website: https://miguelsimon.github.io/steering/
+
+Steering behaviours
+0.01932045659502331

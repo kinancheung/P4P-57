@@ -1,0 +1,51 @@
+le
+0.11219450553643182
+Imperativement modifier
+0.07613935854031795
+projet
+0.06772948094551932
+env.bat
+0.05141317705369956
+selon
+0.04565417085623785
+ATTENTION
+0.0456392353663167
+Mingw64 du MSYS2
+0.04446540168862777
+notamment
+0.042968471464452665
+abandonn
+0.042195556823159855
+MingW
+0.04155350268762359
+alors de passer  un autre compilateur
+0.041237373954430015
+Les
+0.03972821817134517
+MINGW
+0.03958223728450108
+c_cpp_properties.json
+tasks.json
+
+Je compile actuellement
+0.03940452666947994
+comme une platform purement
+0.03666189698732955
+Egalement le .vscode contient des
+0.034523871490685705
+vos nouveaux
+0.03367563498976585
+Je
+0.03350858240466513
+compilant dans
+0.031965889707973136
+Des problmes de compatibilits peuvent survenir
+0.03153226752176788
+./cmake_build.bat
+
+Pour le dploiement du bin, jutilise
+0.02583260216116597
+python
+0.02287613266836697
+rcente de SimpleHTTPServer
+0.019517905026136845

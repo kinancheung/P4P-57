@@ -1,0 +1,29 @@
+WebAssembly runtime
+0.19569081074062827
+wasmer
+0.1701175337382752
+Interaction
+0.1097876078308798
+Key ResultsConfirmation
+0.09883434309679759
+linux
+0.09482450096828872
+C
+0.09028162195397839
+C.
+
+Setup environment
+0.08896348968293077
+Dockerfile
+check wasm config
+
+wasmer config
+0.06003084595322121
+wasmer-poc
+
+OKR
+
+ObjectiveInvestigation
+0.05245675097514327
+example
+0.039012495059856794

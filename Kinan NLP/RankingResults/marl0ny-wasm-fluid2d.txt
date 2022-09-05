@@ -1,0 +1,69 @@
+javascript+HTML5 Fluid Dynamics Simulation
+0.07476857388495119
+GPU
+0.05936751334761452
+WebAssembly
+0.048068166808643606
+OpenGL
+0.04232912911388824
+progress
+0.0405984600977814
+fluid simulations
+0.03941700316239745
+C++
+0.03923317773936329
+GLFW
+0.039171287397383125
+Nvidias book
+0.038169099027217754
+2D
+0.03587156810093458
+work
+0.03508225517930341
+original stable fluid
+0.03364964844872398
+algorithm
+0.03355524240398723
+chapter
+0.03229824163186627
+Mark J. Harris
+0.032256592626290326
+additional inspiration
+0.0320870395764283
+Jos Stam
+0.03189140616616171
+PavelDoGreat
+0.030507205856456943
+Chapter
+0.02985041478485218
+opengl-canvas-wasm example
+0.027714593185679308
+primary reference
+0.024849143546635866
+Daniel Schroeders instructional document
+0.024641562806199988
+project
+0.024603468149557897
+Lattice-Boltzmann fluid simulation
+0.024236634275475788
+WIP
+0.023367773402843493
+timhutton
+0.02295282634614799
+stable fluids implementation
+0.021696535104524284
+particular simulation
+0.02080936993647276
+TODO
+
+Stable fluids
+Add barriers
+0.020194278461481727
+stable fluids
+Lattice-Boltzmann
+FVM 
+Other Finite Difference Methods
+FEM
+SPH
+Relativistic fluids
+0.016761789430735714

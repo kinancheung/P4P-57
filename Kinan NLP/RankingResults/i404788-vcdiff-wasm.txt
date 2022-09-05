@@ -1,0 +1,18 @@
+const { encoder
+0.25928556457977897
+encoder(Buffer.from(abc
+0.18646884762474975
+decoder
+0.17566352355547515
+async function testvcdiff
+0.14913042359588774
+console.log(delta)
+
+    const target = decoder(Buffer.from(abc
+0.09109822344944471
+de/encoder
+
+async function onlyencoder
+0.07969562122792788
+decoder(Buffer.from(abc
+0.058657795966735995

@@ -1,0 +1,80 @@
+Emscripten
+0.06314171538242967
+C++ library
+0.039985853980122166
+typical usage
+0.038962169621254934
+std_extsimplifies
+0.03830781378291727
+Ctoolhu
+0.03571101884684119
+use
+0.031261425557300174
+duration measurement
+0.030991303656629
+singletonsingleton holder
+0.030492570125647746
+standard library algorithms
+0.03027391650496379
+timestopwatch
+0.0302004197038959
+threadlocking proxy
+0.02870085153675874
+std::unique_ptr
+
+
+property_treesimplifies JSON conversion
+0.02849301967499361
+containers
+0.028483612951750045
+Boost
+0.028018361766911783
+variable lifetime
+0.02749648588839572
+boost::object_pool
+0.027373848174948624
+typesafetype-safe integers
+0.027097268675025987
+object-level locking
+implementation
+0.027022752600836884
+thread pool
+0.026148620212444088
+async
+0.02608624990212354
+Loki
+0.025953213935125848
+lightweight implementations
+0.02421174262012102
+visitorboilerplate
+0.02408961617621578
+design patterns
+0.023974280959170438
+general tools
+0.023684973248285925
+other files
+0.023582451702478295
+ctoolhu directory
+0.023198406083237387
+boost::property_tree
+
+
+randomrandom number generators
+random selector
+0.022716091144877985
+repository
+0.022474818110200634
+Online school timetable software
+0.022147912491562095
+Skolaris
+0.022047600385207172
+visitor pattern
+0.021980184540834072
+auto-subscription
+0.021706733115325727
+eventevent aggregator
+0.02139637419373152
+more components
+0.0178285654761171
+MIT
+0.01475775727131827

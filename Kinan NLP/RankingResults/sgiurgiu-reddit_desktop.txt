@@ -1,0 +1,219 @@
+cmake
+0.03085821442496117
+vcpkg folder
+0.029599283420561815
+package
+0.028922756903743612
+install
+0.023656169584614996
+desired.)New-Item
+0.021689579847149695
+GPG-KEY-rpmfusion-free-fedora
+0.02033447015335242
+scripts
+0.020022539552445866
+releases page
+0.019179932411596674
+windows
+0.01917316080107527
+podman
+0.01831678495835644
+git
+0.015466476224628024
+libmpv
+0.015288106541594064
+docker
+0.015137551264571822
+powershell-core
+0.015113337797078191
+rpm file
+0.014755077545533226
+latest release
+0.014233003372278027
+E:\projects\mpv
+cd E:\projects\mpv
+
+#Download
+0.013976790284808345
+container image
+0.013551829252230776
+Fedora
+0.013166006364176449
+OS
+0.013153868609224437
+folder>/scripts/buildsystems
+0.012745839708324873
+example
+0.012397870133919655
+RPM
+0.012316000939452034
+-DVCPKG_TARGET_TRIPLET
+0.011973919436713798
+-DCMAKE_BUILD_TYPE=Release -DENABLE_TESTS=OFF
+0.011831195330143993
+ninja
+0.011763149070973037
+unix
+0.011669110306332095
+wixtoolset
+0.011557357567924056
+vcpkg.cmake
+0.01133530198108548
+--build
+0.011044501052611136
+--security-opt=label=type
+0.011004081603747193
+x86_64-.7z
+0.010843340964196835
+Change
+0.010156072745922647
+Big thanks
+0.009646909984842255
+x64-windows-static
+0.00952970478532729
+E:\projects\vcpkg
+0.009439905107482167
+UI
+0.009297968288933074
+Net
+0.009052762364540267
+sudo dnf
+0.009040286887357411
+linux
+0.0089424281426209
+WebClient).DownloadString(https://chocolatey.org/install.ps1
+0.008825813974860803
+unix:/tmp/.X11
+0.008818347406519048
+ocornut
+0.008584370473155143
+rpmfusion
+0.008319938145477783
+WindowsInstall VS2019
+0.00830190904770488
+Dear ImGui library
+0.008237925021822332
+mpv.def
+0.00819860477299598
+Debian based distributions
+0.008179131759120871
+C++ Support package
+Install prerequisites
+0.008175782349904934
+-DYOUTUBE_DL="<youtube-dl.exe path
+0.008160600005754642
+authority
+0.008139944131665763
+Community edition
+0.008133217459967538
+lib /dev
+0.008005918772421938
+repository
+0.007913154595106543
+simple powershell script
+0.00785805020576505
+process
+0.007783606280625403
+application
+0.007762730583622838
+development environment
+0.0077423345546176765
+reddit_desktop_runtime.tar.gz file
+0.007656563615773366
+other contributors
+0.007623174719951675
+apt install <deb file
+0.007607083784036541
+source
+0.007605489618260094
+Prerequisites
+
+Git
+A C++20 capable compiler
+0.007601993875921071
+New-Object System
+0.0075449327456433915
+&
+0.007490188472658425
+\
+0.007465366993636143
+Start-Process https://sourceforge.net/projects/mpv-player-windows/files/libmpv/
+0.007450782883029722
+/out
+0.007353466544449223
+desktop client
+0.007312092452332129
+reddit
+0.007252608342644042
+VS2019 Developer command prompt
+0.0072224586719595914
+src/reddit_desktop
+
+
+Windows
+
+  cmake
+0.007220339719499126
+/etc/pki/rpm-gpg/RPM
+0.007193183660403229
+Directory -Force
+0.007145169444832204
+pwd\$($latestYoutubeExeAsset.name
+0.0071144645928447135
+Set-ExecutionPolicy Bypass -Scope Process -Force
+0.007075517545527056
+allowGlobalConfirmation
+choco install
+0.007021329391869896
+choco install git.install
+choco install cmake.install
+0.00693253406173918
+E:\projects\
+0.006858400011504132
+vcpkg.bat
+0.006621838582188634
+Linux
+0.006560788949764137
+cd
+0.0064679306193298185
+amazing work
+0.006457619499606075
+container_runtime_t \
+         -e DISPLAY
+0.006455701308754022
+ADD_CMAKE_TO_PATH
+0.006451945273290424
+Windows
+0.006217614727812635
++
+0.006159570961114677
+youtube_dl_latest_uri = "https://api.github.com/repos/ytdl-org/youtube-dl/releases/latest"
+$latestYoutubeDlRelease
+0.006141582726994362
+Reddit Desktop
+0.006074670085229645
+Invoke-RestMethod $youtube_dl_latest_uri
+$latestYoutubeDlReleaseAssets
+0.006067230332989603
+-e
+0.006028953596786513
+user/0
+0.005950762110750671
+reddit_desktop_runtime
+0.005852679885013947
+latestYoutubeDlRelease.assets
+0.005736197009330547
+pkg
+0.005207585857172105
+ninja-build libxmu-dev libxi-dev libgl-dev
+0.004913113053870998
+executable
+
+cd <projects folder>
+
+git clone --recurse-submodules https://github.com/sgiurgiu/reddit_desktop.git
+
+Linux
+
+  mkdir build
+0.004563049013945499

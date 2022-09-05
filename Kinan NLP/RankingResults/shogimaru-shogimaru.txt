@@ -1,0 +1,49 @@
+WebAssembly
+0.15849823945836655
+macOS
+0.0921876761927306
+Linux
+0.08915349716354838
+Qt
+0.08498461293835943
+wasm-emscripten CONFIG+=release
+0.0764842411374956
+multithread
+0.055344604756543944
+qmake
+0.05427622361172386
+Emscripten(2.0.6
+0.04989140300010064
+Windows
+0.04949674532801696
+&
+0.045966819427016574
+git clone
+0.045563299688393545
+https://github.com/shogimaru/shogimaru.git
+
+
+
+ $ qmake CONFIG+=release
+0.04222555319014605
+USI 
+
+ - Windows
+0.03775518470732583
+clang )
+ $ qmake
+0.033254057128581996
+GUI  C++
+0.032152572535949844
+https://github.com/shogimaru/shogimaru.git
+
+
+WebAssembly  Makefile 
+
+ $ cd engines
+0.028405872931003932
+WebAssembly 
+ WebAssembly  ...  WebAssembly 
+ - 
+Twitter @shogimaru
+0.024359396804696197

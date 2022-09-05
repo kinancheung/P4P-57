@@ -1,0 +1,64 @@
+wasm",
+    "files
+0.08493144982479445
+success
+0.07996753521010529
+console
+0.07455373872092981
+link_options
+0.058885297412411816
+name
+0.053338432731331
+int main() { return
+0.051627339035792044
+Ly8gQ29weXJpZ
+0.04959483854563156
+jsFile
+0.047119988716835315
+https://github.com/trzecieu/emscripten-docker
+0.04561406702755844
+wasm
+0.04286336815981219
+emscripten 
+
+ docker  dockerFile 
+
+
+
+trzecieu/emscripten-docker
+yurydelendik/clang-heroku-slug
+
+ post 
+
+
+
+{
+    "output
+0.04249732635059044
+type
+0.04225812916207248
+cpp",
+            "name": "file.cpp",
+            "options
+0.04210444832978586
+true,
+        },
+        {
+            "name
+0.03817908767811448
+AGFzbQEAAAAAD
+0.0381650765056169
+output
+0.03811999432469508
+file
+0.03801029490617801
+\
+{
+    "tasks
+0.03744503197754637
+-O3
+0.03311984610782455
+https://hub.docker.com/r/trzeci/emscripten/
+0.03162601794780298
+curl -X POST
+0.029978691324570927

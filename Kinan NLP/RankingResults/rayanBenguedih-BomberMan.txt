@@ -1,0 +1,63 @@
+sa
+0.09614090454043187
+pour
+0.05088477544394708
+Prvilgie
+0.04753725563558525
+A* pour le pathfinding
+0.047311074515882304
+daller hors
+0.04660738587117414
+LIA
+0.04479902560221978
+et se suicide
+0.04099188789260643
+LIntelligence artificielle
+0.03747679889612015
+regardant les bombes
+0.037465415856996066
+plein milieu de son chemin
+0.0360497584028641
+Rcupre les power ups
+0.035181416350755605
+Protocole
+0.03514670431289884
+va viter une bombe
+0.03503767186674672
+lintelligence Artificielle de lIndie Studio
+0.03444563674149156
+pour samliorer
+Casse les
+0.034428014089900066
+destructibles
+0.0338915590719092
+projet sont
+0.03386026565111763
+jai
+0.03375450204908872
+Tue le joueur et le pourchasse
+
+Bugs connus
+0.03259306533465564
+Les participants
+0.032426641325852636
+du bug
+0.03224916547131192
+plein
+0.028291347853778168
+Pierres-Jean Descarpenteries - ECS
+Matthias Petitjean - Engine
+Quentin Dubois - Gameplay
+Thibaud Fontaine - Sound Design & Modles
+Rayan Benguedih - Intelligence Artificielle
+
+Fonctionnement de lIA
+0.027935792617480353
+coteux
+0.024584514598622306
+route
+0.023059199803888146
+lancer le jeu est "bomberman" fonctionnant sous Linux
+0.020801759292767234
+Indie Studio
+0.017048460909908063

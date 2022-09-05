@@ -1,0 +1,2 @@
+wasm-logger
+1.0

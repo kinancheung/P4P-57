@@ -1,0 +1,25 @@
+enjoy
+0.11394454334860293
+local web server
+0.11040388617978644
+test harness
+0.09298721894525379
+Installed emscripten SDK
+0.08789073155461294
+different quality settings
+0.08582406799117727
+Load index.html
+0.08495702314248603
+browser
+0.08092782800081907
+https://github.com/juj/emsdk
+some version
+0.0791228754696134
+command line
+0.07414109460370188
+Apache License
+0.07294738743026025
+JPEG codec
+0.06294780215061747
+official Google product
+0.05390554118306827

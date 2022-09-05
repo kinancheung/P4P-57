@@ -1,0 +1,4 @@
+Istio WASM metadata exchange filter
+0.5
+filter
+0.5

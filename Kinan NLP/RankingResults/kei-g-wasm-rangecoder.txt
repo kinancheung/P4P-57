@@ -1,0 +1,10 @@
+wasm-rangecoder
+
+RangeCoder implementation
+0.5
+WebAssembly
+
+Travis CI
+License
+GitHub package.json version
+0.5

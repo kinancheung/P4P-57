@@ -1,0 +1,2 @@
+solo.io envoy wasm filters
+1.0

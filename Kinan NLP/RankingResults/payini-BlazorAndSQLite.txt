@@ -1,0 +1,611 @@
+Blazor WebAssembly Application
+0.025602348936571293
+Microsoft
+0.02096704081578591
+SQLite
+0.018658631355409887
+builder
+0.015329291288022105
+demo app
+0.013028507068105244
+database schema
+0.012763255090254501
+SQLite C source code
+0.012556346969189247
+settings
+0.011839533642811184
+file
+0.01149954823785893
+DbContext
+0.010588071301907314
+basic "Settings" page
+0.010487216569057753
+node-14.18.2-64bit
+0.009968549764838613
+Services
+0.009803787811794383
+application
+0.00973211076211223
+environment variables
+0.009475980622341212
+AspNetCore
+0.009231459098422911
+Components
+0.00920299172366747
+SQL Server\150\DTS\Binn\;C:\Program Files\TortoiseGit\bin;C:\Program Files\Microsoft VS Code\bin;C:\Program
+0.009137085539667116
+.NET
+0.008519252469202019
+public string Name
+0.008504984738638977
+Fetch Data div
+0.00795415836087492
+PATH
+0.007767117083507393
+BlazorAndSQLite
+0.007194463735574731
+service
+0.007142007115078759
+Files\NVIDIA
+0.00697892236285952
+default
+0.006656046936988088
+md-12
+0.006652806153511006
+class="col
+0.006587534456873776
+instance
+0.006553171873600954
+order
+0.006335497304698677
+AddDbContextFactory
+0.006331971267606074
+tools
+0.006322075945597566
+=> options
+0.0062869320072129805
+var
+0.006215869080822902
+PackageReference
+0.0061177811322497755
+mb-3
+0.0060782818313659575
+new feature
+0.0060715077003069395
+EnsureCreated
+0.005920227185924809
+label for="Name">Name</label
+0.0058850700943291374
+Y:/emsdk/zips/node-v14.18.2-win-x64.zip
+0.005754998133700594
+build
+0.005691946848872339
+wwwroot folder
+0.005634738739472141
+Additional information
+0.005353941100098994
+Sqlite
+0.005205419132163455
+top
+0.005110490389194412
+Y:/emsdk
+0.005089242746659106
+NuGet package reference
+0.005029826180813514
+%
+0.00495184637361354
+data
+0.004946518688904952
+@bind-Value="SettingsViewModel
+0.004909128992945
+Corporation\Nsight
+0.0047950428886399665
+releases
+0.004528397748379071
+next steps
+0.0044963569487517134
+IDbContextFactory
+0.0044608531072983775
+Models folder
+0.004387241080192837
+changes
+0.004386139639550404
+SDK
+0.004384510216231185
+blue_book
+0.004315834414807302
+WebAssembly" Version="6.0.5
+0.004306702829687318
+d
+0.0042635872192727615
+Blazor apps
+0.004219258219283028
+specific dlls
+0.004203078137252132
+Native Dependencies
+0.004132262692144363
+time
+0.004088598051428499
+compiled e_sqlite3.o output
+0.004041770330973457
+hypothetical user
+0.004004252583780152
+new project
+0.003978513132850556
+Name" class="form-control
+0.0039445873315298256
+Settings.cs class
+0.003914440595603756
+a8c3b314d61e2bb98581d522f858132b2fc21488
+0.00388948952084017
+emsdk
+0.0038845507977592966
+public class ApplicationDbContext
+0.003773517306355125
+RootComponents
+0.0037448098262843586
+Settings.razor
+0.0037298033457961316
+BuildServiceProvider().GetService
+0.003647969774279434
+EF Core
+0.003601761429953794
+Visual Studio 2022 Preview
+Mobile Development
+0.003556850758051194
+DbContext = DbFactory?.CreateDbContext
+0.0035553167183336627
+BaseAddress
+0.003552781281571415
+Configuration
+0.0035295565430012036
+record
+0.003503658567409495
+System
+0.003471339524135389
+dbContext?.Database
+0.003440406443394806
+GetConnectionString("DefaultConnection
+0.0034308668167342586
+Y:\emsdk;Y:\emsdk\node\14.18.2_64bit\bin;Y:\emsdk\upstream\emscripten;C:\Program Files\PowerShell\7;C:\Program
+0.003364690919473173
+x86)\GitExtensions\;C:\Program Files\Git LFS;C:\Program
+0.0033256081936900777
+EntityFrameworkCore
+0.003245648292174134
+case
+0.0032174110639516034
+VS Code Insiders\bin;C:\Program
+0.003164427803917483
+SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Program Files\dotnet\;C:\Program Files
+0.0031538567167488166
+CD
+0.0031463682648148906
+UseSqlite(connectionString
+0.0031463049274745337
+UtcNow
+0.0031415135962855794
+C
+0.0031396724929605904
+x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA
+0.0030994142041277433
+div class="form-check
+0.0030803600409785676
+public DateTime SettingsPageLastVisitDate
+0.003077995724813323
+Logs
+0.0030679993354949774
+public int SettingsPageVisitCounter
+0.0030535437885356757
+command
+0.0030534808030732693
+GPU Computing Toolkit\CUDA\v11.4\bin;C:\Program
+0.00304215004565181
+NvDLISR;C:\ProgramData\chocolatey\bin;C:\Program Files\Azure Data Studio\bin;C:\Program Files
+0.0030400488694146428
+SIDE_MODULE setting
+0.003036603446860372
+option
+0.0030355597642330538
+advantage
+0.0030295434105630263
+x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files
+0.0030250690795279415
+root
+0.003021069736665595
+dll reference
+0.0030153508726223997
+sdk
+0.0029735370219557385
+output
+0.0029619052806456802
+process
+0.002959358787422103
+Foundation\jdk-8.0.302.8-hotspot\bin;C:\Program Files\Microsoft\jdk-11.0.12.7-hotspot\bin;C:\Program Files
+0.002952301442567218
+unzipped sqlite-amalgamation-3380500 folder
+0.0029496905320126054
+Tools
+0.002944248606794246
+runtime
+0.0029204545319957307
+e_sqlite3.o Output  
+
+Link SQLite
+0.00287888024189755
+solution
+0.0028386460467210344
+posh\bin;C:\flutter\bin
+0.002830682899752116
+public class Settings
+0.0027721230290781067
+link process
+0.0027690150642959
+e_sqlite3 dll
+0.0027472427071988954
+SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\MinGW\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files
+0.0027311528218343017
+Native File Reference
+0.0027168150170586106
+emsdk_env.bat
+0.00270657601923625
+section
+0.002700511582219056
+tool
+0.002696403065877209
+Installing tool python-3.9.2-nuget-64bit
+0.002674528868108539
+following prerequisites
+0.002670132303628222
+instructions
+0.002666954853645047
+latest version
+0.002610205269844873
+Include="Microsoft
+0.0025901412201427857
+protected override void OnModelCreating(ModelBuilder builder
+0.0025673623373897742
+new Razor Component
+0.0025392553286567457
+ASP.NET and web development workload
+0.002488995789316349
+Entity Framework Core
+0.00240667495514408
+pre
+0.0024061141868757675
+browser
+0.0023970594602687805
+DefaultConnection
+0.002394853646909594
+ConnectionStrings
+0.0023774637214886117
+Installing SDK sdk-releases-upstream-a8c3b314d61e2bb98581d522f858132b2fc21488-64bit..
+Installing tool node-14.18.2-64bit
+0.002375545381977354
+public DbSet<Settings> Settings
+0.002344456683041493
+line
+0.0023397458449775747
+SettingsViewModel
+0.002338084748856467
+FITNESS
+0.0022717597691743565
+Web
+0.0022595844000428563
+Hosting
+0.0022514809980405787
+MERCHANTABILITY
+0.002208268342828402
+HostEnvironment
+0.0021555476829134344
+DllNotFoundException
+0.0021276102799303613
+Download
+0.0021261657661258344
+Add<App>("#app
+0.002117058413451999
+emulation
+0.0020941136037271988
+ComponentModel
+0.002079741238242344
+PARTICULAR PURPOSE
+0.0020777675711079967
+Copyright
+0.002069653429069547
+view model
+0.0020670790904547976
+e_sqlite3
+0.0020649188019194386
+python/3.9.2
+0.002055460454054801
+GNU ld
+0.0020514034325303755
+form
+0.0020413883226881144
+for="LastVisitedDate">Last
+0.0020413368680502466
+Table
+0.0020380363802532937
+linker
+0.0020367469064030705
+directories
+0.0020245128493666014
+https://storage.googleapis.com/webassembly/emscripten-releases-builds/win/a8c3b314d61e2bb98581d522f858132b2fc21488/wasm-binaries.zip
+0.0020223122605493647
+WebAssemblyHostBuilder.CreateDefault(args
+0.002008647133733223
+executes
+0.002001910656176756
+DevServer" Version="6.0.5" PrivateAssets="all
+0.002000967372594362
+ItemGroup
+0.001994396106170521
+nuget-64bit
+0.001982774078922021
+choice
+0.0019783368785191583
+DataAnnotations
+0.001975832002709761
+appsettings.json
+0.0019755019865970117
+library
+0.001973609782672985
+Bytes
+0.001969474113792103
+-shared
+0.001965216261105792
+nuget_64bit
+0.0019426553128952604
+HeadOutlet>("head::after
+0.0019239296377915156
+warranty
+0.0019195856392502833
+binaries.zip
+0.001912114566903035
+TargetFramework
+0.0018986135172650359
+Windows PC
+0.001898498729476339
+net6.0</TargetFramework
+0.001894753510540303
+Emscripten authors
+0.0018944467896461687
+Build().RunAsync
+0.0018869100483095986
+Pages
+0.0018841267500418234
+Exception
+0.0018827128710418447
+values
+0.0018769558520127056
+Y:\emsdk\java\8.152_64bit
+0.0018767983380904533
+Build Output
+0.0018746855540169368
+support
+0.0018703787927166707
+PowerShell
+0.00186817117927234
+SettingsPage.razor
+0.0018479255537469808
+style="white-space
+0.001847278788768682
+static object file
+0.0018369565563784982
+UI components
+0.001833357223057612
+type appsettings
+0.0018244329086012099
+Y:\emsdk\python\3.9.2
+0.001824353965572052
+/PropertyGroup
+0.0018238421105866438
+MIT license
+0.0018191952126189342
+Command Prompt
+0.001817415270397064
+Add(settings
+0.0018132568377285994
+warning
+0.001802538616930569
+amd64+pywin32.zip
+0.0017990519511613442
+sqlite-amalgamation-3380500.zip
+0.0017926654824090421
+Mac or Linux machines
+0.0017905573362773759
+https://storage.googleapis.com/webassembly/emscripten-releases-builds/deps/python-3.9.2-4-amd64+pywin32.zip
+0.0017870598597463198
+SaveChangesAsync
+0.001786001667004977
+Y:\emsdk\node\14.18.2_64bit\bin\node.exe
+0.0017852661574381803
+free and open source software
+0.001785167554605251
+using statement
+0.0017824960091052677
+Settings</h3
+0.0017815486396870347
+NET.Sdk
+0.0017740641155585208
+Ctrl+Shift+A
+0.0017709280359254399
+EditForm Model="@SettingsViewModel" class="row p-3" OnSubmit="@SaveSettings
+0.001770055163080968
+requirement
+0.0017666453015032807
+open-up great opportunities
+0.0017650222507844635
+Project Sdk="Microsoft
+0.0017643432216720954
+@page "/settings"
+<h3
+0.0017627755222777931
+arbitrary properties
+0.0017587776984085864
+links
+0.0017527455323079852
+different types
+0.001749788003966954
+Code-First approach
+0.001749399186585709
+ability
+0.0017461079420217451
+Emscripten gcc/clang-like replacement
+0.0017311181229094231
+Database
+0.0017251491661101671
+search box
+0.0017247104847455408
+InputTextArea id="Logs" disabled rows="20
+0.001722100495305404
+coded value
+0.0017094704302400125
+unused features
+0.0016908536376697687
+emsdk --version
+
+emcc --version
+
+emcc
+0.0016852792536074031
+ORM
+0.0016836516458476787
+look
+0.0016835450508012899
+Framework
+0.001679182595371778
+Counting
+0.00167899074292747
+dir
+0.001678905801382527
+remote
+0.0016657951789596365
+Mobile Development
+0.0016651267753429288
+emsdk.git
+0.0016545623427536087
+delta
+0.0016493628052696523
+Resolving deltas
+0.0016471231180738475
+remote: Compressing objects
+0.001644043354432098
+variable
+0.0016433050013464185
+NativeFileReference Include="e_sqlite3.o
+0.0016415677577303132
+Task
+0.0016395164287185116
+magic
+0.0016366004722919256
+object-relational mapping
+0.0016322785833095472
+Shift+Alt+C
+0.0016300989030196948
+main menu
+0.0016241635178386757
+Enumerating
+0.0016232941622849673
+SettingsViewModel = settings;
+            }
+
+            await base
+0.0016148707776506522
+ApplicationDbContext.cs
+0.0016118430963282672
+Running Application
+0.0016052513379673642
+InputDate id="Settings Page Last Visit Date
+0.0015983016687429667
+Settings.cs  
+
+Settings.cs
+
+Settings.cs file
+0.0015963724148202506
+MiB | 4.35 MiB/s
+0.0015940385213881428
+TIP
+0.00159226399498444
+logs
+0.0015917482590957312
+public bool ReceiveNotifications
+0.0015900274726757169
+core-uninstall\;C:\Users\admin\AppData\Local\Android\Sdk\platform-tools;C:\Program Files\PowerShell\7\;C:\Users\admin\AppData\Local\Microsoft\WindowsApps;C:\Users\admin\AppData\Local\Programs\Fiddler;C:\Users\admin\.dotnet\tools;C:\Users\admin\go\bin;C:\Program
+0.0015883992624330322
+Save button
+0.0015864852129934966
+application.db
+0.0015809898241441241
+private void SaveSettings
+0.0015800292663352914
+NavMenu.razor
+0.001575974714045755
+NET
+0.0015734599051435087
+pack-reused 3281
+Receiving objects
+0.0015710819094016243
+DbFactory
+0.0015688782184966415
+ContentsIntroduction
+Prerequisites
+0.0015658972795249018
+InputNumber id="Settings Page Visit Counter" disabled @bind-Value="SettingsViewModel.SettingsPageVisitCounter" class="form-control
+0.0015549439271217644
+Long-term support
+0.0015522949671659314
+https://storage.googleapis.com/webassembly/emscripten-releases-builds/deps/portable_jre_8_update_152_64bit.zip
+0.0015461101544682195
+example
+0.0015392650108843888
+https://storage.googleapis.com/webassembly/emscripten-releases-builds/deps/node-v14.18.2-win-x64.zip
+0.0015370676874640597
+.\emsdk
+0.0015299906884964137
+sample app
+0.0015215151942531147
+div class="nav-item px-3">
+            <NavLink class="nav-link" href="settings
+0.001514830310887975
+Resources
+
+Resource Title Url
+0.0015013706410061743
+end
+0.001492335333238468
+https://docs.microsoft.com/en-us/aspnet/core/blazor/webassembly-native-dependencies?view=aspnetcore-6.0
+0.0014915651516877355
+div class="col-md-6 mb-3
+0.001481858193923271
+Demo App
+0.001473432908249962
+things
+0.0014674698330057506
+class="btn btn-primary">Save</button
+0.0014636451133941196
+public void Dispose
+0.0014592504077471154
+True;MultipleActiveResultSets
+0.0014572047561451072
+Carl Franklin
+0.0014541481390347895
+DemoCreate
+0.0014459614880935972
+pages
+0.0014391713811558293
+DbContext?.SaveChangesAsync
+0.0014331690392213458
+OnModelCreating(builder
+0.0014228506189642377
+DbContext?.Dispose
+0.0014131148697998461
+Notifications
+0.0013928409750525526
++3 Filenames https://www.sqlite.org/draft/shortnames.html#:~:text=The%20default%20configuration%20of%20SQLite%20assumes%20the%20underlying,filename%20extension%20or%20with%20no%20extension%20at%20all
+0.0013759968446104406
+span
+0.0013333020193662163
+episode
+0.001254166106470644

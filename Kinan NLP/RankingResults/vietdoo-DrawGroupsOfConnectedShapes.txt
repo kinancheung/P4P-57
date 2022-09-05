@@ -1,0 +1,2 @@
+DrawGroupsOfConnectedShapes
+1.0

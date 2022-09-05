@@ -1,0 +1,42 @@
+CPP program
+0.1323536231599671
+Steps
+0.1304039078436152
+set
+0.10412000401222632
+numbers
+0.09624956332787202
+cppunit
+0.06811830099295146
+package
+0.06701701858661233
+com.apple.pkg.CLTools_SDK_macOS12
+
+# local libs
+0.06507080545167605
+README.md  
+
+Resources
+
+C++ reference
+0.06332425950965932
+CPP examples
+0.06327022068065462
+lint
+webassembly
+xcode
+abseil
+
+VSCode Extensions
+
+code --install-extension ms-vscode.cpptools
+code --install-extension ms-vscode.cpptools-extension-pack
+0.059582411033801984
+pkgutil
+0.05151778902161938
+CPP Examples
+
+A repository
+0.04960019421233257
+ls
+0.049371902167011684

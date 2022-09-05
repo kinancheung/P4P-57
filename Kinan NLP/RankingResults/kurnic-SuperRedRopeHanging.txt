@@ -1,0 +1,83 @@
+arcade game
+0.060225933182451376
+Super Red Rope Hanging
+0.04674035499123131
+menu
+0.044430317395524964
+sounds
+0.041471402441654516
+elastic red rope
+0.041421006943107165
+ball
+0.03968137996935329
+grab
+0.03889847800815528
+Crash
+0.03500338839315441
+Controls
+0.033641879473986995
+further details
+0.03253323275922201
+Mouse
+0.03181557089011249
+player
+0.031522455399286636
+LICENSE
+0.03083776645560241
+stress
+0.028851628359015433
+raylib5kgamejam
+0.027789069560395868
+https://itch.io/jam/raylib-5k-gamejam
+0.02772992734811845
+https://kurnic.itch.io/super-red-rope-puzzles
+0.02618630626509682
+gray areas
+0.025601379426004437
+Desolation v1.0
+0.025518774873153967
+small spinoff
+0.025373480960690503
+https://github.com/OpenSourceMusic/Desolation
+0.025360748040564287
+BFXR (https://www.bfxr.net/)
+
+Audio loops
+0.025050360775954437
+Josh Penn-Pierson
+0.02495530786345125
+Copyright
+0.02428784625573484
+open source song
+0.02377170916418517
+closed source software
+0.02285776159980257
+quick challenge
+0.022466981177908633
+internet browsers
+0.021889054993081396
+WebAssembly
+0.020669459087064683
+Screenshots
+
+Super Red Rope Hanging
+Super Red Rope Hanging
+Super Red Rope Hanging
+Super Red Rope Hanging
+
+Developers
+
+Kurnic
+
+Links
+
+itch.io Release
+0.020422277325207717
+kurnic
+0.01864559375573261
+OSI-certified, BSD-like license
+0.01831559888620928
+unmodified zlib/libpng license
+0.018291671193876046
+raylib
+0.01774189678590865

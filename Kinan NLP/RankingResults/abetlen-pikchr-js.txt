@@ -1,0 +1,14 @@
+official documentation
+0.22894780961216124
+diagrams
+0.2063674880582096
+browser
+0.16084903001663942
+Pikchr
+0.11594539616453242
+Pikchr.js
+0.11495026317264352
+PIC-like markup language
+0.09888499981265382
+Pikchr.js - Generate pikchr diagrams
+0.07405501316316031

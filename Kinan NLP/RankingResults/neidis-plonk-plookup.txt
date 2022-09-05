@@ -1,0 +1,24 @@
+falafel - Rollup server
+0.09863486220859455
+barretenberg
+0.09492735640034608
+browser work
+0.09373605343169715
+concept
+0.09199549063774574
+hummus - Webpack proof
+0.09015899202982601
+noir-vscode - Syntax highlighting
+0.087630128948206
+Noir language
+0.08497334569404222
+Visual Studio Code
+0.07684527907298598
+barretenberg - C++ library source code
+0.07538699472930109
+following sub projects
+0.07409880444357261
+barretenberg.js - TypeScript wrapper around WASM build
+0.07367720808433535
+Aztec 2.0 system
+0.05793548431934678

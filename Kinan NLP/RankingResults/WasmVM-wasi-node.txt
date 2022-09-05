@@ -1,0 +1,18 @@
+addon
+0.27272485301441607
+WASI interface
+0.19314079997467487
+npm install Install
+0.13876249647272446
+Node.js C/C++
+0.12866905405796422
+node-gyp
+0.12846977905750176
+WebAssembly binary
+
+node --experimental-wasm-bigint scripts
+0.07920199363637175
+Documents
+
+Purposal
+0.05903102378634659

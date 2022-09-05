@@ -1,0 +1,6 @@
+sword-core
+
+web assembly module
+0.5
+text based game
+0.5

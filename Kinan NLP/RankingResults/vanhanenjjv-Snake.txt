@@ -1,0 +1,26 @@
+src/Snake directory
+0.19044060832636328
+web server
+0.126677666938099
+static files
+0.12211242917739831
+index.wasm
+0.11955877382038546
+game
+0.11432533568461437
+folder
+0.10091237504569497
+following command
+0.09120936337193195
+snake_game.cc
+0.08033895759130683
+Snake
+
+Requirements
+
+Emscripten
+
+Building
+
+Setup Emscripten
+0.0544244900442062

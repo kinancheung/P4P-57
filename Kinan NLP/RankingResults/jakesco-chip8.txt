@@ -1,0 +1,26 @@
+TimoTriisa
+OpCode Test
+0.1472398024066968
+Emscripten
+0.1351984944273553
+project
+0.1313790627307749
+web assembly
+0.1115806084156197
+ROMs
+
+Snake
+0.10475387779024196
+emcc
+0.1021524120966419
+emulator
+0.08793745340038409
+Matthew Mikolay
+Random Number Test
+0.07775271500668635
+Chip-8 Technical Reference
+Mastering Chip-8
+Awesome Chip-8
+0.057918491981965886
+Chip-8 Emulator
+0.04408708174363314

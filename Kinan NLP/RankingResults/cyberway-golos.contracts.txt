@@ -1,0 +1,28 @@
+v2.0.x
+cyberway.cdt v2.0.x
+
+Golos Contracts Description
+0.15302934951745814
+Dependencies
+0.13722971620245153
+tests
+0.1326238516895371
+Build cyberway.contracts
+0.11371630698577223
+dapp prototype contracts
+0.11317151939438522
+golos.charge
+golos.ctrl
+golos.emit
+golos.referral
+golos.publication
+golos.social
+golos.vesting
+Determinig rewards
+0.11035557220251963
+wasm/abi files
+0.109320983514503
+buildkite
+0.08668581762730063
+post
+0.043866882866072376

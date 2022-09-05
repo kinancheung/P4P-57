@@ -1,0 +1,91 @@
+https://github.com/learnforpractice/evmone4eosio --recursive
+cd evmone4eosio
+0.05529594890571154
+EOSIO
+0.0534823031323304
+kv storage
+0.04424428762638664
+bytes
+0.04393174131886591
+wasm code
+0.0352520058216559
+cmake
+0.03412991501280911
+-j$(nproc
+0.03364468110296178
+EVM
+0.03158980839311574
+mkdir
+0.03020008569777276
+Ethereum platform migrate
+0.0252428681873059
+Dapp
+0.0245366156396941
+evmone
+0.023708081080076826
+eos
+0.023485476906805663
+vm-jit mode
+0.023005552959730717
+little changes
+0.022930698771885263
+installation instruction
+0.022736245551960802
+https://github.com/eosio/eosio.cdt/releases/download/v1.7.0/eosio.cdt_1.7.0-1-ubuntu-18.04_amd64.deb
+0.022679425287080272
+intrinsic db api
+0.022558101217236108
+Install
+0.02242833985699478
+Base
+0.022402356788860406
+Ubuntu
+0.02239823560204413
+Ethereum RPC Interface API
+0.021954735273981618
+RAM
+0.021628869672535418
+https://github.com/eosio/eos
+0.021210877993132045
+apt install
+0.021191321182870378
+fast EVM implementation
+Native compilation
+0.020606123656360102
+Setup Pre Requirements
+0.02030355492078017
+directory
+0.0202114989807262
+wasm file locate
+0.018854582256142487
+lib/evmone/contracts
+0.018319952418388973
+Mac OS X
+0.01783461388111124
+C++ API interface
+0.017477299595289073
+release
+
+Download source code https://github.com/learnforpractice/evmone4eosio/releases
+0.017169474557411333
+tap eosio/eosio.cdt
+brew install
+0.016686203569013677
+Demos
+0.016409054359907697
+license badge]][Apache License
+0.016060057841783142
+evm4eosiotest
+
+Implementaion detail
+0.015824164037488073
+Version
+0.015693270793844968
+git repository
+
+git clone
+0.015495912217544025
+implementaion-detail
+0.015048903150906248
+Apache License
+0.012136754779498521

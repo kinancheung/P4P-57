@@ -1,0 +1,364 @@
+benchmark
+0.029503557128332508
+tests
+0.02531344403287506
+js script
+0.022082912407572552
+V8 engine
+0.02145308719870448
+bidding worklet
+0.020657745077200185
+wasm
+0.01920483198178897
+Chromium
+0.01888988822071318
+tight loop
+0.0172345855969763
+buyers
+0.014986446415360788
+same generateBid
+0.014372029981050636
+scenario
+0.013928492402765487
+chromium
+0.013751345910045527
+const input_in_memory
+0.01326924722833431
+loops
+0.012887480676769964
+Example
+0.012266507502530326
+new Error("warmups
+0.01222723894863147
+warm-up run
+0.011890236894658198
+= seller_server.get_first_request("/reportResult").get_first_json_param(signals
+0.011858462151100181
+resources/buyer
+0.011298800608845002
+ad auctions
+0.010859044075405347
+Chrome Beta
+0.009156340456574562
+test
+0.009152588543854189
+self.assertDriverContainsText(body
+0.00909294604536114
+avg
+0.008962843804678357
+interest groups
+0.008647487466789566
+time
+0.008451326905229725
+report_result_signals
+0.008343554996865944
+patch
+0.008285623323428346
+\
+0.007788244650538533
+part
+0.007103024657121506
+end
+0.00695102185206339
+avgDuration
+0.006939784849900439
+docker run
+0.006929671153367172
+self.driver.get(seller_server.address
+0.006878521464207432
+weights
+0.006765864247831179
+WebDriverWait(self.driver
+0.006756665842504347
+CSS_SELECTOR
+0.006679654695301115
+report_win_signals
+0.0066687697067127835
+iframe
+0.006624539429692746
++
+0.006617386489836172
+const module
+0.006592752933073898
+buyer_server.get_first_request("/reportWin").get_first_json_param(signals
+0.00658623151564649
+MeasureDuration("runAdAuction
+0.006458915152748511
+instance
+0.00642559978480011
+built version
+0.006324399016831806
+framework
+0.006237713228127642
+logger.info(f"reportResult
+0.0061924982456679455
+example
+0.0060991847094755865
+Performance benchmarksbenchmark
+0.00606582638460214
+chromedriver
+0.006043777283742842
+mock servers
+0.006038758882426076
+seller_server
+0.00595010353439899
+#
+0.005853765583545413
+pretty_json(report_result_signals
+0.005775017560958238
+pretty_json(report_win_signals
+0.0056414448097114505
+model
+0.005517800202959629
+tests.creativecdn.net:8091
+0.005437865334140158
+Result
+0.005430526864748426
+run.sh --chromium-dir
+0.005406347342678605
+given module
+0.005139708841299976
+i++
+0.00504634711852507
+perBuyerSignals
+0.004990964571565909
+trustedBiddingSignals
+0.004934869354743207
+auctionSignals
+0.004832361081902148
+ms
+INFO:/home/usertd/tests
+0.004713829150600605
+tests_performance
+0.004690553083828616
+browserSignals
+0.004490784907534531
+4.927999999999997ms
+0.00436377934257675
+ad.metadata.input
+0.004286230266101056
+Inputs
+0.00425415457830786
+Results
+0.004251513275608296
+generateBid(interestGroup
+0.00424860704935916
+FledgeInterestGroups
+0.004214784408293393
+input
+0.004158755527048506
+input.length
+0.004132506549335967
+research
+0.004120517189532668
+FledgeInterestGroupAPI
+0.004115830260606812
+test(warmups
+0.004109635068368735
+specified locations
+0.004048722344296116
+input_in_memory[i
+0.0039578784413310504
+case
+0.003954592725224627
+implementation details
+0.003947749914777741
+instance.exports.nn_forward_model0(input_in_memory.length
+0.003939639890458588
+benchmark 5 (reference
+0.003927057179770534
+MockServer(8091
+0.003919470404742292
+iteration
+0.003913314780066075
+motivation
+0.0038891968805741094
+unwanted optimizations
+0.003871741555711213
+input[i
+0.003850634297086866
+bids
+0.00384249239780769
+anticipated removal
+0.0038373412607318924
+AD
+0.003829141039235782
+use
+0.003820274552742926
+1.1640000000000157ms
+0.003780114192306493
+default flags
+0.003744973942443286
+https://dl.google.com/linux/direct/google-chrome-beta_current_amd64.deb
+0.00373793086552512
+test__should_show_ad_our(self
+0.0037370795467398794
+report_result_signals.get(browserSignals
+0.003723141974639468
+def setUp(self
+0.0037197763206844076
+MockServer(8092
+0.0037179113525194455
+self.driver.get(buyer_server.address
+0.003700929551519308
+options.add_argument(--enable-features
+0.003694236404427289
+options
+0.0036935440231381966
+Instance(module
+0.003686002036960374
+nn_models_weights
+0.0036463213265436837
+matrix multiplication
+0.003639116295587548
+bid_duration
+0.0036129171956677565
+Math.max(x
+0.003574220889967663
+latest or custom-built Chromium browser
+0.0035668850120849317
+run.sh
+0.003537992147921767
+instance.exports.memory
+0.003521905878894009
+inputs[i
+0.0035156014171145475
+Selenium
+0.003500997680685777
+issue
+0.00349530171953634
+FLEDGE
+implementation capabilities
+0.003493126241050352
+downloads
+0.00347892311636728
+buyers and sellers logic
+0.0034620812865079603
+third-party cookies
+0.0034495997190990622
+MockServer(9012
+0.003444330737857548
+limitations
+0.003443281526006455
+results.map(x
+0.003442118751716949
+comment
+0.0034172265014273
+overhead
+0.0034022266251790196
+bid_duration_ms = int(report_result_signals.get(browserSignals).get(bid_duration
+0.003402209647556983
+--chromium
+0.003375810757386549
+inputs
+0.0033755291557069998
+advantage
+0.0033701598587123453
+C++
+0.003349554432734559
+.is_equal_to("https://fledge
+0.0033402174795279104
+randomVector(200
+0.0033379319048600304
+v8 pool size
+0.003336735722942544
+different environments
+0.0033236330892093342
+requests
+0.0033212720114123508
+assert_that(report_win_signals.get(browserSignals).get(interestGroupOwner
+0.003312818890593651
+latest chromium version
+bash run.sh
+0.003284450761091268
+assert_that(report_win_signals.get(browserSignals).get(renderUrl
+0.0032719992934584735
+nn_models_weights[i][model][2
+0.003262469565567151
+console.log("time
+0.0032408138308206444
+y
+0.003234212320502763
+repository
+0.0032221552660830176
+self.driver.get(buyer_server.address)
+                self.assertDriverContainsText(body
+0.0032209658468819475
+signals
+0.0032107357152671365
+joinAdInterestGroup() and runAdAuction() API calls
+0.0031716509839430826
+ms
+
+EDIT
+0.0031600727490092664
+randomMatrix(50
+0.003145402391680431
+generateBid(input
+0.003144419073246151
+nn_models_weights[4
+0.003117475757563225
+-name
+0.003090980519192813
+PWD/src
+0.003088368859396206
+bash src/tests_webassembly/resources/buyer
+0.003073293111460624
+console.log("results
+0.0030563884428834484
+local X server
+0.0030087014489673337
+andreburgaud/d8 /tests_webassembly/resources/buyer/buyer-v8.js
+0.003004137344688883
+debug
+0.002998819697092455
+\
+    --chromedriver-url \
+    "https://chromedriver.storage.googleapis.com/$(curl https://chromedriver.storage.googleapis.com/LATEST_RELEASE)/chromedriver_linux64.zip" \
+0.0029804340052185054
+snapshots
+0.0029710794334150974
+logger.info(f"generateBid
+0.0029429191575772104
+randomMatrix(100
+0.0029287781166187584
+ad.renderUrl
+0.002923017817825753
+--chromedriver-url \
+    "https://www.googleapis.com/download/storage/v1/b/chromium-browser-snapshots/o/Linux_x64%2F$(curl -s -S https://www.googleapis.com/download/storage/v1/b/chromium-browser-snapshots/o/Linux_x64%2FLAST_CHANGE?alt=media)%2Fchromedriver_linux64.zip?alt=media" \
+    --chromium-url \
+    https://dl.google.com/linux/direct/google-chrome-unstable_current_amd64.deb
+
+Functional tests
+0.0028996292563360196
+nn_forward(input
+0.002856068040554953
+url
+0.0028018039177861703
+given local path
+0.0027765473326511352
+jit
+0.00274310249024693
+chrome
+0.0027310044161669945
+python
+0.0026982126824522568
+async
+0.002695184018451154
+nn_models_weights[i][model][0
+0.0026831789393254248
+bids[i
+0.0026728448138458815
+Chromium-FLEDGE-tests
+0.00255868702052661
+common/utils/__init__.py:[rtb-chromium-debug] AuctionV8Helper::Compile
+0.002420393571987405
+certain consequences
+0.002407752872840081
+expose-wasm option
+0.00229343833292107
+bash src/tests_webassembly/resources/buyer/compile.sh
+$ bash run.sh --test tests_webassembly.test --chromium-url https://github.com/RTBHOUSE/chromium/releases/download/98.0.4697.0-rtb-wasm-without-asserts/chromium-98.0.4697.0-rtb-wasm-without-asserts.zip
+...
+INFO:/home/usertd/tests/common/utils/__init__.py:[rtb-chromium-debug] AuctionV8Helper::Compile() https://fledge-tests.creativecdn.net:9021/buyer-chromium.js duration
+0.002127970872193978

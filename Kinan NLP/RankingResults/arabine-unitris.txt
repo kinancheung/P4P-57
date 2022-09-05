@@ -1,0 +1,35 @@
+Language
+0.0852745805442102
+blog
+0.08486633337707353
+articles
+0.08453530903205878
+microcontrollers
+0.08187335490125533
+architecture
+0.08097507475198709
+http://www.rabine.fr/architecture/embedded/games/arch-universal-tetris/
+0.07718910236990056
+WebAssembly
+Embedded target
+0.07608338468491727
+series
+0.07553909564027808
+Web
+0.07046441775610864
+C mainly
+
+Project status
+0.06891571740587737
+working porting
+0.05111577120823131
+French
+0.04904327596857153
+famous game
+0.04223635643884415
+component oriented architecture example
+0.04123392475019022
+Unitris - Universal Tetris engine
+
+Project goal
+0.030654301170496164

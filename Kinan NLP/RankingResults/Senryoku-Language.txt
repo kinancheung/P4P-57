@@ -1,0 +1,103 @@
+Function return type
+0.0461066228401837
+tarball
+cd
+0.04186891111915375
+source
+0.041346365722672106
+cmake
+0.0406562455163731
+llvm-14.0.0.src
+0.034581533650074395
+mkdir
+0.03184585044334115
+symbols
+0.03078999994908
+keyword
+0.03036382084234489
+function declaration
+0.029321611904603712
+Part
+0.029177095175432106
+Boolean operators
+0.028772031374319405
+compiler
+0.02845611165128395
+mind
+0.026973189581076862
+=
+0.026926795105876897
+--target
+0.025802946325655076
+Syntax
+
+Primitive types
+0.025742882194022914
+=)
+String
+0.024649675394306573
+auto
+0.024483088109607688
+Templates
+0.02418967498531484
+CMake
+0.024157329724740138
+TBD
+0.024085172097462585
+Easy module import
+0.023988277839708878
+builtin Arrays
+0.023519207006933884
+name(int param_0
+0.023356785123939627
+param_1
+0.022308164205763606
+Concepts?
+Reflection
+
+Dependencies
+
+C++20
+fmt 8.1.1 (sources
+0.021899226258961027
+Integer
+
+
+Float
+
+
+Array
+0.021879381339501937
+weird special cases
+0.021517997984763552
+Future Features
+0.02130277187181184
+ext/
+0.021036965420366458
+Loop
+
+while(condition_expression
+0.01989283535905401
+LLVM_DIR variable
+0.019756151361079263
+while_body]
+}
+
+Function Declaration
+0.019575384497902817
+float b
+0.0192709779555317
+path
+0.018555392970630587
+variable_name
+0.01824551745569793
+proper binary operators
+0.017983269015260338
+Resources
+
+Spec https://webassembly.github.io/spec/core/index.html
+Text Format Basics https://developer.mozilla.org/en-US/docs/WebAssembly/Understanding_the_text_format
+WebAssembly Reference Manual
+0.014343191968652632
+WebAssembly Binary Toolkit
+0.011271548657514082

@@ -1,0 +1,9 @@
+several hours
+0.3962987032710885
+--build=Release sdk-incoming-64bit binaryen-master-64bit
+
+Finally:
+./emsdk activate
+0.3370938981808533
+emsdk portable https://kripken.github.io/emscripten-site/docs/getting_started/downloads.html
+0.2666073985480575

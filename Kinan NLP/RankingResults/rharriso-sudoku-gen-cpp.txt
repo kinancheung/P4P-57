@@ -1,0 +1,15 @@
+number
+0.22299308859497913
+boards
+0.2139048224610444
+hello script
+0.20462922549188
+node
+
+Usage
+
+sudoku_gen board_count
+# board_count
+0.20123722187531792
+run-native # build
+0.15723564157677838

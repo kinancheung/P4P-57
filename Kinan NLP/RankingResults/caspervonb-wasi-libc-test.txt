@@ -1,0 +1,13 @@
+C
+0.25033040892965314
+tests
+0.24692295791858
+libc
+0.21449403997244806
+repository
+0.20647180978568677
+tools/run-deno
+bash test.sh tools/run-node
+bash test.sh tools/run-wasmer
+bash test.sh tools/run-wasmtime
+0.0817807833936322

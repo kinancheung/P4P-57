@@ -1,0 +1,42 @@
+integer time series
+0.08439303121332449
+C
+0.0728276068849746
+JavaScript
+0.06966965453099713
+#
+0.06823022246392775
+WebAssembly
+0.06636570460968107
+FFI
+0.06089783796260752
+Python
+0.059996405456101826
+length
+0.05357205074333321
+^
+0.051407630232137444
+decompression algorithms
+0.0498640216651421
+Coming soon:
+
+test cases
+0.047847112603546946
+support/examples
+0.04569800055540239
+longer arrays
+0.04445540875042134
+methods
+0.04427994557585363
+example usage
+0.043802275763149934
+Simple8b compression
+0.04320509512578945
+delta encoding/decoding and zig-zag encoding/decoding routines
+0.03503712569562213
+https://github.com/lemire/FastPFor
+0.03140333101589658
+simple8b-timeseries-compression
+
+C++ implementation
+0.027047539152090454

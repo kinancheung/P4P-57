@@ -1,0 +1,240 @@
+Range selector
+0.03436140823941692
+Lottie loads
+0.03246115872783775
+rlottie
+0.027724471664493575
+bodymovin JSON format
+0.026703934023069704
+vector based animations
+0.026370312426318286
+Effects
+0.02470719784418572
+frame rate
+0.02390315149253183
+animation
+0.02359269542872453
+supports meson
+0.021013792362940206
+build system
+0.018962871779533135
+Bodymovin JSON
+0.018923839735894725
+resource
+0.01851446252821677
+ninja
+0.017925744538501508
+contents
+0.0172290070743139
+simple lottie
+0.016439309182458384
+Issues
+0.01594489144806988
+vectors
+0.015502660991319368
+duration
+0.015084733961737644
+Feature Requests
+0.015072126691165397
+Ease High
+0.014849908679611883
+#
+0.013286431487616598
+resource
+size_t
+0.012925863877117066
+Haiku
+0.01285659643126517
+browser
+0.012809864391124293
+std::unique_ptr<rlottie::Animation
+0.012596424060421812
+surface buffer
+0.012300560900603056
+cmake command
+0.012118656452678619
+GIF converter
+0.011961700113009208
+raw data
+0.011909659223449078
+rlottie::Surface surface(buffer
+0.011293364306081063
+totalFrame
+0.010388207124798494
+frameRate
+0.01033447091343469
+Time
+0.010005285531221111
+Shape
+0.009161049188892132
+Properties
+0.009103859483999627
+Example1
+0.0090479999549684
+power
+0.009026856809128146
+Amount
+0.008783235272702217
+realtime
+0.008696487089763729
+Alpha Matte
+0.00859149764993526
+handle
+0.00841374591990696
+rlottie::loadFromFile(std::string("absolute_path
+0.00836577275270293
+art
+0.008347105027266898
+test.json
+0.008306928781479716
+Example2
+Example2
+
+Contents
+
+Building LottieMeson
+0.008290555489160537
+rottie
+0.008105067703317325
+sec
+0.008055267221314083
+animation->render(frameNo
+0.008023191194699852
+designers
+0.008014745057053142
+small samples
+0.0080001685591659
+first time
+0.007956080296740782
+Randomize order) 
+expression selector
+0.007785571222859035
+hand
+0.007765889505239528
+engineer
+0.007745264957417166
+C++14
+0.007651879551459007
+complexity
+0.00751400591049078
+Quick Start
+
+Lottie loads
+0.007480133523477036
+supported features
+0.0074486033238248695
+list
+0.007430656279207112
+animation->duration
+0.007330293701934644
+std::future
+0.007314358970173669
+size
+0.007290254859600919
+Units
+0.007251169590794399
+online viewer
+0.007226572845699951
+animation->frameRate
+0.007198874639598221
+different path
+0.0070697487388182295
+public header dependancy
+0.007030048752519572
+File github issues
+0.006902330348100441
+action
+0.006882951151362724
+test suit
+0.006841569578518954
+eg
+0.006823506852452399
+source
+0.0068099627879764325
+support
+0.006616775497013702
+Other Supported
+Expressions 
+Images 
+Precomps 
+Time Stretch
+0.0065664369471288755
+immidiate assistant
+0.006430449268187601
+animation->renderSync(frameNo
+0.00635890706132474
+Build
+
+Install cmake
+0.006286759645454009
+platform independent standalone c++ library
+0.006273422386477839
+character
+0.006030155527345976
+test
+
+meson configure
+0.005895917720639895
+issue
+0.005850703785017641
+Luma Matte 
+Luma Inverted Matte 
+Merge Paths Supported
+Merge 
+Add 
+Subtract 
+Intersect 
+Exclude Intersection 
+Layer Effects
+0.005841663098681681
+install
+
+Test
+
+Configure
+0.005764180576144238
+Trim Path
+0.005554891383178981
+Polystar 
+Group
+0.005417350016012628
+Gitter
+0.005390503094853722
+Fill 
+Stroke 
+Radial Gradient 
+Linear Gradient 
+Gradient Stroke
+0.005380230989241891
+Effects Features
+
+Shapes
+0.005338746610421276
+Position 
+Position
+0.005169422441205792
+Spatial Bezier Interpolation 
+Rove
+0.005050770503570489
+Scale 
+Skew 
+Rotation 
+Anchor Point 
+Opacity 
+Parenting 
+Auto Orient 
+Interpolation Supported
+Linear Interpolation 
+Bezier Interpolation
+0.00500335457948498
+Tritone 
+Levels Individual Controls 
+Text Supported
+Glyphs 
+Fonts 
+Transform 
+Fill 
+Stroke 
+Tracking 
+Anchor point
+0.004621334691730155

@@ -1,0 +1,130 @@
+AACIO
+0.10312859914071681
+Block.one
+0.04132488968035793
+many third-party libraries
+0.03598888258447587
+initial public blockchains
+0.035950409814434606
+kind
+0.025754449039448936
+warranty
+0.024933401549697753
+software
+0.023940919365517704
+open source MIT license
+0.02094388793557675
+Fedora
+0.018304734129422323
+organizations
+0.01784097183935867
+foregoing
+0.017671611345903088
+bugs
+0.01712531730609594
+Apache License
+0.016575514526905158
+companies
+0.016274537934369882
+BSD
+0.016135746034560437
+representation
+0.015987935320734985
+WAVM
+0.015955821138640226
+Binaryen
+0.015904004570990365
+generality
+0.015883237775951433
+faulty code
+0.015524914836108579
+damage
+0.015489527815578823
+errors
+0.015400267966877842
+event
+0.014927457995065029
+Biometric Hardware Secured Keys
+0.014906135684808319
+clause
+0.014868740025908603
+possibility
+0.014695645704147157
+Support
+0.014625573206506379
+private keys
+0.01397249710904487
+Context Free Validation Logic
+0.013769030032570191
+Parallel Execution
+0.013760635807141142
+damages
+0.013279098828460454
+businesses
+0.013129099689641105
+Inter Blockchain Communication
+0.012958559677828538
+security
+0.012895156440978906
+Apple Secure Enclave
+0.012706082796076407
+own risk
+0.012534436337519852
+part
+0.01251134063725524
+Web Assembly
+0.01221722984483581
+Low-overhead Byzantine Fault Tolerant Finality
+0.01212721693763103
+release
+0.012106450316664984
+seconds
+0.012100393021045968
+Centos
+0.012038935489888419
+large or small ways
+0.011888589342515559
+Sparse Header Light Client Validation
+Scheduled Recurring Transactions
+0.011729536771004866
+groundbreaking features
+0.011492835341752224
+Smart contract platform
+0.011462326762456683
+Free Rate Limited Transactions 
+Low Latency Block confirmation
+0.011341091954218601
+Time Delay Security
+Hierarchical Role Based Permissions
+0.011263614159771963
+following operating systems
+0.011205394126145669
+public testnet
+0.011186522766170636
+functionality or compromise computer systems
+0.010961187248147156
+Decentralized Applications
+0.010710925528324417
+optional high-overhead, low-latency BFT finality
+0.0104091063371479
+AACIO source code repository
+0.010305052377425095
+high-performance and high-security blockchain-based applications
+0.010271367293736795
+Powerful Infrastructure
+0.010165452790262194
+Ubuntu 16.04 (Ubuntu
+0.009939254363065277
+Ubuntu 18.04
+MacOS Darwin
+0.009443487033676801
+MacOS 10.13.x
+0.009388590320382964
+Resources
+
+Website
+Blog
+Community Telegram Group
+White PaperAcute Angle Cloud
+White PaperAcute Angle Chain
+0.008666368249052824

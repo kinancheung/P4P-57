@@ -1,0 +1,102 @@
+Returns
+0.04866058433209365
+Koblitz secp256k1 curve
+0.04480272710325325
+get_public_key
+function
+0.03858288827863261
+universal-ecdsa
+
+
+
+Ways
+0.03747435076446653
+Binary data
+0.03697878178583339
+Examples
+0.03688057565581539
+logged output
+0.032277107498030734
+Uint8Array  Public key
+0.032251904697618
+sign
+0.030208795543455645
+Parameter Type Description
+private_key Uint8Array secp256k1 valid private key
+0.0284267830270819
+import { sha256
+0.02568003657210764
+r and s values
+0.024019301111542903
+compressed public key
+0.023131760458659865
+readme.md
+0.022717721118343297
+cpp
+0.022466469615318656
+const array
+0.02198109537221986
+node
+0.02184425123866366
+||
+0.021228106905664314
+Uint8Array.from
+0.02120417019299905
+Node.js
+0.02081082507783187
+secp256k1 private key
+0.020708757196436604
+ECDSA
+0.020647803251986476
+Usage sha256
+0.020342218435350855
+Arg.private_key Uin8Array
+0.02020464713501495
+Algorithm
+0.019591838254270168
+Signature  Digital signature object
+0.019567445955169724
+Buffer.from(The quick brown fox
+0.018383976984498264
+C/C++
+0.018367378028816675
+const private_key = new Uint8Array
+0.01828388427912221
+kB
+0.018213338320235813
+Arg.data Uin8Array Data
+0.017416180733925136
+digital signature
+0.017366980531815405
+ecdsa
+0.017038765675668123
+Browser defaults
+0.01684778755099623
+private_key
+0.016471411412555308
+JavaScript environments
+0.016342873104823966
+npm
+0.015784806500495522
+Info
+
+The Web Assembly binary file esdsa.json
+0.01563070698254261
+test
+0.015521449575578172
+Node +15 web crypto
+0.015432596260981412
+Universal sha256 message digest helper function
+0.014741040453914516
+MIT
+
+A Universal JavaScript Elliptic Curve Digital Signature
+0.01280906893351504
+Uint8Array.from([104
+0.012429234431954133
+secp256k1 logo
+
+Universal ECDSA
+
+NPM Package CI status License
+0.010227573660700503

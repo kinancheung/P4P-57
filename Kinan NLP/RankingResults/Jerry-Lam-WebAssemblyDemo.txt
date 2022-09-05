@@ -1,0 +1,2 @@
+WebAssemblyDemo
+1.0

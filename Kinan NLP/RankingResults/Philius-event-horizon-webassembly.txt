@@ -1,0 +1,12 @@
+libigl https://github.com/Philius/libigl.git
+0.20666601247857366
+fork
+0.18618584621021275
+resources
+0.1794851165268759
+native build
+0.15156661164061097
+symbolic links
+0.13818538956004048
+same directory
+0.13791102358368587

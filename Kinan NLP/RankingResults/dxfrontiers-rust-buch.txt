@@ -1,0 +1,14 @@
+book
+0.24135486141161916
+Rust
+0.21487901213229146
+samples
+0.19164009593220105
+repository
+0.15146615199481273
+Beispiele aus unserem Buch "Rust
+0.11086063282420922
+Rust-Buch
+
+Dieses Repository enthlt viele der
+0.08979924570486644

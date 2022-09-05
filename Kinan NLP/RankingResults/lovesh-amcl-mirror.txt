@@ -1,0 +1,118 @@
+AMCL
+0.08640903288616666
+Multiple curves
+0.05603611764329329
+supported high-
+level languages
+0.05361094723992188
+version
+0.046920904129860184
+bit processors
+0.030845194178670973
+side-channel attack resistance
+0.027691108113169435
+code
+0.027386544518792993
+standard Python 3 script
+0.02676980646688599
+compile time
+0.026282937529511576
+single application
+0.024979899108916674
+Python version
+Web Assembly support
+0.02467427928235747
+libraries
+0.023918320476665915
+versions
+0.020914394110149608
+multi-lingual Cryptographic library
+0.01926031125203758
+http://eprint.iacr.org/2017/437
+0.01695008733921735
+ideas
+0.01680794425774713
+New users
+0.016096763010544995
+mitigates
+0.015803541070122527
+main improvement
+0.015535630567088298
+mind
+0.015375660316930537
+configuration
+0.015076077032267729
+RSA key sizes
+0.014897798434369182
+many minor improvements
+0.014554663753543794
+PDF manual
+0.014543632554128275
+Field arithmetic
+0.014449421625389636
+critical calculations
+0.01444689689400097
+New Hope Implementation
+0.01426742721439887
+more details
+0.01423445376051124
+project
+0.014047760832352393
+ground
+0.013972093137938298
+hood" upgrade
+0.013833422262233726
+exact requirements
+0.01375940434583584
+New BLS signature API
+Post quantum
+0.01356763860102507
+bit and 64-bit versions
+0.013453752666347586
+Version
+0.013012342495778772
+final step
+0.012953632247247177
+Exception-free formulae
+0.01274704687880532
+bit 
+instructions
+0.012501598463035987
+same set
+0.012474824230064704
+consumer
+0.012204214930186542
+processor
+0.012201502397800225
+assembly language
+0.011828166345858591
+Faster Swift
+0.011827086299092224
+new standardised script 
+builds
+0.011769946725209186
+system
+Improved modular inversion algorithm
+General speed optimizations
+Improved Javascript
+0.0117012279156969
+version 3.2
+
+
+AMCL v2.2
+0.011640797335687519
+waste
+0.011270036425090918
+underlying 
+hardware
+0.010795028901480206
+optimal performance
+0.010764878833748718
+rigid packages/crates/jars
+0.010618451941417995
+elliptic 
+curve cryptography, pairing-friendly curve cryptography, RSA, AES symmetric 
+encryption and hash functions
+0.009232996100762975
+Apache Milagro Cryptographic Library
+0.009082354920642449

@@ -1,0 +1,14 @@
+Demo
+Windows10 Wsl2
+0.4055509017065429
+node 10.24.0
+Python 2.7.18
+emsdk sdk-fastcomp-1.37.40-64bit  
+
+PCSX-wasm
+0.3724248230561497
+PCSX-wasm
+
+PS1 emulator
+Modified pcsx-r
+0.22202427523730678

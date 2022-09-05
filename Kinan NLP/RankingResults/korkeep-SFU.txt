@@ -1,0 +1,79 @@
+apt-get install
+0.09161395896589689
+Updater
+0.06299019628071444
+/var
+0.05823312035109522
+key.txt
+0.03983701209981455
+Input Vector
+0.03976005040557082
+Obfuscation
+0.03895331540769724
+cmake
+$ mkdir
+0.03810764086714401
+Firmware
+0.03750777387692574
+iv.txt
+0.0351919999034076
+Key
+0.03468789010648944
+linuxbrew-wrapper
+0.032215953866140755
+boot/
+0.030290237400047795
+update_test/
+0.029551582166360033
+State
+0.02910992002925503
+update_test/  untar
+
+ 
+
+Key     RoT(Root
+0.0281682444180328
+ARM TrustZone
+0.027061167203377146
+FW   encrypt
+0.0265910683071306
+libssl-dev
+
+Prerequiesite
+0.02583827599279105
+Malicious FW   HASH(SHA-256)  .
+Origin FW Hash Manufacture
+0.025702310536042102
+FW Symmetric Key FW  Metadata
+0.02441287060784409
+Trust
+0.022125215682324787
+cd
+0.021410505722028506
+opt/
+0.021211377119741467
+Updater.ll
+$ ./src/build/bin/opt -load ./src/build/lib/LLVMObfuscation.so
+0.019801368507511814
+Prerequisite
+0.019515549497643985
+apt install cmake
+$ cmake -DLLVM_ENABLE_PROJECTS=clang -G "Unix Makefiles
+0.019057982874050607
+FW  Metadata  opt/
+0.01709429790850089
+Origin FW Hash
+0.0166378888436519
+LLVM Compiler  Updater Binary
+0.016330815132288557
+./encrypted
+0.01587202517415803
+bin/clang -emit-llvm
+0.015103718615310329
+documentation.tar ./encrypted/documentation
+$ tar
+0.014985839402438632
+-DLLVM_ENABLE_PROJECTS="clang;clang-tools-extra" -DLLVM_USE_LINKER=gold -DCMAKE_BUILD_TYPE=Release
+0.014819328027753067
+Updater.ll
+0.010209498700820035

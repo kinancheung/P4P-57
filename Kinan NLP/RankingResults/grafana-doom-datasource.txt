@@ -1,0 +1,71 @@
+Grafana datasource
+0.08377475128525298
+Doom
+0.05167168189627987
+install
+0.05068095042598812
+ID
+0.04274425519836435
+Build plugin
+0.04223963900957385
+dashboard
+0.04044977519811663
+Import
+0.0381010188748869
+sdl2 sdl2_mixer
+0.037834057717387404
+sdl2_net pkg-config
+0.036331565718551964
+following commands
+0.03543533150698974
+Homebrew
+0.033390198735614565
+Datasource instructions
+0.03283074233358771
+other package managers
+0.031549434871138995
+Enjoy
+0.03136764115125572
+command
+0.03131268958796765
+grafana instance
+0.0299309129756586
+Copy
+0.02941086174735503
+sym-linking project root
+0.029030348024994504
+last step
+0.02844057111796792
+./doom-wasm/src
+0.02785355326178092
+Replace datasource-id
+0.02735988400529142
+Runs
+0.026767209559066193
+JSON files
+0.02586559471259083
+Doom WASM
+
+Install
+0.025121919143995763
+Grafanas data/plugins folder
+0.024557172754155344
+timeseries chart
+0.02330359882483042
+project
+0.02286581140698528
+Doom:
+
+./doom-wasm/scripts/clean.sh
+./doom-wasm/scripts
+0.02236245132793602
+March Grafana Labs hackathon project
+0.019680597585468536
+./doom-wasm/src/doom1.wad
+./doom-wasm/src/websockets-doom.wasm
+./doom-wasm/src/websockets-doom.wasm.map
+
+Datasource
+
+Install
+0.017735780040966872

@@ -1,0 +1,92 @@
+%
+0.08172721736690741
+WASM
+sample2
+0.0611565018207768
+SIMD instructions
+> emcmake cmake
+0.05884118479194976
+SIMD
+0.0522587428383989
+medium post
+0.049997776511093855
+Detection
+0.047481516541858476
+#
+0.046163821239663935
+target WasmSample
+0.04490534603701453
+mv
+0.04420162227333761
+WasmSample.js
+0.04267742022414889
+OpenCV
+0.039640630098920965
+Web
+Each sample directory
+0.033593575988483386
+Build TFLite
+0.03350035724834704
+test
+0.03314522223934143
+node
+
+> cd
+0.03165565651523303
+dir
+0.029631968883190127
+http://localhost:8000
+...
+# Open browser
+0.028745837329729948
+app
+> node main.js
+Server
+0.027438266961455664
+sample project
+0.02612000250062786
+Sample1
+
+Simple WebAssembly
+0.02575019872921816
+SIMD
+> node --experimental-wasm-threads WasmSample.js
+
+
+
+Sample2
+
+Face Detection web demo
+
+Run
+
+> cd sample2
+> cd
+0.025526762897700946
+ON -DCMAKE_BUILD_TYPE=Release
+# build
+0.02227653289769172
+emsdk
+0.02201942404450246
+emcc
+0.02141542482514894
+node
+0.021333692354634712
+SIMD
+> node --experimental-wasm-threads --experimental-wasm-simd --experimental-wasm-bulk-memory WasmSample.js
+0.018434032198998584
+http://localhost:8000/
+
+Build and Run
+
+> cd sample2
+> mkdir cmake-build-wasm
+> cd cmake-build-wasm
+
+> emcmake cmake
+0.01646802406355313
+http://localhost:8000/
+
+
+Demo
+0.013893240578071685

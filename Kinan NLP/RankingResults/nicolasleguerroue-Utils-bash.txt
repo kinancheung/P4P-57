@@ -1,0 +1,201 @@
+un
+0.044423516976298386
+Il fournit
+0.033230855170699174
+vous est
+0.027244469817414033
+espace personnel
+0.020215389209348723
+USER root@localhost
+0.020047083505319706
+et maintenus par Utils
+0.01860209748441619
+Voici une liste des distributions possibles
+0.01818329069261893
+gestionnaire darchives
+0.017036744483769486
+Prcisions lors de linstallation du logiciel Utils
+0.016953691418663243
+Un
+0.01680386287128185
+qui
+0.016761179080631846
+galement de possder une connexion Internet
+0.016262415838033943
+va vous permettre
+0.01612541973182609
+et suppression
+0.016115857899275412
+jour  chaque installation
+0.01541157314706785
+variable denvironnement
+0.014928477164377165
+$HOME) dans
+0.014862863011082358
+le dossier
+0.014654969682809585
+cach
+0.014284524512939219
+Enfin
+0.012267469714989853
+des outils divers
+0.012064604704587473
+python3
+0.01194105027670256
+executez le programme
+0.011906232044740622
+possible damliorer le logiciel
+0.011606628464047593
+Le logiciel enregistre des alias de commande dans
+0.011445409577136384
+et varis pour administrer le logiciel
+0.011426134109644133
+nomm Utils.zip et qui se charge dans
+0.011358608728277906
+Licence
+0.011198223909103633
+aprs validation de linterface graphique
+0.011186610209687253
+ordinateurs
+0.011115442609536232
+ce moment l
+0.011084520485576616
+valider par Oui
+0.010785881497309783
+Si
+0.010701669701540364
+trs facilement de nombreux logiciels bass sous Debian
+0.010678810107400115
+Tous les fichiers
+0.010649276312394748
+voyez pas les caractres
+0.010574307529825341
+Notamment
+0.010532348068438032
+fichier est mis
+0.010513110059708506
+GPL
+0.010482182943382375
+utiliser
+0.010452705811843538
+sinon faire
+0.010260547189639929
+la base de donnes
+0.010135821391153675
+sous Debian
+0.01010104378386367
+chmod
+0.01009257160705528
+jour volutives
+Rcupration des sources
+Licence
+
+Prsentation
+
+Le logiciel Utils est
+0.010006432868244663
+installer
+0.009901942679576642
+du lancement du programme dinstallation
+0.009864126972779108
+Date
+0.009855256808405597
+Mises
+0.00983569058145302
+Le cas chant
+0.00976944270658348
+Pour cela
+0.009727396710527856
+lancer
+0.009504711670770962
+logiciels  installer dans
+0.009449750060294596
+de
+0.00944249307478383
+Il est ncssaire de possder une installation Linux base
+0.009382169340024508
+PRIVILEGES
+0.009317918836419763
+Une zone de saisie va apparaitre
+0.009265023793036488
+le bouton "Entre
+0.009256639561895937
+password
+0.009185140227451469
+fait
+0.009171797032686153
+Nicolas Le Guerrou
+0.009133121917152365
+Importer une base de donnes
+
+mysql -u root -p DATA < DATA.sql
+
+Mise  jour volutive
+
+Les mises
+0.009096317136284674
+lerreur suivante intervient
+0.009079144624570362
+saisir la commande utils-add-software
+0.009056780513102086
+va commencer par demander votre mot de passe
+0.008960486657586829
+hardinfo
+0.008931637347250254
+de doute de saisie
+0.008884502096911542
+vous demande ensuite certaines informations  propos
+0.008866567649457
+snap
+
+Rcupration de la mise  jour
+
+Pour rcuperer
+0.008811865583308381
+Elle
+0.008676573236012291
+Description Date
+1.0 Premire publication
+0.008655223649384473
+Un lecteur de fichier PDF
+
+Commandes
+
+La documentation pour chaque
+0.008566608362785366
+nouveau
+0.00855790728316941
+minimum pour installer les logicicels
+0.00841033369203523
+Mise  jour de linstallateur septembre
+0.007883162838105718
+linstallateur janvier
+0.00762595130320748
+et de rcuperer des informations
+0.0075773086533104965
+adresse IP
+0.007512811313013774
+Colors
+0.007093510011320933
+commande
+
+Commandes locales
+0.006926894805093706
+File
+0.006851095992618901
+sur le systme
+0.006686754979209821
+Redmarre
+0.006575129401574494
+Met  jour le contenu du serveur WEB install
+0.006134555219841138
+Installation du logiciel Utils
+
+
+Sommaire
+
+Prsentation
+Prrequis
+Installation
+Erreurs possibles
+0.005800330273300456

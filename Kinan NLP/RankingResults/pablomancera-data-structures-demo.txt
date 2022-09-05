@@ -1,0 +1,14 @@
+Compile
+0.21578260174536992
+meson
+0.21493020992519862
+dynamic arrays
+0.18180918112522673
+linked lists
+0.16212689533620622
+online WebAssembly
+0.13694282442748232
+data-structures-demo
+
+Poor implementation
+0.08840828744051599

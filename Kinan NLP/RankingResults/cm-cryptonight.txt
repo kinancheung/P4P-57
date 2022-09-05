@@ -1,0 +1,4 @@
+WebAssembly
+0.5
+CryptoNight algorithm
+0.5

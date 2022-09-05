@@ -1,0 +1,4 @@
+JamTemplate
+0.5
+OnehourGameJam
+0.5

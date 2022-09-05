@@ -1,0 +1,107 @@
+programming skills
+0.03527747669977204
+# Clone sources - githab
+0.034701885466242505
+Implement
+0.030926770408670555
+FFI - Foreign Function Interface
+0.03055866743177301
+Docs
+0.02957331529788481
+https://hexdocs.pm/phoenix
+Forum
+0.027367014619093813
+Source
+0.027301672224589547
+https://hexdocs.pm/phoenix/overview.html
+0.026830586651164952
+goal
+0.026430728570182825
+https://elixirforum.com/c/phoenix-forum
+0.026324753046013283
+roadmap
+0.025061339022307033
+learning
+0.024373209628266147
+joy
+0.024278394046350363
+WASM
+0.02354463412490184
+wasm-pack
+0.02320473041186348
+Interop
+0.02302207859993135
+specific plan
+0.02293070401300793
+https://github.com/phoenixframework/phoenix
+0.022651265948924283
+toy project
+0.022009017373822125
+various programming languages
+Use language agnostic build system
+Use best practices
+0.021883775498383426
+dependencies
+0.021735934580326195
+required prerequisites
+0.021734061667979532
+Enter folder
+0.02135962774335251
+sources
+0.02112567770311044
+https://www.phoenixframework.org/
+Guides
+0.021120564382630012
+hospitalization
+0.020870101222127777
+application
+0.02079646390771389
+git
+0.02010657868387558
+fun
+0.019520891989254684
+#
+0.019317980881337432
+Hello World" program
+0.01918521946322134
+systems programming language Rust
+0.01904105879494892
+rustup.rs -  installer
+0.018441466078669484
+top level
+0.018435703364099096
+part
+0.017940314177054974
+Elixir / Phoenix
+
+Official website
+0.01787669143226906
+subprojects
+0.01787265960479973
+reliable and efficient software
+0.017810630468508566
+>
+0.017563585138502362
+Integrate tests
+0.016972984482801094
+rust - A language
+0.01697049376358958
+Generate documentation
+Implement profiling
+0.016373614387829936
+Application
+0.013298277229532135
+ie. erlang-dev
+0.012486934346331196
+backend
+
+Erlang
+Erlang Devel Package
+0.011981735140324455
+mix
+
+Javascript
+
+nodejs
+npm
+0.011808730282664649

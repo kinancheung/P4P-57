@@ -1,0 +1,9 @@
+WASI Interface
+0.3237236916806352
+WASM Interpreter Reference Implementation
+WASM3 C Interpreter
+0.30830029835889317
+Debug
+0.20381239562958178
+qemu
+0.16416361433089002

@@ -1,0 +1,277 @@
+necessary files
+0.0420579122908626
+build process
+0.02807222932749268
+cryptography library
+0.027365133262853263
+cmake
+0.025802464822886242
+binaries
+0.021519517934865496
+https://github.com/cuddlecoinxo/cuddlecoin-crypto
+cd cuddlecoin-crypto
+0.0209118763432609
+Copyright
+0.02023578250165552
+master --single-branch
+0.02013506179399924
+c
+0.019650057212868215
+git clone
+0.018742178411326835
+build
+  cd
+0.01795856141043756
+TurtleCoin Community
+0.01755700378529974
+npm install
+0.017393243928469967
+Native Javascript
+0.015705220507242164
+Linux
+
+Ubuntu
+0.015399295268756682
+Visual Studio
+0.014373619295284622
+development environments
+0.014065143800935887
+Forknote Project
+0.0122764771102247
+faster performance
+0.012153373334748323
+mkdir build
+0.011949691129452059
+default
+0.011764938730198115
+CMake arguments
+0.011370420090974801
+command
+0.011018551680320272
+Bytecoin Developers
+0.011002409992411333
+while
+0.010376919837433893
+CryptoNote developers
+0.010264382641741909
+dependencies
+0.010064233126031288
+sudo add-apt-repository ppa:ubuntu-toolchain-r/test
+0.009503187927636497
+version
+0.009133987811894544
+CXX=
+0.009110689448541444
+Windows Powershell console
+0.008954274266740442
+CC
+0.007887264242422512
+license
+0.00762189134377186
+local/opt/llvm/bin/clang
+0.007411418332299215
+Prerequisites
+0.0073502947242978164
+CuddleCoin
+0.007274138772713094
+environment
+0.0071977074991098275
+Hi CuddleCoin contributor
+0.007172087400716447
+Clang
+
+Prerequisites
+
+Install XCode
+0.007003747287851235
+method
+0.006907022303806274
+variety
+0.0069042328242887325
+noticable difference
+0.0068828495586304595
+prebuilds
+0.006645412387164332
+example
+0.006591496860179126
+ubuntu
+0.006571540257058719
+optimized native builds
+0.006523171666281882
+Node v11
+0.006465828890831561
++6.x LTS
+0.006465566245649874
+software
+0.006463845035448381
+add-apt-repository "deb
+0.006442942856655174
+better experience
+0.006442731090147563
+WASM/JS binaries
+0.006432752298234715
+crypto.a
+0.006396710736156476
+windows-build-tools
+0.0063771327263552596
+Pull Requests
+0.0063441352175878495
+Extensive docs
+0.006325212259623429
+MSBuild cuddlecoin-crypto.sln /p
+0.006273186711064697
+particular system type
+0.006224175738772953
+P/Invoke
+0.006098204634855366
+systems
+0.0060774980377867605
+machine
+0.0060748750195361145
+Crypto
+0.006073305603491494
+errors
+0.006067852103512232
+step
+0.006064974658994178
+various other projects
+0.0060641920290623545
+Native Javascriptcuddlecoin-crypto.js
+
+
+WASMcuddlecoin-crypto-wasm.js
+
+Thanks
+
+Cryptonote Developers
+0.006041704056797551
+Configuration=Release
+0.006036287580803643
+jsbuild folder
+0.006012798372831309
+Update
+0.00600004346826003
+reason
+0.005983433665994846
+open x64 Native Tools Command Prompt
+0.005955533570457217
+export CC=/usr
+0.00595330896949927
+start menu
+0.005885017682368529
+following packages
+0.005811110740341366
+script
+0.005788101168877551
+repository
+0.00578504467429544
+C++ Library
+0.005772910013787352
+apt-get install aptitude -y
+  sudo aptitude install
+0.00574176232539836
+Node.js >= 6.x
+C++
+C#
+0.005741072815437643
+Win64
+0.0057309563261989365
+clang
+0.005662882969395568
+works
+0.005656722054953061
+PATH="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin";%PATH%
+  cmake
+0.005646992065314089
+Build Optimization
+
+The CMake build system
+0.005640631162114192
+first time
+0.005634610736940425
+https://raw.githubusercontent.com/Homebrew/install/master/install
+0.005560946577476142
+vs2017
+0.005547273005358082
+libraries
+0.005532255824712794
+particuar system
+0.005511442165159463
+bit
+0.005452859848630975
+libcuddlecoin-crypto-static.a
+
+OSX/Apple
+0.005411639978521444
+included LICENSE file
+0.005388082569354967
+more information
+0.005231661281867143
+Developer Tools
+0.005132767301177086
+bin/ruby -e "$(curl
+0.00509320486008015
+NPM
+0.005069512586926877
+Copypasta
+0.00490474041497452
+Xenial
+0.004790794395773028
+package
+0.004661549349395514
+distribution
+0.004515528523761279
+Dependencies
+0.0043407798216237095
+Administrator
+0.0042244577524252844
+Twitter
+0.004187155061081829
+TurtlePay
+0.00416764405927037
+Node.js native addon module
+0.004065732323898404
+libcuddlecoin
+0.004042529695219334
+Standalone Cryptography Library
+
+NPM
+
+Prerequisite Maintenance License
+0.003982168883196635
+crypto).Crypto
+0.003734085931705043
+bash
+0.003696557835039103
+Documentation
+0.003639377306036993
+Trusty
+0.0035835985473437414
+const TurtleCoinCrypto = new Crypto
+0.00356631130766039
+Installation
+
+npm
+0.0035342439544847146
+WASM
+
+Node.js Module
+
+Dependencies
+0.0034436078656152383
+your_turtlecoin
+0.0033194920889290085
+CuddleCoinCrypto
+0.0030003313259651934
+build-essential git cmake
+git clone
+0.002961456765931016
+wget -O - https://apt.llvm.org/llvm-snapshot.gpg.key
+0.0029004792489640534
+wget
+0.0028282399005901673
+Aptitude::ProblemResolver::SolutionCost=100*canceled-actions,200*removals
+0.002779272492581234
+aptitude install build-essential clang-6.0 libstdc++-7-dev git cmake
+  export CC
+0.0027100583479975496

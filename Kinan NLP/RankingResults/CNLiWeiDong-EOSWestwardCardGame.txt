@@ -1,0 +1,4 @@
+EOS
+
+CMake IDECLionCMakelist.txteos
+1.0

@@ -1,0 +1,16 @@
+significant errors
+0.23010882222855794
+security vulnerabilities
+0.22848567752326157
+implementation
+0.1638980620335347
+Stellar Jump Cannon
+
+WARNING
+0.1587104872458146
+purpose
+0.11152887772891798
+rs-stellar-token-contract
+
+Native token implementation
+0.10726807323991316

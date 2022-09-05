@@ -1,0 +1,8 @@
+Emscripten
+0.2625461108935534
+cf
+0.2625461108935534
+https://webassembly-circles-animation.netlify.app/
+0.2374538891064469
+WebAssembly
+0.23745388910644688

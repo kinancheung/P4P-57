@@ -1,0 +1,16 @@
+SDL2
+0.1911949913394566
+WebAssembly
+0.18372881993220924
+C/C++
+
+sdl_interactions
+0.18188187211866355
+C++
+0.16347079442575949
+Keyboard interactions
+0.1611772763403335
+webassembly_experiments
+
+Experiments
+0.11854624584357704

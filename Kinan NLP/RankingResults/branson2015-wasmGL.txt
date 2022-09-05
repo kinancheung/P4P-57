@@ -1,0 +1,12 @@
+WebAssembly
+
+Generating Makefiles
+0.38558113395362303
+wasmGL
+
+Basic OpenGL application
+0.3525716824501747
+cmake-native
+
+native windows
+0.26184718359620207

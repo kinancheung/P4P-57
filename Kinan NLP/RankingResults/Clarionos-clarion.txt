@@ -1,0 +1,52 @@
+dev environment
+0.08815476018852421
+yarn
+0.05852318247812177
+npm
+0.05772666829856045
+https://github.com/bytemaster/clarion/discussions/2
+Discussions
+0.049682133826365556
+https://eoscommunity.org/c/clarion
+0.04939822631666183
+Introduction
+0.04923432871293627
+Telegram
+0.04696648179080903
+ClarionD
+0.046656320476291424
+variable
+0.046103012158891246
+WASI_SDK_PREFIX environment
+0.04560372334909598
+PWA
+0.043808620921470136
+path
+0.03977881838169423
+browser
+0.03927170528898176
+Ubuntu
+0.03873031510577884
+Clarion Logo
+0.03711541042275436
+git submodule update
+0.03699450022508773
+architecture-specific instructions
+0.03501634799522719
+\
+    libssl-dev
+0.03487791907883458
+apt-get update
+sudo apt-get install
+0.03285442800823306
+cmakes -DWASI_SDK_PREFIX=.... option
+0.029491393821244313
+\
+0.02582942660988323
+cmake -DCMAKE_BUILD_TYPE=Release
+0.025599292254019246
+https://nodejs.org/dist/v14.16.0/node-v14.16.0-linux-x64.tar.xz
+tar xf node-v14.16.0-linux-x64.tar.xz
+0.023275034365502982
+x64
+0.019307949925030796

@@ -1,0 +1,53 @@
+files
+0.0891402641450748
+discovered peers
+0.08474310311484061
+Dragit
+0.06883935173993859
+great example
+0.05083260962472183
+wasm
+0.04913513848419801
+dragons
+0.04818406154032308
+namespaces
+0.04799795079833148
+TODO:
+
+discovery
+0.04717493379328154
+experimental project
+0.04566718355784839
+rendezvous server side
+webrtc dialing
+dragit protocol
+0.04518723313759188
+libp2p WebRTC
+0.044468022495137476
+connection
+0.043150757230813096
+https://rustwasm.github.io/wasm-bindgen/api/web_sys/struct.FileReader.html#method.onload
+Fiddle
+0.041928818911426656
+FileReader chunks
+0.04140153732159407
+https://joji.me/en-us/blog/processing-huge-files-using-filereader-readasarraybuffer-in-web-browser/
+Mozilla file handling docs
+0.04083444523094305
+https://github.com/iotaledger/identity.rs/blob/301193625bb4133c63b7af5b7f1d0b5b0423b9fb/bindings/wasm/src/actor/mod.rs#L51-L53
+0.0386290147509395
+webrtc
+
+Resources
+
+FileReader
+0.038296667355710634
+https://developer.mozilla.org/en-US/docs/Web/API/File/Using_files_from_web_applications
+libp2p application
+0.03737350774658442
+peer discovery
+0.03638010445819568
+browser
+0.034801286829276745
+concept
+0.025834007733228526

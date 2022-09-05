@@ -1,0 +1,28 @@
+debugged
+
+Requirements
+0.10726176445333087
+functions
+0.10138153603818452
+None
+0.09836010557600636
+wasm binary
+0.09540206069731183
+project
+0.0915762459246179
+unwanted compiler-provided exports
+0.08261741199324202
+version
+0.07940552994290825
+c
+0.07495369892948435
+https://github.com/RichardAH/hook-cleaner-c.git
+0.07060379501672272
+past 15 years
+0.07034386579577498
+Hook Cleaner
+
+Hook Cleaner
+0.06530969528473794
+./hook-cleaner accept.wasm
+0.06278429034767795

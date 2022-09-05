@@ -1,0 +1,84 @@
+few thousand to millions end devices
+0.1047999724440502
+slots
+0.07171270265012912
+min period
+0.07108187483162896
+gateways
+0.06922102536934918
+SF7: max range
+0.0683272457922537
+order
+0.03478986980686931
+minimum number
+0.032882317836745646
+gateway
+0.03182116493928985
+m
+0.031128702325071887
+network
+0.029772457376138962
+Adaptive model
+0.029753357527032693
+screenshots
+0.026826671324655785
+different and orthogonal channels
+0.02412348741447948
+periods
+0.021331156602295964
+locations
+0.02112067644625543
+positions
+0.02070632631950663
+fixed position
+0.019391206856270347
+entire list
+0.018728915456731332
+Gateways
+0.018605652932002496
+following
+0.01769549230259948
+strategy
+0.01717060040195504
+single periodic message
+0.01687368269390491
+% coverage
+0.016360121170953108
+conditions
+0.016331230596997794
+different algorithms
+0.01582100520691295
+maximum range and minimum transmission period
+0.015546919365805184
+external file
+0.015459964207477292
+spreading factor
+0.015314244954267215
+wich
+0.01514818266422844
+goal
+0.014858950802863667
+application
+0.014234492902915959
+city-wide, real-time LoRaWAN network model
+0.01227941659540032
+generate
+0.01205227489763026
+https://github.com/matiasmicheletto/realtime-lorawan-simulator
+cd realtime-lorawan-simulator
+0.01083829225199916
+Real-time LoRaWAN Simulator & Optimizer
+
+A tool
+0.00974689756422514
+development) version
+
+npm run dev
+
+Compile optimized version
+
+npm run
+0.009546736116824571
+build
+serve dist
+0.008596711052282727

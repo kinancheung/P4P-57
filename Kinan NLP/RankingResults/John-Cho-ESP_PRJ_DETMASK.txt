@@ -1,0 +1,6 @@
+ESP_PRJ_DETMASK
+
+My project
+0.5
+Mask Detection System
+0.5

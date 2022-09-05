@@ -1,0 +1,12 @@
+following command
+0.235791238513496
+app
+0.21934084002347715
+Future Optimizations
+0.19785214505142212
+Only redraw fog
+0.1857140868935598
+dspr-frontend
+
+Notes
+0.16130168951804508

@@ -1,0 +1,22 @@
+bevy based viewport
+0.24287901014451194
+yarn install
+0.11470468206306547
+UI
+0.10466586662751917
+Install
+0.10354937692136865
+Tauri
+
+Experimental editor
+0.10204306953954775
+app
+
+$ yarn tauri dev
+0.09362534564095687
+Bevy Editor
+0.0926262488124526
+repository
+0.07784817981096707
+https://tauri.studio/docs/getting-started/prerequisites
+0.06805822043961059

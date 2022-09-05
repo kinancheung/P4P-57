@@ -1,0 +1,13 @@
+web server
+0.25265996601199414
+.wasm file
+0.234693991927183
+root directory
+0.20523654292331817
+Building
+
+b.bat
+0.18927228476197672
+IJKL shoot
+P - Pause and unpause game
+0.1181372143755281

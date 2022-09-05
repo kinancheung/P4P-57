@@ -1,0 +1,20 @@
+web application
+0.2404969776811759
+data analysis
+0.12362647987422201
+FSCV neurochemical data
+0.1195614188105624
+licenced KissFFT C++ library Copyright
+0.1040576575886763
+rights
+0.09398654124014522
+Analysis Kid
+0.0927519699124166
+https://github.com/mborgerding/kissfft
+0.0869299416136192
+Mark Borgerding
+0.08202330594608911
+Analysis-Kid
+
+Analysis Kid web application
+0.05656570733309343

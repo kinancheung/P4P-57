@@ -1,0 +1,196 @@
+host
+0.059268106967964335
+audio
+0.034791195618306854
+Library
+0.031523474782253307
+browsers facilities
+0.02690762200996992
+Runtime
+0.026300789132232258
+libgp1vm
+0.024943672117541435
+Linkage
+
+
+Renderer
+0.02259817142068555
+monitor
+0.0201321583907417
+I/O.
+Facilities
+0.01975348264619102
+video
+0.01726812137988943
+libgp1io
+0.01714102547972711
+input
+0.017109048442599924
+--help
+0.016885283444331715
+available drivers
+0.01684931805965448
+General GUI
+0.01671206636110726
+Input manager
+0.016502740428217186
+interactive configuration
+0.016453178464637994
+song
+0.01590181959937477
+nullrender
+0.015597729669341113
+VM core
+0.015460334206562289
+Support
+0.015403220840085864
+intermediate framebuffer
+0.015400426413567711
+autoconfig
+
+
+carrier
+0.01524990097272524
+API
+0.015154251777765054
+flag
+0.015126763060441799
+declaration
+0.014883911169006822
+native executables
+0.014589795335946114
+Wasm
+0.014517132772794776
+imAG
+0.014495822956517882
+GP1 images
+0.014343709033085262
+Documentation
+0.014323255234665712
+Prereqs
+0.014309014432668804
+framebuffers
+0.014078302641942844
+driver types
+0.013957011120869207
+gp1
+0.013848537548395807
+Client-side library
+0.01363042400940797
+glx
+0.013622545605941025
+program name
+0.013506257922065102
+gl2: non-square tiles
+0.013408518425541787
+correct screen size
+0.01337361347313033
+new project
+0.013175640949120588
+assign playerid
+0.013139058254475243
+Metal
+0.013129248107805011
+Synthesizer
+
+
+Tooling
+Pack ROM
+
+
+Convert chunk
+
+
+Dump ROM info
+0.012691172216615736
+eg video and audio buffer assembly
+0.012575335956867183
+different results
+0.012487435524110592
+GNOME
+0.012469008134308093
+Wasm
+
+
+Spawn project
+0.01226058123615321
+Vulkan
+0.012240514026961417
+command-line utilities
+0.012227904025435329
+https://github.com/bytecodealliance/wasm-micro-runtime
+WASI SDK
+0.011987601181795595
+first joystick
+0.011944925818746904
+System Keyboard
+0.011914324397517951
+Alt-Tab
+0.011896536076849413
+player
+0.011826288670572652
+Direct3d
+0.011592728340697476
+rendering command
+0.010985857695656869
+Multiple languages
+
+
+Use strings
+
+
+Use data
+
+
+Use HTTP
+
+
+Use WebSocket
+
+
+Use storage
+
+
+Use
+0.010624084590511874
+few pieces
+0.010538732575306003
+Display
+0.01044762471189693
+separate "begin frame" hook
+0.008346475205478862
+MacOS video driver
+
+
+Windows video driver
+
+
+ALSA driver
+
+
+PulseAudio driver
+
+
+MacOS audio driver
+
+
+Windows audio driver
+
+
+evdev
+
+
+MacOS HID
+
+
+Windows HID
+
+
+User languages
+
+
+Lights-On validator ROM
+All image formats
+0.008216854521282142
+lower window bar
+0.007960314413940258

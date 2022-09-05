@@ -1,0 +1,69 @@
+cmake
+0.07893326351841021
+Windows
+0.06053562292324327
+Linux
+0.060329666218079364
+doc
+
+File
+0.048337386440298113
+date
+0.0479641230905932
+installation guide
+0.046857715051192586
+Doxygen
+0.04647670505933931
+Indie Studio
+0.04625351030024322
+Discord
+
+Previews
+
+Splash screen
+
+Main menu
+
+  Main menu image
+Settings
+
+  Settings image
+0.04559718509326948
+html preview
+0.04541360790565367
+Raylib logo
+
+GitHub release
+0.043922839235004146
+./Documentation folder
+0.04342888116588275
+raylib graphical library
+0.04328222695318014
+aim
+0.042029010583429116
+documentation
+0.04154029389634744
+cross-platform 3D video game
+0.04061767446759642
+Firefox
+0.03826938398871294
+Wii tank game
+0.037902399505922967
+Contributors
+
+Maxime Dodin github-link
+Robin Levavasseur github-link
+Clment Ruat  github-link
+Charlie Chou github-link
+Antoine Desruet github-link
+0.037864215469621786
+real-world tools
+0.03771984521095907
+Cmake
+0.03707051470577642
+game image
+Pause menu
+
+  pause menu image
+End menu
+0.02965392921724446

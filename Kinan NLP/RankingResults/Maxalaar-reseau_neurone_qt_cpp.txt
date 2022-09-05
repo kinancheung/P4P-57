@@ -1,0 +1,8 @@
+la verstion de kit
+0.39416841010751713
+Qt
+0.3188460465838035
+reseau_neurone_qt_cpp
+
+Le programme fonctione
+0.2869855433086788

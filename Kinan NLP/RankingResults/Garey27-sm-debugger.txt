@@ -1,0 +1,46 @@
+debug server
+0.08926796247515442
+Copy extension
+0.05884341205308132
+addons\sourcemod\extensions\
+0.05870617443378699
+github
+0.05757450698272444
+sm_debugger.autoload file
+0.05729621008704315
+time
+0.054094155483939664
+VSCode adapter
+0.05406085036274241
+scripts
+0.05343181853786471
+correct work
+0.05280020984975595
+remote debugging
+0.05234954068127345
+download release
+0.05226595953188743
+Build and Run
+
+Clone
+0.05053888960962293
+SourceMod
+0.04949919517477934
+project
+0.04571619999725581
+Start srcds server
+Follow readme
+0.04425884806223214
+https://github.com/Garey27/vscode-sourcepawn-debug
+0.03748119652762105
+SM-Ext
+0.03748058378027537
+Visual Studio Code
+
+TODO
+    Test
+0.03470040347755794
+SourcePawn Debug Server
+0.03304073931820317
+linux
+0.02659314357319815

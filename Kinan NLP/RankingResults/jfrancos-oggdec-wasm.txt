@@ -1,0 +1,54 @@
+browser
+0.0716442294071945
+Most browsers
+0.06711898594109514
+Emscripten
+0.05273034934742704
+WebAssembly
+0.05079051852505516
+process
+0.049207143425433204
+Makfile
+0.04805536075408647
+Makefile
+0.04705368726799364
+vorbis tools oggdec
+0.045117324325667736
+Ogg audio
+0.04444312859429797
+pre.js
+0.0422602181070256
+const decodeOggData
+0.04016190644677702
+./oggdec"
+const Module = module
+0.03888161511506298
+Safari
+0.038849915066578276
+import module
+0.03882709705657006
+Module.decodeOggData
+const decodedData = decodeOggData([...some array buffer
+0.038723101341481984
+Xiphs libogg/libvorbis/vorbis-tools c libraries
+0.035828096721877534
+Oggs
+0.035101986048777505
+drop-in replacement
+0.034456644200713225
+decodeAudioData
+0.03427563856093052
+Ogg piano samples
+0.033124846493584145
+project
+0.030241606472566594
+decode ogg data
+0.029872319069339584
+Mac and Linux
+
+Instructions
+0.027669084964660487
+oggdec-wasm
+
+Decode ogg files
+0.02556519674580352

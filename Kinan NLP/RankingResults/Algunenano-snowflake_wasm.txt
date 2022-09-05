@@ -1,0 +1,40 @@
+Apache Public License
+0.0928051707738314
+funcionality
+0.08474267907019328
+node
+ template.sql    - Templates
+0.08297300203800771
+- Simple script
+0.07146004947774447
+file
+0.06935441447786503
+SQL functions
+0.06906971766924323
+wasm_helpers.js - Functions
+0.06747086981628
+project
+0.05886131535519154
+Makefile        - Basic Makefile
+0.05555935124932711
+argon2.js       - Complete JS file
+0.05057750571637204
+Snowflake
+ LICENSE         - License file
+0.049586619479954824
+compiled WASM
+ argon2.lo       - Temporal library
+0.048970735265598545
+WASM calls
+0.04751048863500865
+LLVM bitcode
+ argon2.sql      - Final SQL functions
+0.04708636609018898
+P-H-C/phc-winner-argon2
+0.03754970624649199
+Contents
+0.036066282908635436
+Snowflake WASM prototype
+
+Blog post
+0.030355725730065487

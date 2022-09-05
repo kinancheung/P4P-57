@@ -1,0 +1,73 @@
+VESTIO
+0.10316977775879042
+initial public blockchains
+0.07052734639477112
+software
+0.06347774463681669
+organizations
+0.03634924278801491
+Fedora
+0.03483774966595077
+companies
+0.03280869695101141
+Ubuntu
+0.031945783039060434
+Biometric Hardware Secured Keys
+0.028863107320301704
+Support
+0.02831040435077633
+private keys
+0.0277531985777439
+MacOS Darwin
+0.027479075106672975
+businesses
+0.025648299837233924
+Parallel Execution
+0.025527048603616837
+Context Free Validation Logic
+0.024845755917785588
+Apple Secure Enclave
+0.023804822436314814
+Web Assembly
+0.02343054457615612
+Low-overhead Byzantine Fault Tolerant Finality
+0.023420703484371055
+seconds
+0.023395718411119766
+Centos
+0.023194204010989712
+release
+0.022954412329341846
+groundbreaking features
+0.02245547360562034
+public testnet
+0.02237636312322693
+Sparse Header Light Client Validation
+Scheduled Recurring Transactions
+0.02231102099580087
+Powerful Infrastructure
+0.022169008788945004
+Free Rate Limited Transactions 
+Low Latency Block confirmation
+0.02200813091523614
+Smart contract platform
+0.02184229875040084
+Decentralized Applications
+0.02166577048060097
+Operating Systems
+
+VESTIO
+0.021455947129351928
+Time Delay Security
+Hierarchical Role Based Permissions
+0.021152751228805413
+Block.one
+0.02105023356860016
+following operating systems
+0.02047349180426152
+VESTIO source code repository
+0.019997960737000928
+optional high-overhead, low-latency BFT finality
+0.01965317543592487
+high-performance and high-security blockchain-based applications
+0.01964473723938388

@@ -1,0 +1,16 @@
+CLI version
+0.25560479630006855
+compiler
+0.15659732902541812
+repo
+0.15256274566587105
+ACE code editor
+0.12794623546928877
+Mindustry Logic
+0.12511619979281416
+further docs
+0.0962948680261971
+mindustry.compiler
+
+An experimental C compiler
+0.08587782572034233

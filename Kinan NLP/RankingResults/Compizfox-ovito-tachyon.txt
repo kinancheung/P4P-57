@@ -1,0 +1,31 @@
+user manual
+0.09165442854585745
+more information
+0.0900655399708317
+source code
+0.08625676890010407
+binary program packages
+0.08516401970603264
+instructions
+0.08279340022633241
+official website
+0.08039165109748006
+CONTRIBUTING.md
+0.07641692861640104
+details
+0.07274495730866025
+repository
+0.07103985548200212
+atomistic and other
+particle simulation data
+0.05964551559962924
+scientific visualization and analysis software
+0.05540919652780326
+community contributions
+0.05434458226873494
+open source project
+0.052452637487089816
+OVITO - Open Visualization Tool
+
+OVITO
+0.04162051826304126

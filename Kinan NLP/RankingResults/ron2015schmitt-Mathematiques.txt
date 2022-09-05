@@ -1,0 +1,235 @@
+C++
+0.024555105332598783
+JavaScript
+0.022493255442153005
+initializer lists
+0.022239318087863537
+features
+0.021164525666303106
+names
+0.02078439777516715
+Debug
+0.018849566744934064
+reflection
+0.017988321415370344
+influence
+0.016959265216214228
+need
+0.016600541898504757
+code
+0.01655202933360634
+syntax
+0.014563238233899257
+Grassman algebras
+0.014364702363569407
+dimension
+0.013816255271299203
+types
+0.013689256649423167
+Mathmatiques project
+0.013587345699000088
+checking
+production mode
+0.012906591069346484
+LHS
+0.01285920685802746
+computer graphics
+0.01274078674663031
+Fortran
+Initializer lists
+0.011773545801561201
+attibrutes
+0.01174583731361818
+production
+0.011700726083948912
+support
+0.011570418508542114
+fixed size
+0.011357228393351692
+variadic parmeters
+0.011112386080634692
+bounds
+0.010996363395135251
+full documentation
+0.010993147293327317
+spinors
+0.010715750909455236
+suport
+0.01064430770938141
+meta-data access
+0.010636780112078373
+closures
+0.010627085549153916
+inheritance?)requirements
+0.010600889458142713
+Named parameters
+0.01048710147599919
+macros
+
+
+Production modedebug features
+0.010423169129215027
+containers
+0.010407949308558321
+color
+0.010228717114997354
+markdown
+0.010208964179983423
+process
+0.010168919790100013
+variantthe return value
+0.010119028740770789
+rank
+0.010077311995095145
+compiler
+0.010051536238339966
+element
+0.010006830537939198
+memory storage
+0.009989782880348554
+frameworks
+0.009946523510550137
+function
+0.009940557589677792
+parameter pack type definition
+0.009859146892239417
+high-performance mathematics
+0.009834798723423932
+type information
+debug modes
+0.009787991242804626
+metaprogramming
+0.00973269488477072
+same type
+0.009651703358763088
+debug
+0.009635026852570096
+Other typesMulti-vectors
+0.0096246181939862
+garbage collection
+0.009546325221757516
+formatted results
+0.009436395114742993
+Use Java Interface and Stroustrup "concepts
+0.009313286782554867
+runs
+0.00929588078377633
+lack
+0.00925864545708797
+other languages
+0.00925521720382765
+type and size
+modern function supportlambda functions
+0.009221383027217539
+run-times
+0.009195887857614849
+many possible unicode operators
+0.008988517631155397
+fromC++
+Java
+JavaScript/TypeScript
+
+
+interoperability
+0.008905770139434227
+templates
+0.00871213565676547
+Core Math Types
+0.008687284480085182
+Unicode-16
+0.008576746053719785
+math
+0.008536224360227168
+Calculus operators
+0.008434712296171775
+C-style language
+0.008377313439419325
+interpolation
+0.0081543850388679
+LHS or RHS
+variable aliases
+0.008089122001345163
+optional methods
+0.008071820785753714
+use
+0.007980799369632485
+differential formscovariant / contravariant tensors
+0.007840733322364056
+language
+
+Processes Mathmatiques types
+0.007833440287996249
+Python and Julia
+User-friendly compiler error messages
+0.007819920574378492
+final changes
+0.00780244426958637
+toolchain
+Compiles
+0.0077182728404261375
+native machine code and web assembly code
+0.007674694955520272
+library
+0.0076597547992140235
+LateX / Notebook interoperability
+0.007605185216732363
+Docker and github actions
+0.007561724353219463
+Rust
+0.00753989039819948
+efficiency
+0.00742269007158459
+checking
+CI/CT workflow
+0.0073798422016303575
+numerical/scientific computation
+computational sciences
+machine learning / AI
+big data
+engineering simulations
+0.007307103266975085
+executables
+0.007299321814774787
+expression
+0.007249815437107004
+multi-array
+
+
+tensors
+0.00717617452366386
+Package manager
+0.0070481731051960156
+goal
+0.006976385946651696
+Matlab
+Mathematica
+Julia
+NumPy
+
+Package repository
+0.0068372408765695215
+Module/package
+0.006803725246884028
+order)Rust
+C++
+D
+
+Versatile and easy-to-read
+
+Generics
+0.0066427926585179466
+added functionality
+
+2D
+0.006523881141245607
+user friendly
+function
+0.006210470791889508
+Mathmatiques v0.40.75-c++20
+
+Documentation
+
+Documentation
+
+Goal - Phase
+0.0046579201461410934

@@ -1,0 +1,46 @@
+comando
+0.07795770956450795
+servicios
+0.07485475522585258
+Dentro de la carpeta
+0.06722319001739405
+El
+0.06690852311601264
+la compilacion
+0.06597831415688782
+Con
+0.06350884741169076
+ahora
+0.06325782002981861
+el repositorio
+0.052251442574964654
+El servicio manjaro-wasm del docker-compose
+0.05033477846338363
+la distribucion y le aade las herramientas necesarias para compilar
+0.04475201170505757
+construye su imagen con el dockerfile adjuntado
+0.04416537314215856
+Hay un
+0.043164416276514316
+Levantar el contenedor con docker-compose
+0.04057232304585542
+El puerto 8081 de la host tiene que estar libre
+0.04039186717355174
+entry
+0.03768676212354626
+--target=wasm32-wasi
+0.036855149875485424
+levantar
+0.03419579886951642
+son necesarios
+0.03247502621756332
+Permisos
+
+La carpeta (NEB-frontend-p1-x.x) necesita lectura y ejecucin
+0.03215088531700254
+chmod 711 ./img/
+
+Compilar spaceinv.c
+
+Requisitos
+0.0313150056932361

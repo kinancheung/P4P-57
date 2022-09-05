@@ -1,0 +1,4 @@
+EOS Mainnet
+0.5
+-lto-opt O2
+0.5

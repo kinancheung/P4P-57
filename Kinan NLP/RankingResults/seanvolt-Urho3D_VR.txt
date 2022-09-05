@@ -1,0 +1,250 @@
+project
+0.025504544739823495
+OpenVR
+0.025087613236569436
+Urho3D
+0.024923773670156215
+https://nothings.org
+0.020918794479284908
+fork
+0.01883168620452063
+subsystem
+0.018285286091463123
+head nodes
+0.015793186165817933
+HelloVR sample
+0.014790331314665827
+controller
+0.013706840451237842
+1.1.0
+0.01347404546901685
+rapidjson
+0.012983751268054807
+cameras
+0.01256690181710308
+CMake
+0.012350720093561597
+Urho3D logo
+
+Urho3D_VR
+0.012135650748057563
+assets
+0.011933143749338883
+VR code
+0.01158453469002843
+desirable way
+0.011287628818530598
+https://github.com/miloyip/rapidjson
+0.011153772140560918
+https://github.com/civetweb/civetweb
+0.010605886545431462
+StanHull
+0.010598484130173171
+FreeType
+0.010597267335018737
+Civetweb
+0.010484002419344558
+https://www.freetype.org
+0.010415756819478043
+https://www.sqlite.org
+0.010196797628982124
+http://www.bulletphysics.org
+0.010165651247587469
+https://codesuppository.blogspot.com/2006/03/john-ratcliffs-code-suppository-blog.html
+0.009975648242583705
+SQLite
+0.009953054688597744
+http://www.jonolick.com/uploads/7/9/2/1/7921194/jo_jpeg.cpp
+0.009859289563903932
+GLEW
+0.009701271059294301
+BlueHighway font
+0.009571545804616733
+Larabie Fonts
+0.009531286148462204
+NinjaSnowWar sounds
+0.00952340817378757
+jo_jpeg
+0.009474094159353148
+details
+0.009409614602224382
+Recast/Detour (https://github.com/memononen/recastnavigation
+0.009317777995006873
+Mark Simonson
+0.009289090053644646
+Anonymous Pro font
+0.009276276641466179
+Substance Share
+0.009268378725762543
+kNet
+0.009231492762452977
+Bullet
+0.009231287632654421
+Veli-Pekka Ttil
+0.009229819038542104
+http://pugixml.org
+0.009161782276936623
+PBR textures
+0.009121515484267092
+LICENSE
+0.009115769112800518
+https://www.libsdl.org
+0.009084979967156117
+allexandr007
+0.009021753369357401
+hand
+0.008931416144698728
+Mutant & Kachujin models
+0.008862634136011021
+support
+0.008695458902193571
+OGRE
+0.008618643051421779
+Jonathan Sandusky
+0.008615238846083794
+Mixamo
+0.008591326491811645
+https://share.allegorithmic.com)
+IBL textures
+0.008569645268559044
+contributions
+0.008538327866589517
+Dieselpunk Moto model
+0.008411559784103535
+License / copyright information
+0.008230152232264304
+Box2D 2.3.2 WIP
+0.008219264921356493
+hands
+0.008206021428703558
+bugfixes
+0.008192981187391982
+HDRLabs sIBL Archive
+0.008054734174409767
+Nick Royer
+0.008027150300694254
+AngelScript generic bindings
+0.008006084933139949
+libcpuid 0.4.0 (https://github.com/anrieff/libcpuid
+0.007918816844861723
+Miika Santala
+0.00789536521870507
+Oolong
+Engine
+0.007817890573849403
+https://www.realxtend.org)
+Ninja model
+0.007817157166223535
+http://www.luajit.org
+0.007814603262407281
+future
+0.007748426497525009
+Jack and mushroom models
+0.007686008025404615
+LuaJIT
+0.007670640206676409
+shaders
+0.007618754989029109
+Svyatoslav Razmyslov
+Mariusz Richtscheid
+0.007489537906332867
+implementation
+0.007437176834982073
+MIT license
+0.0073374124170357494
+enough experience
+0.007335531666336992
+terrain, water, smoke, flare and status bar textures
+0.007323922579688021
+Squish library
+0.007293854670836777
+developers
+0.007276327996096164
+http://www.boost.org
+0.007271515627808512
+goal
+0.007268578184666265
+complete interface
+0.007264529661459275
+button input
+0.007227274301151226
+Current Issues
+0.007176092808956577
+https://github.com/lz4/lz4
+0.007154729557570667
+Pranjal Raihan
+0.006954049542088842
+Open Asset Import Library
+0.006814808488241681
+defunct - http://www.codenix.com/~tolua
+0.006718741254074307
+Haptic feedback
+0.006707022161473956
+https://mustache.github.io
+0.006661002945813086
+Mike3D
+MonkeyFirst
+Nerzhul
+Newb I
+0.00665235504169686
+hack
+0.006649659119124045
+Lixin
+0.0066441206426447064
+others
+0.006607125179512484
+http://www.angelcode.com/angelscript
+0.006577915138940753
+Matan Shukry
+0.0063828043545541046
+correct projection matrices
+0.006380897016486681
+suggestions
+0.005910015090185305
+team member
+0.005835577807213931
+Wei Tjong Yao
+Aster Jian
+Ricardo Abreu
+Vivienne Anthony
+Colin Barrett
+Erik Beran
+Gauthier Billot
+Loic Blot
+Danny Boisvert
+Sergey Bosko
+Lisandro Bruzzo
+Thomas Bhm
+Carlo Carollo
+Pete Chown
+Christian Clavet
+Sebastian Delatorre
+0.005735460740689671
+following third-party libraries
+0.005469760043737218
+rest
+0.00546421711434587
+engine
+0.005458035401848214
+James Thomas
+0.005286006041627505
+Pete Leigh
+Pengfei Li
+Arnis Lielturks
+0.005241369922289718
+Ali Kmrinen
+Sergey Lapin
+0.004937514922741911
+Frode Modanung Lindeijer
+Thorbjrn Lindeijer
+Nathanial Lydick
+Xavier Maupeu
+Iain Merrick
+Justin Miller
+Jonne Nauha
+Huy Nguyen
+0.00479400318315335
+Paul Noome
+0.004554943734113993
+Y-way
+0.004222621669686625

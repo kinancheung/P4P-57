@@ -1,0 +1,64 @@
+Enumivo
+0.06637197702067577
+Fedora
+0.0548231005093812
+Biometric Hardware Secured Keys
+0.0442798107251492
+Support
+0.04339558316307772
+software
+0.0424964596442856
+businesses
+0.04240116528154746
+Parallel Execution
+0.037984971067664894
+Centos
+0.036547699855910866
+Context Free Validation Logic
+0.036391506697859066
+seconds
+0.03603593431851831
+Low-overhead Byzantine Fault Tolerant Finality
+0.035992154360851306
+groundbreaking features
+0.035733748561240536
+Web Assembly
+0.03551546146135785
+Apple Secure Enclave
+0.035400368568234176
+Free Rate Limited Transactions 
+Low Latency Block confirmation
+0.03456794135346506
+Sparse Header Light Client Validation
+Scheduled Recurring Transactions
+0.03352181089326807
+Smart contract platform
+0.03290275883510112
+following operating systems
+0.0328456018120311
+Enumivo source code repository
+0.03225228855551836
+Time Delay Security
+Hierarchical Role Based Permissions
+0.03135873496261361
+high-performance and high-security blockchain-based applications
+0.03051754481182145
+optional high-overhead, low-latency BFT finality
+0.029381424121721414
+Decentralized Applications
+0.028893728089212676
+Ubuntu 16.04 (Ubuntu
+0.028810046466735406
+Ubuntu 18.04
+MacOS Darwin
+0.027024341867461197
+MacOS 10.13.x
+0.026949903778972
+Resources
+
+Enumivo Website
+Enumivo Telegram
+Enumivo Forum
+0.024319837483517865
+Enumivo - The Most Powerful Infrastructure
+0.023284095732806813

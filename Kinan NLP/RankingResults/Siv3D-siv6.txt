@@ -1,0 +1,43 @@
+OpenGL
+0.08904546811255162
+C++20 framework
+0.07481352508247163
+creative coding
+0.07334038756878317
+SDK
+macOS 0.6.0
+0.06929035421923796
+WebAssembly
+0.06911624405539205
+Windows
+0.06741069813742137
+Brower
+0.06677169339638309
+Xcode
+0.06483034218347161
+Installation Guide & Documentation
+
+English
+0.06263140385487431
+OpenSiv3D
+0.060127033584707675
+macOS Mojave v10.14
+0.05720604352237099
+https://siv3d.github.io/
+: https://siv3d.github.io/ja-jp/
+
+SDK
+0.05315453205379869
+Linux
+0.05249112653337379
+functionality
+0.0506452083632005
+Downloads
+
+Platform Version Date Requirements
+Windows 0.6.0
+0.04603921431804466
+limited
+
+Third-Party Libraries
+0.043086725013916964

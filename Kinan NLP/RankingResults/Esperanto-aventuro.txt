@@ -1,0 +1,142 @@
+La programlingvo
+0.052414955458271933
+ludi tekstaventuron
+0.05114155523109371
+ebuild
+0.025562883914073638
+cd
+0.025363449404702282
+Se vi simple volas
+0.024794656877133614
+Oni povas kompili
+0.024696900329817372
+Estas
+0.022232539079347535
+anka havas dokumenton por provi kompreni la duuman formaton de la dosieroj kiujn
+0.021559769637894494
+la deponejo
+0.021334695045604937
+anka havas novan
+0.02064867963578612
+La originala sistemo inkluzivas kompililon por krei proprajn ludojn
+0.019747095791939128
+vi povas ludi e Gemelo.org
+0.018908741331306003
+la originalan sistemon
+0.018592238387715992
+&
+0.01726094367796749
+-Dbuildtype=release \
+      -Dprefix=~/aventuro-install
+ninja
+0.01637940072432383
+mkdir build
+0.01617868043845361
+la aventurojn de la originala sistemo
+0.015453333466889645
+DOSBox
+0.015425179057564131
+nun
+0.01529049827825476
+interpretilo
+0.014723571306336052
+atas permesi
+0.014563539926379923
+i
+0.01440552583618938
+WebAssembly por lokaj dosieroj
+0.014307796999595385
+oni povas
+0.013737659151619768
+meson
+0.013647973408267344
+URL kiu komencias
+0.013261769412710334
+file:///
+0.013112321867750607
+ankora funkcias
+0.013061638157283837
+ankora ne estas tute
+0.01280160245978825
+Ne
+0.01269977960207402
+twistd instalitan vi povus
+0.012527925380425698
+tiu
+0.012522921382345323
+emscripten
+0.012509251710233076
+al duuma dosiero
+0.012211323146136526
+povas funkcii anka kiel retpao
+0.01201139082712421
+fari
+0.011915149912779891
+por priskribi la lingvon
+0.011902266536629333
+nomias Aventuro
+0.01184590108923556
+Por ebligi tion
+0.011844962433652094
+./play-avt TEXEL.AVT
+0.011802074137143754
+du dokumentoj kune
+0.011599561996536532
+necesas programtradukilo por konverti
+0.01157024642756618
+dokumentita jam en la originala programo
+0.011541394738406936
+Post tio vi havos la necesajn dosierojn por
+0.01154092220766231
+~/aventuro-install/share/web
+0.011526769280621284
+sistemon por tekstaventuroj
+0.01146644235845389
+Mankas
+0.011429637021824278
+oni devas unue kompili
+0.011420123236124128
+./emsdk install
+0.011369972090304435
+la originalan zip-dosieron de Aventuro
+0.0112908848702349
+AVT-dosiero
+0.011250851693291725
+la kompililo kreas
+0.01119995950743907
+La originala programo estas
+0.011197182077955545
+Parto de la tasko estas
+0.011154244217187468
+Nova datumlingvo
+
+Krom
+0.011000757092101947
+twistd -no web --path ~/aventuro-install/share/web
+
+Tiam vi povas direkti vian retumilon al http://localhost:8080/ por ludi
+0.010925729257097878
+rekte legi la datumlingvon
+0.010711645160123878
+programo por DOS
+0.010684776017685055
+Redaktilo
+0.010351018046457265
+aventuro
+meson --cross-file
+0.010165387722292207
+celas rekrei malnovan
+0.010141598628583704
+latest
+source
+0.01011461709830364
+Por instali
+0.01004816535351574
+verkis
+0.00968082636416858
+la nova datumlingvo
+0.008044306796255958
+Tio povas eksporti la ludon al unu HTML
+0.007629361702344153
+dosiero por facile kunhavigi sian kreaon
+0.0065410785856207885

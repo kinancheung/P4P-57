@@ -1,0 +1,108 @@
+std::string user_id
+0.10855945281733693
+uint64_t
+0.06351634923120092
+business_id;//
+0.0590251006067774
+=
+0.054707164816646184
+//ID
+0.05045456101397586
+d
+0.046587745971943005
+int type
+0.04524408905688311
+uint32_t height
+0.034334745361477306
+true,
+    "process
+0.029942228197632745
+evsio.token
+0.028747408543542283
+withdraw_data
+0.026336361336050516
+d.
+0.02506239556373234
+PW5KRu92ZLqjCG4L4wNNKkp48jPzRSiwo8fepYts6njKXo4LyJqC8
+0.022474685673640443
+wallet_passwd
+0.022115034997041025
+funds_user
+0.021291916481662468
+send_withdraw_request
+send_withdraw_request(const currency_plugin_impl::withdraw_data
+0.021118631161761582
+deposit_data
+0.02058429433089857
+excutor
+0.020237598205784357
+send_deposit_request(const currency_plugin_impl::deposit_data
+0.02008054466442511
+/home/liul/Code/evs/build/programs/cleos/cleos
+0.019623166397624712
+http://evo-chain.kkg222.com
+0.019367160145460846
+# p2p
+p2p-peer-address
+0.01925917811754216
+deposit",  //
+    "contract_user
+0.018701485822665637
+currency-withdraw-user
+0.01782205116227712
+core_limit
+0.017773519152623752
+EOS
+0.01769044599273205
+file_limit
+0.01765743269457093
+eosio::currency_plugin
+
+# currency_plugin
+# 1
+currency-symbol = TGC
+# currency-symbol
+token-contract
+0.01711552568224838
+worker_num
+0.01664420484992427
+log": {
+        "path
+0.01612983691084481
+currency_server_helper, currency_server_helpermake
+
+currency_server_helpercurrency_server_helper.exe
+
+
+
+{
+    "debug
+0.015227853092767633
+currency_server_helper
+0.014316784869129724
+1.7.1currency_plugineoscurrency_plugin
+
+ git
+0.013863953100580048
+tcp@0.0.0.0:8082"
+        ],
+        "max_pkg_size
+0.013779873650136484
+debug,trace
+0.013354471597700333
+currency_pluginTGC
+
+
+
+TGCEOSIOEOSEOSTGC
+EOSIOEOSIOEOS
+2
+
+NodeTGC
+
+
+
+
+node
+ git
+0.01125274872875886

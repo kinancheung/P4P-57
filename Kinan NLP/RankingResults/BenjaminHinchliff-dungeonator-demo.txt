@@ -1,0 +1,12 @@
+Wasm version
+0.2616848850067038
+dungeonator
+0.26121393546874294
+other platform
+0.1838461602668073
+other cmake project
+0.15954596980993482
+Dungeonator Demo
+
+A quick wasm/desktop demo
+0.13370904944781098

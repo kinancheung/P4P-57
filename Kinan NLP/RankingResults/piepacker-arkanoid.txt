@@ -1,0 +1,8 @@
+Web Assembly
+0.3047150203870074
+WASM
+0.2925182655741052
+libretro frontend
+0.21416130767185487
+https://github.com/start9/archjs
+0.1886054063670325

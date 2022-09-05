@@ -1,0 +1,21 @@
+basis
+0.17462955300599253
+C++
+0.12228952301539792
+WebAssembly
+0.11747557850521616
+subset
+0.11122869926631586
+normalized Legendre polynomials
+0.09395482643696851
+dependencies
+0.08239156325464969
+uniform velocity field
+0.08193152404427788
+web browser
+0.07548270811255488
+smooth periodic steady-state convection diffusion
+type PDE
+0.07418316163544383
+Dicontinuous Galerkin
+0.06643286272318279

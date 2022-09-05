@@ -1,0 +1,240 @@
+docker image
+0.03446413655001002
+C++ SDK
+0.03068632264168005
+.wasm
+0.02552227266851861
+v2
+0.024834055201880735
+install
+0.02136744272985356
+emscripten
+
+git
+0.020472131250100382
+directory
+0.020304478098208092
+protobuf library
+0.0193281431297115
+libprotobuf.a files
+0.01893099612511188
+version
+0.018768492902721038
+Docker image
+0.017349747119641514
+Dockerfile-sdk
+0.01540107851495486
+standard libraries
+0.014477293312963338
+wasm files
+0.01433576335703463
+dependencies
+0.013072533471086632
+ABSL}/absl/strings
+0.012225338407561152
+first time
+0.01201150896591539
+use
+0.011847223122773502
+specific versions
+0.011816901344026687
+wasmsdk
+0.011681847407384868
+project
+0.011622651288399965
+Makefile
+0.011242526285840878
+source files
+0.011224097701184342
+https://github.com/emscripten-core/emsdk.git
+cd emsdk
+./emsdk update-tags
+0.010838562312390056
+newer/specific version
+0.010829164430431302
+WebAssembly
+0.010809181515974731
+#
+0.010508103947590131
+DOCKER_SDK=/sdk
+0.010417828308654996
+abseil form
+0.010312163974722083
+PWD:/work
+0.010143344315166287
+DOCKER_SDK}/Makefile.base_lite
+
+Source file
+0.00952933831104046
+FilterHeadersStatus onRequestHeaders(uint32_t headers
+0.009378412586064455
+logInfo(std::string("header path
+0.008728581916952994
+CPP_API}/proxy_wasm_intrinsics.js
+0.008531601585124678
+--js-library
+0.008259741022369996
+awk
+0.008021280676084161
+abseil-cpp
+0.007912734558981087
+CPP_API}/proxy_wasm_intrinsics.h ${CPP_API}/proxy_wasm_enums.h ${CPP_API}/proxy_wasm_externs.h ${CPP_API}/proxy_wasm_api.h
+0.007905099010337993
+https://github.com/kwonoj/protobuf-wasm
+0.007781710959023099
+script
+0.007668935502128517
+sdk_container.sh
+0.007667271505624149
+instructions
+0.007662878154186893
+works
+0.007612232153041814
+subsequent compiles
+0.007610852075143045
+4bba8b2f38b5004f87489642b6ca4525ae72fe7f
+0.00756863268920194
+Ownership
+0.0075193613576093905
+print
+0.007397378162338548
+%
+0.007292446339871597
+CPP_API}/proxy_wasm_intrinsics.js ${CPP_CONTEXT_LIB}
+        ls /root
+                em++ -s STANDALONE_WASM=1 -s EMIT_EMSCRIPTEN_METADATA=1 -s EXPORTED_FUNCTIONS=[_malloc
+0.007264682017795055
+build system
+0.007209803342730022
+Enovy
+0.007178241162932856
+cd
+0.007154825445301626
+Dependencies
+0.00698309975549535
+c++17 -O3 -flto
+0.0069566016698498654
+emconfigure
+0.006797197724071356
+--disable-shared CXXFLAGS="-O3
+0.006759700127975094
+generated code
+0.006679628880326507
+patches
+0.006640076309077215
+latest
+./emsdk activate
+0.0066352957322953435
+activate
+0.006599129788751551
+Proxies
+0.006592277903835764
+WASM modules
+0.006539562281219622
+Abseil
+0.006487585568775178
+hand
+0.006473105984568028
+C++ WebAssembly toolchain Emscripten
+0.006407915517642729
+example
+0.006373453548551225
+.a library
+0.006366756572003175
+https://emscripten.org
+0.00634057543782839
+Docker file
+0.006299352286874311
+tag v3.9.1
+0.006277666131830942
+absl::flat_hash_set
+0.006236529093848295
+proxy_wasm_intrinsics.h"
+
+class ExampleContext
+0.006212487147672732
+volume
+0.006181397984570086
+follow lines
+0.006154441884654479
+same level
+0.0061353909085259195
+docker build -t wasmsdk
+0.006127464430170492
+string
+0.0061146863097468135
+logInfo(std::string("onRequestHeaders
+0.006095273959219852
+myproject.wasm
+0.006088760285812207
+https://github.com/protocolbuffers/protobuf
+0.0060883129877929345
+DOCKER_SDK=/work
+0.00606503676044776
+public
+0.006048933312615613
+git clone https://github.com/protocolbuffers/protobuf protobuf-wasm
+cd protobuf-wasm
+git checkout v3.9.1
+git clone
+0.006024495304794284
+api/wasm/cpp
+0.006000171562889401
+many syscalls
+0.005965697051709953
+std::to_string(id
+0.005965640627405265
+explicit ExampleContext(uint32_t i
+0.005931343090366232
+libabsl_strings.a
+0.005919191961926741
+root
+0.005919153587919303
+check
+0.0058949363249861325
+Envoy sources
+0.005816325958485755
+Docker
+
+A Dockerfile
+0.005761258557657035
+getRequestHeader(":path
+0.005749074403287574
+^
+0.00574474047948391
+ABSL_LIBS
+0.005706100457888314
+std::string(path->view
+0.005704196447007823
+Precompiled abseil libraries
+0.005673996506066333
+PWD:/work -w /work  wasmsdk:v2
+0.005582098909382194
+first successful compilation
+0.005580463082494307
+src/.libs
+0.005490602257759495
+cd wasm-patches
+0.005479937903790005
+static RegisterContextFactory register_ExampleContext(CONTEXT_FACTORY(ExampleContext
+0.00542290831774603
+sudo
+0.0053368272927776135
+void onDone() override
+0.005267785804332261
+WASM_OBJECT_FILES=0 --llvm-lto 1"
+emmake
+0.0051556160177101155
+return FilterHeadersStatus::Continue
+0.005112482711226218
+CPP_API}/proxy_wasm_intrinsics.pb.cc ${CPP_CONTEXT_LIB} ${CPP_API}/libprotobuf.a
+0.004663752307747214
+CPP_CONTEXT_LIB = ${CPP_API}/proxy_wasm_intrinsics.cc
+ABSL
+0.004535738614878398
+local/bin
+0.004414510422435627
+Example
+0.004372803006087257
+str_cat.cc ${ABSL}/absl/strings/str_split.cc ${ABSL}/absl/strings
+0.0043490838083326665

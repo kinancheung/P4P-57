@@ -1,0 +1,12 @@
+DirectXCompiler
+0.226158755520742
+SPIRV-Cross
+0.21360563191132526
+make
+0.17247517924569541
+Emscripten wrappers
+0.15893110384167652
+dxcompiler.{js,wasm} and spirv.{js,wasm} WebAssembly modules
+0.15499876821791053
+emsdk
+0.0738305612626502

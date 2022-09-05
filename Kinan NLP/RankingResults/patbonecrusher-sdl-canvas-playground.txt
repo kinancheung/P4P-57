@@ -1,0 +1,25 @@
+Build index.js
+0.1799248644069219
+USE_SDL=2 -O3
+0.11388803587911911
+Open index.html
+0.10592812215697814
+WASM=1
+0.10565769635246386
+index.wasm
+0.09560604826272907
+emcc
+0.0912294694938721
+web browser
+0.07829253045530714
+cd sdl-canvas-playground
+0.07108325315565685
+git clone https://github.com/timhutton/opengl-canvas-wasm.git
+0.06389726688150081
+random static pixel
+0.055537303694958906
+Instructions
+
+
+Install Emscripten
+0.038955409260491944

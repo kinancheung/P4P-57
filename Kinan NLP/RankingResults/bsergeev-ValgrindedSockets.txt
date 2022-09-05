@@ -1,0 +1,38 @@
+Bash script
+0.10272660963324008
+C interfaces
+0.09244350062948732
+WebAssembly version
+0.07110528583951656
+browser APIs
+0.06540611409733191
+Windows
+0.06102732488319747
+code
+0.05826174745832155
+GCC
+0.057699596314173277
+platform
+0.05629825896529146
+Valgrind testing
+0.054055772313869974
+recommended warnings
+0.04877718546207499
+./a.out
+0.04287237064059994
+leaks
+0.04175371057117824
+multi-platform socket library
+0.04127967529021845
+threading problems
+0.03718029309961117
+WSL
+0.03645971214488701
+valgrind
+0.03580520564839447
+-Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wsign-conversion -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches
+0.03559987819717529
+yes
+0.032436422766053505
+-Wnull-dereference
+0.028811336045376956

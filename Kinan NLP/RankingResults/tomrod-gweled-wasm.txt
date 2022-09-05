@@ -1,0 +1,8 @@
+WASM
+0.40458718240798086
+gweled fork
+0.3697209781294493
+gweled-wasm
+
+My exploration
+0.2256918394625695

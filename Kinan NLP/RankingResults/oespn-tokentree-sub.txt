@@ -1,0 +1,26 @@
+#demo
+0.21669931559945482
+example
+0.1423502751881209
+app
+run
+0.14042009016665252
+Google API key
+0.1339366931177698
+JavaScript Map API
+0.12978251875753624
+.envrc
+0.1143821643829528
+smart contract
+0.07142826581060548
+sub
+
+cd backend
+./initialize.sh
+./start.sh
+
+cd frontend
+npm run dev
+
+NOTE
+0.05100067697690727

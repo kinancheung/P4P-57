@@ -1,0 +1,7 @@
+shader loading issue example
+0.5
+clone
+
+&#103;&#105;&#116;&#x40;&#103;&#105;&#116;&#x68;&#117;&#x62;&#46;&#99;&#x6f;&#x6d;:AbyssalThistle/shader-loading-issue.git
+git submodule update
+0.5

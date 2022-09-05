@@ -1,0 +1,177 @@
+class systems
+0.03170582364097077
+CRM
+0.02650861264965192
+attached distribution database
+0.026221154220297867
+equipment
+0.02516005079214867
+Point
+0.02434888829696104
+ERP
+0.024185137286811903
+First setup
+0.02318831921271408
+developed system
+0.022101046661255036
+release
+0.021750470661766764
+extensive functionality
+0.021341563784911814
+OpenPapyrus
+0.02122202887140652
+Zebra label printers
+0.021123641615451622
+OPpyJobSrvr_x.x.xx.xxxxx.exe
+0.020039751981057115
+master
+0.01949542172786945
+enterprise management system
+0.019460248322147045
+Sale
+0.019455148684586913
+ZPL description language
+0.0190364335030704
+Windows XP
+0.01797280838729995
+pdf
+0.01785843340091166
+DIGI
+Electronic scales Mettler-Toledo
+Electronic scales
+0.017466172964868455
+authorization
+0.015808739139553253
+name
+0.015165501315185077
+databases
+0.014994897599669885
+OPpyServer_x.x.xx.xxxxx.exe
+0.014713122533457858
+types
+0.013803690163653149
+execution
+0.013398863257662333
+works
+0.013306006698595647
+variety
+0.013191085809968561
+functioning
+0.013168929746121324
+mobile devices
+0.013140292384747522
+ELTRON
+0.013101619171440506
+optional server component JobServer
+0.01306786943149558
+password
+0.013035860048323904
+Programming Language
+0.012774069493202127
+scratch
+0.012727563742674478
+actual use
+0.012412188259278242
+services
+0.012360622932244892
+small and medium enterprises
+0.012176233860370232
+large number
+0.012060105438894965
+DPL
+0.012033287760475308
+C ++
+
+Operating system
+0.011986137743595799
+initial stage
+0.011858681172991898
+Support
+0.011746017598778247
+proprietary versions Papyrus
+0.011224499761944376
+different encryption keys
+0.011205235595287955
+Electronic scales
+0.011129795069889559
+UDS customer loyalty system
+0.011085375778708231
+OpenPapyrus Server
+
+
+OpenPapyrus Client
+
+
+OpenPapyrus Update
+
+
+OpenPapyrus JobServer
+
+
+OpenPapyrus Features
+0.010769358400256352
+tier server
+0.010761726737859155
+high-enterprises
+0.010713742655004702
+ZPL
+0.010472061284118666
+Russian market
+0.010455250957296982
+features.pdf
+0.010407543023603213
+Documentation
+0.010268875982759973
+EDI systems
+Cash register module Set-Retail
+Frontol cash
+0.00993701086001603
+following business segments
+0.009914747049504876
+C++
+0.009886449599747252
+DPL and ELTRON description languages
+0.009616345321946631
+Russian 
+Experimental translation phase
+0.009397190843583512
+Wholesale
+Retail
+Pharmacy
+Restaurants and cafes
+Beauty salons
+Fitness clubs
+0.009253123780471472
+Pos Pane Dialog
+
+Ru
+
+   OpenPapyrus
+0.009190142365225877
+Bizerba
+Electronic scales Shtrih-Print
+Datamax label printers
+0.009016736885875648
+EDI
+0.008922406909615587
+Pepsico iSales
+0.00891881023423098
+JobServer
+0.00872261508663823
+module
+Pepsico iSales
+IP-telephony server Asterisk
+Universal hardware driver ATOL
+Fiscal registrars
+0.008215442113668885
+Shtrif-FR
+Fiscal registrars
+0.007969087618757574
+ppmanual.pdf
+0.007799637311868359
+OPpyUpdate_x.x.xx.xxxxx.exe
+
+     Papyrus
+0.006746878842439592
+OPpyClient_x.x.xx.xxxxx.exe
+0.006327367961140562

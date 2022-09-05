@@ -1,0 +1,4 @@
+libfuzzer-fuzzcoin-wasm
+
+libfuzzer
+1.0

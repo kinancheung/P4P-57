@@ -1,0 +1,30 @@
+WebAssembly
+0.10571145871394103
+SDK
+0.1038288729204992
+Build muhucycle
+
+Install
+0.10068842152862238
+web
+0.09991675970930258
+http://fdkz.net/tests/muhu/muhu.html
+0.09976836572235578
+Total download size
+0.09198184196351185
+less than 400kB.
+
+Latest demo
+0.08472139398681959
+proto-game
+0.07743900947873622
+muhucycle
+0.06945839112099975
+compile-wasm-release.sh
+
+Credits/dependencies
+0.06052506229853581
+Mojave
+0.05905166594107625
+dependencies
+0.04690875661559925

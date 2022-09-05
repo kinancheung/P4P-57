@@ -1,0 +1,164 @@
+folderu
+0.03487160913164374
+cieka
+0.034298494740371936
+Uruchom wiersz polecenia
+0.0316744754627966
+Uruchom
+0.023476568137470878
+ktrym znajduje si caa logika gry
+0.02328735046982884
+projektu)/WebSocketServer
+0.022390284185077474
+uruchomi
+0.021448968802528723
+tutorialu udostpnionym
+0.02070476476389575
+jest omwiony
+0.020280077568787268
+zmiennych
+0.020197487829444794
+Docz
+0.020151545421256738
+sekcji Instalacja
+0.02006911087983482
+Nastpnie przej
+0.018594969054423507
+ponisze
+0.018252367933624534
+poniszej stronie
+0.018158392880805757
+natomiast modu WASM
+0.017274530772865872
+mona znale
+0.017055681933132328
+folderu projektu)/WebSocketServer
+Uruchom
+0.016322861867634823
+polecenie
+0.01600690604693173
+Windows
+0.015967820602965827
+Aby
+0.015934429806813234
+z
+0.015929554716888537
+Serwer zosta napisany w jzyku JavaScript
+0.015882698673002415
+WasmGame
+0.01473803149037997
+i
+0.014213865011323714
+w rodowisku node.js
+0.013748042456235376
+uruchamiany
+0.013540278864960885
+jak
+0.012622188697751847
+Google Chrome czyMozilla Firefox
+
+Uruchomienie Aplikacji
+
+Aby uruchomi
+0.0125926812141504
+kroki
+0.01192411293349835
+Alternatywnie
+0.011348281265057268
+kilka
+0.011219489981975382
+Client
+0.011050174728608274
+Gotowe
+0.011030366822669812
+./WasmAPI.cpp
+0.010925418165547868
+Nastpi wtedy poczenie z serwerem
+0.010544972475728293
+utworzenia
+0.010333448649426893
+ZPR
+0.010318926937499863
+Web Assembly
+0.010314908826756689
+za pomoc kompilatora
+0.010256754659062874
+zostao GUI oraz zno z serwerem
+0.010236401221560967
+Tutaj zaimplementowane
+0.010208575641969734
+zieka
+0.010149550358798344
+Wykorzystanym jzykiem
+0.009816580425230093
+WasmGame.js oraz WasmGame.wasm) przenie
+0.009791883605798432
+co umoliwi rozegranie partii
+0.009621543161309061
+Dodatkowo
+0.009615217917498996
+Wygenerowane pliki
+0.009611491714730198
+JavaScript
+0.009503271801981685
+w WASM
+0.009462353449029202
+Dodatkowo mona w tym samym serwerze uruchomi
+0.009275392105360167
+index_auto_player.html ktry symuluje
+0.009221773967459261
+polecenia przej od folderu
+0.009167500490206874
+-O2
+0.009120328149024838
+klienta
+0.009002190219793255
+Kolejnym krokiem
+0.008906232739789972
+tzn
+0.008904893299787177
+Kompilacja
+
+Jedynymi moduami
+0.008856502554953192
+W naszej wersji plansza dodatkowo jest torusem
+0.008819596463897692
+nie oraz komunikacj z moduem napisanym
+0.008721834633240477
+Kompilacja WASM
+
+Aby skompilowa modu WASM naley
+0.008717963680161764
+naley pobra omawiany
+0.008690114524985335
+za jedn strone planszy znajdujemy si po drugiej
+0.008634035055365691
+przypadku
+0.008559706397219456
+si
+0.008533623127964228
+pomoc
+specjalnego API
+0.008512399138915121
+ktre
+0.008363158994313426
+si odbieraniem zapyta od klienta, regowanie
+0.008267065440172276
+Przejd
+0.00826203828393207
+Aplikacji
+0.008214022431185127
+Gra zostaa stworzona jako zadanie projektowe
+0.007598399285934067
+uruchomienia aplikacji potrzebny jest jedynie node.js ktrego mona pobra ze strony
+0.007464741480358225
+uruchomi testy naley posiada dowolny kompilator C++
+0.007349648636825226
+si z algorytmem sztucznej inteligencji min-max z obcinaniem alfa-beta
+0.006721252311347658
+\WebSocketServer\WasmGame\Board.cpp
+0.006524979519874683
+kompilacja_testy.bat
+0.006412793853745233
+Przegldarkowa gra w Izolacj
+0.006208049053621069

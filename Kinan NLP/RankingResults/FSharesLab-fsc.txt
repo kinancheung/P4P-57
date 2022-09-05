@@ -1,0 +1,156 @@
+FSCIO
+0.08968128829071367
+Block.one
+0.035027998698986915
+initial public blockchains
+0.030593902418602763
+many third-party libraries
+0.030474357910847898
+software
+0.02893721491129132
+kind
+0.021478526880053334
+warranty
+0.020751129798976316
+open source MIT license
+0.017210306019709177
+Fedora
+0.016154569522221014
+sudo dpkg
+0.015673260211037324
+organizations
+0.014983743316591445
+foregoing
+0.01481714885399784
+bugs
+0.014377737391560695
+Apache License
+0.013844846096629641
+companies
+0.013696742465840787
+BSD
+0.013495606090018703
+representation
+0.013435696483312911
+WAVM
+0.013341617252260542
+generality
+0.01333240035366475
+Binaryen
+0.013288017937607468
+damage
+0.01310717443093116
+faulty code
+0.013061998307436746
+errors
+0.012956256355402707
+blocks
+0.01268160177241564
+account creation
+0.01267785517041205
+event
+0.012629928294977008
+clause
+0.012458115312952045
+possibility
+0.012449631438140705
+Biometric Hardware Secured Keys
+0.012249638078391443
+Support
+0.01203625842629938
+private keys
+0.011761144718539066
+number
+0.011390821051272275
+compilations
+0.011376417174974753
+damages
+0.01127608000517095
+process
+0.011250752141392721
+Parallel Execution
+0.011001786509036953
+businesses
+0.010995346565532391
+Context Free Validation Logic
+0.010749499000333299
+sample contract
+0.010699485756043719
+security
+0.01068882388168205
+own risk
+0.010645899740372297
+Instructions
+0.010535479700165627
+part
+0.010421042334113187
+simple test network
+0.01036444751166486
+Apple Secure Enclave
+0.010355697288061298
+Centos
+0.010351380885581078
+release
+0.010316409235051486
+Web Assembly
+0.010130146391015468
+large or small ways
+0.01007521646269509
+Low-overhead Byzantine Fault Tolerant Finality
+0.010074462768910181
+seconds
+0.010055092150685802
+blockchain
+0.009859177984355363
+Sparse Header Light Client Validation
+Scheduled Recurring Transactions
+0.00972258685394772
+groundbreaking features
+0.009589452934616698
+Uninstall
+0.009578116621088971
+Smart contract platform
+0.009518233375230582
+Decentralized Applications
+0.009506422694711702
+Free Rate Limited Transactions 
+Low Latency Block confirmation
+0.009454527778837582
+functionality or compromise computer systems
+0.00932415634998565
+Time Delay Security
+Hierarchical Role Based Permissions
+0.009315010563648512
+dpkg --list |grep
+0.009246986113069365
+FSCIO source code repository
+0.00911231950598452
+Ubuntu 16.04 (Ubuntu
+0.008997979744815416
+Powerful Infrastructure
+0.008796343245819677
+Ubuntu 18.04
+MacOS Darwin
+0.008770752092069118
+optional high-overhead, low-latency BFT finality
+0.008665304292950858
+build id[must
+0.008647933986414976
+high-performance and high-security blockchain-based applications
+0.008609753440108581
+MacOS 10.13.x
+0.00855785403868497
+$ git
+0.008407225597644615
+following operating systems
+0.008345123227275139
+Fshares Official Website
+0.007882879616919407
+dev/beta/dawn/release
+0.00774518354059724
+https://github.com/FutureSharesCloud/fsc.git
+$ cd fsc
+$ ./fscio_build.sh
+$ cd build/packages/
+$ bash
+0.006926676637645502

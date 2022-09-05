@@ -1,0 +1,67 @@
+https://www.googleapis.com/storage/v1/b/bazel/o?delimiter=/
+0.08961955585064278
+version
+0.0797720230508845
+GCS bucket
+0.07200142354075431
+following commands
+0.062279270481121134
+Build target
+0.056863905156200475
+Wasm extension
+0.052989426760065725
+connection
+0.04537079463948195
+10.10.13.47:33302->172.217.160.106:443
+0.043016682111027174
+peer
+
+
+
+echo "USE_BAZEL_VERSION=4.1.0
+0.042575697683523366
+Bazel versions
+0.04147828974749188
+Ubuntu
+0.03884119346995192
+C++
+Bazel
+
+Bazel, Maven
+0.03419607615684151
+Minimum Dependencies
+0.03405987999969576
+apt-get install gcc curl
+0.03369010866447211
+> .bazeliskrc
+
+
+
+root@13:~/wasm-extensions/example# bazel version
+Bazelisk version
+0.03345193679772956
+bazel-out/k8-opt/bin/src/main/java/com/google/devtools
+0.03341179598370783
+v1.11.0
+Build label
+0.0296427571945053
+Bazelisk
+0.02730614738531697
+Linux
+0.026793528859676383
+int
+0.026610764457398184
+extensionscopyWORKSPACEBUILDplugins.ccplugins.hlogicBazelwasmEnvoyFiltersidecar
+
+
+
+bazel
+0.026078515089608144
+sudo chmod
+0.024828219133688496
+build/lib/bazel/BazelServer_deploy.jar
+Build time
+0.022691869511253418
+Fri May 21 11:11:34 2021 (1621595494)
+Build timestamp
+0.022430138274961015

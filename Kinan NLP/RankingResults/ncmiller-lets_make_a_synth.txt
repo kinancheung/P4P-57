@@ -1,0 +1,56 @@
+part
+0.09830742406835881
+C++
+0.0649989260511664
+digital synthesizer
+0.06279631803547582
+Octave
+0.04908804957993857
+Audio DSP
+0.048800464634630766
+https://www.youtube.com/watch?v=tx_cjBjZ2zM
+Wavetables
+0.045637674026853196
+https://lazyfoo.net/tutorials/SDL/
+0.044189593462671435
+Oscillators
+0.03850441496690292
+prior experience
+0.0372701047266019
+Ear Level Engineering Blog
+0.037197722237173415
+project
+0.03608274724592468
+real-time audio
+0.03596193106412116
+Audio Programming Basics
+0.03533778462869152
+https://www.youtube.com/watch?v=boPEO2auJj4
+Vital Synth: https://github.com/mtytel/vital
+SDL Tutorial
+0.0345650676833329
+basics
+0.034299391484103436
+Synth
+0.03408391878713434
+Wave Tables
+
+Useful References
+0.03321058162387763
+https://multimed.org/student/eim/en/05-Wavetable.pdf
+0.03181180123862306
+way
+0.03063232522837969
+multi-part series
+0.03042469416674922
+following references
+0.028886469924604946
+code
+0.028192500529152814
+README file
+0.02800550164750853
+Sound
+Part
+0.027821659221890407
+specific part
+0.023892933736132285

@@ -1,0 +1,144 @@
+para
+0.04566431459453088
+Drago 3D
+0.04319129588633825
+clique e arraste
+0.04163244994617181
+o mouse
+0.03178797275363313
+modelo
+0.026806083554268428
+vrtices
+0.02624291279383461
+projeto localmente em sua maquina
+0.025531379492121406
+Nome
+0.023786470529103453
+uma textura
+0.020565173464112668
+Neste projeto focamos
+0.02032600446541557
+Para executar
+0.01913498458060326
+procedimentos
+0.017789319543625993
+seguintes
+0.017497195998945708
+Como utilizar
+0.017104432785817553
+estiver configurada
+0.016526908933973974
+podemos definir
+0.016250409764778668
+Se
+0.015911589172659953
+foi
+0.015504189167214822
+necessrio utilizar um conversor online de arquivos
+0.014689937450579367
+execuo
+0.014429813110803782
+algumas caracteristicas
+0.014291302021524146
+Caio Augusto
+0.014100927014191758
+interao de preenchimento
+0.013840569095208076
+colorao
+0.01381467854094629
+ao
+0.013504512524513944
+segunda
+0.013235956167153519
+modelado
+0.013105547268230567
+Black Metal
+0.013045452531198763
+Santos Marques
+0.013031705698061951
+interaes
+0.013017972520099981
+preciso
+0.012874181474515599
+qual readaptamos com
+0.012543206271745008
+Vitor Cesar Cota Bonelli
+* RA
+0.012326233592523762
+Imagem
+0.012322919069581675
+o aspecto metlico requerido
+0.012294001159538508
+prtica
+0.012261017463694917
+RA
+0.012112977927023715
+terminal digite
+0.011930253401374838
+Por fim
+0.011643812822071227
+forma
+0.011458076925096245
+computador
+0.01145481514596449
+desenvolvedores
+0.011398054152504444
+tpico "9.6 Iluminao
+0.011396608344004473
+Bibliotecas OpenGL
+0.011361745052001179
+ABCg
+* Linguagem de programao
+0.011345248511037152
+http://graphics.stanford.edu/data/3Dscanrep/dragon.jpg
+*  Demais modelos e inspiraes
+0.011282619631461205
+partir da linha
+0.011250036116953833
+deixamos  disposio
+0.011220103374917008
+cd
+0.011183570188413101
+programa interativo inspirado
+0.010971088018865805
+das aproximadas
+0.010831345848730087
+descrito anteriormente
+0.010744143958680659
+bin/midas/midas
+
+Nome e RA
+0.010476620207968494
+C++
+
+Fontes
+0.010447008947843731
+Este projeto  representado por dois fatores principais
+0.010441770120464015
+programa tambm
+0.009802425458791456
+https://anyconv.com/pt/conversor-de-ply-para-obj/
+
+ Sobre o projeto
+0.00977924994579142
+qual transforma
+0.009530763592969211
+http://graphics.stanford.edu/data/3Dscanrep/ 
+*  Textura "Black Metal
+0.00946147324162509
+colorao inicialmente prateada do drago
+0.009424310191603412
+caixa de selao "Toque de Midas
+0.00938467438141065
+podemos encontrar como foram criados
+0.009297262276238137
+https://texturebox.com/black-metal-texture-001
+0.009251703042502054
+Acione o "Toque de Midas" para o drago tornar-se dourado
+0.008197030583978806
+para uma colorao dourada
+0.0077460141694192745
+combinao da colorao base
+0.007743657294230405
+Interaja com o Objeto 3D
+0.007448516724802425

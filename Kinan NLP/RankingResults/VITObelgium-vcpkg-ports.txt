@@ -1,0 +1,28 @@
+vcpkg-ports
+0.18903963703458526
+https://github.com/microsoft/vcpkg
+0.1042181169777506
+required packages
+0.09768386608232996
+geospatial analysis
+0.09305799295707282
+scientific computing
+0.08698530398725197
+subset
+0.08483238876804246
+easy cmake integration
+0.06589464638234133
+static binaries
+0.06253275860481228
+third party software libraries
+0.060082835982330274
+Debian based system
+0.0562074295781535
+ci
+osx ci
+windows ci
+
+Recipes
+0.050647058616942436
+./bin/vcpkg install gdal[spatialite
+0.04881796502838745

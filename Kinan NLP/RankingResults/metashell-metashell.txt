@@ -1,0 +1,26 @@
+project
+0.14543698494091628
+goal
+0.13875227799751705
+interactive template
+0.1379382865376901
+shell
+0.13185484575250905
+documentation
+0.11572354338864421
+Current build status
+
+Service Status
+0.10268916679915019
+online
+Download
+0.09636435612105454
+Travis Build Status
+ci.appveyor.com Appveyor Build status
+
+License
+
+Metashell
+0.0800896613510135
+GNU General Public License
+0.05115087711150541

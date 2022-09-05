@@ -1,0 +1,2 @@
+simple wasm portable zlib
+1.0

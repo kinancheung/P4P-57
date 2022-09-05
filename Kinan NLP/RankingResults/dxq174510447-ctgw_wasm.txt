@@ -1,0 +1,145 @@
+name
+0.0729501538509895
+istio-system
+spec
+0.050218725655651754
+@type
+0.03329818822804185
+wasm
+
+docker
+0.029375048130161504
+value
+0.027641787095160752
+metadata
+0.025725703124692714
+kind
+0.02420271679797346
+ctgw-filter1
+  namespace
+0.024118116570490858
+apiVersion
+0.023561230484073596
+type.googleapis.com/google.protobuf.StringValue"
+                value
+0.020544949917367956
+/root/istio/istio-1.8.1/manifests/profiles
+0.020534638789555512
+type_url
+0.016981554997469124
+EnvoyFilter
+0.016418584879344455
+type.googleapis.com/udpa.type.v1.TypedStruct
+0.016323480993480213
+apply
+0.01607948112918567
+kubectl
+0.015967144940403733
+envoy.filters.http.router
+    patch
+0.015249194864037537
+envoy.filters.http.wasm
+        typed_config
+0.015117005146151795
+root_id
+0.014839907704884171
+subFilter
+0.014659721957948152
+filter
+0.014552810992505407
+my_root_id
+              configuration
+0.014374998397654336
+config
+0.01420097549025599
+matchLabels
+0.014024184436485128
+operation
+0.013948302401344672
+selector
+0.013895188830833703
+Authorization
+0.013842013272721464
+Bearer
+0.013800363343757463
+filterChain
+0.013740574891930698
+ingressgateway
+  jwtRules
+0.01367058920509729
+json
+
+curl
+0.01331096195040046
+ctgw.wasm
+0.013277467124714438
+wasmenvoy
+0.013179552603635066
+spec
+0.013143933841659704
+registry.dev.chelizitech.com/saas/cproxyv2:1.8.5
+0.013143348914036769
+HTTP
+0.013136908365484087
+default
+0.013114223112126067
+EOF
+0.0128176404144806
+EOF
+
+
+istioctl proxy-config listener istio-ingressgateway-999b5d4c9-xpvdx
+0.012709133748369024
+platform
+0.012640478032040547
+issuer
+0.012290562756375419
+GATEWAY
+      listener
+0.01215026545006807
+configPatches
+0.012056333320892818
+http://10.9.40.47:31973/productpage
+0.01200560488201715
+applyTo
+0.01196799851075777
+libc++
+0.011764279220686354
+jwt.yaml 
+
+
+kubectl apply
+0.011628588236118568
+jwks
+0.011393176021549791
+envoy.wasm.runtime.v8
+                configuration
+0.011335817821860425
+bazel release
+0.011281066656614915
+filename
+0.011163018551047042
+vm_config:
+                runtime
+0.011088016745517806
+redisHost":"10.9.40.193","redisPort":"6379","redisPwd":"Clt@123456"}
+                code
+0.010319326455704863
+PWD:/work -w /work  wasmsdk:v2
+0.010153758672553897
+clang toolchain
+0.010053377762050049
+default.yaml
+0.009796827962120435
+Building
+0.009661123667905475
+repository_cache
+0.009489910350626567
+--test_output=errors
+0.009414851893371465
+Dockerfile-sdk
+0.009149033964071225
+envoy-static
+0.008760371991482056
+keys":[{"kty":"RSA","e":"AQAB","kid":"v1","n":"ll1OO9BmbOh3KWgp7U7hgRdvuvloJRqDM4tK5dY7z9hbIor8OdbGDdf0z-w2Pt0BfUe-tme31xg61kgFaiFcAJZ7rtGGnBXCUYBTn7tOWlYn38knpQSVMjh8d_HDY4GS8QTmlhjZ4ZIE1XmmGAyMP4FxWRjL2Lc4QAmWsh4N7zE
+0.00874570448001052

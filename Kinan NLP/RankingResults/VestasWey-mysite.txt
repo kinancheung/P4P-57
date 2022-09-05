@@ -1,0 +1,6 @@
+mysite
+
+lcpfw
+0.5
+cross-platform framework
+0.5

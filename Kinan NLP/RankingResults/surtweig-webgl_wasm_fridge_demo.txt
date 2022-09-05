@@ -1,0 +1,2 @@
+Fridge emulator WebGL+WASM demo
+1.0

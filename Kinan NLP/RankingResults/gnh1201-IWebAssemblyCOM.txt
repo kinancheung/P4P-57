@@ -1,0 +1,24 @@
+-
+0.2122174148893894
+SolutionDir)wasm
+0.1280480159153677
+runtime\core\shared\utils\uncommon
+0.12138552551509965
+runtime\core\iwasm\include
+0.11669679161440932
+Parent project
+0.11464778399202455
+part
+0.10324077455905073
+WelsonJS framework
+
+Configration
+
+External Include Directory
+0.09210375193747941
+Windows COM interface
+0.06026260232630064
+IWebAssemblyCOM
+
+IWebAssemblyCOM - WebAssembly
+0.05139733925087875

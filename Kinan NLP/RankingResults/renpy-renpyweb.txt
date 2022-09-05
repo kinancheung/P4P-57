@@ -1,0 +1,51 @@
+scripts
+0.08157538042838644
+RenPy interface
+0.06861564515914853
+distribute_game.sh
+0.06010905658855557
+RenPyWeb - RenPy
+0.05874020013017851
+basic testing
+0.05178996208635511
+pygame-example-* targets
+0.05032383994275795
+git clone
+0.04745038681605099
+https://github.com/renpy/renpy-build/
+cd renpy-build/
+BASE=. bash
+0.04625086213969046
+build/
+0.04248966953380032
+game
+0.04231565459969465
+rm
+0.04225335663799068
+cythonclean
+emcc --clear-ports
+0.04158638216516736
+upgrade
+0.041077069609875574
+build environment
+0.039749178898136686
+https://github.com/renpy/renpy-build/
+0.03667204725689389
+small-scale tests
+0.033539422301238186
+testserver
+  $BROWSER
+0.03353536694110122
+HTML5 web browser
+0.032797211234850784
+--platform web
+0.03198530317852252
+git.sh
+# fix-up tasks
+0.031817451843222426
+native target
+0.029451462327588548
+variant
+0.02924252091410259
+Emscripten behavior
+0.02663256926669104

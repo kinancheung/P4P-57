@@ -1,0 +1,6 @@
+DeSmuME-wasm
+
+WebAssembly port
+0.5
+DeSmuME
+0.5

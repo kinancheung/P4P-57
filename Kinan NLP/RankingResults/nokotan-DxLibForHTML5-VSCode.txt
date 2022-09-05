@@ -1,0 +1,50 @@
+Debugger
+0.14423329426212975
+HTML5  WebGL
+0.10874452755239422
+DxLib
+0.10802367791863299
+Chrome
+0.09733681075682124
+Local Server
+0.0849839776740206
+Firefox
+0.06461324127238349
+Ctrl(Cmd)+Shift+P
+0.0591052330859626
+Open Browser
+0.052684634093002
+Firefox
+Live Server
+
+
+
+Ctrl(Cmd)+Shift+B
+0.043728190913275344
+https://dxlib.xsrv.jp/
+emscripten
+0.0401800898601431
+C++
+0.039553722858516854
+Build Release
+
+
+
+Ctrl(Cmd)+Shift+P
+0.03711613032184807
+http://www.fontna.com/blog/1226/
+DX
+0.03645289042159564
+C
+0.03247049825023294
+https://qiita.com/nokotan/items/5fa6f2d39ff7bb6641e8 
+C/C++ 
+
+C/C++ VSCode Extension
+
+
+
+Debugger
+0.026468236603337195
+Visual Studio Code
+0.02430484415570389

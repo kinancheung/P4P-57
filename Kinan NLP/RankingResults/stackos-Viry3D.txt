@@ -1,0 +1,69 @@
+higher
+gen_build_win.bat generate project
+0.12361033848345475
+build
+
+iOS
+
+Xcode
+CMake
+0.10559422102638236
+CMake
+0.09523701521490494
+Windows
+
+Visual Studio
+0.08069861083645961
+Vulkan
+0.07753689963272313
+https://developer.android.google.cn/ndk/guides/graphics/getting-started.html
+0.0671799957056232
+android
+0.06563810119079573
+gen_build_mac.sh
+0.04696514838546305
+https://webassembly.org/getting-started/developers-guide/
+CMake 3.10.2 or higher
+build_wasm.sh
+0.046843685034765575
+Emscripten SDK
+0.04582617965491752
+android sdk dir)\ndk-bundle\sources\third_party\shaderc
+..\..\..\ndk-build NDK_PROJECT_PATH=. APP_BUILD_SCRIPT=Android.mk \
+0.041859351843814785
+QQ
+0.03978599669639901
+output
+0.03714412543030919
+APP_PLATFORM=
+0.03393038565421756
+VulkanOpenGL ES 2.0/3.0
+AndroidiOSmacOSWindowsUWPWindows Web WebAssembly
+
+Mesh
+
+ Unity3D 
+
+
+
+
+ Unity3D 
+
+    
+    4 
+    
+ AnimationCurve
+ BlendShape 
+
+
+
+Camera
+Mesh Renderer
+SkinnedMesh Renderer
+0.03015291378814453
+chat
+0.02460328923494155
+Skybox
+0.021407542181996267
+OpenAL
+0.01598620000468731

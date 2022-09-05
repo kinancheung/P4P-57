@@ -1,0 +1,13 @@
+version
+0.236093327224449
+wasm3 0.5.0
+AssemblyScript 0.19.22
+0.2179792633282363
+WebAssembly
+0.2123568723216989
+industrial machines
+0.20503737677504552
+WasmRetrofittingESP32
+
+A prototype
+0.1285331603505699

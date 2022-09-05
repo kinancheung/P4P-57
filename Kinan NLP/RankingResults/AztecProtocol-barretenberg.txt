@@ -1,0 +1,26 @@
+blockchain - Solidity smart contracts
+0.09421318861688915
+barretenberg
+0.0921524868574109
+following sub projects
+0.08147379242774185
+barretenberg - C++ cryptographic library
+0.08037434725352766
+TypeScript
+0.07924814581046034
+Aztec 2.0 system
+0.07901105548731353
+barretenberg.js - TypeScript wrapper around WASM build
+0.0759357663104105
+falafel - Rollup server
+0.07558207029127298
+AZTEC
+0.07392311288493841
+rollup provider
+0.07326016989788467
+sdk - SDK
+0.07297659187885305
+Previous bugs
+0.06453557487521329
+PUBLIC REPO
+0.05731369740808389

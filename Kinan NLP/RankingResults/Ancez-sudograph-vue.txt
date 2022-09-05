@@ -1,0 +1,2 @@
+sudograph-vue
+1.0

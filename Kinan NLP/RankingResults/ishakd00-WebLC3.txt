@@ -1,0 +1,10 @@
+browser
+0.34191021616473427
+WebAssembly
+0.3053389022006944
+LC3 architecture
+0.22990936433707057
+LC3 Virtual Machine
+
+A virtual machine
+0.12284151729750123

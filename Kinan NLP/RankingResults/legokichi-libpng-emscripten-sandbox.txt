@@ -1,0 +1,121 @@
+download zlib
+0.04260449796662559
+./libpng-1.6.21/.libs
+0.03864322360983605
+libpng
+0.032753573875043976
+libpng16.16.bc
+0.02934786282927674
+./obj
+0.0281778053631992
+em
+0.02815973181401482
+-Wl
+0.027846488190500052
+pngrutil.o .libs
+0.02748745983212328
+emcc --version
+emcc
+0.026698117416371493
+--include
+0.023762225477527377
+FITNESS
+0.023534085767648247
+MERCHANTABILITY
+0.022464893614850528
+dir=
+0.021188287808728657
+post.js
+0.021080533474256816
+emmake
+0.020725161030848625
+-L
+0.020624846059380135
+pngwutil.o
+0.020588527325540708
+C
+0.020367008047828088
+PARTICULAR PURPOSE
+0.020256463568540467
+Copyright
+0.019217711004828025
+libz.bc
+0.018938882474247236
+0x1280/g
+0.017999114240386256
+-Wl,-retain-symbols-file
+0.01789318656063802
+warranty
+0.017598861276780967
+./pnglibconf.h
+0.017183608151937032
+pngwrite.o
+0.016880949707145022
+Emscripten authors
+0.01676167362457707
+pngrtran.o
+0.01649142663019659
+s/\#define PNG_ZLIB_VERNUM
+0.016457445164252914
+pngtrans.o .libs/pngwio.o
+0.016447857714476682
+MIT license
+0.01585972928743663
+-fno
+0.015641897544913737
+https://github.com/kripken/emscripten-fastcomp
+0.015584904178824816
+Target: x86_64-apple-darwin15.4.0
+Thread model
+0.015197722434841895
+free and open source software
+0.01514111787417264
+s/ZPREFIX\=\z\_\/ZPREFIX=..\/zlib-1.2.8\//g" ./configure
+emconfigure
+0.014994787543495213
+libtool llvm bcemcc
+0.014389198928421068
+png.o
+0.014041893006273058
+reference
+0.014026243179515015
+\=
+0.013926994069398624
+Emscripten gcc/clang-like replacement
+0.013438299965743968
+ZPREFIX  zlib 
+
+emmake
+0.01323618081660289
+emcc  .a llvm
+0.013052444975694497
+-I./libpng-1.6.21
+0.013026653468450826
+./src
+0.0129812327296354
+\/zlib-1.2.8\//g
+0.012931636363178973
+--with-zlib-prefix=
+0.012930866736722522
+/Users/***/emsdk_portable
+0.012394979517168225
+http://zlib.net/zlib-1.2.8.tar.gz
+wget http://download.sourceforge.net/libpng/libpng-1.6.21.tar.gz
+tar zxvf zlib-1.2.8.tar.gz
+tar zxvf libpng-1.6.21.tar.gz
+rm zlib-1.2.8.tar.gz libpng-1.6.21.tar.gz
+
+zlib
+0.012368443647568901
+s/^AR=.*$/AR=emcc/" Makefile
+sed -i -e "s/libz\.a/libz.bc/" Makefile
+emmake
+0.01220471023045466
+posix
+0.012105562152783328
+emconfigure
+0.01207618280950926
+libpng-emscripten-sandbox
+
+environment
+0.010266808917586991

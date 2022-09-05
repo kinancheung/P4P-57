@@ -1,0 +1,2 @@
+wasm-wordle
+1.0

@@ -1,0 +1,12 @@
+https://uxnetwork.io
+0.22383822931061734
+UX Network
+0.21240342023370506
+project website
+0.17391787518688834
+eosio-cpp
+0.15048081346487574
+Dailycoin (XDL) digital currency
+0.12073562929176546
+dailycoin.wasm
+0.11862403251214801

@@ -1,0 +1,8 @@
+Pre-setup
+
+Download wasm-pack
+Rust wasm32
+rustup target
+0.5
+https://github.com/steelx/rust-wasm-boilerplate
+0.5

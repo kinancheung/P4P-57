@@ -1,0 +1,10 @@
+cleos wallet
+0.3537253760865137
+wallets
+0.20591996443141855
+create_key //Create development public key
+0.1773996416426995
+list
+0.17269857315023057
+Energy-DApp
+0.09025644468913788

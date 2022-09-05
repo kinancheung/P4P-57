@@ -1,0 +1,113 @@
+Visual Studio Code
+0.045080672615734806
+zmiana owietlenia
+0.04371415576544351
+Przycisk
+0.04229252783783087
+Problem mona rozwiza instalujc ze
+0.02767254111280551
+Wykorzystane biblioteki
+
+Rozwizywanie problemw
+
+Nie odnaleziono pliku
+0.02603745873190658
+Przycisk C - otworzenie lub
+0.024781895767919098
+wchodzi
+0.023694680555652107
+cmake
+0.02306294935483836
+kula
+0.022770884203107175
+niego
+0.022386895945777995
+kamera
+0.022191067522330212
+SDK
+0.021822856130484288
+szecian
+0.021581821968723863
+porusza si robot
+0.021438296802099636
+postawienia
+0.021331280525487155
+naley uruchomi
+0.02120318542903425
+Budowanie dla osb majcych
+0.020965444606254414
+Windows
+0.020811875066452035
+Aby
+0.02068857305648916
+d.
+0.019274316198057362
+PBR
+0.018974793544522823
+panelu sterowania narzdzie Dodaj
+0.018261961638651025
+interakcje z jednym dokadnie wskazanym obiektem
+0.018115109109587045
+strony Microsoftu
+0.01777731070387774
+dodania
+0.017716069770672315
+Podsumowanie projektu
+0.01722467523215987
+trybie
+0.016877047800838763
+https://github.com/adiantek/projekt-grk/blob/main/projekt.md
+0.016824420193950602
+Przycisk E - stawianie elementu statycznego
+Przycisk Q - usuwanie elementu
+0.016815945068765464
+jednostek
+0.01674706172431885
+max odlego
+0.01654530641345489
+wybieramy pozycje
+0.01640917346189456
+usu programy
+0.016333030355161884
+MSVC version
+0.016284321571600528
+zamknicie najbliszej skrzynki
+0.015997739385785477
+Po pomylnej instalacji zalecane jest ponowne uruchomienie komputera
+0.01582820107336077
+Przyciski W/A/S/D - przemieszczanie si robotem
+0.015310015168449974
+nastpnie przy instalacji programu wybra opcj modyfikuj
+0.01522874877931921
+Recommended
+0.014981517802478814
+W zakadce Pojedycze skadniki
+0.014826328443997226
+zalecane
+0.0144412619407264
+w miejscu wskazanym przez kamer
+0.014179693418098068
+Wymagane
+0.014159487737939147
+w trybie stawiania elementu
+0.013898430223159456
+Budowanie - budowanie elementw
+0.013772741354185583
+mkdir
+0.013316887650248275
+Krzyyk - kamera wchodzi w interakcj z grup obiektw wskazywan wok kursora
+0.012879567776990338
+https://github.com/adiantek/projekt-grk/releases/download/1.0/GrafikaKomputerowa.zip 
+Wymagania projektu ze specyfikacji
+0.0127047829780877
+Przycisk F7 aby zbudowa projekt
+0.012628046488799383
+w vscode
+0.012148242874552502
+https://adiantek.github.io/projekt-grk/ 
+Wersja
+0.011294334516384615
+projekt-grk
+
+Projekt z grafiki
+0.008694366601552225

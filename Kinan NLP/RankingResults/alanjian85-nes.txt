@@ -1,0 +1,20 @@
+Dependencies
+
+JSON
+0.23377280141399012
+PPU Rendering
+Keyboard Input
+Configurable JSON
+0.19692905249198273
+Mappers
+0.19565470542137797
+CPU Emulation
+0.18990792963033737
+Modern C++
+SDL2
+spdlog
+
+References
+
+NESdev Wiki
+0.18373551104231187

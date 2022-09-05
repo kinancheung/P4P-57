@@ -1,0 +1,16 @@
+dummies
+0.20637633245428397
+Tutorial
+0.18931165285664478
+compile
+0.15576889714288636
+hello.html -O2
+0.1552803108993055
+WASM=1 -s EXPORTED_FUNCTIONS=["_fib","_main","_te_interp","_addOne","_countOccurrences"] -s EXTRA_EXPORTED_RUNTIME_METHODS=["cwrap
+0.14481815512277932
+Emscripten)
+
+WebAssembly
+0.08093461954612204
+setValue
+0.06751003197797831

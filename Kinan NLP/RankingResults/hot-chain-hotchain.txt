@@ -1,0 +1,539 @@
+account creation
+0.030487260095200957
+Upload sample contract
+0.02858701590690255
+HOTC.IO source code repository
+0.017271706325728116
+wallet
+0.013962914295198714
+message
+0.012997256228507644
+HOTC
+0.011806380690928014
+smart contracts
+0.011436118051513533
+command
+0.011436088512205006
+block producer plugin
+0.010507830654056066
+necessary permission
+0.010334470832411617
+private key
+0.010249533270623036
+MacOS Sierra
+0.009909203777521854
+zkp
+0.009860681026275226
+hotcd binary
+0.009789356562395896
+cd
+0.009202019724803034
+inita account
+0.008842214800435136
+git submodule update
+0.008725038748362687
+code
+0.00849767726885144
+Ubuntu
+0.008438955705916093
+Clean install Ubuntu
+0.008413093401775202
+blocks
+0.008365507060395436
+dependencies
+0.008322845978073989
+node
+
+cd ~/hotc/build/programs
+0.008314702414381233
+cd ~
+git clone
+0.00807553450736935
+secp256k1
+0.00759421358064649
+account key
+Creating accounts
+0.007551541335890751
+default configuration
+0.007460472304333263
+transaction
+0.006907276854340848
+= initb
+producer-name = initc
+0.0067851823660224795
+following
+
+{
+  "name
+0.006584543900777824
+built WASM compiler
+0.0064630362808655245
+wallet
+launcher - application
+0.006416664977165811
+json response
+0.006236820976041668
+build/development environment
+0.0058494730511627225
+values
+0.005779270322274134
+blockchain information
+0.005768763261459884
+date
+0.005760561719323511
+.bash_profile
+0.005704168218228164
+config.ini
+0.005678305666960383
+nodes network composing
+0.005663901611673422
+testing purposes
+0.00564177248849329
+data-dir
+0.005530142609859309
+Cryptonomex branch
+0.005481501396196206
+initial block producers
+0.005465365797553902
+node
+0.005430159882394714
+following settings
+0.005281266267479885
+Docker
+0.005280967708170629
+data
+0.005156557964858074
+CMake
+0.005054781618558258
+=
+0.005047242232768948
+process
+0.0050433005782147535
+launcher
+
+
+
+Creating
+0.0050240808699540595
+account",
+     "balance
+0.004999090914953586
+hotc::wallet_api_plugin
+0.004991608564157081
+Doxygen documentation
+0.004991330801511099
+latest version
+0.004969602397343619
+apt-get update
+wget
+0.0049405128118662645
+#
+0.0049288171754199635
+submodules
+0.004864487224275263
+hotc::producer_plugin
+# Wallet
+0.004842053855168354
+binaryen
+0.004811215898891462
+debug build
+0.004736288128724037
+repo
+0.004708224596764276
+project
+0.004658101034518041
+Building HOTC
+0.004652919357474555
+following instructions
+0.0045885351728315316
+Docker
+Manual installation
+0.004569467565343824
+messages
+0.00452990314036543
+Dependencies
+0.004515736817603056
+more accounts
+0.004468856855919081
+~/hotc
+0.0044638032944207175
+cmake
+0.004383950120275685
+clangs default choice
+0.004380115676769045
+WASM_LLVM_CONFIG environment variable
+0.004373801712091086
+testnet genesis state
+0.004311590773770077
+XCode
+0.004288426114025133
+-j4
+0.00428718927887108
+respective tests
+0.004277235208620801
+tokens
+0.004268034641619183
+https://raw.githubusercontent.com/Homebrew/install/master/install
+0.004262142803710215
+Unix Makefiles
+0.004242431118056226
+transaction_id field
+0.004170110062354489
+proper initial balance
+0.004130947531105494
+output
+0.004129724648236568
+response
+0.004104587862786756
+xcode-select --install
+ruby -e "$(curl
+0.0040918599697370986
+rapid development
+0.004089706897589731
+root hotc folder
+0.004032926358055953
+WASM build target
+0.004030342008142707
+blockchain infrastructure
+0.003931308877513567
+recursive clone
+0.0039051003632450693
+export BINARYEN_ROOT=~/binaryen
+0.00388284121635793
+automated build script
+0.003866461219421765
+https://github.com/WebAssembly/binaryen.git
+cd ~/binaryen
+git checkout tags/1.37.14
+cmake
+0.0038530964441002616
+@2017
+0.003829707444891023
+WebAssembly -DCMAKE_BUILD_TYPE=Release
+0.003829142361778046
+private multi-node test network
+0.0037876008356109614
+testnet producers
+0.0037288187994996983
+HOTC.IO
+0.0036949891612999453
+--single-branch --branch release_40
+0.003602258582068161
+hotcc commands
+0.003559024477763462
+PUBLIC_KEY_1
+0.00350888022088588
+single-node testnet
+
+
+Example Currency Contract WalkthroughExample Contracts
+0.003507703388386546
+PUBLIC_KEY_2
+0.003467693229052147
+tn_data_0
+0.0034145616796134068
+creation
+0.0033337175138351736
+directory
+0.0033017997647982887
+Important
+0.003297856531908605
+https://apt.llvm.org/llvm-snapshot.gpg.key|sudo
+0.003288680679087823
+apt-key add -
+sudo apt-get install
+0.0032683573247805995
+next step
+0.0032632486527805226
+future reference
+0.003258706627060621
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+0.003257254054615962
+Edit
+0.003234437461999618
+ID
+0.0032157511270720957
+public and private keys
+0.0031448281628319546
+tn_data_1
+0.0030995010255588317
+pairs
+0.003074374082433739
+defaults
+0.0030595167360723406
+/path
+0.003049590124997268
+active_key
+0.0030324420398912108
+Other common build types
+0.0030230383438822252
+number
+0.0030227788174885775
+other internals
+0.0029958606505703046
+Debug
+0.002992128246772898
+instance
+0.0029863541884556453
+external dependency
+0.00296401817233471
+place
+0.00295791382495699
+argument
+0.002946253546610103
+walkthrough
+0.0029445911539146704
+programs
+0.002943414988817713
+authority
+0.002942687635247542
+curl
+0.00293964168859023
+https://hotcio.github.io/hotc/
+
+
+
+Running HOTC
+0.0029264539248919238
+C++14
+0.0029216037355123442
+part
+0.002905658868422174
+owner_key
+0.002898811066748619
+purpose
+0.0028936704843151545
+default data storage path
+0.002851793204689189
+Cryptonomex branch)
+binaryen
+
+
+
+Clean install
+0.0028429804899480406
+--scope
+0.0028365492553336304
+time
+0.002829754104086535
+dependenciesClean
+0.002816364473966561
+API commands
+0.002805895790867418
+password
+0.002791196395935837
+Outputs
+0.0027906102552509534
+detailed API documentation
+0.0027728552905251285
+sudo
+0.0027712430988768777
+steps
+0.002751920115536493
+flag
+0.0027489305381160805
+content
+0.002742102333824962
+users
+0.0027227335178134685
+fact
+0.002717732523990554
+Add WASM_LLVM_CONFIG
+0.0026952942080867466
+flags
+0.0026887334898890733
+genesis.json
+0.0026865168873223717
+LLVM_DIR
+0.002686445393059782
+Ctrl-C. Note
+0.0026475071445039083
+from":"currency","to":"inita","amount":50
+0.002637851101359449
+Brew
+0.0026107412946905747
+Release
+0.0026042236317574455
+case
+0.0026036553576852285
+Messages
+0.0026023057835599665
+easiest way
+0.002598364590894882
+deployment
+0.0025950580557563153
+recursion
+0.002584950317410136
+https://sourceforge.net/projects/boost/files/boost/1.64.0/boost_1_64_0.tar.bz2/download
+0.0025825936570529214
+software
+0.0025690294069408916
+balances
+0.0025671896438340725
+ruby
+0.002562672090875843
+simple test network
+0.002539985323143783
+libtool
+0.002519758402726171
+currency" contact
+0.0025190803284888524
+funds
+0.0025146241896407957
+./
+0.002513372101435335
+cp
+0.0024971811782339773
+boost_1.64.0.tar.bz2
+0.002460569428926114
+future release scope
+0.0024535396318565595
+/path/to/hotc/source/genesis.json
+ # Enable production
+0.002447084095096517
+confirmation
+0.002438164772115765
+from":"currency","to":"inita","amount":50} --scope currency
+0.002438149753295323
+generalization
+0.0024240675926384143
+test suite
+0.0024131993440518603
+error
+0.0024097609677618177
+c++
+0.002394538060043235
+developers
+0.0023899079193822905
+hotc_balance
+0.0023871256705368126
+initial supply
+0.002386276043684555
+staked_balance
+0.0023579320013150636
+Powerful Infrastructure
+0.0023279408302237874
+alpha-quality
+0.0023270684223762853
+unstaking_balance
+0.002325587891709242
+hostname ip-XXX-XXX-XXX
+found interface 127.0.0.1
+found interface XXX.XX.XX.XX
+spawning child
+0.0023115747800888306
+develop applications
+0.002311139237388438
+stale chain
+0.002310624211367331
+https://github.com/hotcio/hotc
+0.0023104680522558624
+04T04:26:18
+0.0023075873244073055
+hotcd/
+0.0023045283040261416
+from":"${usera}","to":"${userb}","amount":50
+0.00227252693160941
+Decentralized Applications
+0.002268977818627934
+blockchain
+hotc-walletd - HOTC
+0.002262391854765728
+release_40
+0.0022492988766213188
+wallet import XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+
+Upload sample "currency" contract
+0.0022455143674825844
+info
+0.002234336963472947
+Running local testnet
+Doxygen documentation
+Running HOTC
+0.0022313134366064957
+producer-name = initq
+producer-name = initr
+producer-name =
+0.002231089673572073
+last_unstaking_time
+0.00221933890320205
+code currency 
+code hash
+0.0022173809361840102
+hotcd - server-side blockchain node component
+hotcc - command line interface
+0.0022141726662122793
+1575001ms thread-0   chain_controller.cpp:235      _push_block          ] initm
+0.0022098648039479063
+high-performance
+0.002161617857615897
+build/development environmentAutomated build scriptClean install
+0.0021556848960674196
+mkdir
+0.0021415620460945514
+1578001ms thread-0
+0.002132801021213332
+false
+}
+
+
+
+Transfering funds
+0.0021324469016656914
+_
+0.0021275297049496355
+&
+0.0021204329928765455
+enable-stale-production
+0.0021097736432872114
+Resources
+
+HOTC.IO Website
+Documentation
+Blog
+Community Telegram Group
+Developer Telegram Group
+White Paper
+Roadmap
+
+Table
+0.0021019678200213734
+pending
+...
+
+
+
+Example "Currency" Contract
+0.0021009855287193366
+export WASM_LLVM_CONFIG=~/wasm-compiler/llvm/bin/llvm-config
+0.002087636018973817
+lldb-4.0
+0.0020853718327208124
+cmake -DBINARYEN_BIN=~/binaryen/bin -DOPENSSL_ROOT_DIR=/usr/local/opt/openssl -DOPENSSL_LIBRARIES=/usr/local/opt/openssl/lib
+0.0020755893269768294
+trx
+0.0020729067746376433
+plenty early experimenters
+0.002054174276010823
+contents
+0.002005085850457619
+producer-name = inith
+producer-name = initi
+producer-name = initj
+producer-name = initk
+producer-name = initl
+producer-name = initm
+producer-name =
+0.001987696356323227
+producer-name = inito
+producer-name
+0.0019734673036766654
+libbz2-dev libicu-dev
+0.0019718449439613973
+programs/hotcd/hotcd --skip-transaction-signatures --data-dir tn_data_0
+spawning child
+0.0019481002651260356
+echo "export LLVM_DIR=/usr/local/Cellar/llvm/4.0.1/lib/cmake/llvm
+0.0016259384810480009

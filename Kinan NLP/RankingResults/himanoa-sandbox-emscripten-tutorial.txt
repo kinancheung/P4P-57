@@ -1,0 +1,8 @@
+emsdkSee https://developer.mozilla.org/ja/docs/WebAssembly/C_to_wasm
+
+
+
+emcc main.c
+0.5
+open hello.html
+0.5

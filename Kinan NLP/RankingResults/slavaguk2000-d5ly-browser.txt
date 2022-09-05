@@ -1,0 +1,8 @@
+script src="d5ly_cover.js"></script
+0.2857126997838473
+compressedArray = d5ly_compress(sourceArray
+0.25849363240128953
+files
+0.2465158300924256
+fastest deflate compressor
+0.20927783772243772

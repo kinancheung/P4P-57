@@ -1,0 +1,12 @@
+WebAssembly
+0.2440050364867264
+Demo
+0.2379632999948064
+C
+0.21439124891185538
+https://berejant.github.io/wasm-snake/
+0.1987974891683609
+WebAssembly Snake
+
+Browser game snake
+0.10484292543825147

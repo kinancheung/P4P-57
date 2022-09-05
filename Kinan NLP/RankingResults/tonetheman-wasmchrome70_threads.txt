@@ -1,0 +1,12 @@
+string buffer
+0.21149781773929757
+javascript function
+0.201981969299055
+https://developers.google.com/web/updates/2018/10/wasm-threads
+0.17847549934442913
+js
+0.1623626563225027
+threads
+0.15396160782623802
+pixel
+0.09172044946847727

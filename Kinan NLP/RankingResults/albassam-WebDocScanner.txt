@@ -1,0 +1,2 @@
+# WebDocScanner
+1.0

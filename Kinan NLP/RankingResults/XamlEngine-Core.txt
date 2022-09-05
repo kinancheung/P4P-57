@@ -1,0 +1,4 @@
+main core
+0.5
+Xaml engine
+0.5

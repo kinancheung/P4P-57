@@ -1,0 +1,50 @@
+Empirical
+0.09753596581363817
+package
+0.07121926392403814
+library
+0.06763244690242308
+tools
+0.05313382139629996
+https://evo-algo.readthedocs.io
+0.05154406211962054
+Documentation
+0.05136692580449002
+Features
+0.0495799169951855
+scientific software development
+0.04743716191754436
+MIT
+0.046964683961116166
+TODO
+
+cookie monster example
+0.04509231805358459
+Free software
+0.044656201054733946
+https://anyaevostinar.github.io/evo-algo
+0.04017214041833782
+Cookiecutter
+0.03918661523754116
+web interfaces
+0.037258957208826576
+devosoft/cookiecutter-empirical-project project template
+0.03701426612675315
+emphasis
+0.036769466222898096
+Emscripten
+0.036662218998703124
+clone
+0.03599770333872892
+Quick Start Guides
+0.03288709071613848
+browser
+0.03160608908982006
+directions
+0.030122320897583307
+version
+
+Documentation Status
+documentation coverage
+code coverage status
+0.016160363801995162

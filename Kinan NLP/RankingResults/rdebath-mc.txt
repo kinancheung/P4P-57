@@ -1,0 +1,34 @@
+rest
+0.0935691116305152
+MCGalaxy
+0.09281432522198083
+addins directory
+0.08777119864246158
+plugins
+0.08760905482701703
+texture packs
+0.08543199790501525
+https://raw.githubusercontent.com/rdebath/mc/zip/aaf95e60.zip
+0.08537216533032743
+extras
+0.08450135177821823
+mix.zip
+0.08424405379080978
+https://raw.githubusercontent.com/rdebath/mc/zip/608a48fc.zip
+mix-crimson.zip             https://raw.githubusercontent.com/rdebath/mc/zip/544134ba.zip
+mix-dark.zip                https://raw.githubusercontent.com/rdebath/mc/zip/de7212d8.zip
+0.06272018662585097
+https://raw.githubusercontent.com/rdebath/mc/zip/625f4a01.zip
+0.06256670255949252
+https://raw.githubusercontent.com/rdebath/mc/zip/aef19a30.zip
+mix-snowybeach.zip
+0.0504603069152925
+https://raw.githubusercontent.com/rdebath/mc/zip/476d8da0.zip
+mix-river.zip               https://raw.githubusercontent.com/rdebath/mc/zip/37ee81d2.zip
+mix-snowy.zip
+0.05036207529550963
+https://raw.githubusercontent.com/rdebath/mc/zip/ab17bde4.zip
+mix-jungleedge.zip          https://raw.githubusercontent.com/rdebath/mc/zip/ecf6d617.zip
+0.039885070028828414
+https://raw.githubusercontent.com/rdebath/mc/zip/d9cfcc09.zip
+0.03269239944868069

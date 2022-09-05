@@ -1,0 +1,307 @@
+test
+0.05771440660258884
+tests directory
+0.04995023855031293
+entire IR
+0.033107587875529414
+changes
+0.029204260839132953
+source
+0.019727191228228476
+LLVM compiler framework
+0.019672333608780804
+ShnooTalk
+0.019509710842668043
+generated function
+0.018305733791829735
+LLVM IR
+0.01743614855760801
+install
+0.016192985256612842
+parser/ directory
+0.013450482242168072
+pointers
+0.01254977949988681
+builder
+Remove tokens
+0.011457188329026868
+latest release
+0.01089106709875055
+declaration
+Error recovery
+0.010530222538137004
+sudo
+0.010486716249133369
+Project
+0.010230175319999573
+parser
+0.009897453029607388
+runtime
+0.009536482962861357
+non generic
+Autofill type parameter
+0.00952781621244561
+files
+0.009436640133709106
+programming language
+0.009284428348434652
+syntax
+0.008916447506408586
+clang
+0.008661841968811897
+pointer
+0.008610217098998167
+pretty printer or modifying syntax
+0.008494576393932685
+functions
+0.008223200186635774
+Decide names
+0.008103893656723702
+defaults
+0.008080475987320453
+test FILTERS=--file <test-file-name
+0.008004934531612051
+Arrays
+0.00794519363751481
+generic types
+0.007923007941969176
+primitive data types
+0.007922540801153705
+Generators
+0.00783252596649175
+name
+0.0074646098422099984
+llvm@12
+0.007286217399753421
+foreach loop
+Enumerated foreach
+0.007280729069643574
+deconstructors
+0.007278100476468765
+Proper enums
+Fix bug
+0.006987471041842134
+subscript
+0.0066973122893458185
+browser
+0.006648544924542251
+construction
+0.006603748498762154
+loop
+0.006444371155851152
+Better operator
+0.00632355085924317
+MacOS
+0.006278042378985535
+Assignment
+0.006273012174740338
+rust
+0.006271608853848297
+icode
+0.006161261289979309
+extern "C
+0.0061360339942182745
+operator
+Add clone
+0.006099701095483292
+Ubuntu
+0.006043795666751251
+operator
+Subscript operator
+0.006022897613809317
+literal expression
+0.0060225527038623595
+Memory safety
+0.005965295153963924
+Run
+0.005877964411004709
+Class or struct destructors
+0.005867896258447802
+WebAssembly text translator
+0.005841348476302301
+PATH
+0.005812468619406187
+examples
+0.00579789645998598
+things
+0.005782443041927762
+Linux
+0.005775331174054399
+checker
+0.005761373104535825
+standard C libraries
+0.0057610444069141325
+code
+0.005755316990454338
+default
+setSubscript hook
+usize type
+0.0057437628589946735
+Ubuntu / Arch / Debian / Fedora / RaspberryPi
+0.005740182126858258
+releases page
+0.005687241930471217
+WASI
+Framework
+0.005650522650086894
+implementation
+0.0055937053023838845
+Setup github
+0.005470079158745518
+app image
+0.005458512779041162
+Translator
+
+Documentation
+
+Language tour
+0.005397070008665723
+tap rainingcomputers
+0.005380525762941183
+https://raw.githubusercontent.com/RainingComputers/ShnooTalk/main/install.sh
+0.005375411740553008
+macros
+constexpr
+0.005373183213726634
+git diff
+0.0053629601985681705
+careful review
+0.005359636065634568
+writing and testing optimization
+0.0053540126271162565
+shnootalk
+brew install
+0.005334598758703747
+curl
+0.0053226094454786165
+new IR instruction
+0.00528727313490516
+Self hosting
+0.0052813799185671
+tests_runner python application
+0.005265418110519511
+conditional expressions
+0.005259164137252647
+Foobar{} syntax
+panic() function
+Upgrade
+0.00525301521210428
+lot
+0.005250847015057049
+group
+0.0052407282619571765
+other platforms
+0.0052262643134096485
+optional
+Some duplication
+0.005218606185884598
+Extends
+Compile time reflection
+0.005196835023000033
+binary size
+0.005162665745107986
+type composing
+0.005156041472216839
+typedef
+Better error message
+0.005148581499251643
+make constructors
+0.005126667910903724
+Initializing global variables
+0.005096309425053393
+self host compiler
+0.005096019991584613
+Add linker
+
+Advanced Features
+
+Custom operators
+Generics
+Closures
+0.0050793900354017514
+new grammar
+0.00507472169251828
+C wrapper
+0.005064698291067971
+gcc
+0.005025085036333175
+shtkc app.shtk
+0.0050082616718411
+lexer and parser
+Static variables
+Struct alignment
+0.004976285291903898
+shnootalk-playground
+Language reference
+0.004901333247472439
+Exceptions
+Unions
+Interfaces
+0.004885021652717525
+gen
+0.004843992490229895
+Python wrapper generator
+
+Platforms
+
+WebAssembly
+0.004831148244522876
+print statements
+0.004815216985665396
+Module IR validator
+Document IR
+0.0047693104113394145
+markdown
+
+Translators
+
+Debug symbols
+0.004735516830151716
+AST
+0.004734886641886605
+single file
+0.00470266575638509
+Compile
+0.004695700411191825
+output
+0.004635927390655213
+C++
+0.004613301248722064
+extension
+0.004513455514541711
+STPM package manager
+0.0044677451254473925
+stdlib/stdlib/tests/
+
+Tests
+0.004457190572132385
+Code formatter
+Static analyzer
+Language server
+Standard library
+0.004384366313938741
+overall structure
+0.004382689450039556
+Backlog
+
+Array return types
+IR Validator
+Main function return type check
+Extern C functions and function imports
+Node style module imports
+loop {} syntax
+0.004284123944112104
+fn main
+0.004260942895846495
+loop
+NaN and infinity
+Multi-line strings
+0.004154916247687894
+custom IR format
+0.004069646215178682
+pydantic
+0.0038698116036188783
+ShnooTalk
+
+ShnooTalk
+0.003752972581342074

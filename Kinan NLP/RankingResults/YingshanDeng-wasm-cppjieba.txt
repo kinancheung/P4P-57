@@ -1,0 +1,43 @@
+./emsdk install
+0.14610937732941037
+latest
+#
+0.14178791555165374
+wasm-cppjieba
+
+Build cppjieba
+0.08577683306177152
+Cases
+0.06743616975631259
+other environment variables
+0.0667027802669785
+current user
+0.06478960809309625
+current terminal
+source
+0.0637067354903789
+browser
+0.0630446710390612
+link
+0.06275443419240942
+latest SDK tools
+0.05589359030841597
+Download & Compile
+
+git clone --recurse-submodules git@github.com
+0.05513120894707654
+wasm
+0.04813617282209425
+https://github.com/emscripten-core/emsdk.git
+cd emsdk
+
+# Download
+0.04286388751402083
+web worker 
+
+demo
+
+Dependencies
+
+Download
+0.03586661562731982

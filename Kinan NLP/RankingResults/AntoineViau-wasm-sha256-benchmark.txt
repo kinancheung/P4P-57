@@ -1,0 +1,4 @@
+Web Assembly benchmark
+0.5
+SHA256 libraries
+0.5

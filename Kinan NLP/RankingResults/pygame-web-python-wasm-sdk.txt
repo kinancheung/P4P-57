@@ -1,0 +1,77 @@
+python-wasm-sdk
+0.09085193890036222
+sdk
+0.078853783188767
+#
+0.07139372737642401
+echo
+0.05826420887425965
+own pygame git clone tree
+0.050459770426155875
+fi
+0.039213523226471717
+github CI
+0.03884451981365665
+cd pygame
+0.032938827921489555
+current working dir
+0.031867516039548585
+local tree
+0.029835627712357225
+/dev/null
+        else
+            curl -sL
+0.029809948984815187
+ubuntu
+0.027190966001443023
+linux mint
+0.026501847127697237
+example building
+0.026251603215637957
+stable.tar.bz2
+0.024372313105422243
+/home/runner/pygame/pygame
+0.024275961430208284
+CPython+Pygame
+0.024250350006424004
+&
+0.023579987762444892
+https://github.com/pygame-web/python-wasm-sdk/releases/download/0.2.0/python-wasm-sdk-stable.tar.bz2 \
+0.023448465824979427
+| tar xvPj \
+0.023203730711212567
+pygame source code
+0.02226356444106411
+bash
+# update system
+0.021927786588791572
+sudo
+0.021627276516988703
+cython"
+    else
+        pip3 install git+https://github.com/cython/cython.git
+0.020225704227240716
+apt-get update
+sudo apt-get install -y git bash python3-pip curl lz4
+0.020143850320671182
+compress-program
+0.01856838358039977
+#            time tar
+0.01830915403501191
+--upgrade
+    fi
+
+    # update source tree
+    git clean -f
+    git
+0.01815500885747822
+pygame
+    touch
+0.017559538066975744
+SDL2 -s USE_SDL=2
+0.017308391246005264
+python3
+0.01664642797957876
+mkdir -p dist
+    #
+0.011856296490016658

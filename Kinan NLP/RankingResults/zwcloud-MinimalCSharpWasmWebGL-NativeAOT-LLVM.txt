@@ -1,0 +1,36 @@
+browser-wasm
+0.10574836221986174
+Debug /p
+0.09639841234636351
+minimal example
+0.094007239012348
+site
+0.06345364798718864
+.\bin\Debug\net6.0\browser-wasm\native\. Open
+0.05672798983584476
+web
+0.05663176875219997
+MSBuildEnableWorkloadResolver
+0.05524076598482559
+main.c
+0.04774228234708598
+TargetArchitecture=wasm --self-contained /p
+0.047640004927521504
+Note WebGL.c
+0.04612533772619566
+dotnet publish
+0.046104714632722726
+main.c --js-library
+0.045222271163617114
+PlatformTarget=AnyCPU /p
+0.044391370095085356
+html page
+0.044387925761425875
+EmccExtraArgs parameter
+0.041714001048700475
+emscripten\tests\minimal_webgl
+0.039922950379631644
+C# wasm WebGL app
+0.03597580963891078
+dotnet/runtimelab/NativeAOT-LLVM WebAssembly
+0.03256514614047051

@@ -1,0 +1,24 @@
+case
+0.11852599539550641
+clang
+0.11741245860642106
+libclang_rt.builtins
+0.11580536120943388
+wasm32.a
+0.08530946893757725
+corresponding file
+0.08173846458716989
+missing .a file
+0.0788619070926743
+https://github.com/WebAssembly/wasi-sdk/releases/tag/wasi-sdk-12
+0.07756487851478072
+example
+0.07665789980056921
+/usr/lib/clang/12.0.0/lib/wasi
+0.07203583381831467
+relevant Clang directory
+0.06436433785852641
+WebAssembly System Interface
+0.0599197025935171
+wasi directory
+0.05180369158550885

@@ -1,0 +1,8 @@
+Functions
+0.41196738001662103
+preamble
+0.4015705109649176
+WASM-example
+
+A very simple example
+0.18646210901846139

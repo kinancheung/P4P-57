@@ -1,0 +1,180 @@
+camera, List* gusano
+0.04788088267118758
+void inicializarPosiciones(List* posiciones
+0.0421688844019369
+Funcin
+0.040006412197661295
+del cuerpo de gusano
+0.03879968230700932
+int index
+0.030445391166896322
+Vector2 updatePosFakeGusano(List* posiciones
+0.028694424694915083
+pixeles
+0.02792306410612553
+la
+0.02449515438043118
+y
+0.021519128310326627
+lista dinmica
+0.021182404189305004
+Recibe
+0.02001455184210238
+la que se
+0.019042403295267928
+void initCamera(Camera2D
+0.018854293932926834
+Vector2 positionsAll[],int
+0.017137562059594876
+para el nombre de jugador
+0.0168260183700072
+ya que hay
+0.015940172988739277
+ndice
+0.013441407842723954
+fakeGusanos
+0.013408903700188728
+que permite visualizar la pantalla principal
+0.01322740016728601
+dibujar gusano
+0.013178128783428547
+los gusanos
+0.01291393587107086
+para seleccionar el
+0.012149319142335392
+pixeles por frame
+0.011911116982242414
+arreglos de comida
+0.011266618326789334
+@sebas
+0.010835732383705794
+un arreglo de posiciones
+0.010586919090197875
+radioAvoidGusano Radio de deteccin y evasin entre
+0.010447394360164116
+Velocidad
+0.010350785699431552
+que permite que el gusano
+0.010304567600341704
+nuestros
+0.010267937942091661
+direccin del mouse
+0.010122178729391593
+@pablito
+0.010066078795387987
+speed
+0.009987342799879787
+que regresar
+0.009891571944139326
+@tia
+0.009562249923016746
+nFood Cantidad de comida durante el juego
+0.009393568430131604
+@chris
+0.00919890482182613
+Agradecimientos
+0.009149826546649567
+inicializa bloque
+0.008978627072529697
+Vector2 mouseMovement(Vector2 mouse
+0.008728199635610655
+Autores
+0.0083772993889543
+mil
+0.007966325297049432
+fakeGusano
+0.007939947550662498
+Valeria Ramrez - Developer - valrmzl
+Ana Mara Anaya - Developer - anamariaag
+
+Licencia 
+
+Si nos van
+0.007933352605274356
+dejarnos morir
+0.007907398800099127
+void inicializarBloque(Vector2 initialPositions[valorInicial
+0.007815705973467622
+posicin
+0.00780519557931696
+actualiza las posicines que el mouse debe de seguir
+0.007662318190971768
+radio
+0.007591545328882213
+este repositorio
+0.007578585039284805
+recomendamos
+0.007377627497431901
+del arreglo
+0.007375710733274657
+semestre
+0.007297265206648042
+Vector2 initialPositions[valorInicial],Vector2 pInicial
+0.007224988227736617
+fakeGusanosPos[],int
+0.007162082502266229
+posicionesFakeGusanos[],Vector2
+0.0071389438899425416
+screenWidth Ancho de la pantalla
+0.007090855361111204
+Inicializa
+0.007088436443498062
+Si el gusano tiene colisin con los
+0.007069303917209762
+uno
+0.006959953445623149
+Inicializa cuerpo de gusanos I.A. y sus
+0.00694168257065301
+Funcin que permite los movimientos de gusanos de IA
+0.006869619667997767
+en el mundo
+0.006785734776839647
+hasta
+0.006752214557259758
+foods[],Vector2 positionsCentro
+0.006739028209166197
+con listas dinmicas
+0.006659952518972807
+de que un gusano de IA evite colisionar con otro
+0.006649975786612862
+pero funciona perfectamente
+0.006629673270289739
+grax
+0.006566508174160259
+cada uno tiene color
+0.006555743284165949
+Versionado 
+
+Para todas las versiones disponibles
+0.0063763007106038515
+char player
+0.0063517976816832855
+Funcin que se encarga que un gusano de IA busque comida cercana
+0.0063393960408869654
+tipo de colisin
+0.006331327617409715
+Gracias Josean por ayudarnos este semestre y debuggearnos todo el proyecto
+0.006317025553039664
+con uno de IA
+0.006294649969027488
+copiar mnimo pidan permiso
+0.0062875394126118405
+partir de un cambio de posicin
+0.006175457365346564
+maxInputChars Cantidad de caracteres
+0.006096663743308006
+Estructuras Descripcin
+Bloque Elementos que componen el gusano
+0.006052837189348525
+considere
+0.0059743324288316305
+muestra el score de la longitud del gusano
+0.0054894008510221895
+Constantes
+0.004992610404603444
+nuestro caso usamos Visual Studio
+0.004707100283905399
+usando librera grfica Raylib
+0.0042938484536154935
+Implementacin en C del juego de internet Slither.io
+0.0041075909949383795

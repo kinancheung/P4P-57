@@ -1,0 +1,36 @@
+WebAssembly module
+0.1425260354093216
+web application
+0.0850762036311517
+existing C library
+0.07352351915919608
+Defines
+0.06808827723251773
+API interface
+0.06667639495769273
+functions
+0.06273121416217275
+DOM nodes
+0.06008727467172142
+returned data
+0.059113025116836485
+Running
+
+web server
+0.05601275587126604
+instructions
+0.05529411639151541
+Prerequisites
+
+Emscripten SDK - download
+0.05387919614044979
+Example
+0.05170227684930223
+choice - Web Server
+0.04625684136499515
+Chipmunk2D - Chipmunk2D
+0.040794630025363064
+hourglass
+0.04069462746049447
+simple, lightweight, fast and portable 2D rigid body physics library
+0.03754361155600325

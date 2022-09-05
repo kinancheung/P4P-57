@@ -1,0 +1,2 @@
+https://github.com/ArthurSonzogni/OpenGL_CMake_Skeleton
+1.0

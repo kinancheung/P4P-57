@@ -1,0 +1,2 @@
+ShadowsocksR
+1.0

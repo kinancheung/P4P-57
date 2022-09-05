@@ -1,0 +1,245 @@
+ncnn
+0.0652063853233955
+Build Status
+0.05247453491804567
+Face Detection
+0.03281605733953008
+platform
+0.031104373438785825
+macOS
+Build
+0.02901629415078045
+-
+0.026409413881748833
+Linux
+0.020745385901779996
+Build Status Build Status
+0.015310061464742694
+third party dependencies
+0.013028792370023249
+CNN network
+0.012403987768160124
+mobile platforms
+0.012263963160686899
+cross
+0.010402123630247305
+macOS
+0.010340864624040255
+32bit) CPU (64bit) GPU
+0.010181769655595163
+VS2017
+0.010050121010386716
+Windows x64
+0.009991831044668048
+calculation speed
+0.00989819347830744
+WebAssembly
+0.009784970637268537
+iOS
+0.009696493711275345
+custom layer step
+0.009614427176462242
+NanoDet
+0.009603012023165255
+Qzone
+0.009584325756068197
+WeChat
+0.009488357955783431
+AllWinner
+0.00941342046126137
+alexnet
+0.009396505614881749
+Segmentation
+0.00932013468425133
+design
+0.009212885149830449
+Pi3
+0.0091529745704587
+SSDLite
+0.008984144102980391
+detailed steps
+0.008761613774926335
+QQ
+0.0086691187037522
+beginning
+0.008632662668241902
+Faster-RCNN R-FCN
+0.008503962741725027
+MobileNetV3
+0.008401466445623718
+LoongArch
+0.008391231973236067
+Android
+0.008362370331766728
+Pitu
+0.008356694416379882
+fingertips
+0.008269090710724975
+PSPNet UNet YOLACT
+0.008255495015321555
+ARM Cortex-A family
+0.008207760523404124
+Loongson
+0.00806140528900047
+YOLOv2 YOLOv3
+0.008044076294621429
+VGG-SSD MobileNet-SSD SqueezeNet-SSD MobileNetV2-SSDLite
+0.007852430937179697
+multiple input
+0.007683995221776167
+termux
+0.007651507012180753
+android, ios and so on
+ARM NEON assembly level
+0.007642190615325629
+multi-branch structure
+0.007530126595891964
+netron
+0.007507545080148372
+MTCNN RetinaFace scrfd
+0.007478890663525247
+artificial intelligence
+0.007385715929338066
+wrong result
+0.007368391083715805
+GCC
+0.0073676892137392565
+ResNet DenseNet SENet FPN
+0.007362660300367666
+Linux / NVIDIA Jetson / Raspberry
+0.007346830352101411
+binary package
+0.0073114286608340715
+64bit
+0.007254315230609761
+mobile phone cpu
+0.0072082839495314745
+many Tencent applications
+0.007206160146733726
+part
+0.007184529135069218
+beginners
+0.007183151268029516
+convolutional neural networks
+0.007173557736115626
+Pose Estimation
+0.007164343116596076
+Developers
+0.00715865119080954
+algorithm models
+0.007136582889598146
+Linux / Windows / macOS / Raspberry Pi3
+0.00713473585823203
+step
+0.007117225533440741
+CNN 
+
+Classical CNN
+0.007114663506091237
+MIPS
+0.007109850383075894
+deployment
+0.007057883012061481
+intelligent APPs
+0.007046078035236627
+careful optimization
+0.007031970910881991
+known open source frameworks
+0.006916798006155402
+Light-weight CNN
+0.006908542800989576
+VGG AlexNet GoogleNet Inception
+0.006897571661014468
+Windows Build Status Build Status  Build Status
+Windows (ARM) Build Status Build Status
+0.006785498005351323
+other computing framework
+Pure C++ implementation
+0.006785309890848993
+AllWinner D1 / Loongson
+0.006736884779331659
+SqueezeNet MobileNetV1/V2/V3 ShuffleNetV1/V2 MNasNet
+0.006633454806277985
+C++
+0.006604075344446083
+Android / NVIDIA Jetson / iOS / WebAssembly
+0.006554311282577371
+high
+Sophisticated memory management and data structure design
+0.006524650228175642
+BLAS / NNPACK
+0.0065063643928757915
+box
+0.006391591834525703
+high-performance neural network inference computing framework
+0.006366842368501117
+ARM
+0.006329139139841602
+ncnn low-level operation api
+
+ncnn param and model file spec
+
+ncnn operation param weight table
+0.006175614961563299
+Build Status
+Android Build Status Build Status Build Status Build Status
+Android-x86 Build Status Build Status Build Status Build Status
+iOS Build Status Build Status
+0.006123866914889692
+8bit quantization
+0.0059107944278399
+RISC-V GCC/Newlib Build Status Build Status  
+
+
+Support
+0.0058983026206513465
+half-precision floating point storage
+0.005834234190241901
+https://discord.gg/YRsxgmF
+
+
+Current building status matrix
+
+System CPU
+0.005746452951165889
+Telegram Group https://t.me/ncnnyes
+
+Discord Channel
+0.005625345633066142
+low memory footprint
+Supports multi-core parallel computing acceleration
+0.005377773071898165
+copy reference load network model
+0.005306266948383951
+Pocky
+0.0053054587685809245
+vulkan api GPU 
+ 8bit   caffe/pytorch/mxnet/onnx/darknet/keras/tensorflow(mlir
+0.00530226775876613
+LITTLE cpu
+0.005291488621286188
+Support direct memory
+0.0052662780235400485
+LITTLE cpu scheduling optimization
+Supports GPU acceleration
+0.005122028870499172
+next-generation low-overhead
+0.00506840080545776
+License
+download
+codecov
+Language grade
+0.004406737118561381
+good optimization
+ = known work
+0.004080641107157796
+QvQ
+
+
+supported platform matrix
+0.004008100081727543
+nvidia-gpu     /
+qcom-cpu
+0.0029700663865099815
+BSD
+0.0026547087357275435

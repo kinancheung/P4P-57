@@ -1,0 +1,93 @@
+rustup
+0.07588925150186755
+Donkey Kong Mario Bros.
+0.05602889638864272
+ubuntu
+0.04019514949740668
+$ cd desktop
+0.03838543580998318
+apt install
+0.03758404086036943
+thumbv7em
+0.03744115278134857
+run build-wasm-release
+$ docker-compose
+0.036167574775499575
+roms/nes-test-roms
+0.032686547354948726
+npm install
+0.03004437089145049
+thumbv6m-none-eabi
+0.0295072004989702
+improvements
+0.027047304711522932
+performance issues
+0.026123705067641265
+http://hp.vector.co.jp/authors/VA042397/nes/sample.html
+0.02595647448097796
+Operation
+0.025631558245143123
+Cassette(Mapper)NROM(Mapper0
+0.025076240145948746
+APUPulse
+0.02506167241228275
+UNROM
+MMC1
+MMC3
+
+
+PPUOAM DMA
+BGNametable Mirroring
+ScrollVertical Scroll Bug(#87
+0.024862161503402876
+World
+0.02451001249781604
+Feature & Known Issue
+
+CPURegister
+Interrupt
+Official opcode
+Unofficial opcode
+0.0239943145201679
+Pulse
+0.0239053197013721
+derived repositories
+0.023573838130319418
+Ice Climber
+0.022727672693288625
+docker-compose
+0.02228008046420401
+Github Actions#Deploy
+0.02220755528101598
+Sprite
+0.021297171275484476
+Progress
+0.02129208476266545
+nestest (official opcode
+0.02109527662709886
+Desktop Application
+
+High Performance
+0.02072523679868117
+Sprite8
+0.01997510817150469
+embedded optimization
+0.01966150042212175
+cargo run
+0.01908339057790143
+mario-gif donkey-gif mariobros-gif
+0.018318483282864534
+build-wasm-webpage
+0.01757586887123692
+Windows
+
+NES Emulator
+0.016638931707238215
+path
+0.01655299086534991
+cd wasm
+$ wasm-pack build --release
+$ npm
+0.016146964044241065
+emulator
+0.014749462378020606

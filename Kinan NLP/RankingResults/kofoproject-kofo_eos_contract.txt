@@ -1,0 +1,28 @@
+cleos
+0.1564879215169773
+account permission
+0.11545363037951993
+active {"threshold
+0.10229366521823818
+atomicswap.wasm
+0.09941829699993533
+atomicswap
+0.08705784915594873
+EOS/BOS/MEETONE smart contract
+
+Current version
+0.08082022459277091
+KOFO atomic swap
+0.07828270404581548
+permission":{"actor": "kofoatmceos","permission":"eosio.code"},"weight":1}]} owner
+0.07467041147551633
+weight":1}],"accounts
+0.07328817814630534
+kofoatmceos@owner
+
+ABI
+
+cleos
+0.07018056838238261
+abi kofoatmceos
+0.0620465500865899

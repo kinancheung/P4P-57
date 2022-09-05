@@ -1,0 +1,61 @@
+Cecilia
+0.07401086813423358
+TODO
+0.06907652975516929
+vs2013
+0.06615218928482312
+name
+0.05072727941659673
+Python
+0.04950207428884814
+Boost::Python
+0.04882654939679956
+Infinite Stratos
+0.0483805959434473
+hinus
+0.04834314898327011
+heroine
+0.04812579733203409
+CSharp/Java
+0.04594452341998483
+Python
+Python
+0.04388347841170288
+new statement
+0.038882600095738296
+runtime error
+0.03879150902878438
+console exe
+0.03832243082534344
+Related projects
+0.03633909810286463
+PythonPython - 
+CoCo
+PLY
+ANTLR
+YaccPython - 
+jython-legacy
+skulpt
+Python Tutorial
+0.0347514210995319
+TODO) pythonnet load
+0.031192614801357404
+chrome extension
+0.029452439678357298
+WebAssembly
+0.028884409651559556
+circuitpython
+PyGame Zero
+0.027758540066150153
+chip
+0.027525686268377474
+code.google.com/p/pspstacklesspython
+eriri_python
+boo
+jython_playground
+Python internals
+0.02676960507007764
+mod version
+0.025686732731395198
+# cecilia
+0.02266987821355297

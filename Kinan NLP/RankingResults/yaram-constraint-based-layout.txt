@@ -1,0 +1,21 @@
+UI framework
+0.17149207941700878
+experimental multiplatform
+0.16209110339843652
+contraint-based layout
+
+Supported backends
+0.13352207194714172
+Browser DOM
+0.11857286332336328
+WebAssembly & optionally Emscripten
+Native Win32
+
+Language bindings
+0.1131347177461126
+Constraint
+0.10432962290658226
+C#
+0.1008344559038983
+NativeAOT
+0.09602308535745668

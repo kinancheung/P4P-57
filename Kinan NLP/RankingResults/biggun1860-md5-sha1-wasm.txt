@@ -1,0 +1,50 @@
+const md5_init
+0.0679969262335475
+const sha1_init
+0.06724799449807416
+install
+0.06363881205358857
+sdk-incoming-64bit
+0.06207332975622437
+const md5_update
+0.04685120341344204
+Module.cwrap(md5_init
+0.04675772700561738
+Module.cwrap(sha1_init
+0.04464603417227693
+python
+0.04383620408669904
+Module.cwrap(md5_update,null,[string
+0.043647519247014474
+SimpleHTTPServer
+0.043298610320052916
+md5-sha1-wasm
+
+WebAssembly implemention
+0.0421766167228297
+browser
+0.041413468372642606
+EmscriptenEmscripten SDK
+0.039838812111252966
+md5
+0.03774103759338359
+const sha1_update = Module.cwrap(sha1_update,null,[string
+0.03768762114229139
+License
+
+Public Domain
+0.03690078821528471
+console.log(sha1_final
+0.03517351359398285
+sha1_update(test2
+0.034891050793422966
+Open URL
+0.03449882701372695
+console.log(md5_hex(test
+0.03353814173933058
+Module.cwrap(sha1_final,string
+0.033471426275429844
+md5_hex
+0.03259143898653033
+console.log(md5_final
+0.03008289665335421

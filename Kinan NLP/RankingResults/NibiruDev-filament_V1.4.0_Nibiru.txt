@@ -1,0 +1,92 @@
+Nibiru XR SDK
+0.1053305473131314
+Step
+0.05042670226261222
+android
+0.03926809041446442
+AndroidManifest.xml
+0.036106556701765234
+NibiruVRService = NibiruVR.getUsingNibiruVRServiceGL
+0.03364008920182065
+pause method
+0.03189516155096394
+follow code
+0.03136303738993083
+if(nibiruVRService
+0.031207251706713082
+VR/AR HMD
+0.031016425033597198
+support
+0.030446706525852924
+filament
+0.0294147226014425
+NibiruLibs
+0.024085979009913605
+renderer.render(view
+0.02343207060033843
+theme="@android:style/Theme
+0.02257582110189682
+xml file
+0.021078335178905016
+apks
+0.020433970899097275
+application tag
+0.020324422444219167
+screenOrientation="landscape
+0.019827499461112213
+var nibiruVRService
+0.019712792790900994
+name="com.nibiru.intent.category
+0.01961097872369094
+special version
+0.01937870287806652
+sample codes
+0.019300303855165946
+View
+0.019117004019990735
+Filament Dependent Files
+0.018539215858989447
+release files
+0.01836279399316128
+NoTitleBar
+0.01833181097337792
+= android.view
+0.01832604587221412
+api
+0.017918869625336682
+nibiruVRService.onResume
+0.017883154080463166
+filamat-android-release.aar 
+filament-android-release.aar
+
+Nibiru SDK Dependent Files
+0.017481291661691708
+filament/Nibiru] directory
+0.017241216884291328
+Filament V1.4.0
+0.0166720032984638
+http://www.inibiru.com/en/product_vr.html
+Please contact &#x69;&#x6e;&#x66;&#x6f;&#64;&#x69;&#x6e;&#x69;&#x62;&#105;&#114;&#117;&#x2e;&#99;&#x6f;&#109
+0.01617852170483736
+NibiruVR.initNibiruVRServiceForUnreal(activity
+0.016055617036972177
+nibiruVRService.onPause
+0.01567476855667305
+Example code file
+0.015379098776296436
+Engine.create(servicePtr
+0.01490450955190217
+>
+0.013525158770885585
+right eye 
+renderer.render(view)
+renderer.endFrame
+0.013136391110982856
++
+0.011669048384021496
+offical wiki
+0.010561479631111039
+Engine.java
+0.007436572312667131
+Engine.h
+0.00572926025006921

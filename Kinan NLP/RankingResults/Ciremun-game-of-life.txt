@@ -1,0 +1,33 @@
+Life
+0.12603318331541635
+Game
+0.12195072919710759
+=
+0.10078195841068023
+Grid Grow
+- Grid Shrink
+
+Android
+
+Show keyboard
+0.09894466937245786
+Brians Brain
+Space Pause
+R Reset
+0.09889869932767045
+Key Description
+0.0951125570641521
+life
+0.07388604926185074
+top right corner
+0.07299022483781385
+nobuild
+0.07175194844613779
+Build
+
+Android
+
+CNLohrs guide
+0.07079054685737715
+./nobuild
+0.06885943390933583

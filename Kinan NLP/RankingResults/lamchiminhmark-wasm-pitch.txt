@@ -1,0 +1,14 @@
+import WasmPitch
+0.24621320255416715
+const wasmPitch
+0.16855505815781888
+wasm-pitch
+0.14195525662325081
+wasmPitch.addListener(/* Callback functions
+0.14086722662776052
+pitch parameter
+0.12457280931082806
+wasmPitch.start
+0.10111697754529592
+demo directory
+0.07671946918087892

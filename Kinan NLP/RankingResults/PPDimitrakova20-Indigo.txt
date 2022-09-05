@@ -1,0 +1,59 @@
+project
+0.14261225919252424
+Prerequisites
+
+Visual Studio
+0.06750288530051556
+card game bOOleO
+0.050000121928457764
+information
+0.049300421813148115
+programs
+0.048308593101463404
+source
+0.04635573927889583
+Authors
+Acknowledgements
+0.04274251057247491
+copy
+0.042290338781796555
+recreation
+0.040339691756338544
+language
+0.039565713640880046
+links
+0.038933178650392405
+pyramid
+0.03856599474026624
+local machine
+0.03838572507449564
+opponent
+0.03812374362002138
+instructions
+0.037812678742518036
+file
+0.03691838600095719
+C++ development
+0.03620817081671659
+boolean logic
+0.03477157482560341
+repo
+0.03440229485794113
+Pamela Dimitrakova - Scrum Trainer
+Hristiyan Petrov - Quality assurance(QA
+0.02947981739534422
+applicatiom
+Raylib - external library
+
+
+Word - Documentation
+Excel - QA Documentation
+PowerPoint- Presentation
+0.024509826671606512
+Maksim Vasilev - Backend Developer
+Mihail Petrov - Backend Developer
+0.022064631328043486
+Acknowledgements 
+
+Tessera Games LLC - original creators
+0.020805701909598538

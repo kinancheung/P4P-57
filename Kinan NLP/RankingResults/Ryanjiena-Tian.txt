@@ -1,0 +1,22 @@
+Bucket Manifest
+0.2247661000996988
+Ash258/Scoop-JetBrains Ash258/Scoop-JetBrains badge
+jonz94/scoop-sarasa-nerd-fonts jonz94/scoop-sarasa-nerd-fonts
+0.1896914216326007
+Tian Build Visitors
+0.16165627648815092
+tian https://github.com/Ryanjiena/Tian.git
+scoop bucket
+0.13589345971502328
+tian-cn
+0.13082232358282078
+ScoopInstaller/Extras ScoopInstaller/Extras badge
+Ryanjiena/Meta Ryanjiena/Meta badge
+chawyehsu/dorado chawyehsu/dorado badge
+
+scoop bucket
+0.084078114572994
+ScoopInstaller/Main ScoopInstaller/Main badge
+ScoopInstaller/Nonportable ScoopInstaller/Nonportable badge
+ScoopInstaller/Versions ScoopInstaller/Versions
+0.07309230390871156

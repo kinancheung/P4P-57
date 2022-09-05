@@ -1,0 +1,44 @@
+raspi-config
+    Set Wireless
+0.0880191613096917
+sudo systemctl
+0.08662116755426608
+git clone
+0.08481086169687857
+Install WiringPi
+0.08441807228343906
+https://www.raspberrypi.org/documentation/configuration/wireless/headless.md
+    Set SSH
+0.07508015835776685
+bit
+0.07127277529625639
+https://www.raspberrypi.org/forums/viewtopic.php?t=275370
+    Issue List
+0.06606883010147072
+Interfacing Options / I2C
+0.05984350849751907
+RaspberryPi
+0.05815051411642553
+https://github.com/raspberrypi/Raspberry-Pi-OS-64bit
+    Install Wasmer
+0.0535236417108112
+Default
+0.050733398614209016
+Services
+0.050333203340640405
+apt-get install qt5-default \
+                                    libqt5websockets5 \
+                                    libqt5websockets5-dev \
+                                    qtdeclarative5-dev
+
+    Change Keyboard Layout
+0.04956414560049605
+https://get.wasmer.io
+0.04624165222258874
+install
+0.04188669818214307
+WiringPi
+wPi
+Wiki Qt
+History NaCL
+0.033432211115397514

@@ -1,0 +1,10 @@
+SimpleHTTPServer 8080
+emcc hw.c
+0.29645671172764476
+em++
+0.2570454755948377
+browser
+open http://localhost:8080/sdl.out.html
+0.24390384722600478
+browser
+0.20259396545151326

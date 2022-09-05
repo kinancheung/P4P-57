@@ -1,0 +1,46 @@
+ECRIO
+0.07197506141598291
+Biometric Hardware Secured Keys
+0.06515241655109848
+Centos
+0.06486799031587291
+Free Rate Limited Transactions
+Low Latency Block confirmation
+0.06341166528919781
+Support
+0.06277681599549316
+seconds
+0.05866449973906741
+Low-overhead Byzantine Fault Tolerant Finality
+0.05813426142947346
+WebAssembly
+0.05601145418215614
+Parallel Execution
+0.052517350081336386
+Sparse Header Light Client Validation
+Scheduled Recurring Transactions
+Time Delay Security
+Hierarchical Role Based Permissions
+0.05074458480643729
+Amazon
+0.05072280720156119
+Smart contract platform
+0.05030129050728273
+Apple Secure Enclave
+0.049072229709696574
+Context Free Validation Logic
+0.04810934933365196
+optional high-overhead, low-latency BFT finality
+0.04504772642171724
+following operating systems
+0.044117925045098955
+cd ECRIO/scripts
+$ sudo
+0.03746939648953351
+./ecrio_install
+
+## Supported Operating Systems
+ECRIO
+0.03557230011203336
+clone
+0.03533087537330868

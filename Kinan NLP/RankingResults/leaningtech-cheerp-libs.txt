@@ -1,0 +1,27 @@
+INSTALL_PREFIX=/opt/cheerp CHEERP_PREFIX=/opt/cheerp
+
+Cheerp helper library
+0.15492198091685047
+generic and asm.js version
+0.12013474774878045
+cd
+0.11466118816644953
+install
+0.11207258734962355
+build_genericjs -DCMAKE_INSTALL_PREFIX=/opt/cheerp -DCMAKE_TOOLCHAIN_FILE=/opt/cheerp/share/cmake/Modules/CheerpToolchain.cmake
+0.07892562491938766
+GitHub
+0.07115464839996709
+bugs
+0.07083184805049313
+webgles
+0.06617801039713295
+Cheerp syscall library installation
+0.058775080921928596
+system
+cmake
+0.055858372726060174
+build_asmjs
+0.05583485400906395
+C++ compiler
+0.04065105639426182

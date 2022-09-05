@@ -1,0 +1,22 @@
+program
+0.17277920763111196
+number
+0.11024675417954398
+possible sudoku grid solutions
+0.10804847103636439
+variations
+0.10209597079095598
+Dancing Links
+0.0956975599190559
+Monte Carlo Tree search
+0.09456833621183351
+web assembly
+0.09340257985848414
+Knuths Algorithm X
+0.08426041936683921
+https://jnafzig.github.io/DancingLinks/
+0.07208298241332639
+DancingLinks
+
+C++ implementation
+0.06681771859248459

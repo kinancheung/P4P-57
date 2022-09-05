@@ -1,0 +1,232 @@
+necessary files
+0.045440943581851356
+build process
+0.030553249829719773
+cryptography library
+0.025990018206814583
+build
+cd
+0.025333078601715523
+cmake
+0.024715653062280598
+binaries
+0.024131651507155648
+Copyright
+0.023924005386241197
+c
+0.023054217402277928
+https://github.com/plenteum/plenteum-crypto
+cd plenteum-crypto
+0.020247535481577397
+clang++-6.0
+git clone
+0.019623273319973447
+require(plenteum-crypto
+0.018661780650741863
+Native Javascript
+0.01793615682861536
+Plenteum
+0.017339379438170894
+npm install
+0.017194631772185998
+Bytecoin Developers
+0.01690806322370436
+Visual Studio
+0.016357827375816078
+master --single-branch
+0.016328044394340588
+add-apt-repository ppa:ubuntu-toolchain-r/test
+0.015564629507678377
+faster performance
+0.013814040560056128
+Forknote Project
+0.013437446172064561
+CMake arguments
+0.013199532864712059
+default
+0.01314039404154085
+command
+0.012515690543945716
+development environments
+0.011594518147573955
+while
+0.011455632335019918
+dependencies
+0.011398465882615554
+Prerequisites
+0.011158978453008648
+CryptoNote developers
+0.010972078107676378
+Linux
+
+Ubuntu
+0.010545857060242306
+LTS
+0.010240168456238428
++6.x
+0.009934456735922022
+CC
+0.009488067631056375
+llvm
+export CC=/usr
+0.009304694430796866
+CXX
+0.008841668003234273
+environment
+0.008556466998436858
+example
+0.00805704120485756
+your_plenteum-crypto_directory
+0.007955680194919235
+TurtleCoin Community
+
+Copypasta
+0.007942486124740489
+noticable difference
+0.00792151036989601
+license
+0.007919562234238092
+method
+0.007911350330539493
+ubuntu
+0.007808980929062983
+apt-get update
+sudo apt-get install aptitude -y
+sudo aptitude install
+0.007761470933443737
+Administrator
+0.007687229362771223
+Node v11
+0.007651845221716138
+windows-build-tools
+0.0073533269074826605
+variety
+0.007337878529252042
+better experience
+0.007328367078201401
+software
+0.007325129506328137
+MSBuild plenteum-crypto.sln /p
+0.007321547116491765
+optimized native builds
+0.007305029552031449
+Windows Powershell console
+0.007194647434409953
+Pull Requests
+0.007099488394532115
+errors
+0.0070948631607751275
+vs2017
+0.007094619080328454
+Extensive docs
+0.007093182407896801
+step
+0.0070873917765254795
+open x64 Native Tools Command Prompt
+0.007073730520136016
+Configuration=Release
+0.007009692648807162
+machine
+0.006993162451783096
+Update
+0.0069718227867246844
+particular system type
+0.006971588715403924
+WASM
+
+Node.js Module
+
+Dependencies
+0.006970056948456189
+start menu
+0.006928487137385229
+systems
+0.006887775285532298
+following packages
+0.006875780010832852
+Native Javascriptplenteum-crypto.js
+
+
+WASMplenteum-crypto-wasm.js
+
+Thanks
+
+Cryptonote Developers
+0.006807271709535732
+jsbuild folder
+0.006797559630713988
+reason
+0.006752543742570012
+P/Invoke
+0.006681389874057928
+script
+0.006681044172103754
+Win64
+0.006665311693849887
+set PATH="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin";%PATH%
+cmake
+0.006518307508127782
+clang
+0.006516347731816764
+first time
+0.006391623815650489
+libraries
+0.006385941180567813
+various other projects
+0.006375632592838704
+https://raw.githubusercontent.com/Homebrew/install/master/install
+0.006252496901328609
+works
+0.006248235531766167
+libplenteum-crypto-static.a
+
+OSX/Apple
+0.006179043550566676
+particuar system
+0.0060881341306239095
+repository
+0.005996890709428387
+bit
+0.0059796238989829765
+Developer Tools
+0.00596841627441622
+Clang
+
+Prerequisites
+
+Install XCode
+0.005899489154330395
+|| /usr/bin/ruby -e "$(curl
+0.005790835220799945
+Linux
+
+Installation
+
+npm
+0.005777440226883888
+Build Optimization
+
+The CMake build system
+0.005720403220968423
+included LICENSE file
+0.005373791542356425
+version
+0.005298091556956453
+build-essential git cmake
+git clone
+0.0052489164200723954
+more information
+0.005077981326079858
+Xenial
+0.004952836059041886
+wget
+0.0048236746914194755
+Build Status 
+Build status
+
+Plenteum
+0.004784513119060174
+Aptitude::ProblemResolver::SolutionCost=100*canceled-actions,200*removals
+0.004754145102526172
+image
+0.004375047360055216

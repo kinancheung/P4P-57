@@ -1,0 +1,40 @@
+coverage
+0.08706792519146395
+reports
+0.08500141584449677
+underlying environment
+0.066458804771322
+syscalls
+0.06474900293694634
+Provide hooks
+0.06321579772905866
+Incorporate incremental and asynchronous compilation
+Create specialized error handler
+0.0578529381229716
+automated unit testing
+0.05547744521298181
+AOT compilation
+0.054527103343725236
+JIT Engine
+Add support
+0.054254152423864624
+Wasm MVP specification
+0.053083958446433294
+semantic analysis phase
+0.048436605939853467
+important tasks
+0.04830402722108282
+DEVELOPERS
+0.04393421541208317
+Add language interop mechanisms
+0.043156077806986465
+languages
+0.04065226966392692
+important wasm features
+0.040177662671299394
+WebAssembly runtime
+0.037798767651704174
+technologies
+0.031390599210595255
+intermediate and/or binary machine code
+0.02446123039920401

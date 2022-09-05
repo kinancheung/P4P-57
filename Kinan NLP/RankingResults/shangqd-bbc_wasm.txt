@@ -1,0 +1,4 @@
+eosio.contracts
+0.5
+test_eos.sh
+0.5

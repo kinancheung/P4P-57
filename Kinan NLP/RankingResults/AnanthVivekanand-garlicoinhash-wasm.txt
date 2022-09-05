@@ -1,0 +1,33 @@
+var heap
+0.11398156261863762
+header.set(hex2Buf
+0.07653526331692298
+data
+0.07646808780233413
+new Uint8Array(heap
+0.0711779545091557
+Module.HEAPU8.buffer
+0.07032256706350315
+Module._malloc(80
+0.06956315678727507
+strings
+0.06557789022209937
+buffer
+0.06546145503782552
+Uint8Array
+    Module.ccall("allium_hash
+0.06328362689042877
+Allium energy-efficient hashing function
+0.06297564850009213
+Module._malloc(32
+0.059322099810779114
+Module.onRuntimeInitialized = function
+0.05625552920646039
+Usage
+
+importScripts(./allium.js
+0.05352777222567608
+WebAssembly code
+0.05095729201284482
+string
+0.04459009399596535

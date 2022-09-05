@@ -1,0 +1,22 @@
+7zip
+0.15535269944466124
+wasm2wat.exe
+0.14751636359461645
+file.wasm
+0.14269373979287914
+official LLVM releases page
+0.13556512264297538
+openlibm
+
+TODO
+0.11524660062801398
+c-to-webassembly
+
+wasm instructions
+0.11196701434048334
+clang Basic TokenKinds.def
+
+clang Basic Builtins.def
+0.09925479645819503
+Reference
+0.09240366309817556

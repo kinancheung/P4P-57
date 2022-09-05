@@ -1,0 +1,21 @@
+npm
+0.2158241704553326
+Wasm
+
+Install
+0.18628836651564462
+Build Rust
+0.17492733761674994
+Rusty React
+0.13542464987984285
+Update node modules
+0.07952609015680126
+wasm-pack
+0.07400780962552428
+https://rustwasm.github.io/wasm-pack/installer/
+
+
+wasm-bindgen Command Line
+0.07078184448834834
+cargo install
+0.06321973126175624

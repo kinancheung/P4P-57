@@ -1,0 +1,39 @@
+compiled ones
+0.11688918400242918
+EMC compiler
+0.09290530469521846
+paths
+0.09240222737202891
+EMCC=
+0.07926878239873617
+makefile
+0.07688419474879274
+libssl
+0.07082847577048927
+WebAssembly wasmOpenSSL
+0.06403493960444592
+OpenSSL port
+0.06274515499343741
+progress
+0.06055083485667096
+./libs
+0.057088039224774026
+Requirements
+
+emsdk
+0.0492769833633989
+path_to_emsdk}/upstream/emscripten/system/lib
+
+Demo
+
+node --experimental-wasm-threads
+0.043935683639742526
+NISTs PQ crypto
+0.04219215226331472
+PQ Kyber port
+0.03295104045094076
+build/test.js
+nnode --experimental-wasm-threads
+0.032542377466678096
+DYNAMIC_EXECUTION=0
+0.025504625148902074

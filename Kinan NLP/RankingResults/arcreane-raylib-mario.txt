@@ -1,0 +1,22 @@
+aux
+0.13663621801251183
+Utilisation de Raylib
+0.13117959330018997
+Penser
+0.12944112229896348
+orient objet
+0.10176642330669336
+Programmer
+0.10087190520282636
+Enregistrement de donnes sur fichier text
+0.08287579321927822
+sous forme dappels de fonction
+0.08164504168947641
+ou dune autre librairie intressante
+0.07329357783500218
+Au
+0.05834905715366841
+niveaux dhritage
+0.05305135593826005
+relecture
+0.05088991204312972

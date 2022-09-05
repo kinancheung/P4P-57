@@ -1,0 +1,18 @@
+Implementation
+0.14567535697197817
+lena
+0.12818584441863018
+Node.js server API
+0.12729141531918992
+C++ professional image-processing/image-editing tools
+0.12244922618750609
+typescript
+0.11912558652270808
+V8 addon
+0.10740036717485393
+Possible future code rebuild
+0.09551066923216522
+simon
+0.08291539959946195
+WebAssembly
+0.07144613457350638

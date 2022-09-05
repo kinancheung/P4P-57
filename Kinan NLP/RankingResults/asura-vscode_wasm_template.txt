@@ -1,0 +1,63 @@
+Promise
+0.08237207992550978
+XMLHttpRequest
+0.07405650629527633
+| deadwood
+
+
+ - XMLHttpRequest
+0.06926727349668645
+C++
+0.06394984459979203
+JasmineAPI
+0.05622546515273547
+catchorg/Catch2
+0.053715503862870564
+Qiita
+0.05200081430754389
+emcmake cmake
+0.049343418302996093
+Issue
+0.04831129593727394
+Emscripten
+0.04806747223655991
+Debug
+0.047150587072710595
+cd
+0.043391114437934905
+Info
+IndexedDB API - Web API
+0.04335213747054808
+MDN
+
+
+IndexedDBIndexedDB - JavaScript
+0.04333935661249723
+MDN
+ChromeIndexedDB(2.0
+0.04190945328987474
+Live Server
+ http://localhost:5500/cpp/test/  (Catch2)
+ http://localhost:5500/js/test/  (Jasmine)
+
+
+
+Emscripten
+
+trzeci/emscripten - Docker Hub
+1 WebAssembly
+0.03970495783879162
+Sumire Lab Docs
+emscriptenC/C++web - SlideShare
+C/C++WebAssembly - SlideShare
+File System APIFile System API
+0.03916823560051052
+Skyway Walkers
+0.03687647863797148
+C FileSystem
+Emscripten File System API  - Qiita
+Emscripten/Javascript event loop support
+0.03461368454730259
+Emscripten 1.39.14 documentation
+   Emscripten C++/OpenGL ES
+0.03318432037461385

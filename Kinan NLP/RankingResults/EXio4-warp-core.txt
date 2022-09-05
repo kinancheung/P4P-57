@@ -1,0 +1,18 @@
+MIT
+0.1906408834434143
+inspiration
+0.14780602976350177
+https://github.com/s-macke/VoxelSpace
+0.14231133062460521
+code
+0.13850056630572882
+lot
+0.13391334595948395
+https://github.com/Reputeless/PerlinNoise
+0.09598007617929999
+C/WASM
+0.08684268232066597
+Core
+
+VoxelSpace-ish implementation
+0.06400508540330016

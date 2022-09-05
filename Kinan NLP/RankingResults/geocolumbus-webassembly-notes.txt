@@ -1,0 +1,68 @@
+Spectest JSON file
+0.09505565205498631
+text format
+0.07161350710197183
+WebAssembly binary format https://www.mankier.com/1/wasm-validate
+wasm2c
+0.06578674268066857
+WebAssembly binary file https://www.mankier.com/1/wasm-interp
+wasm-objdump print information
+0.059428122643870894
+interpreter https://www.mankier.com/1/spectest-interp
+wasm-interp decode
+0.05937659769445518
+emrun web server
+0.04400288417477418
+instructions
+0.03834230686348925
+https://www.mankier.com/1/wasm2wat
+wast2json
+0.03672905045232515
+wasm spec test format
+0.03252917845727795
+associated wasm binary files
+0.03243337178730365
+https://www.mankier.com/1/wasm2c
+wasm2wat
+0.03035069319409165
+C source
+0.030067546336570192
+https://github.com/geocolumbus/webassembly-notes.git
+0.02941982478067793
+mv webassembly-notes
+0.02911149060178289
+https://www.mankier.com/1/wast2json
+wat-desugar parses
+0.02895110014693672
+HTTP
+0.028689846474398976
+spec interpreter
+0.02758882195002445
+compiled files
+0.02690249307709399
+Emscripten SDK
+0.026823214271267957
+web assembly
+0.026646886582013207
+tests
+0.026532483394546173
+WABT - tools
+0.02635380572842904
+s-expressions, flat syntax, or mixed) and prints "canonical" flat format
+0.025924806836175256
+WABT Command Description
+0.022446237307734568
+wasm binary https://www.mankier.com/1/wasm-objdump
+wasm-opcodecnt count opcode usage
+0.02160522063794004
+https://www.mankier.com/1/wat-desugar
+wat2wasm
+0.01981837280516679
+emcc
+0.018851854583742583
+Web Assembly
+
+Usage
+
+git
+0.018617887380284654

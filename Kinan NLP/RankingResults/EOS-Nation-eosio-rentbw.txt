@@ -1,0 +1,34 @@
+EUA
+0.11481262834281979
+EOS User Agreement
+0.11374359417366384
+https://github.com/EOSIO/eosio.contracts/pull/397
+
+Amendments
+0.11246374025628443
+Write-up
+0.10190765475497204
+https://eos.io/news/eosio-resource-allocation-proposal/
+v1.8 release candidate
+0.10143451373106625
+EOS 42 regproducer update
+
+Checksum
+
+Branch rentbw-1.9
+0.09927878524503049
+new model
+0.09484147139268158
+https://github.com/EOSIO/eosio.contracts/tree/v1.8.4-rc1
+v1.9 branch
+0.09026745112033058
+shasum
+0.0607751850665775
+rentbw)
+
+Resources
+
+A post
+0.056892406994622655
+eosio.system.wasm
+0.053582568921950895

@@ -1,0 +1,57 @@
+EOS
+0.09355760622612748
+sha256sum
+0.09040169844153376
+BTC collateral
+0.060915218073666094
+Ubuntu
+Description
+0.05842951179390437
+command
+0.055736418773403906
+dollar-pegged EOSDT stablecoins
+0.0537053057677716
+Technical specification
+0.053601847837418636
+decentralized stablecoin
+0.052566388973352064
+affordable APR
+0.05223345057360637
+https://knowledgebase.equilibrium.io/
+
+Building contracts
+0.048926670441286395
+Check
+0.0471142317742606
+eosdtcntract.wasm
+0.04650584071253357
+Codename
+0.04427816414927163
+bionic
+
+2.Check Contract Development Toolkit version
+
+/usr/bin/env eosio-cpp --version
+
+eosio-cpp version 1.7.0
+
+Build contract
+0.04233084668436186
+true hashsums
+0.04025623933052493
+LSB modules
+0.036793595555923944
+Equilibrium EOSDT
+
+EOSDT
+0.033109177314531446
+sha256sum eosdtorclize/eosdtorclize.wasm
+634fd188454d3a36c3a70cd6364cc3610facfa85d139bb457268a8da0ea869a6
+0.03271968457041152
+bin/env eosio-cpp eosdtgovernc
+0.029222776132738354
+sha256sum eosdtsttoken/eosdtsttoken.wasm
+ebb7ccee43b403ed616c1ecd8e1c520c92d32ea8b90d103818360078f68703ea
+
+sha256sum
+0.027595326873371386

@@ -1,0 +1,269 @@
+envoy
+0.03256490134605777
+envoy WASM filter
+0.03029326658250574
+stream events
+0.02700102503961464
+pairs
+0.026017191872031088
+first WASM
+0.022992640703168726
+auto result
+0.022696812971974047
+bool onStart(size_t
+0.017561716704604113
+RootContext
+0.01742100076708854
+request
+0.01671117951850011
+void
+0.016009061798860427
+public
+0.014352416727008816
+interactions
+0.014264087888548082
+docker
+0.013109180313841794
+FilterDataStatus onRequestBody(size_t body_buffer_length
+0.01296426999882869
+string
+0.012921532312971776
+part
+0.0128176863390587
+StringView root_id
+0.011366104379969573
+localhost:18000
+0.01120191844434188
+p
+0.011023577185298195
+d
+0.010814691220351256
+class ExampleRootContext
+0.01072811312248465
+end_of_stream
+0.010379858937265589
+target
+0.010056534502117307
+istio image
+0.010026734887544582
+same lifetime
+0.009792527374913016
+getRequestHeaderPairs
+0.009696202634252693
+override
+0.009563723811041393
+Headers API
+0.00948235905252325
+result->pairs
+0.009410166770071947
+wasmData
+0.009077386488930406
+Context
+0.008999642255305716
+Building envoy
+0.0088851249023981
+std::to_string(id
+0.008825288434501371
+new header
+0.008810210579771693
+LOG_INFO(std::string(p.first
+0.008786458183467852
+return FilterHeadersStatus::Continue
+0.008495996680669068
+Envoy
+0.008465925012674987
+FilterHeadersStatus ExampleContext::onRequestHeaders(uint32_t
+0.008443421652504708
+LOG_INFO(std::string("headers
+0.008433986268146905
+std::string(p.second
+0.00799525794645343
+v2
+0.00781722695113612
+void onDone() override
+0.007718799061149693
+#
+0.007499889886758078
+callbacks
+0.007492524163481196
+response headers
+0.007359957099924689
+localhost
+0.00724138077162185
+TODO
+0.007185304012034637
+whole process
+0.00699196620659751
+ExampleRootContext::onStart(size_t
+0.006873503133886846
+ExampleRootContext(uint32_t
+0.006795476420162793
+RootContext(id
+0.006480686574100902
+testenv wasm file
+0.006429937820307104
+curl
+0.005913317136033165
+filter chain iteration
+0.005775248681065116
+getBufferBytes(WasmBufferType::HttpRequestBody
+0.005756888468491799
+OK
+< content-length
+0.005755786793867566
+beginning
+0.005732976403172952
+root
+0.0057175241667718705
+Context(id
+0.005709446592408747
+world
+0.005626742329629198
+LOG_ERROR(std::string("onRequestBody
+0.005495880867253928
+WAVM
+0.0054149858107525786
+explicit ExampleContext(uint32_t i
+0.005410825994177885
+getResponseHeaderPairs
+0.005329482715530987
+initial setup
+0.0053150018943623895
+my_root_id
+0.005282733708586691
+mind
+0.005243205095956369
+onstart
+0.005224944568782659
+Request
+0.005217372989169626
+std::string(body->view
+0.005213040031628967
+Response
+0.005198142745723364
+VM/runtime instance
+0.005190458855730615
+LOG_TRACE("onStart
+0.005158631741623605
+https://github.com/proxy-wasm/proxy-wasm-cpp-sdk/blob/master/docs/wasm_filter.md#context-object-api
+0.005151010707963024
+addResponseHeader
+0.0050988029306567925
+LOG_DEBUG(std::string("onResponseHeaders
+0.00508837532902901
+Apr
+0.005070746369931664
+ROOT_FACTORY(ExampleRootContext
+0.005055100293031085
+WASI specification
+0.00505373789523052
+easiest way
+0.0050413028046533154
+proxy-wasm project github
+0.005039152618598987
+LOG_WARN(std::string("onDelete
+0.0050251188459087045
+SDK
+0.004988962685718079
+incremental ID
+0.004961740220872158
+ExampleContext::onDone
+0.0049498013792391455
+TinyGO
+0.004944503225067624
+onRequestHeaders
+0.004929241639957248
+Dockerfile-sdk
+0.0049087980268820094
+onDelete
+0.0048974594130609325
+onRequestBody
+0.004856107016458746
+response
+  addResponseHeader("newheader
+0.00485203138480156
+great documentation
+0.0048387427875786265
+ongoing work
+0.004829638536944217
+LOG_WARN(std::string("onDone
+0.004820809348753495
+replaceResponseHeader
+0.004790398928832524
+new ExmpleRootContext inheriting
+0.004788439239725962
+GMT
+< server
+0.004780383044862401
+onStart method
+0.004763621393708074
+FilterHeadersStatus onRequestHeaders(uint32_t headers) override
+0.004754419123575539
+static RegisterContextFactory register_ExampleContext(CONTEXT_FACTORY(ExampleContext
+0.004735976115205559
+ExampleContext::onLog
+0.004705391429984405
+LOG_WARN(std::string("onLog
+0.004697524321111387
+LOG_DEBUG(std::string("onRequestHeaders
+0.004634436691296172
+required functions
+0.004628209385539747
+proxy
+0.004623056286435218
+onLog
+0.0046044101996960095
+LOG_WARN(std::string("onCreate
+0.004597116057618089
+git clone https://github.com/proxy-wasm/proxy-wasm-cpp-sdk
+cd proxy-wasm-cpp-sdk
+docker build -t wasmsdk
+0.0045363905727561285
+Proxy-Wasm ABI specification
+0.004524497549014116
+time
+0.0045027791439486865
+envoy_filter_http_wasm_example.wasm
+0.004500324723874089
+new file
+0.004473114840770283
+support
+0.004454770015053913
+newheader
+0.004409567129921049
+golang fork
+0.004400963796266611
+provided SDKs
+0.004385346880989674
+intact
+* Closing connection
+0.004365725787063917
+envoy-upstream-service
+0.00430411756989166
+specific version
+0.004289901359622716
+compiled wasm
+0.004154919014188168
+comments
+0.004130847927997989
+TCP_NODELAY set
+0.004039684005648479
+other stuff
+0.0040331812823439705
+envoy-wasm
+<
+example body
+* Connection
+0.00403039934398985
+docker.io/istio/proxyv2:1.5.0
+0.0038924450520745227
+HTTP/1.1
+0.0038646001733323256
+centos
+0.003748588890201713
+https://github.com/envoyproxy/envoy-wasm
+0.003742397720693265
+clean" envoy wasm docker image
+0.0036580781705233423
+simple one
+0.003024322068361597

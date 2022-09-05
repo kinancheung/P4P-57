@@ -1,0 +1,52 @@
+terminal o comando em++ --version
+0.08638101786855323
+que
+0.07040190539059982
+usamos
+0.06052219282731648
+o sdk
+0.05947315495196891
+realizar o source
+0.0557895900708678
+usa
+0.05403305434775753
+webassembly para compilar cdigos C/C++ e gerar
+0.05368289497654902
+Observe que o terminal onde voc executa o backend precisa ser
+0.04842147439058257
+deve dar alguma sada mostrando
+0.0445557983092678
+Teste
+0.03933175904660946
+Dependencias
+
+Atualmente
+0.038697272425645246
+execuo
+0.03596247231256848
+ArduProj Simulator
+
+Esta verso
+0.03462818811064058
+verso do compilador
+0.034327026225787385
+o cdigo e gerar dois arquivos
+0.03354457802546085
+e
+0.03317151597840538
+que  o compilador que usamos
+0.03314892141668317
+Usando o backend
+
+Faa o download
+0.03259840606996511
+Backend
+0.03162934736641698
+simulao de cdigos de Arduino
+0.03132018837054872
+ser capaz de encontrar o em++
+0.031059694450454308
+yarn install
+0.02964229474308363
+emscriptem e instale usando esse link
+0.027677252324267616

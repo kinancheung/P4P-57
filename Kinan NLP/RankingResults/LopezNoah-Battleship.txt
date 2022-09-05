@@ -1,0 +1,34 @@
+single player
+0.11559886106059533
+vectors
+0.08815786865621084
+arrays
+0.08610045852447071
+data structures
+0.08392268164806235
+-Encapsulate functions
+0.08228370875863386
+classes/structs
+0.07660420788936378
+firing mechanism
+0.07347927104111429
+TODO
+0.0667264199143604
+board
+-Implement ship placement
+0.0658037031506025
+2nd player option
+0.055194418557597276
+needed updates
+0.05191219375176288
+2nd board
+-WebAssembly DOM integration
+0.0462317034471665
+CSIS 111 course
+0.04079331433253589
+Battleship
+
+Battleship text-based game
+0.03477253841763435
+C-like structs)\
+0.03241865084988935

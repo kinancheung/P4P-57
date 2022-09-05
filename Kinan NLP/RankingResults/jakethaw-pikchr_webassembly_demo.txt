@@ -1,0 +1,6 @@
+Pikchr Webassembly Demo
+
+Official site
+0.5
+jakethaw.com/pikchr_webassembly_demo
+0.5

@@ -1,0 +1,307 @@
+les diffrentes
+0.028531148971605594
+et source
+0.02122429365106384
+WebAssembly
+0.02007279259211553
+itrations
+0.01716583948265036
+JavaScript
+0.01707242376744096
+nous verrons
+0.01700089406922959
+C
+JavaScript
+JavaScript
+0.014369510098656876
+un format
+0.014116977154007415
+le fonctionnement de WebAssembly
+0.014017435887687425
+que nous gagnons
+0.01387617461397182
+Desktop et sur un processeur ARM
+0.012857947862337417
+par emsdk
+0.011784517206164715
+WebAssembly
+
+Pour des raisons
+0.011632295410891173
+tre
+0.011181824101225606
+Windows
+0.011044446442410934
+du JS
+0.011037083465634036
+semble un usage
+0.010705216537435783
+Les outils suivants
+0.010480610665694542
+principe
+0.01044600751206607
+manque de support des instructions
+0.010184253824440277
+portable
+0.00934966640663167
+Intel I5 3427U
+0.008932349173658753
+faut remplacer
+0.008739578809750456
+il
+0.008699814192987855
+comme
+0.008403539459308312
+le Labo
+0.008232914264308201
+suprieur
+
+
+Python 2.7.x
+0.0076895688679894155
+ou
+0.007626133048400281
+Rappel
+0.00737595333352803
+Ceci illustre
+0.007245086017735685
+fourni de nombreux outils permettant de raliser simplement
+0.0072159326859500585
+simplement
+0.007146460991331297
+fois sur mobile
+0.007057576585155572
+environ
+0.007042556779372615
+ms
+0.006957431958313593
+performance
+0.006885532614576823
+Les
+0.006690941491346077
+teste
+0.006631876595735768
+ralit
+0.006592095820995157
+inclu par ex
+0.006508215251370193
+Foreign Function Interface
+0.00648468712029645
+dun
+0.006465726486382013
+Web Assembly
+0.0064402816440588305
+FFIs
+0.006423100618236962
+un comptage du nombre dappels
+0.00641488394123291
+Linux
+0.006378868786627176
+appropri
+0.006377376883012842
+tandis que limplmentation
+0.006346579066769618
+Nous tudions
+0.006330871768420604
+la
+0.006322615331589549
+Au niveau des performances
+0.006316907129865171
+GCC
+OS X
+0.006313604205433513
+disponibles
+0.006311491960906461
+ce qui
+0.006296960615982104
+SIMD
+0.006213401885248295
+Webassembly se situe proche
+0.006163562622047458
+Le format WebAssembly est
+0.006159871975847265
+environement Desktop pour comparaison
+0.006158266420971438
+important de cacul dans le langage appel
+0.0061581436729940915
+une fonction C WebAssembly
+0.006120257561403185
+comment compiler
+0.006107115185108764
+SSE2 sera
+0.006070296400011202
+Aprs linstallation
+0.006020559151204482
+Javascript
+0.006019026682272021
+nous attendre  des performances lgergement
+0.005963104258270774
+offrant
+0.00595663260963009
+assurez vous que cmake
+0.005952600148803632
+pour excuter
+0.005941006356739436
+Dploiement de lapplication
+0.005928268918096205
+et exporter du code C vers une page web utilisant
+0.005928029519113056
+Une note
+0.0059191596123260555
+CMake
+Host system compiler
+0.005880978728004135
+source
+0.005862887324318926
+pour accder  lapplication
+0.005820635503068925
+WebAssembly ainsi que les optimisations possibles
+0.0057951428643018554
+prvue mais pas
+0.005773959225890891
+Dans cette
+0.0057601740222208144
+concernant les performances de la version
+0.005745326961409942
+Mesures
+
+La
+0.005727068731081276
+Git
+0.0057153971497051785
+itrations
+Javascript : 726 itrations
+0.005706054797138406
+Conversion des paramtres
+0.005684444678627598
+Nous obtenons les
+0.005657995081194566
+sur le code fourni
+0.005645029727584355
+et dexecutions de la mthode dither pendant une priode de 500ms
+0.0055838512706749685
+dans de nombreux langages
+0.005563013764446898
+Une version utilisant les instructions
+0.00554614438474554
+WASM=1
+0.005542563217770952
+li
+0.005503320458446236
+dbut du laboratoire sera utilise
+0.0054892190061031345
+justifie que lorsque quil est amorti par
+0.005488195830203088
+une version simple base
+0.005487525393859362
+des perforamnces jusqu 10 fois plus leve que le code classique SISD
+0.005480170807139841
+et nous permet dtre
+0.005463504979109186
+emcc main.c
+0.005409499630085402
+loverhead necessaire pour effectuer lappel des fonctions WebAssembly depuis JavaScript
+0.005382134498190621
+vous faut cloner
+0.0053451670744502095
+plainement supportes
+0.005342057374277651
+est trs probablement
+0.005339173336518508
+du contexte des navigateurs web
+0.0053366279729338325
+recompiler le code source pour chaque plateformes
+0.005309782213391351
+-Wextra
+0.005265522457463596
+Nous devons cependant noter que pour WebAssembly
+0.005215607014099121
+WebAssembly lorsque ces instructions
+0.005213234281715969
+les gains de performance futures
+0.005208176259321071
+python et git sont accessible dans le PATH
+0.0052016551456452705
+Ainsi il nest pas optimale de remplacer une addition par
+0.005196787630506629
+cd emsdk
+$ ./emsdk
+0.005185636102947094
+git clone
+0.005152355188204002
+offertes
+0.005092901667598298
+du code WebAssembly si le calcul effect ct C est significatif
+0.0050842952140288285
+Pour lapplication C classique
+0.005075186394381589
+il doit tre excut
+0.00503484917253061
+compilez le fichier grayscale.c  laide de la commande suivante
+0.005016238538165136
+fonctionnalits de sandbox peuvent
+0.005009882143258655
+Intel permet dexcuter
+0.004990807458396731
+gcc
+0.004961077509404748
+Il nest pas
+0.004960477398466555
+loverhead de lappel tant constant
+0.004959206427330973
+de charger une application
+0.004950149144971656
+Dans le cas dune application C classique
+0.0049450999865018035
+sdk-incoming-64bit binaryen-master-64bit
+0.00493099557451995
+Le serveur local de emrun peut
+0.004888092623697676
+main.wasm
+0.00484857767644082
+un tel benchmark alors
+0.004811716071679427
+le rpertoire clon
+Lancer les commandes
+0.004793662939533634
+il est ncessaire de compiler LLVM depuis les sources
+0.004727790634679962
+composant lapplication web soient fourni depuis un serveur web HTTP
+0.00466644811996355
+Le
+0.004660739869460792
+protocole file://
+0.004615654514186787
+que la deuxime commande excute
+0.004592992934619152
+un serveur web de dveloppement pour accder
+0.004590743748318603
+Dployez lapplication
+0.004585134026226971
+effet indispensable que les diffrents fichiers
+0.004568795854887941
+sont pas
+0.004562992649546082
+./emsdk
+0.004552338993860247
+C
+JavaScript ES2015
+0.004533175921917009
+Qualcomm S-600  1,9GHz pour le cas du mobile
+0.004513955429948133
+Pour dployer lapplication
+
+Prrequis
+
+Pour compiler
+0.004471223136923089
+de tester et danalyser les
+0.004353891563015874
+la vitesse dexcution de la fonction grayscale_dither_ordered ralise
+0.003938132787240045
+Introduction
+
+Le but de cette dmonstration
+0.0036301272442247406
+Paul Ntawuruhunga
+0.003228450339200271

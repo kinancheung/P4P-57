@@ -1,0 +1,10 @@
+URL
+0.311714798579539
+WebAssembly
+0.297855770688077
+QCoreApplication::arguments
+0.21119333721058992
+WasmApplication
+
+A generic Qt application wrapper
+0.17923609352179426

@@ -1,0 +1,456 @@
+pssaro, e os canos
+0.023936525540907822
+os
+0.02080613414723713
+upper_y
+0.017046163080101866
+que foi visto
+0.014608579714556084
+foi decidido
+0.014096293410466905
+m_gameData.score
+0.013750408810151826
+da tela
+0.01327732156991262
+=
+0.012701105382465706
+mas ocorreu
+0.012044924171499272
+lower_y
+0.011145106358148643
+image_width
+0.01035325217037488
+image_height
+0.009887294177564256
+para
+0.009543983693737993
+mais complexo
+0.009423883093339948
+o
+0.009153900173030449
+m_bird.m_translation.y
+0.008459078556104723
+pelo
+0.008189666969552931
+const auto udistance
+0.008000547557623337
+plano de fundo diferente
+0.007632567586892575
+int
+0.007516804122895891
+foram
+0.007335409050207602
+m_gameData.hs
+0.00720199154940578
+GL_RGBA
+0.007199349315727723
+em mente
+0.00681118183981217
+#
+0.006762172446478851
+Existem alguns
+0.006731757252363094
+Com isso
+0.006651320507063793
+distncia
+0.006626333419361806
+OpenGL texture
+0.006612470852231713
+pipe.upper_y
+0.006488779414327235
+cano inferior
+0.006412507701128649
+State::GameOver
+0.0064079869985117
+assim quando
+0.00635860568670839
+isto
+0.006330825237888806
+m_gameData.m_state
+0.00624795104108831
+que ainda se encontra
+0.006241412111409142
+como
+0.006228978753187931
+_
+0.0061749905991013284
+image_data = stbi_load(filename
+0.006101841225258967
+m_pipes.m_lower_pipes[i].upper_y
+0.006099654459048895
+GLuint* out_texture
+0.006090203918017877
+e ImGui::GetBackgroundDrawList
+0.006075459673118868
+display
+    glTexParameteri(GL_TEXTURE_2D
+0.006045774085195569
+com essa biblioteca
+0.006027088793115825
+createPipe(DIST_PIPES
+0.005926638638006393
+Existe um vector para representar
+0.0057947031605555645
+bem menor que
+0.00574236180084578
+jogo
+0.005654057483783515
+Por fim
+0.005592659732748188
+invs
+0.005580837404414872
+Seguindo o padro Flappy Bird
+0.005419884716818825
+ldistance < m_bird.m_scale
+0.005321478704112147
+bastou
+0.005239526625293996
+fazer
+0.0051848504672941465
+eixo X e
+0.0050710464624977095
+uma abordagem
+0.005029215987355148
+decidido
+0.005011738635422088
+m_restartWaitTimer.restart
+0.0049657632783806525
+restantes
+0.004946721326325077
+cdigo
+0.004926463562666545
+desenhados
+0.0046894977623658475
+definido
+0.0046416032401757745
+incluir
+0.004530207948380233
+por vez
+0.004503503985819191
+lower_distanceX > -dist
+0.004406892927018156
+em aula
+0.004398923593872747
+glm::distance(m_bird.m_translation.x, m_pipes.m_lower_pipes[i].m_translation.x
+0.004388381941610142
+trabalhosa
+0.004323479242432177
+parte de deteco de colises
+0.004258075738448884
+GL_UNSIGNED_BYTE
+0.004205614367666201
+possuem cores
+0.004194170368348977
+diferentes
+0.004183988207933419
+Portanto
+0.0040752433328324796
+qualquer
+0.0040498280598968124
+jogo Asteroids desenvolvido como exemplo
+0.003999730507707637
+eixo Y
+0.003999232979826969
+fundo
+0.003990095948289735
+defined(GL_UNPACK_ROW_LENGTH
+0.003971230950053181
+Mesmo tentando diversas
+0.0039330356069322125
+deixaram disponveis
+0.0039096590524987035
+para o segundo parmetro
+0.0039005529193375525
+tamanho
+0.003898176738611133
+Firefox
+0.0038981528313148744
+Asteroids
+0.003883222369132127
+upper_distanceX
+0.003879640547033403
+Os
+0.003866062615378253
+executada
+0.0038544366646789756
+out_height
+0.0038376063012879867
+se destoou
+0.003801112251697868
+m_gameData.final_score
+0.0037881232783707067
+file
+0.0037624958457655516
+cada cano est representado como uma parte
+0.0037541252149008884
+Deixando
+0.0037462679840381506
+randomUY(re
+0.0037320277785143833
+parte de desenhar
+0.0037266592396031917
+inesperado
+0.0037177436413428503
+Foram feitas vrias
+0.003707436243302616
+duas distncias juntas apresentam
+0.0036987079380334173
+parte de cima de lado foi prosseguido
+0.0036953270382677757
+tanto
+0.0036868964414232337
+glPixelStorei(GL_UNPACK_ROW_LENGTH
+0.003678536102707418
+pela
+0.0036520496250701927
+GL_TEXTURE_WRAP_T
+0.003644742834716033
+tentativas de utilizar os mesmos mtodos que
+0.003635165446320852
+-4.f
+0.0035714357481072614
+non power-of-two textures
+0.0035612058828046467
+deix-la apenas
+0.0035573796970600658
+j  invocada
+0.003549160938867983
+e com mtodos como ImGui::Image
+0.00354463021319521
+WebGL
+0.0035417344957507737
+todo
+0.0035400947773488265
+glTexImage2D(GL_TEXTURE_2D
+0.003520488969267169
+m_pipes.m_upper_pipes[i].m_translation.x
+0.0035187565011806556
+Contudo
+0.003509657998603287
+O intuito era ter deixado uma lista de canos desenhados
+0.0034782242681388035
+redenderizao dinmica
+0.003469124595892694
+GLM
+0.0034637186336950463
+Load
+0.0034597471203163307
+que este lao
+0.0034429537730075684
+udistance
+0.0034400911456604834
+m_lower_pipes[i
+0.0034325181230088733
+E
+0.0034310355676407094
+GL_CLAMP_TO_EDGE
+0.003428155587131542
+m_pipes.m_lower_pipes[i].m_translation.x
+0.003418210017121545
+filename
+0.0033960106737369465
+risco ao pssaro
+0.0033785094227144897
+objetos de maneira mais visual
+0.0033706180153609618
+GL_TEXTURE_WRAP_S
+0.0033669581530126184
+Same
+
+    // Upload
+0.0033661602748164365
+dando muito certo
+0.0033606608617384143
+tambm foram deixados como formas geomtricas
+0.0033376993839538773
+m_upper_pipes[i
+0.0033339079871452793
+i++
+0.0032903821388186364
+distncia desejada entre cada cano
+0.003277347351262222
+dois casos
+0.0032751720398678658
+Microsoft Edge
+0.003272433563041915
+objetivo
+0.0032664951087057912
+Pipes
+0.003257600388661385
+que tentasse reduzir
+0.0032562930438050143
+perciso de coliso  extremamente assertiva para casos de coliso frontal
+0.003245560193024563
+m_lower_pipes.clear
+0.0032396046022312346
+0.75f
+0.0032229716594521923
+e os atributos ficaram para uso posterior e possvel correo deste "problema
+0.003216929922700254
+coliso estava muito alto
+0.0032128784823543
+STB_IMAGE_IMPLEMENTATION
+0.0032112954467045313
+common settings
+bool LoadTextureFromFile(const char
+0.0032081613702679736
+NULL
+0.0032007699871399145
+local testada
+0.0031999018661371197
+0.85f
+0.003190663420196362
+retngulo uniforme
+0.0031867980430200743
+Mas ocorreu algum problema
+0.0031859069347783646
+2.5f
+0.0031798546694430906
+otimizaes futuras podem ser feitas
+0.0031637855182239908
+coliso  tida como verdadeira
+0.0031608164363317297
+funcionamento
+0.0031544318192886075
+por uma constante
+0.00315309880005425
+m_pipes.m_upper_pipes[i].upper_y
+0.0031513312062772265
+assim toda vez que vamos
+0.003132686662762253
+static_cast<float>(1.5
+0.003132502406105808
+collisions
+0.0031257698749282063
+bird and pipes
+int
+0.0031080560652106118
+repete apenas duas vezes
+0.0031057926918706693
+primeiro momento
+0.003089901517724664
+image
+0.0030853546598361755
+Os parametros de coordenadas lowerxy e upperxy
+0.003057774414716554
+flag low_up representa qual parte est sendo desenhada
+0.003055801294774311
+funo de checagem
+0.003048641460328565
+navegador houve lentido
+0.0030431549479450724
+m_lower_pipes.size
+0.0030314849758260407
+low_up
+0.002999439551704951
+Setup filtering parameters
+0.002988548150218079
+GL_TEXTURE_MIN_FILTER
+0.0029415439515764904
+Aps
+0.002927521125142644
+muito inferior
+0.002915037319405754
+imagem para ser utilizada
+0.002912564019166793
+nica soluo encontrada que resolve
+0.002899833619150835
+velocidade com que o passro sobe
+0.0028924819952088573
+indica que o cano superior  o atual, se falsa
+0.002880165212216811
+foi feita ainda outra verificao de coliso
+0.002861313452905767
+imagens representado
+0.002840387808695749
+diferente
+0.002820824664661743
+0.25f
+float upper_y
+0.0028105182816378425
+scale
+0.0027919358615158983
+que ela acabava desconfigurando os que ainda estavam por aparecer e travava
+0.002789445730334038
+encontrada nesse link
+0.002762502132878061
+deteco de coliso tem um desempenho inferior
+0.002745075678820888
+glBindTexture(GL_TEXTURE_2D, image_texture
+0.0027438268807516517
+passou da metade do cano
+0.002711244833274083
+De maneira resumida
+0.0027104386327959293
+desta vez utilizando distance da biblioteca glm
+0.0026903022125596035
+biblioteca de cabealho nico STB
+0.002674554472194854
+Resultado Final
+
+O Resultado final ficou uma aplicao bem simples
+0.0026737963349444728
+m_lower_pipes.resize(quantity
+0.0026711736185083225
+quase que inteiramente
+0.002617844636979416
+Tela
+0.002600635618034898
+GLuint image_texture
+0.0025965069471689676
+foi possvel iniciar um esboo de jogo
+0.0025943443255819995
+grande parte
+0.002589448295150189
+0.0f
+0.0025849844433659865
+return
+0.0025708206169532716
+est parado
+
+gameover
+
+Tela enquanto est jogando
+
+gameover
+
+Um detalhe  que nessa verso do jogo
+0.0025510422844152295
+E mesmo que parea que deva ser
+0.002548344328985843
+Olhando rapidamente este cdigo parece ser muito
+0.0025299873456826323
+dentro dele
+0.0025253515440068
+Como pode ser visto abaixo
+0.0025122327383414536
+Desenvolvido
+0.0025006409291267423
+repetio" da checagem de coliso que permitem o funcionamento correto
+0.0024942138602238274
+m_gameData.n_passed_pipes
+0.00249076134878362
+0.04f
+0.002456263050302981
+derrota sem poder fazer nada
+0.0023986588677386666
+Thiago Silva das Mercs RA
+0.0023738026012808783
+dist
+0.0023725104875593392
+Como foi feito
+
+Seguindo exemplos
+0.0023619314496949556
+Por falta de conhecimento tcnico por parte
+0.002296702980379231
+Bruno Augusto e Harlen Batagelo
+0.002229544859070332
+possvel se movimentar para cima e para baixo tambm
+0.002099058301868161
+disciplina de computao Grfica da UFABC - ministrada pelos docentes
+0.00205533236696315
+cg_projeto1 - Flappy Bird
+
+Atividade desenvolvida para
+0.0018651085661707252

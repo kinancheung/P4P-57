@@ -1,0 +1,48 @@
+cmake
+0.08013221167475455
+Indie Studio Cpp
+0.07160451008448845
+Windows
+0.06025631158680173
+Linux
+0.06016554861768916
+controller
+0.05913679031877859
+keyboard
+0.05768301168321147
+goal
+0.05303116846429688
+doc
+
+File
+0.04810045136188732
+installation guide
+0.046899830140712306
+raylib graphical library
+0.04662609889795642
+Doxygen
+0.046355687773940626
+html preview
+0.04519306373975183
+Cmake
+0.044844727304662005
+./Documentation folder
+0.04328079364136103
+cross-platform 3D video game
+0.04175148339430943
+documentation
+0.041400835402182
+Wii tank game
+0.039017469844478465
+real-world tools
+0.03854280768570686
+Firefox
+0.03821030671001399
+Contributors
+
+Maxime Dodin github-link
+Robin Levavasseur github-link
+Clment Ruat  github-link
+Charlie Chou github-link
+Antoine Desruet github-link
+0.03776689167301699

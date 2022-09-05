@@ -1,0 +1,12 @@
+Install wasmtime
+0.24582140606784225
+https://github.com/bytecodealliance/wasmtime
+
+Install Rust
+0.23246540610964195
+https
+0.18784374847650018
+https://sh.rustup.rs
+0.168511747078278
+WASI SDK
+0.16535769226773714

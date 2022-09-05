@@ -1,0 +1,6 @@
+WebGuiApp
+
+WebAssembly Application
+0.5
+GUI
+0.5

@@ -1,0 +1,9 @@
+http://webassembly.org/getting-started/developers-guide/
+0.3060476214045945
+command line execute e.g.
+emcc --bind -s DISABLE_EXCEPTION_CATCHING=0
+0.27767497338964914
+latest version
+0.23473781147425388
+hex.js -O3
+0.18153959373150252

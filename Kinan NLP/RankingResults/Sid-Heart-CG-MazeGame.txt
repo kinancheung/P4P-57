@@ -1,0 +1,40 @@
+mg.cpp
+0.1237920901693741
+-s
+0.1203171931822973
+mg.cpp -Wno-deprecated-declarations
+0.11808008728742395
+LEGACY_GL_EMULATION=1 --shell-file ./WebAssembly/Template/index.html
+> cd docs
+> python
+0.11806107608641812
+g++
+0.11657052763522155
+Open GL
+
+EnvSetup
+
+Compile Machine Code
+
+Mac OS
+0.11103740969018153
+-lGL
+0.08208902493803602
+GLUT -framework OpenGL
+0.06063152067403485
+Simple Maze Game
+0.051768513093158566
+W/w - UP
+S/s - DOWN
+A
+0.039144077471459565
+RIGHT
+0.03304830161945005
+Screenshot
+
+Screenshot
+Screenshot
+Screenshot
+
+Web Assembly
+0.025460178152944123

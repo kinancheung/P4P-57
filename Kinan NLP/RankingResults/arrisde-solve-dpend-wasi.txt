@@ -1,0 +1,46 @@
+wasm3
+0.09493081219285486
+simple double pendulum simulation
+0.08197227129907934
+Clang
+0.06008017459708845
+WASM
+0.0588278473708322
+native build
+Python
+0.058688120288463055
+interpreter
+0.05316576262968502
+Ubuntu
+0.05237075958599691
+select solve_dpend.wasm file
+0.051377378771906915
+Recent 64bit Linux
+0.050519770292613286
+NodeJS
+0.049539401921559756
+type wapm upload
+0.04952033129603951
+WebAssembly module
+0.04928565038263283
+WASI-enabled runtime
+0.04869029250732304
+http://wasi.dev/polyfill
+0.045397284257475856
+solve_dpend
+
+Credits
+
+C implementation
+0.04496385336652753
+node solve_dpend.js
+time wasmer
+0.04219090092169819
+Mike Wheatland
+0.03958274074798926
+smiley
+0.035384471429774536
+solve_dpend_wasi
+
+Demo
+0.03351217614045929

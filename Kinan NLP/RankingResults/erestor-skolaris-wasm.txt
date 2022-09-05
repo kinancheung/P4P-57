@@ -1,0 +1,10 @@
+PNaCl
+0.312551266275512
+WebAssembly
+0.27695182847542665
+Skolaris scheduling code
+0.2394323226603039
+skolaris-wasm
+
+Browser API
+0.17106458258875723

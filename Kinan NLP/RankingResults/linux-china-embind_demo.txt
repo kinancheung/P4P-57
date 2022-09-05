@@ -1,0 +1,119 @@
+JavaScript
+0.07561345041444513
+String metadata
+0.053270652101560775
+C++
+0.03734888230670934
+Access memory
+0.031772499674719394
+WebAssembly array parameters
+0.03143393942242704
+d
+0.028515890918128263
+i
+0.02745520585449793
+int type
+0.023953262086323538
+messages
+0.023176985678678794
+peer
+
+void send(int
+0.022617358744999094
+npm
+0.021979191815815313
+https://emscripten.org/docs/porting/connecting_cpp_and_javascript/embind.html#using-val-to-transliterate-javascript-to-c
+Memory views
+0.021148107484127796
+hello.idl
+Generate cpp file
+0.020937414020281934
+example
+0.020646460388909074
+https://developers.google.cn/web/updates/2019/01/emscripten-npm
+0.020521253336020995
+connection
+0.02033479025404745
+Emscripten
+0.01953367022114136
+unsigned char
+0.01931928849816226
+val
+0.019079342784959926
+TinyFSM
+0.01867032408150869
+Web IDL
+0.018318508122650543
+optimal performance
+0.018259181208642724
+https://developers.google.cn/web/updates/2019/02/hotpath-with-wasm
+Emscripten Compiler Frontend
+0.018243184827399683
+simple finite state machine library
+0.01813069804552264
+https://emscripten.org/docs/tools_reference/emcc.html
+0.01795534773409824
+hot path
+0.017703366111971538
+val(typed_memory_view(lenth
+0.0176873616159319
+byteBuffer+offset
+0.017649381711225084
+low memory footprint
+0.017622777620540195
+void receive(int i
+0.01760837241620494
+byteBuffer
+0.017470150510162888
+Asyncify
+0.017459199856556404
+https://emscripten.org/docs/porting/connecting_cpp_and_javascript/embind.html
+Emscriptens embind
+0.01741364658564499
+C API
+0.017022830603054304
+Embind
+0.016707441449709967
+Extension
+0.015751214927963806
+Wasm call JS functions
+0.015570769221849565
+wasm
+0.014860550349349265
+runtimeEventBuspub/sub https://nodejs.org/dist/latest-v13.x/docs/api/events.html
+
+Clion Integration
+
+CLion
+0.014631748599988257
+https://heycam.github.io/webidl/
+0.014525845228402421
+Settings > Build
+0.01434094251621374
+Execution, Deployment > CMake
+0.014259176952163208
+idl
+Create C++ header file
+0.013792990967918375
+Class definition
+Implement C++ class
+Compile cpp
+0.013265664101922231
+CMake options
+0.013024906479310629
+local/opt/emscripten/libexec/cmake/Modules/Platform/Emscripten.cmake
+
+References
+
+Google Developer WebAssembly
+0.012432584608423919
+embind & Web IDL
+
+WebIDL Binder
+
+Create WebIDL
+0.011046217740876118
+Embind Demo
+
+WebAssembly bind demo
+0.009917969798838171

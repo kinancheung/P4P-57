@@ -1,0 +1,62 @@
+WebAssembly SIMD
+0.06205760282045412
+Input  Output  ARM64 WebAssembly
+0.05690421889519219
+Print version
+0.05454849772112359
+architectures assembly
+0.05106234095409618
+goal
+0.04753303979971818
+Passing WASM validation
+WASM bytecode output
+IR-level optimizations
+0.047100205676781484
+reliance
+0.04405061740167725
+external libraries
+0.0420323326624891
+portable C99
+0.03983578197712215
+Toggle
+0.03974018952186131
+info
+0.03945032207135381
+faster development platform
+0.036162248176139104
+alternative
+0.035936603429394746
+heavy_check_mark
+0.03465800063105329
+path Output
+0.03370664482276347
+path
+path Input file path
+0.03332667850157829
+IR
+WAT syntax output
+0.032278915863964454
+Converting
+0.03162393875350029
+Syntax
+
+Argument Description
+0.030151161670848244
+handwritten ARM64 SIMD
+0.0301384963462565
+input syntax
+0.028965628423254217
+project
+0.027881162471104233
+minimal changes
+0.02716138819379546
+command-line compatibility
+0.027026408260952196
+modular, flexible transassembler
+0.024285405621973635
+felloak
+
+felloak
+0.02152606883519029
+nasm CLI syntax
+0.02085610049636212

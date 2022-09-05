@@ -1,0 +1,12 @@
+Primitives
+0.24054313024733423
+examples
+0.23269765401462386
+Shadows
+0.2135023802047804
+Bullet integration
+0.1897970983377214
+MagnumTest
+
+Confiure Cmake Examples
+0.12345973719554013

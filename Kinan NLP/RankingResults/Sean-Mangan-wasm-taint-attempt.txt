@@ -1,0 +1,26 @@
+repository
+0.16335008318128652
+place
+0.1588833765835579
+git clone git@github.com
+0.1496651899111107
+Sean-Mangan/wasm-taint-attempt.git src
+0.11467169327998888
+checkout tags
+0.088102181702507
+src file
+0.08412521218560745
+Checkout Node v10
+
+"git
+0.07881005097854925
+main node folder
+
+"cd
+0.06722522902543887
+Configure node
+0.05357107470297391
+wasm-taint-attempt
+
+Steps
+0.04159590844897934

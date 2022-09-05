@@ -1,0 +1,4 @@
+WebAssembly
+0.5
+infile.wasm
+0.5

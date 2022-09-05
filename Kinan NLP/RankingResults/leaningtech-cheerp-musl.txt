@@ -1,0 +1,21 @@
+\
+0.21925541151130135
+clang/15.0.0
+0.19323875662719758
+--target=cheerp
+0.12621169947324914
+install-cheerp
+cd
+0.11019107267830015
+mkdir
+0.10319699654185271
+RANLIB="${CHEERP_PREFIX}/bin/llvm-ar s" \
+AR="${CHEERP_PREFIX}/bin/llvm-ar" \
+CC="${CHEERP_PREFIX}/bin/clang -target cheerp" \
+LD="${CHEERP_PREFIX}/bin/llvm-link" \
+CPPFLAGS="-isystem ${CHEERP_PREFIX}/lib
+0.09169882204984457
+Cheerp build instructions
+0.08198166265572947
+cd build_asmjs
+0.07422557846252517

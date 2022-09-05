@@ -1,0 +1,20 @@
+methods
+0.1385591752780028
+progress
+0.1369162417380356
+bugs
+0.1314147396737173
+Emscripten
+0.12310889481808404
+napi_throw
+0.11350265374495827
+napi_close_escapable_handle_scope
+0.0982500107781056
+napi_get_last_error_info
+0.09701125343080325
+emnapi
+
+N-API implementation
+0.08182522315019311
+napi_throw_range_error
+0.07941180738810005

@@ -1,0 +1,93 @@
+BIZA
+0.07153421062356198
+tap eosio
+0.05613274958003029
+following operating systems
+0.04629544271727254
+OS
+0.04619219857086469
+Ubuntu 18.04 Package Install
+0.0425241160159336
+Ubuntu
+0.037655435008165254
+apt install
+0.032133718779223434
+https://github.com/eosio/eos/releases/download/v2.0.3/eosio_2.0.3-1-ubuntu-16.04_amd64.deb
+0.026993019418803076
+wget
+0.026749798316715645
+built/installed binaries
+0.025599599487361752
+Developers Documentation
+
+bizamainet
+0.025181679718534772
+EOSIO
+0.025172724538795686
+Biometric Hardware Secured Keys
+0.02160832804961681
+businesses
+0.021125411651778867
+software
+0.02110541146847312
+Support
+0.020920114545268136
+MacOS
+0.020089595998083968
+Amazon Linux
+0.0197832134611061
+CentOS 7
+Ubuntu
+0.019706341514468283
+Parallel Execution
+0.01947885250529542
+instructions
+0.01927056022545096
+Install
+0.01917322281493627
+Context Free Validation Logic
+0.018894909516737682
+WebAssembly
+0.018481090981621977
+https://github.com/eosio/eos/releases/download/v2.0.3/eosio_2.0.3-1-ubuntu-18.04_amd64.deb
+0.018440842074244273
+Low-overhead Byzantine Fault Tolerant Finality
+0.018316753877516325
+seconds
+0.018304774818323745
+Apple Secure Enclave
+0.018070791502599104
+Note
+0.017727949869066298
+groundbreaking features
+0.017539178096460415
+guide
+0.017297639976377423
+Sparse Header Light Client Validation
+Scheduled Recurring Transactions
+Time Delay Security
+Hierarchical Role Based Permissions
+0.017296994438103244
+Free Rate Limited Transactions
+Low Latency Block confirmation
+0.017202541646535407
+dependencies
+0.016966929850576337
+Smart contract platform
+0.01691774113548501
+BizAuto developers
+0.01635207799472266
+BIZA source code repository
+0.01588029463593112
+high-performance and high-security blockchain-based applications
+0.015586424146258205
+optional high-overhead, low-latency BFT finality
+0.015311488951947009
+Prebuilt Binaries
+
+Prebuilt EOSIO software packages
+0.014631186092361758
+Decentralized Applications
+0.013233438796904091
+Smart Contract Guides
+0.013121206588487297

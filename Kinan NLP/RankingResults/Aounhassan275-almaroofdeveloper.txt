@@ -1,0 +1,110 @@
+Laravel
+0.11870161772141585
+Multiple back-ends
+0.040530242972254035
+development
+0.038382751264094364
+Laracasts
+0.02943788442561517
+Conduct
+0.027850282093746858
+mail
+0.025294026283277274
+extensive and thorough documentation and video tutorial library
+0.02501083863441855
+security vulnerability
+0.024405248415623356
+e
+0.023912009486527386
+topics
+0.0231602524985856
+modern PHP
+0.02189370278237781
+web application framework
+0.021375361555924493
+range
+0.02123506742956755
+Laravel
+
+Laravel
+0.021101372784619363
+Expressive
+0.019484338650433197
+unit testing
+0.019417427036869016
+cache storage
+0.019366198210661163
+intuitive database ORM
+0.018954092770504524
+session
+0.018716775849258092
+Taylor Otwell
+0.018492608906607172
+video tutorials
+0.01824916923799753
+JavaScript
+0.017800023043485647
+reading
+0.017322467084160114
+pain
+0.0168412831148595
+common tasks
+0.01670976757093018
+skills
+0.016666582389970118
+Code
+0.01585555238327032
+following sponsors
+0.015747495772052422
+Database agnostic schema migrations
+0.015671219505714564
+Security Vulnerabilities
+0.015303129832088074
+thanks
+0.015254874253090656
+large, robust applications
+0.015212908836761583
+tools
+0.015053030707982811
+many web projects
+0.014989493481195656
+Robust background job processing
+0.014648942437810812
+Powerful dependency injection container
+0.014186428839825758
+order
+0.014018829384411192
+Real-time event broadcasting
+0.013987468937098112
+Simple, fast routing engine
+0.013713656602685953
+enjoyable and creative experience
+0.013211427914857526
+sponsor
+0.012682181813264267
+expressive, elegant syntax
+0.012597851317260968
+contribution guide
+0.012075816306213483
+open-sourced software
+0.011987387730360387
+Vehikl
+Tighten Co.
+Kirschbaum Development Group
+64 Robots
+Cubet Techno Labs
+Cyber-Duck
+British Software Development
+Webdock
+0.011586507580128722
+DevSquad
+UserInsights
+0.011081745666561093
+Fragrantica
+0.011038542830840254
+Robots Inc.
+0.010214088262999152
+Steadfast Collective
+0.010150170136360489
+MIT license
+0.009419857253381849

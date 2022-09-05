@@ -1,0 +1,89 @@
+CORRER e
+0.07815781596023352
+Calcula o vetor foward
+0.04946606634593178
+primeira pessoa
+0.045410418053453014
+varivel m_dollySpeed
+0.03682527333454316
+ANDAR
+0.03071272921748611
+em
+0.028786611840826613
+PULAR
+0.02711017873775853
+Quando
+0.026649005719329804
+para
+0.02640388324297873
+projeo da camra
+0.0253340779073429
+uma certa altura
+0.02490620806283457
+CMERA
+0.024711352183952182
+coliso da camera com
+0.024675150604850146
+valor negativo
+0.0244194867808267
+assim o player
+0.024090035283709194
+implementao est
+0.02385184691602429
+objeto
+0.02365172420317149
+cair
+0.022886384586326206
+Foi
+0.022584223111242717
+player est limitado a rea que possui um piso
+0.02201105595400537
+Pan : Camera rotaciona
+0.02183138710600143
+plano do mundo
+0.021642992491925736
+varivel m_jumpSpeed recebe
+0.02123020231517379
+Controles
+0.020817474612122498
+tcnica de cmera lookat como sendo o "personagem" controlado pelo player
+0.02056061230932434
+vetor de acordo com
+0.020128769932771136
+funo OpenGLWindow::checkForColisions
+0.01992666104775305
+produto vetorial entre
+0.019869065656130322
+torno
+0.019486549102911036
+ideia era projetar cada
+0.01940643753363836
+Foram implementados
+0.019180986604108285
+velocidade  aumentado se o player segurar
+0.019131588198603503
+uma subtrao entre
+0.018074780515249626
+tecla CTRL para correr
+0.017714596191917144
+sua volta
+0.017311798263666515
+momento no est funcionando
+0.017300796088805317
+aspects
+0.01698568783018584
+First Person Env
+
+Descrio da Aplicao
+
+Desenvolvimento de engine para game
+0.015926390833892922
+Live Demo
+0.01533378072294259
+OR LEFT/RIGHT
+RUN -> CRTL
+0.014120060286662926
+Computao Grfica
+
+Nome
+0.011375854309386691

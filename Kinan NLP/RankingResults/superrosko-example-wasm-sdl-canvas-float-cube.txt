@@ -1,0 +1,24 @@
+https://pages.rdevelab.ru/example-wasm-sdl-canvas-float-cube/index.html
+0.11573770862203434
+MIT License
+0.11161211270274343
+Emscripten
+0.10921757095537825
+compile C++
+0.10854509965734864
+Demo
+0.10623685717840646
+Credits
+
+Dmitriy Bespalov
+0.09256253706351666
+License File
+0.08647176252709637
+canvas animation
+0.0803554741067961
+simple example
+0.07609915533162163
+more information
+0.07546774381421684
+latest SemVer
+0.03769397804084157

@@ -1,0 +1,176 @@
+tools
+0.049390576149273877
+Empirical
+0.039812871062382724
+Sub-folders
+0.03243897123920232
+available source files
+0.03171482202143753
+tracking authors
+0.028877305736327095
+existing projects
+0.022651777247565022
+future development
+0.022062158347175766
+basic functionality
+0.022024491624253812
+Tools
+0.021534404578562122
+library
+0.019316155990240003
+re
+0.017989265756803815
+additional dependencies
+0.016031728437796947
+thorough testing
+0.01582203613767273
+Artificial Life
+0.015597154710227618
+level
+0.015556884748800508
+Evolutionary Computation software
+0.015331394625948111
+Evolve/ Specialized tools
+0.01505313862763677
+BETA Basic functionality
+0.014574651092002493
+configuration
+0.014550172470993258
+directory
+0.014384561105265821
+Planning/ Scattered notes
+0.014345967121435686
+full web interfaces
+0.01434228591662609
+fast memory management
+0.01391518735615551
+lower levels
+0.013275538799922673
+place
+0.013054069310224632
+Directory Structure
+
+Folder Description
+apps/ mini projects
+0.012839801930463149
+engineering
+0.012830201493782271
+data, control
+0.012608650714184589
+provided code
+0.011983657380152831
+many non
+0.01192982385665247
+accessible scientific
+software
+0.011722463153105444
+fixes
+0.011307107621430307
+STABLE
+0.011116157726130123
+extended period
+0.010850526054290623
+randomization
+0.009857112198635103
+right
+EXTERNAL Part
+0.009431396638680468
+bit manipulation
+0.009284439144001247
+bibliographies
+0.009270794650310575
+citations
+0.009252351821494833
+RELEASE
+0.009158004902635155
+ABANDONED
+0.009088212350331921
+C++
+0.009053747790934248
+EXPLORATORY
+0.009035190405118566
+high-efficiency JavaScript
+0.008995469150350363
+structure
+0.008920695422962376
+tests/ Unit
+0.00885876917461315
+details
+0.008647347080732646
+CLEANUP
+0.008506377671061995
+broad utility
+doc/ Documentation files
+0.008478875045393814
+Development Status
+
+Empirical
+0.008377532124303116
+GitHub issue tracker
+0.008333262905396384
+easy data management and output
+geometry/ Geometry and physics-based tools
+0.008238309445878774
+warnings
+0.008219228464246092
+common scientific computing tasks
+0.008185217296229862
+auto generation
+0.008159220267560337
+directories
+0.008152068923958729
+docs)
+examples/ Example code
+0.008132471746141725
+sub-directory structure parallels
+0.008116600569472176
+third-party/ Non-empirical dependencies
+0.008084369059076224
+single file
+0.008082071251755788
+template meta-programming
+scholar/ Tools
+0.008057884322874517
+DEPRECATED Functionality
+0.007915446974899567
+project
+0.00785932968191173
+debug mode
+0.007818730921662437
+Web-enabled elements
+0.007760756005889728
+Mozillas Emscripten compiler
+0.0077528381851369255
+JavaScript
+0.007677362897536496
+web/
+0.007614528132919825
+Status Meaning
+DESIGN Notes
+0.0075914375850068576
+following statuses
+0.0075283164901224974
+detailed documentation
+0.007509901903410506
+compile-time optimizations
+0.007447994791520091
+public consumption
+stand_alone/ Versions
+0.007240376686916839
+more features
+0.007224942357493846
+basic virtual hardware
+0.007072117006415084
+scholar/
+0.0069946612584837545
+simple virtual worlds
+hardware/ Implementation
+0.006897528005694283
+Level Folders
+0.00677501880552715
+BROKEN
+0.006686671811354783
+doc/QuickStartGuides/ folder
+0.006311633589482134
+emp namespace
+0.005507426940340521

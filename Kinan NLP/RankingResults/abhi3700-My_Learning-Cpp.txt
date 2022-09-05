@@ -1,0 +1,1042 @@
+C++
+0.05561247053225234
+gcc
+0.014254852475718213
+Linux
+0.013926256501609424
+JSON - https://github.com/open-source-parsers/jsoncpp
+Practice C++
+0.0126760635250822
+Windows GUI
+0.010874401618148946
+C
+0.010143654311140662
+JSON
+0.00875509249253651
+ST3
+0.008485140660928281
+Ubuntu
+0.008069075542811503
+g++
+0.008053735402668502
+C++ - https://github.com/mandliya/algorithms_and_data_structures
+0.008007078685808178
+gRPC
+0.006707688392837755
+name
+0.006484792627434873
+C++ - https://github.com/xtaci/algorithms#%E5%B7%B2%E5%AE%9E%E7%8E%B0--implemented-
+A C++ library
+0.006356315282774306
+Boost
+0.006233929035656268
+directory
+0.005726629161688528
+C++ Programming Tutorial
+0.005722563871375059
+linux-gnu
+0.005684640030241561
+.c/*.cpp files
+0.0056285576635046785
+CMake
+0.004999941396963923
+XML
+0.004877243701626621
+macOS
+0.004842918839627007
+std::endl
+CppCon
+0.0048298140481443244
+major-version
+0.004740562502357905
+video
+0.004658750661799426
+REST APIs
+0.004446544850328726
+gnu/8/
+0.004274512290043522
+/usr/lib/gcc/x86_64-linux-gnu/8
+0.004234279462994888
+Multithreading
+0.004222931185131338
+Introduction
+0.004098709487225134
+linux
+0.004087808495667738
+C++17 std::filesystem
+0.003957299966929265
+Download
+0.0038673633865965564
+command-line
+0.003845713518788693
+installation
+0.0038304164628966864
+installed mingw-64
+0.0038301470641951465
+suggestion
+0.0038001593131983453
+small number
+0.0037778204229816964
+Clion folder
+0.0037680851335381194
+data serialization
+0.0037454664691477764
+Boost library
+0.0037395795207995556
+function
+0.0036805243564150057
+Sublime Text 3 (Crack version
+0.0035955083073042292
+new build system
+0.0035693141713443247
+Github
+Cryptography
+0.0035352045332362257
+file
+0.003463198302575598
+Editor
+0.0034566122497992867
+C++ Standard Library
+0.0034237621533730546
+Settings
+0.003409487125170924
+scope
+0.0033682161577653783
+Optional
+0.0033670130327094904
+snippet
+0.0033213462379351895
+OpenCV
+0.003310610114565906
+C++ - https://github.com/openframeworks/openFrameworks
+Exercism exercises
+0.003284939858813273
+shell_cmd
+0.003278757707445116
+SublimeLinter
+0.0032574337880684717
+C/C++ Project]Windows
+0.003237071491630387
+c++
+0.0032196698994224416
+Modern
+0.0031694353643054547
+GNU C Compiler
+  g++
+0.0031442410566991253
+B. Stroustroup - https://github.com/bjut-hz/E-Books/blob/master/program%20language/The%20Design%20And%20Evolution%20Of%20Cpp.pdf
+Object Oriented Programming
+0.003084657254737972
+capable std::string
+0.0029487018047459584
+End
+0.0029059956622375185
+drop-in replacement
+0.0027912173640474176
+GNU
+0.0027868713027985105
+search starts
+0.002778996134073987
+Large-Scale Development
+0.0027321308774451852
+Build systemOne
+0.002731003568330257
+apt install gcc
+0.0027208799497671085
+C++11 snippets
+0.0027181197104710147
+Best Parts
+0.002697775122110869
+Secrets - Nicolai
+0.00265535648943262
+RECOMMENDED] Editor
+0.0026466318172576587
+3D Data Processing - https://github.com/intel-isl/Open3D
+0.0026338224898170286
+Developers
+0.0026335801956702282
+Jason Turner
+0.002600576467414128
+code line
+0.002595353300350743
+C++11 programs
+0.002594501833366715
+Professionals
+0.0025940290052232045
+Range-based goodness
+0.0025930589950660258
+Maths
+
+C++ template library
+0.0025869055217030137
+rt_v6
+0.002578585740277411
+M-1
+0.0025506838224633424
+simple testing
+0.0025357128689027695
+Herb Sutter - https://herbsutter.com/
+0.002492947204603732
+Hour
+Core
+0.002472759666562987
+brig
+0.0024503163049823394
+ada
+0.0024501396596004264
+Beginners
+0.002438645062765418
+instruction
+0.002427676156863316
+d
+0.0024247285669989015
+C++Now
+0.002423784319357999
+EasyClangComplete package
+0.002415309511106245
+c
+0.002408087381703799
+Programmers - https://classroom.udacity.com/courses/ud210/
+Java
+0.002404828440303835
+Tools
+
+NOTES
+0.0023977828573763546
+README.Bugs --enable-languages
+0.002347891191292073
+gcc-8
+0.002322244324563791
+CLion
+0.0023005506977316734
+objc
+0.002299604696548607
+settings page
+0.0022677410698181697
+linting
+0.0022615442047841912
+bash terminal
+0.002261476627868095
+Jonathan Boccara
+0.002222681469428768
+boost-python
+0.0022129152388225383
+tar -zxvf
+0.0021994312233896496
+compiler
+0.0021822020391962424
+Suggestion
+0.0021192223335251203
+Lane-Detection
+0.00211065368440711
+ctrl
+0.002099181429404944
+Numpy
+0.002023420777365793
+std::map
+0.0020061231820621985
+file_path}/${file_base_name
+0.002002182572978868
+std
+0.0019934172604628374
+Dataframe
+0.0019932521065293848
+description
+0.0019829545506522945
+Qt5
+0.001980723234559936
+std::unordered_set
+0.001975703474048124
+vectors
+0.001960465377241903
+https://github.com/hosseinmoein/DataFrame
+0.001959263306878596
+libcluon
+0.0019468799932131683
+object
+0.0019441815711708026
+iOS
+0.0019429305498855952
+inspectrum
+0.0019281662083080468
+basis
+0.0019167986601283551
+share/doc
+0.0019165080153046065
+std::set
+0.0019160654220215447
+matrices
+0.0018884911145600385
+tabTrigger
+0.0018863362567732743
+NumCpp
+0.001881600264241183
+power microservices
+0.0018811322855616028
+https://github.com/thclark/cpplot
+0.0018771371514764421
+Template Metaprogramming - Sasha Goldshtein
+Source Instrumentation
+0.0018756279029575602
+https://github.com/chrberger/libcluon
+0.0018698622469470495
+https://github.com/DuffsDevice/tiny-utf8
+0.0018541776054449128
+.
+0.0018541078709196968
+compilergcc
+0.0018537857908409229
+Open3D
+0.0018522922022110957
+Use
+0.0018447803643040816
+numerical solvers
+0.0018383322077888918
+WASM
+0.0018358097649077412
+Displayed width
+0.0018083106876139055
+Alternative
+0.0018078731327355844
+C++14/17/20
+0.0018064832587731845
+containers
+0.0018017795105415985
+Protobuf
+0.0018007571384217195
+std::unordered_map
+0.0018006734962689635
+C++20s std::ranges
+0.0017898146087895477
+writing
+0.0017775109171001531
+Android
+0.0017772594684401627
+Offline radio signal analyser
+0.0017756908314394198
+Java
+0.0017718686434657063
+https://github.com/p-ranav/cppgit2
+0.0017660262472406932
+reading
+0.0017643023891195388
+new line
+0.0017633281708245995
+predef.h
+0.0017603133233283826
+https://github.com/tfussell/xlnt
+0.0017564438768124225
+stdc
+0.0017527602249661207
+mcq
+0.00175152909092588
+https://github.com/Dobiasd/FunctionalPlus
+0.0017499696982536356
+MacOS
+0.0017487277369308322
+hexa
+0.0017476829505537182
+Swift
+0.0017391106495633366
+internal communication
+0.0017368536882177033
+octal
+0.0017355888524614848
+https://github.com/greg7mdp/parallel-hashmap
+Unicode (UTF-8
+0.0017238704264520392
+FreeBSD - https://github.com/gulrak/filesystem
+0.0017214266068758454
+tables
+0.0017120604874807112
+Marc Goodner
+Storage Duration
+0.0017081624167752806
+UTF-8 strings
+0.0017070802232798206
+IDL
+0.0017066634457683664
+Scientific Computing
+0.0017064177795061532
+linear algebra
+0.0016974349566367367
+QSimpleXlsxWriter
+0.0016878879628868626
+Interface Definition Language
+0.0016876677148417452
+Interface API search
+0.001687001760638004
+modern microprocessors
+0.0016807574614588366
+CSV
+0.0016747343004111103
+Linkage
+0.001674049264694175
+Evolution
+0.0016725537303190433
+List
+0.001665344402784136
+Hubert Matthews
+0.0016640855968439766
+Josuttis
+0.0016634248231407623
+Templatized Header
+0.0016618079913111612
+Kevlin Henney
+0.00165914572798374
+built-in specs
+0.0016583683706004036
+performance
+0.001657789337371796
+bunch
+0.0016525794022239741
+QNX
+0.001652227352590413
+CSV2
+0.001650711851213293
+websites
+0.0016489091567734493
+kinds
+0.0016472595282232632
+https://books.goalkicker.com/CBook/
+0.0016420284808131998
+Install
+0.0016414264587929668
+left
+0.0016404717400222532
+Algebra
+0.0016381301748704105
+JSON)About
+0.0016314927034274031
+concept
+0.0016299959429459106
+spreadsheets
+0.0016297573665810593
+CompilerTesting
+0.0016282726048710808
+interview Q.
+0.0016273946949111944
+cool open source projects
+0.0016260070602768626
+https://github.com/tlk00/BitMagic
+0.0016259764960582556
+snippets Documentation
+0.0016196249637523978
+Exception
+0.0016099524939874356
+Lambda
+0.0016046965021099084
+input
+0.001604043313329031
+posix
+0.0016025117691597693
+related algorithms Gitlab
+0.0016020188123790353
+Solutions
+0.0015951921337103675
+https://books.goalkicker.com/CPlusPlusBook/
+0.0015929969745880229
+subfunction
+0.0015916440836028067
+similar) files
+0.0015911440440749057
+scanf/cin
+0.0015806700665611287
+https://www.studytonight.com/cpp/
+ftp://www.cs.uregina.ca/pub/class/cplusplus/CExample.html
+
+
+cpp nuts
+0.0015771257809320256
+configure
+0.0015757010937069828
+none
+OFFLOAD_TARGET_DEFAULT=1
+Target
+0.001575020565913693
+Modern C++ - https://github.com/p-ranav/unicode_display_width
+File/Directory Watcher
+0.0015739533813712782
+John Lakos
+0.0015733839631450735
+ML
+0.0015720104535470996
+PDF
+0.0015708077711595828
+Future - Ben Saks
+0.0015691322449570629
+Study
+0.0015653090286484208
+Wrapper Library
+0.0015632197270629465
+Books
+
+Design
+0.0015582002814881015
+seh
+
+
+Integrate
+0.0015577426702044596
+file_path
+0.0015563914880646354
+https://github.com/zoffixznet/c-practice
+
+
+Boost C++ Application Development Cookbook - PDF, online, codes
+0.0015560391046584693
+https://www.youtube.com/watch?v=KJgsSFOSQv0
+0.0015528511675624748
+Dart - https://github.com/heremaps/gluecodium
+A curated list
+0.0015517722093238884
+components
+0.001548958006660329
+items
+0.0015480476461945851
+binary converter - https://github.com/abrarShariar/NumConverter
+Filament
+0.0015423376761468065
+Scikit
+0.001540213195816069
+https://github.com/microsoft/wil
+Conways Game
+0.0015356054480650592
+Google
+0.0015346844069185936
+broadcasting
+0.001533468890706621
+lazy computing - https://github.com/xtensor-stack/xtensor
+Advanced 2D Plotting
+0.0015322655923008487
+Threads
+0.001530122285552936
+cursor
+0.00152882467347089
+Excel XLSX files
+0.0015287589351473778
+Life
+0.0015268868348462046
+c++/8
+0.001524803315721801
+https://github.com/d99kris/nmail
+Eclipse iceoryx - true zero-copy inter-process-communication
+0.001524577580419705
+Udacity Course
+0.0015229616708687496
+PackagesC++ Snippets
+0.0015228516339587262
+Protocol Buffer
+0.001522715023195289
+Excel
+
+libxlsxwriter
+0.0015226961359129502
+Present
+0.0015210638221798468
+Image
+0.0015204487160504427
+WIL
+0.0015163566630895992
+https://github.com/jmcnamara/libxlsxwriter
+XLNT
+0.00151602697426191
+sublime text guidelines
+0.0015123730406088748
+GnuPlot Scripts
+0.001504992020391584
+Mac platforms - https://github.com/vectorclass/version2
+Console-based email client
+0.001499611212155374
+w
+0.0014987094802652629
+Complete Guide
+0.0014982232514967105
+Terminal - https://github.com/p-ranav/cgol
+Priority-based Task Scheduling
+0.0014969286947011185
+thin wrapper
+0.001493458307032883
+Machine Learning
+0.0014923492927613664
+Education (Learn
+0.0014908693193465962
+Production/Project
+0.0014903158327158684
+https://github.com/p-ranav/fswatch
+STL algorithms
+0.0014871958706883358
+nanoflann
+0.0014866145334669918
+Github
+
+
+Documentation
+
+
+gRPC
+0.0014840216730489676
+clients
+0.001478352806123075
+stack - https://github.com/p-ranav/small_vector
+Lightweight command-line tool
+0.0014777251264924455
+C++11 header-only library
+0.0014762790574852644
+functions
+Unit test frameworksUT
+0.0014756720026283835
+world
+0.0014756715591370483
+reverse-proxy server
+0.001474852672350317
+RAM space
+0.0014725918935705917
+https://github.com/miek/inspectrum
+0.0014715075211416489
+real-time physically based rendering engine
+0.0014685304811943604
+encode a protobuf
+0.0014660672952945745
+#
+0.0014659127043375698
+Qt - https://github.com/cutelyst/cutelyst
+header-only, very fast and memory-friendly hashmap and btree containers
+0.0014629338790283675
+Open Source Computer Vision Library - Tutorials
+0.0014627964592905064
+grpc-gateway
+0.0014623771583626298
+F:\\Coding\\github_repos\\cpp_libs"],
+            "excludes
+0.001462192547525231
+https://github.com/QtExcel/QSimpleXlsxWriter
+Nano range
+0.001457143938625499
+File
+0.0014509522918119693
+https://github.com/tcbrindle/NanoRange
+0.0014498773239893102
+https://github.com/mrtazz/restclient-cpp
+Twitter REST
+0.0014497892619613523
+Bryce Adelstein
+0.00144785884034653
+Ways
+0.0014453342089463818
+C:\\Program Files\\mingw-w64\\x86_64-8.1.0-posix-seh-rt_v6-rev0\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include\\c++
+0.0014452622329160125
+standard
+0.0014432482226291853
+Data Science
+
+CSV
+0.0014407170841170165
+GCC
+0.0014406007185501983
+unit-tests
+
+
+Nameof operator
+0.0014399443762834361
+https://theboostcpplibraries.com/
+Cpp Threads
+0.001439203741755218
+various operating systems
+0.001436768171229068
+lot
+0.0014345853862491628
+C:\ drive
+0.0014307876490424463
+Sams
+0.0014295373195368413
+facility
+0.0014278973823512492
+actual production
+0.001426345684442934
+test framework
+0.0014256375622277366
+Installation process
+0.0014254540917688708
+./Resources
+0.0014251625553669623
+Expressive Velocity Engine - https://github.com/jfalcou/eve
+Fast multi-dimensional generalized histogram
+0.001424696551279372
+SIMD
+0.0014235896486407729
+Timur Doumler C++20
+0.0014216561108272032
+mind
+0.0014196660347572214
+MultiIndex
+0.0014182916577333716
+polygonal and polyhedral meshes - https://github.com/mlivesu/cinolib
+0.0014180930948057878
+struct - https://github.com/p-ranav/structopt
+Windows Implementation Library
+0.0014175063632284714
+convenient interface
+0.0014173489808611338
+x64
+Installation
+0.0014166032636159691
+https://github.com/typesense/typesense
+Nameof operator
+0.0014159668189254572
+NN
+0.0014128890656520854
+problem
+0.00141058590428427
+https://www.codegrepper.com/code-examples/cpp
+0.0014092597128734213
+Python NumPy Library
+0.0014050431870814566
+variable, type, function
+0.001404564271705383
+Hour
+0.001404484665280782
+OPEN FILES" tab
+0.001404327364466215
+Boris Schaling
+0.0014030611505283616
+params
+0.0014008664651159151
+Production - Steven Simpson
+Combining C++17 Features - Nicolai Josuttis
+0.0014002864507271103
+C++ Functional Terminal User Interface - https://github.com/ArthurSonzogni/FTXUI
+Regex lib
+0.0013976280630868055
+Default
+0.0013970834197771765
+args
+0.0013969503419008138
+KD-trees - https://github.com/jlblancoc/nanoflann
+A C++ Web Framework
+0.0013961923300757888
+familiar REST API calls
+0.0013954853051380573
+std::tuple
+Variations
+0.0013952610659150886
+Questions)- https://github.com/nkane/c-practice
+Boost C++ libraries
+0.00139389375839988
+Website
+Lectures
+0.0013918160389834312
+setup
+0.001391410042287931
+creative coding
+0.00138943027634786
+dialog screen
+0.001388822317585239
+HTTP/REST requests
+0.001387815843307546
+iterator - https://github.com/ryanhaining/cppitertools
+Magic Enum C++ - https://github.com/Neargye/magic_enum
+0.0013874321475190327
+Preferences
+0.0013851530440485175
+delightful search experiences
+0.0013850123645015654
+editing
+0.0013849310180265328
+https://github.com/dzui42unit/Cpp-and-Threads
+0.0013833855233816657
+IPC
+0.0013821489440060753
+JSON - https://github.com/p-ranav/jsonlint
+Git
+0.0013804310872250164
+binary format
+0.0013802133195308865
+GCC):Windows
+0.0013795710728885507
+bit
+0.0013774865100627406
+Blogs
+0.0013760573978022065
+Good C++14
+0.0013759343156665399
+Multi-Dimensional Array Library
+0.0013750962330008232
+cmake
+0.0013716388644995727
+C++11/14/17 - https://github.com/mpark/variant
+Typesense
+0.0013662694923730905
+important notes
+0.0013658975356832088
+embedded systems framework - https://github.com/nasa/fprime
+0.0013654428234721422
+Matt Godbolt Path
+0.0013635834938068424
+laptop
+Configure
+0.00136274411633571
+johnngugi - Website
+0.0013616703218885863
+Standard Containers
+0.0013613405991664998
+windows
+0.001360194572026342
+fast, typo-tolerant search engine
+0.0013592326301823713
+simplicity and reliability - https://github.com/mzimbres/aedis
+Cross-language bindings generator
+0.001356717579409276
+Dietmar Khl
+0.0013549487182419298
+Letter
+0.0013547109425669506
+awesome header-only C++ libraries - https://github.com/p-ranav/awesome-hpp
+Functional Programming Library
+0.0013545597682872589
+days problems
+0.0013543629382498455
+double (binary64) floating-point values
+0.0013538900871175193
+same thing
+0.0013538367553611796
+gnuplot - https://github.com/sciplot/sciplot
+Easy Creation
+0.0013480142972646324
+async redis client
+0.0013421513943192068
+--without-included-gettext --enable-threads
+0.0013416990694096846
+micro)/Unit Testing Framework
+0.0013299012131163875
+C++17 - https://github.com/p-ranav/glob
+C++17 variant
+0.0013296947473628914
+clang
+0.0013279627072116025
+EOS blockchain
+0.0013252888645375249
+CMakefolders
+0.001324936419676633
+Google - https://github.com/google/re2
+
+Embedded System
+
+A flight software
+0.0013206743178866588
+deep learning
+0.0013202199401752463
+Note
+0.0013198330629576533
+metaprogramming - https://github.com/boostorg/hana
+scripting language
+0.0013197769092164599
+https://github.com/ArkScript-lang/Ark
+A generic programming header
+0.0013183707417047876
+computer vision community
+0.0013174619107950685
+GB approx
+0.00131712973324385
+=
+0.0013162561076142812
+standard & custom libs
+0.0013149148281614113
+uint128_t
+0.0013140029039183238
+Keras models
+0.0013118843054683673
+b
+0.0013113134968415056
+--version
+0.0013092637002248653
+Dear ImGui - https://github.com/epezent/implot
+Charts
+
+A modern C++ scientific plotting library
+0.0013059905526109751
+Autonomous-Cars
+0.0013007999080163403
+Online IDE - https://www.onlinegdb.com/online_c++_compiler
+
+
+Platforms
+0.001297696605675471
+MSDN - https://msdn.microsoft.com/en-us/library/w5c4hyx3.aspx
+Google C++ guide - https://google.github.io/styleguide/cppguide.html
+Modern C++ guide - https://github.com/Microsoft/AirSim/blob/master/docs/coding_guidelines.md
+Cpp Core Guidelines - https://github.com/isocpp/CppCoreGuidelines
+learning
+0.0012940953517650844
+C++11, C++14, C++17)
+C++ Practice - https://github.com/dissonmatveev/exercises
+C++ - https://github.com/Sagar-022/c_plus_plus
+C++ programs
+0.001289293474731482
+https://github.com/bblanchon/ArduinoJson
+All Algorithms
+0.001286967567935836
+large sparse linear systems
+0.0012861471984132043
+Python & C++(In progress
+0.0012823786716040016
+https://github.com/TheAlgorithms/C-Plus-Plus
+0.0012818792652079546
+@MTA
+0.001281521303630674
+algebraic multigrid method - https://github.com/ddemidov/amgcl
+automatic differentiation
+0.0012808573755264938
+real world machine learning and data analysis applications
+0.0012760807622448913
+methods
+0.001274510719580357
+specialized dense and sparse matrix operations
+0.0012691467360737834
+ANSI terminal windows - https://github.com/KazDragon/terminalpp
+"Small Vector" optimization
+0.001268014232843289
+check
+0.0012658805064584536
+ACCU
+0.0012608624918396052
+ext
+0.001259335349737046
+IoT. Simple
+0.0012588619901070931
+NOTE
+0.0012582517617008757
+YouTube
+Affine Combination
+0.0012566628938179684
+&
+0.0012466920171212608
+Algorithm & Data Structure Problems
+0.0012418554885288294
+end
+0.0012409495036921304
+header libraries
+0.001237420952958411
+few extra macros
+0.001236194443440205
+practice - https://github.com/samzhuwj/snippets/tree/master/cpp
+C++ header files package - https://github.com/samzhuwj/leet-code
+Awesome C++ - https://github.com/fffaraz/awesome-cpp
+Boost python
+0.0012343726559680048
+COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/8/:/usr/lib/gcc/x86_64-linux-gnu/8/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/8/:/usr/lib/gcc/x86_64-linux-gnu/
+LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/8/:/usr/lib/gcc/x86_64-linux
+0.001225042557318657
+g++-8
+0.001212631254925277
+heavy IDE
+0.0012072150596694024
+library - https://github.com/mlpack/mlpack
+A light-weight high performance tensor algebra framework
+0.0012051441411423196
+cryptographic schemes
+0.0012027163442839476
+C++ Algorithmic Differentiation Package - https://github.com/coin-or/CppAD
+A Compositional Numeric Library
+0.0011981054260367249
+cppbestpractices
+0.0011934075154200509
+mingw-64)
+
+Download "Boost.zip
+0.0011872792593724067
+Software Testing
+0.0011830611798738027
+GB/sec) - https://github.com/lemire/simdjson
+Algorithms
+0.0011810513520705787
+Examples-
+0.001178806905692183
+MinGW-64
+0.0011777291540198314
+tough ones
+0.0011696790935292025
+autonomous driving research - https://github.com/carla-simulator/carla
+standalone SVG rendering library
+0.0011583958118856676
+Awesome Projects
+CSV file management
+0.001157693039006314
+--with-default-libstdcxx-abi
+0.001155023804885439
+Newest Old Language  Matt Godbolt
+C++ Code Smells - Jason Turner
+0.0011520148771004839
+C++ - https://github.com/vsmolyakov/cpp
+Cpp Patterns - https://github.com/wj-zhu/cpp-patterns
+Cpp header files - https://github.com/wj-zhu/leet-code
+C++ Cheatsheet - https://github.com/mortennobel/cpp-cheatsheet
+C++ Algorithms - https://github.com/TheAlgorithms/C-Plus-Plus
+C Practice
+0.0011509979828759902
+Alan Talbot
+0.0011470236676765805
+update-alternatives
+0.0011453881741345577
+w64-mingw32\8.1.0\include\c++"directory
+0.0011357028360812348
+Book] - https://github.com/oreillymedia/Learning-OpenCV-3_examples
+C++ video text recognition - https://github.com/bpieszko/CopyTextFromVideo
+Gesture Recognition Toolkit - https://github.com/nickgillian/grt
+Open-source simulator
+0.0011338144353617023
+WSL
+0.0011298051177621236
+fewer predefined macros
+0.0011251768543278139
+./x86_64
+0.0011194241668193074
+posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/boost
+0.0011110993752277399
+fileC
+0.0011064689528263792
+https://www.geeksforgeeks.org/cc-programs/
+0.0010931491481960059
+bin/gcc gcc /usr/bin
+0.0010825520252876844
+https://www.codesynthesis.com/~boris/blog/2012/09/11/emulating-boost-multi-index-with-std-containers/)
+
+IEEE
+
+A Project-Based Curriculum
+0.001081412633680729
+c.sublime
+0.001075378668729194
+--disable-werror --with-arch-32=i686 --with-abi
+0.0010656882766040517
+--build=x86_64-linux-gnu --host=x86_64-linux-gnu --target=x86_64-linux-gnu
+Thread model
+0.0010611474871058976
+C++:"gcc
+0.0010563676169167953
+SublimeLinter Settings - User
+{
+    "linters
+0.0010552471395141607
+folders
+0.0010378917017783299
+ISOCPP - https://isocpp.org/wiki/faq
+0.0010366989793330703
+int main
+0.0010316860606762513
+return
+0.0010235769627895777
+working_dir
+0.0010124817393823186
+python3.6m/
+0.0009062000408601293
+/usr
+0.0009028477637014712
+past experienced programmers
+0.0008972490799173246
+-Wformat-security
+0.0008505916617915337
+My_Learning-Cpp
+
+Learn C++ programming
+0.000848541235586834

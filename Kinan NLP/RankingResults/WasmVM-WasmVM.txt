@@ -1,0 +1,51 @@
+mkdir build
+0.14969076571336598
+CMake
+0.12704751755576668
+&
+0.09813140760459221
+cmake
+0.07749403028502588
+yum install wget
+0.06456763068309405
+test
+0.050219979852078406
+USE_SYSCALL
+0.047753713043553914
+Linux
+0.04770260339064383
+autoconf libtool
+0.040104823606139386
+gcc gcc-c++
+0.03856498270758
+AStyle  K&R style astyle
+0.03752919140753797
+Debug
+0.035521184775328965
+=kr --indent=spaces=4 --indent-switches
+0.034980881154719104
+--suffix
+0.03303925294020775
+Fedora/CentOS
+0.03189943657210305
+autoconf libtool build-essential cppcheck astyle colordiff
+0.026667358445170593
+wat2wasm
+0.022145352505439076
+apt-get update
+$ sudo apt-get install wget
+0.021542821261602424
+WasmVM
+
+ WebAssembly 
+
+
+
+English README
+
+
+
+
+
+CMake
+0.015397066496050405

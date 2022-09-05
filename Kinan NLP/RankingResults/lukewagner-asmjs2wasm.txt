@@ -1,0 +1,41 @@
+tool
+0.19915842257585223
+WebAssembly text format
+0.07684825655896974
+asmjs2wasm
+0.06756669028263805
+source
+0.06649076937915038
+files
+0.06278757710493776
+single top-level asm.js module
+function definition
+0.05480120157642258
+command-line tool
+0.054309137919046784
+development and incomplete
+
+Current limitations
+0.05005001230958655
+arbitrary JS file
+0.04982470762800723
+repository
+0.04960429368904133
+temporary S-Expression-based text format
+0.043084477105767086
+unit
+0.03999935180940027
+module
+0.03981432433345452
+test
+
+Usage
+
+cat asmjs_file.js
+0.037251159498394075
+wrong code
+0.03700622814949811
+WebAssembly/spec
+0.036071730587223606
+Patches
+0.03533165949260985

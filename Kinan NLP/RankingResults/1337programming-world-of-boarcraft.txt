@@ -1,0 +1,20 @@
+WebAssembly
+0.16256053201456935
+application
+0.14407085502094347
+website
+0.11922436360814996
+http://kripken.github.io/emscripten-site/docs/getting_started/downloads.html#sdk-download-and-install
+0.11747986870291237
+instructions
+0.08654982300249202
+npm run wasm
+0.08234727343665021
+npm install
+0.08004312255267203
+development pattern
+0.0739185908123641
+Emscripten
+0.07230913330211734
+build
+0.06149643754712919

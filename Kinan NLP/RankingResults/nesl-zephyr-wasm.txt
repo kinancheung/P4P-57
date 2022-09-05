@@ -1,0 +1,169 @@
+_
+0.05530131669264849
+Zephyr Project
+0.048265899316400275
+Guide
+0.038873775143741296
+-
+0.03200651419443138
+Slack
+0.027491079551319526
+Zephyr Development mailing list
+0.02341801533571295
+Tips
+0.02254914617679304
+Documentation
+0.019807067022779117
+wamr
+0.016655650496191603
+multiple hardware architectures
+0.016539422449305296
+micro
+0.016496594478704663
+Resources
+0.016456465106039053
+security
+0.016213174849182627
+mailing lists
+0.015414651466844577
+resource constrained devices
+0.01539076720404741
+runtime
+0.014868790362216236
+https://tinyurl.com/y5glwylp
+.. _supported boards
+0.014586668584590179
+archives
+0.014566940257777869
+Zephyr GitHub wiki_
+Issues
+0.014405351279994429
+wasm
+0.014080817511207981
+Nios II
+0.011705357110170967
+ARC
+0.011674035769163867
+http://docs.zephyrproject.org
+0.011661671695777987
+https://github.com/zephyrproject-rtos/zephyr
+0.010955322119713867
+Introduction
+0.01088403674210212
+Source Code
+0.010707028302604726
+Tensilica Xtensa
+0.010620108207287324
+main
+repository
+0.01058030806367475
+Help
+0.01046101273137934
+supported boards
+0.010459649995601231
+Intel x86
+0.010402150143209155
+example code
+0.010180071614931398
+Samples
+0.010102900979767666
+sophisticated smart watches
+0.009984202412253973
+https://elixir.bootlin.com/zephyr/latest/source
+0.009978338966256162
+mind
+0.00982531994197367
+high-level overview
+0.009745897097331977
+quick summary
+0.00972399438513216
+LED wearables
+0.009684953524723247
+ARM Cortex-M
+0.009672564401452597
+resources
+0.0096507853614011
+https://github.com/bytecodealliance/wasm-micro-runtime/blob/master/doc/build_wamr.md#zephyr
+0.009615940395319671
+large number
+0.009593293736016232
+Wiki
+0.00951813820685445
+IoT wireless gateways
+0.009478168001617724
+http://docs.zephyrproject.org/latest/getting_started/index.html
+0.00942594179157021
+searchable index
+Releases
+0.009387936144919784
+details
+0.009312410328867165
+use
+0.009243504471213327
+http://docs.zephyrproject.org/latest/introduction/index.html
+0.009201094107353237
+doc/introduction
+0.00912904600017031
+Email
+0.009089305022511767
+x76;&#117;&#x6c;&#x6e;&#x65;&#x72;&#97;&#98;&#x69;&#x6c;&#x69;&#x74;&#x69;&#x65;&#x73;&#64;&#122;&#x65;&#x70;&#x68;&#x79;&#x72;&#x70;&#x72;&#111;&#106;&#101;&#99;&#x74;&#x2e;&#x6f;&#x72;&#103
+0.009052699131759032
+introduction.rst
+0.009000400349557527
+instructions
+0.008958168364253805
+way
+0.00894470910261896
+simple embedded environmental sensors
+0.008865363144651165
+Welcome
+0.008855767243269355
+http://docs.zephyrproject.org/latest/boards/index.html
+0.008596622412379035
+small-footprint kernel
+0.00857342618661997
+Community Support
+
+
+Community support
+0.008562222631242865
+Sample and Demo Code Examples_
+Mailing Lists
+0.008439632017404044
+https://zephyrprojectsec.atlassian.net
+0.00839338221027985
+https://github.com/zephyrproject-rtos/zephyr/issues
+Security Issues
+0.008390911599762262
+RTOS
+0.008280979794725989
+sign-up pages
+0.00824409440261354
+Aerogel project
+0.008218087809776117
+Security issues
+0.008195205509555733
+scalable real-time operating system
+0.008174439060463761
+https://docs.zephyrproject.org/latest/guides/getting-help.html
+0.008159197318421305
+zephyr part
+0.007847187163860262
+main user
+0.007783334768465856
+developers list
+0.007530632325676603
+CI Build Status
+0.007210515219972282
+results
+0.007109246679412894
+https://lists.zephyrproject.org/g/devel
+0.0070248707781273585
+http://docs.zephyrproject.org/latest/security/index.html
+0.007018110510009912
+https://lists.zephyrproject.org/g/main/subgroups
+0.00686137612454581
+http://docs.zephyrproject.org/latest/samples/index.html
+0.006672050875370124
+html
+0.005994772012953413

@@ -1,0 +1,44 @@
+WebAssembly
+0.1349051980377652
+Firefox
+0.1320378053791412
+Debugger
+0.11499621926742178
+OpenSiv3D
+0.10149456670703912
+Web  WebGL
+0.09805895364929877
+localhost
+0.06519596653455868
+WebAssembly 
+Visual Studio Code
+0.0643007747466837
+Chrome Debugger
+Live Server
+
+
+
+Ctrl(Cmd)+Shift+B
+0.061829625191477375
+localhost  Launch Firefox
+0.05250992315309601
+Run Local Server and Open Browser
+ Launch Chrome
+0.04845762064663618
+Build Release
+
+
+
+Ctrl(Cmd)+Shift+P
+0.04746388930128322
+C
+0.04136175436410615
+https://qiita.com/nokotan/items/5fa6f2d39ff7bb6641e8 
+C/C++ 
+
+C/C++ VSCode Extension
+
+
+
+Debugger
+0.037387703021492656

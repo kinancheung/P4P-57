@@ -1,0 +1,74 @@
+udpgw mechanism
+0.0685082154540453
+>
+0.06720430838843106
+UDP https://stackoverflow.com/questions/41967217/why-does-socks5-require-to-relay-udp-over-udp
+0.0656534765296393
+TCP connection
+0.04433793145288745
+SOCKS server
+0.04342792831468317
+Udpgw
+0.04286007015527324
+--netif-ipaddr
+0.0411070261398616
+tun2socks
+0.040513915264274794
+normal OS network access
+0.0374038520588551
+ndktun2socks
+0.035820736146453196
+udpdns
+0.03524071552520419
+UDP
+
+
+
+AndroidVpnServiceIPDatagramChannelUDPToyVpnServerToyVpnServersockettun0tun010.0.0.2VpnService
+0.03446115770766177
+route
+0.03390281233336326
+ToyVpnServertunneltun0tun010.0.0.2eth0
+0.03375751287861379
+10.0.0.0/8
+0.033199266632005654
+mask
+0.032737572896487106
+nat -A POSTROUTING
+0.031563389734955094
+https://stackoverflow.com/a/47079318/4376839
+0.029951406998187283
+Builder#address
+0.02966398458270835
+androidsocks5udp
+
+referenc
+0.028198471372277087
+badvpn-udpgw --listen-addr 127.0.0.1:7300
+
+tun2socks.cdevice_read_handler_sendcallbacktuntunprocess_device_udp_packet udpudpgw_client/UdpGwGlient.cconnection_send()connect_send()flagdnsdnsudpgwdnsudpheaderpayload
+
+udpgw
+0.02796773720134974
+192.168.1.123192.168.1.0/24
+0.026428789821747522
+ENDIAN
+0.024709616188913448
+tun0 10.0.0.1 dstaddr 10.0.0.2 up
+
+eth0ipifconfig eth0
+0.024318365862272515
+CC=gcc SRCDIR=badvpn-master
+0.023823927122905285
+compile
+0.02236597231692595
+image}
+
+
+
+docker exec
+0.01668567836660736
+TAPTUN
+0.01328847323804332
+-DEVENT__LIBRARY_TYPE=STATIC
+0.01089768931536721

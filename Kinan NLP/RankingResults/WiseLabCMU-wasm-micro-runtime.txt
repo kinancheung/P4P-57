@@ -1,0 +1,10 @@
+modifications
+0.3161078834922527
+https://github.com/intel/wasm-micro-runtime
+0.2761977748274097
+mqtt pubsub
+0.24354462058684326
+WebAssembly Micro Runtime
+
+WARM
+0.16414972109349438

@@ -1,0 +1,31 @@
+la que
+0.09678667928475482
+carpeta
+0.08922517536986829
+encuentra el archivo
+0.08688579496623702
+index.html
+0.08021128865582616
+python3
+0.07691909196545307
+Split screen
+0.07476915024622885
+Fuentes
+0.07061810140544589
+El sitio ser cargado
+0.06964759369865942
+correr el siguiente comando
+0.06148940889330661
+https://www.w3schools.com/howto/howto_css_split_screen.asp
+Network Graph con AnyChart
+0.061267873311787034
+tener instalado python
+0.05678605631796974
+Primero que nada
+0.0549025824834512
+Ignacio Peafiel
+0.04893228357114586
+Integrantes
+0.044030190939995904
+Bienvenido
+0.027528728889870204

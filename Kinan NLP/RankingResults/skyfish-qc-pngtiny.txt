@@ -1,0 +1,12 @@
+https://www.ijg.org/
+0.3168689785247679
+pngtiny.jspngtiny.wasmweb
+0.2616967215610663
+demo
+
+
+
+ https://github.com/ImageOptim/libimagequant , https://github.com/glennrp/libpng, https://github.com/kohler/gifsicle
+0.25973209276701636
+jspng
+0.16170220714714956

@@ -1,0 +1,8 @@
+CTU Prague MZAPO device control example
+0.3949810564565887
+MZAPO Knobs
+
+Minimal SHV visualization application
+0.3275962309937578
+WASM web application
+0.27742271254965356

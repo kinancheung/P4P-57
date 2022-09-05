@@ -1,0 +1,9 @@
+de.dispose
+0.34727740251930406
+data  Uint8Array RGBA ImageData 
+    de.get
+0.2963604698655633
+ffmpeg.wasm
+0.24946510331253768
+npm
+0.10689702430259514

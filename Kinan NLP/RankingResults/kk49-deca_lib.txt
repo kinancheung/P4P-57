@@ -1,0 +1,41 @@
+WebAssembly modules
+0.1109978320476762
+C
+0.09126926470627357
+#
+0.08661987050032614
+DECA
+0.07186635737406676
+app
+0.07137056116517536
+instructions
+0.05977437900912991
+Goals
+0.05827877940108112
+Activate emscripten environment
+0.05607299052137139
+CMake
+0.053573606045156104
+WASM interface generation
+0.051611102994615646
+test code
+0.05147695110888737
+Python
+0.05109256556503157
+multiple projects
+0.046583377470309696
+Python Support
+Javascript Support
+Other languages
+0.041655427992305046
+library" parts
+0.03693245061454856
+deca_lib
+
+cd deca_lib
+mkdir
+0.032011269995002825
+build/emscripten
+cd build/emscripten
+cmake -DCMAKE_TOOLCHAIN_FILE=${EMSDK}/upstream/emscripten/cmake/Modules/Platform/Emscripten.cmake
+0.028813213489042984

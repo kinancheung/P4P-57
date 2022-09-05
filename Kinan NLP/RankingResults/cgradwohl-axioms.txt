@@ -1,0 +1,94 @@
+Serverless Projects
+0.058142364870110576
+data structures
+0.05007353148532605
+theory
+0.04970688612001557
+Variables/Pointers manipulation
+0.0462932035006045
+duplicates
+0.04060007801149671
+mergesort
+0.03280253925727271
+Queues
+0.031951399879538545
+quicksort
+0.030554049005012664
+bubblesort techniques
+0.03007570700834227
+Matching Parenthesis Problem
+0.029929498382105936
+Rust
+0.028572002913839677
+Strings
+0.028252554425856606
+Stacks
+0.02811449035567167
+Java
+0.027136035396142677
+Javascript / Typescript
+0.02705245281002587
+C / C++
+0.026984238033680163
+Techniques
+0.02678109394903573
+Arrays
+0.026755976309463164
+Suffix Tree Data Structure
+
+Trees
+0.02641580349168418
+Linked Lists
+Hash Tables
+0.02592097994901675
+whiteboard and coding challenges
+0.02528940228692169
+Algorithms
+0.024667612057352253
+Python
+0.02462810600894163
+Sorting fundamentals
+0.024617874422011438
+Binary Search and Binary Search techniques
+0.0243896378510639
+Objective-C / Swift (iOS Projects
+0.023092497813892547
+Data Structures
+0.02244397075252659
+Linked Lists
+
+Reverse linked list
+0.021852706656912767
+multiple pointers
+0.020195954639956194
+blog aws
+blog code exercises
+0.01941274325925892
+Stacks and Queues
+Strings
+Graphs
+Trees (binary, non-binary, heaps, tries
+0.019347853283579547
+Graphs
+
+Depth First Search
+Bredth First Search
+Binary Search Tree
+B-Tree
+
+Systems Design
+0.017980852036061985
+Axioms
+
+Languages
+0.017627970483117487
+Available
+WASM Serverless
+0.01424861623109818
+REST API Design
+
+Design Patterns
+0.014160580969338081
+DesignSingleton Pattern
+Factory Pattern
+0.013928736093724912

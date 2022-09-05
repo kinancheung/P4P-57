@@ -1,0 +1,100 @@
+@@
+0.06881133116216212
+--ranlib=emranlib
+emmake
+0.06297472854839949
+install
+cd
+0.05416829155206265
+configure
+0.04466323761426509
++
+0.043229560591960876
+Setup
+
+mkdir x264
+git
+0.03592980913566779
+--prefix=$BUILD_DIR
+0.03323912783849129
+raw2mp4.node.js
+
+Test
+0.03277022558206819
+opt
+0.031884148850036445
+--enable-shared --cc=emcc --ar
+0.031028068757937968
+--disable-lavf --disable-ffms --disable-gpac
+0.030280482700621746
+raw2mp4
+0.02967419519322017
+-Wl,-soname,$@ -Wl,--version-script
+0.02628889833300906
+TARGET_OS
+0.02567587055603908
+emconfigure
+0.023706803142665957
+l-smash
+0.0235488508871047
+patch
+0.023390077532499335
+macOS
+0.02225069213836461
+CFLAGS="-Wshadow
+0.02199507484336053
+mkdir build
+export BUILD_DIR=`pwd`/build
+export PKG_CONFIG_PATH=$BUILD_DIR/lib/pkgconfig
+cd lsmash
+0.02159191040326639
+c99
+0.020288174020801953
+included Xcode project
+0.02021858721751551
+mpeg 4 container
+0.018093360333718847
+configure b/configure
+index de5faed
+0.017866176720789075
+latest
+source
+0.017678541937812854
+testdata
+node
+0.017619612112610997
+RetroClip web port
+0.01685482862828379
+raw RGBA image data
+0.0168041537259751
+./emsdk
+0.016802746286548983
+emscripten
+
+Setup emscripten
+
+curl
+0.01646874668460392
+SHARED_EXT=".dll"
+         DEFNAME="${SHARED_NAME}.def"
+         IMPLIB="liblsmash.dll.a"
+-        SO_LDFLAGS="-shared -Wl,--output-def,$DEFNAME -Wl,--out-implib,$IMPLIB -Wl,--version-script
+0.015644317897986496
+output.mp4
+0.015306936362215126
+Setup test data
+0.015053130731094596
+C code portion
+0.014951368234384567
+mkdir
+0.01345235705886286
+-Wl,-undefined
+0.013065357428088481
+solaris
+0.012646502505134955
+--target-os=
+0.012317775838530842
+SO_LDFLAGS="-shared -Wl,--output-def,$DEFNAME
+0.010940973536669743
+raw2mp4.js
+0.010824967375167971

@@ -1,0 +1,7 @@
+Windows(MinGW
+0.39361741945785217
+Supported platforms
+0.30319129027107367
+Linux
+Emscripten(Web
+0.30319129027107367

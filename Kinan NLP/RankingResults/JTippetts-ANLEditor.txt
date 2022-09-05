@@ -1,0 +1,6 @@
+ANLEditor
+
+Node-graph based visual editor
+0.5
+Accidental Noise Library
+0.5

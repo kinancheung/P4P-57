@@ -1,0 +1,10 @@
+WebAssembly file
+0.3271076292240396
+package
+0.3045198829297019
+binary
+0.21481053911638212
+HaikuWebAssemblyTest
+
+A test
+0.153561948729876

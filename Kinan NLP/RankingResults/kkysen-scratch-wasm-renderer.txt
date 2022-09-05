@@ -1,0 +1,8 @@
+OpenGL/WebGL
+0.403735759464539
+Wasm
+0.3672264061592799
+Scratch Wasm Renderer
+
+A Scratch 2.0 renderer
+0.2290378343761807

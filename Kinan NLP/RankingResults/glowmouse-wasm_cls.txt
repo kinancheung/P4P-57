@@ -1,0 +1,8 @@
+Simple clear screen web assembly demo
+0.36316106638236867
+graphics
+0.31182621600635074
+simple template
+0.19116107072116964
+https://glowmouse.github.io/wasm_cls
+0.1338516468901112

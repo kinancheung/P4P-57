@@ -1,0 +1,31 @@
+Berkeley SoftFloat Release
+0.23523231396160932
+C source code
+0.08834690176641305
+following files
+0.08535335002519004
+Documentation
+0.0830897619753602
+SoftFloat package
+0.07919274905510357
+major changes
+0.053396188282588596
+SoftFloat-history.html History
+0.05145633346037662
+form
+0.04963176090277271
+doc
+subdirectory
+0.04479752098142415
+Floating-Point Arithmetic
+0.044407687615611355
+IEEE Standard
+0.042408141982959224
+library file
+0.03835211325668986
+floating-point subroutines
+0.036957176077488774
+software implementation
+0.03576084016595757
+John R. Hauser
+0.03161716049045502

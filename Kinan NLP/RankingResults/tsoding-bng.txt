@@ -1,0 +1,66 @@
+WASM
+0.13301736796961092
+fetched file
+0.05577085374978548
+Image Data
+0.0531654197921413
+https://surma.dev/things/c-to-webassembly/
+0.03918563086364649
+img tag integrationCheck
+0.03606542920097511
+supportImplement
+0.035172968188136006
+article
+0.03357564527910954
+native browser
+0.03309692281140277
+WebAssembly
+0.03166655993637695
+bngFile
+0.03147688112106935
+Different compressions
+0.03092309109944063
+Quick
+0.03068175778995542
+object URLs
+0.030274745482891885
+fetch("tsodinw.bng
+0.0298734561733539
+Performance
+0.02882725807021037
+Implement bngviewer
+Implement bng support
+0.028569514787222597
+Reusable BNG library
+0.028565629651493594
+supportDifferent pixel
+0.028277772233322895
+image support
+0.026430869857514635
+https://developer.mozilla.org/en-US/docs/Web/API/URL/createObjectURL
+0.025841502691072313
+interesting features
+0.02568206750449114
+= await bngFile.arrayBuffer
+0.02487305342624736
+new Uint8Array(memory.buffer).set(new Uint8Array(fileData
+0.024223919304921553
+maximum
+0.023789547029213813
+Native Browser Capabilities
+0.022811566106287852
+bng.html
+
+Research Notes
+0.022591919664098622
+python
+0.022101731280247824
+Prime Number Crunching
+0.021715712905233234
+Benchmark":https://github.com/tsoding/prime-benchmark
+
+
+Idea
+0.021357693648640947
+new image format
+0.020393512381885415

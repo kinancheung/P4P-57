@@ -1,0 +1,22 @@
+assembly
+0.16792190838478477
+C++
+0.1259274984826966
+WebAssembly
+
+cd minesweeper-web-assembly
+mkdir dist
+./lib/setEnvVars.sh
+0.11404640271807703
+primitve version
+0.10765960578637396
+computer
+0.10257642246458978
+purpose
+0.09883053814258755
+minesweeper
+0.09560464229612956
+emsdk
+0.09451921384140641
+long term goal
+0.09291376788335415

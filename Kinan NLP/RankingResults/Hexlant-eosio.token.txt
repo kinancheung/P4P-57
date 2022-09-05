@@ -1,0 +1,6 @@
+eosio.token.wasm eosio.token.cpp
+0.37316094466862276
+eosio-cpp -o eosio.token.wasm eosio.token.cpp
+0.3653813954145211
+set contract
+0.26145765991685604

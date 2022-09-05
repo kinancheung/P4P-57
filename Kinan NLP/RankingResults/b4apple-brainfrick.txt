@@ -1,0 +1,32 @@
+more features
+0.11699942676333266
+previous backends
+0.10753523131463151
+swap
+0.10648259894713201
+Remove
+0.0932633011347724
+LLVM
+0.09077147592906512
+To-do list
+0.0837575842491856
+Command-line flags
+0.07445873600495366
+Several limitations
+0.06892657842666496
+Windows-only support
+0.06866697558966127
+Father Time
+0.06760493450341025
+rich)
+
+
+
+AST Parsing
+
+
+
+Direct interpreting
+0.06246209204947542
+Brainfrick Programming Language Compiler
+0.0590710650877149

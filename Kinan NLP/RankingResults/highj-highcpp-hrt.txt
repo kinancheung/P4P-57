@@ -1,0 +1,22 @@
+C++
+0.11905179363702441
+highj
+0.11760222272775389
+Web Assembly
+0.10390416007707007
+functional programming
+0.10111156388092915
+hard real time problems
+0.09916291528020972
+attempt
+0.09341521031949036
+Purpose
+0.090852681452979
+mobile devices
+0.0901608191665766
+Drew Crawfords blog post
+0.06682915860803322
+highcpp
+0.06426012031319146
+http://sealedabstract.com/rants/why-mobile-web-apps-are-slow/
+0.05364935453674227

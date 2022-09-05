@@ -1,0 +1,30 @@
+Step
+0.17541631055544543
+Install Unity version
+0.11120070500327296
+Hackathon
+0.0873860452732838
+Mountain Madness
+0.08461500988953798
+WebGL
+0.0802259674472678
+Build
+0.07909857598932389
+https://kennyzhang620.github.io/game_test/
+
+WebGL Release
+0.0784223367405332
+Run
+0.06963885519489736
+File->Build Options->WebGL
+0.06809472836784382
+Step 2: Install WebGL support
+0.06376918971915539
+Ray Coon
+
+Submission
+0.055096434805183725
+Build and Run
+
+Standalone Windows/Mac/Linux
+0.0470358410142544

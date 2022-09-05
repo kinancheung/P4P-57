@@ -1,0 +1,61 @@
+MIT License
+0.1075398982821932
+C Program
+0.055459895386948864
+Chrome
+0.04407115120020661
+Yenza
+
+Web Assembly Tutorial Examples
+0.04056927525738299
+CONDITIONS
+0.039519681414143255
+Firefox
+0.03948404508940687
+IE
+0.03908418025792845
+permissions
+0.0390089208530987
+browser
+0.03887785661046619
+code
+0.03880625629599895
+WARRANTIES
+0.03756652574999223
+limitations
+0.03748355046997632
+Browser
+0.03579281278797009
+specific language
+0.035751624870621675
+Emscripten APIs
+0.03522211418369025
+References
+0.035109502174646784
+simple output
+Passing arguments
+0.03463808724015793
+KIND
+0.03301027828738489
+Recommendation System
+0.030961864540243408
+custom HTML Template
+Example App
+0.029774682017661615
+http://kripken.github.io/emscripten-site/docs/api_reference/index.html)
+
+License
+
+  Copyright
+0.029750265522006873
+copy
+0.02937625606902905
+AS
+0.029367163274097788
+https://kripken.github.io/emscripten-site/docs/getting_started/downloads.html#platform-notes-installation-instructions-portable-sdk 
+Latest Browser
+0.029088291754527873
+writing
+0.02749147641614676
+applicable law
+0.027194343994072452

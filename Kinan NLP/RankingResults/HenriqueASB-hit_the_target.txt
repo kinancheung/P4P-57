@@ -1,0 +1,30 @@
+movimenta para cima e para baixo e atira
+0.08779007146289816
+e
+0.08206789830897057
+tecla C com diferentes
+0.08195356787818991
+teclado e para atirar
+0.08004012950120173
+setas
+0.07746795234836226
+jogador est
+0.0759081463937
+jogo
+0.07029763260163654
+lado direito da tela e tem que atirar
+0.06687509061285746
+alvo rival
+0.06180102224321927
+de tiro
+0.0616896659100986
+outro lado da tela, o jogador pode andar para cima e para baixo e atirar
+0.05958085350060964
+o alvo tambm
+0.0531830241376989
+aplicao consiste
+0.05299564463938247
+utilizar o framework ABCg
+0.05088159216782292
+consegui compilar para WebAssembly
+0.03746770829335184

@@ -1,0 +1,8 @@
+strategy prediction
+0.39361741945785217
+pace_calculator
+
+Race
+0.30319129027107367
+terrain
+0.30319129027107367

@@ -1,0 +1,73 @@
+get_contract_tables init10
+0.0835211199252651
+YOYOW.Swap
+0.07851736374746868
+get_table_objects
+0.06892236445838568
+YOYOW Foundation
+0.05835000296684802
+users
+0.05770361323083169
+false defipool
+0.049324593321175045
+call_contract  28182  28182  null createtk
+0.042798636076784156
+trading pairs
+0.04030455810083544
+liquidity
+0.03809167843036282
+call_contract
+0.029695445987810147
+false dfliquidity 0 1000000000 100
+
+
+get_table_rows_ex init10 defipool
+0.027619381658990565
+circulation
+0.02715680505010976
+smart content tokens
+0.026913760213397128
+null addliquidity
+0.023599778862962557
+asset_id":"10001","quantity":"10000","memo":"testmemo1
+0.02327430607162405
+Automatic Market Maker
+0.02311638065738254
+Ethereum network
+0.022771171610137544
+Uniswap
+0.0222450804894451
+get_contract_tables
+0.022131261600835443
+automatic cryptocurrency swap service
+0.020994087738392845
+gxx
+0.02033859953829226
+swaptoken.cpp
+0.01915260332995795
+use
+0.018761832723300804
+get_account init10
+get_account
+0.01812321743795205
+first DeFi project
+0.017856941228040765
+update_contract
+0.01777470178686014
+false true
+
+
+ABI
+0.016245573971823357
+from":"28182","to":"27447
+0.015758540727004916
+YOYOW.SwapYOYOWDeFiYOYOW.SwapUniswapYOYOWYOYOW.SwapYOYOWYOYOW.Swap(Automatic Market
+0.01561372059120223
+to":"28182
+0.01440260064366549
+8,do
+0.013797340233686551
+asset_id":"10002","quantity":"10000","memo":"testmemo2
+0.012638633657782877
+from":"28182","to":"27447", "asset_id":"10002","quantity":"10000","memo":"testmemo2
+0.012484303931386543

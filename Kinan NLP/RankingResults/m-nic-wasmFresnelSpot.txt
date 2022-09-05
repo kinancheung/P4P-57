@@ -1,0 +1,22 @@
+nic
+0.16577466854955708
+Fresnel
+0.11286416338152216
+disk shaped 2D binary signal
+0.10956144777133685
+untitled1/emsfftw
+0.10739998275341264
+--disable-fortran
+0.10212608557223181
+WASM compilation support
+
+emconfigure
+0.09538728167768389
+emmake
+0.08697417426194042
+C lang implementation
+0.0855288499907046
+emcc wasmfres.c emsfftw
+0.08304455889056117
+EXTRA_EXPORTED_RUNTIME_METHODS=[ccall
+0.05133878715104956

@@ -1,0 +1,63 @@
+sha256
+0.07042804753750491
+provided files
+0.06499659920711082
+Emscripten complier
+0.053597287046729065
+humble test projects
+0.04921786916706004
+POC
+0.04607274107108031
+Hacklab meetup
+0.046002685389635846
+ZIP package
+0.04584265726859116
+WebAssembly
+0.04514238322414688
+C++ library
+0.04503798193493693
+Demo
+
+ZIP creator
+0.04269318216986063
+local server
+0.042273787471526394
+https://github.com/emscripten-core/emsdk.git
+$ ./emsdk/emsdk install
+0.04220351893787482
+C Zip library
+0.04164368634004327
+selected projects directory
+0.04086891849623896
+browsers File API
+0.04073491031808825
+createZip
+0.0384218607964337
+Calculator
+
+Convert input value
+0.03683030303059291
+Setup
+
+Output wasm files
+0.03557003020802436
+more details
+0.03385683562962293
+Demo
+
+Licence
+
+MIT
+
+Used libraries
+0.03141729445863017
+repository
+0.02931663675376322
+source C/C++ files
+0.029121998665085143
+src directories
+0.027432234557676294
+Python\ 3.7/Install\ Certificates.command
+
+# Setup local envs
+0.021276550319742946

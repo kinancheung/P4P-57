@@ -1,0 +1,31 @@
+project
+0.15107586313478774
+unit tests
+0.12479491619166742
+Description Minutes
+Create RegularPolygon component
+0.08949842467587805
+mouse event
+0.07993713268078813
+simulate
+0.07735076655046992
+browser
+0.06643602815933079
+subproject 135
+Configure CI 60
+Handle Mouse event
+0.05953047129613823
+regular polygon
+0.05907733163450097
+test task
+0.05680023770310324
+Calculate points
+0.055672699503855845
+http://bonewell.github.io
+0.0550188197992712
+Parse command line arguments
+0.050139217811965266
+Model
+0.050043532816210504
+Total
+0.02462455804203292

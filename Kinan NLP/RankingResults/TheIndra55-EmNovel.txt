@@ -1,0 +1,29 @@
+WebAssembly
+0.11520571111966524
+power
+0.10597010232873914
+Emscripten
+0.09753496659127177
+data folder
+0.08370855612662241
+various sources
+0.08108418916437012
+browser
+0.07763478213338804
+example assets
+0.07567750097621226
+Non Non Biyori Nonstop
+0.07260604482171758
+Forest Ambience
+0.06802231971948061
+Steve Matteson
+0.06439772982456407
+RenPy tutorial/game/gui
+font.tff Open Sans
+0.06255517328069006
+Google Fonts
+0.06070766164131057
+Emscripten Novel
+
+A small WIP simple text-based story engine
+0.034895262271968264

@@ -1,0 +1,2 @@
+Winmm.lib;%(AdditionalDependencies
+1.0

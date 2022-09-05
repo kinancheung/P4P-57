@@ -1,0 +1,133 @@
+BASIC CHAIN
+0.0971462107098381
+LoopBlock Network
+0.03868629086884591
+many third-party libraries
+0.033797354965991705
+initial public blockchains
+0.03270701980901626
+kind
+0.025332528772007267
+code
+0.024686248978145812
+warranty
+0.024581685897950227
+software
+0.02246052244786413
+open source MIT license
+0.01995946571494279
+BSD
+0.017208204481260186
+WAVM
+0.017052688673066203
+foregoing
+0.01704370094221782
+bugs
+0.016633911074377825
+Apache License
+0.016568464568386038
+organizations
+0.016556140627159828
+WABT
+0.01581859920907472
+generality
+0.015455270589893069
+companies
+0.01504345520751628
+clause
+0.014931055532841839
+errors
+0.014921265760394712
+damage
+0.014736313040597308
+representation
+0.01469603460504121
+Biometric Hardware Secured Keys
+0.0143778537399908
+event
+0.0141680608779022
+possibility
+0.013970652812601276
+Support
+0.013948603244447787
+Context Free Validation Logic
+0.013590555259697644
+Parallel Execution
+0.013558331049986962
+Roadmap
+0.013431514289561457
+groundbreaking features
+0.01341821631065263
+businesses
+0.013410449164039648
+smart contracts
+0.013157454703509841
+Inter Blockchain Communication
+0.012824457015404554
+develop applications
+0.012815197688838565
+security
+0.012649666653555878
+White Paper
+0.012619710830575157
+damages
+0.012508091420764894
+Apple Secure Enclave
+0.012410293669348699
+WebAssembly
+0.012393777843564173
+private keys
+0.012369120885306806
+alpha-quality
+0.012323131745089005
+Low-overhead Byzantine Fault Tolerant Finality
+0.01220807855535685
+seconds
+0.012112197983095638
+part
+0.011945922010237689
+Decentralized Applications
+0.011864088934885723
+own risk
+0.011824850283502834
+Sparse Header Light Client Validation
+Scheduled Recurring Transactions
+Time Delay Security
+Hierarchical Role Based Permissions
+0.011707699598407402
+Powerful Infrastructure
+0.01151074347420541
+Smart contract platform
+0.01147339957049168
+large or small ways
+0.011446615292090342
+AI Powered Blockchain
+Free Rate Limited Transactions
+Low Latency Block confirmation
+0.011422279665610288
+Resources
+
+BASIC Website
+Documentation
+Blog
+Community Telegram Group
+Developer Telegram Group
+0.011374185771291925
+release
+0.011253156548852493
+rapid development
+0.011227649772308557
+BASIC source code repository
+0.01117604824711276
+private multi-node test network
+0.010807171684588956
+high-performance and high-security blockchain-based applications
+0.010535750121282415
+optional high-overhead, low-latency BFT finality
+0.010520985949443193
+functionality or compromise computer systems
+0.010478381593014072
+plenty early experimenters
+0.010476978329763586
+public testnet
+0.008666244933190941

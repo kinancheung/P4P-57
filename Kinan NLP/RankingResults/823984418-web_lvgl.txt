@@ -1,0 +1,6 @@
+Web LVGL
+
+ Emscripten  LVGL
+0.5
+WASM
+0.5

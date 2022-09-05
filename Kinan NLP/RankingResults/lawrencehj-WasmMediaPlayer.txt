@@ -1,0 +1,28 @@
+wasmdecoder.cffmpeg5
+0.29672002639676504
+https://github.com/lawrencehj/WasmMediaPlayer.git
+0.26787564982455897
+Emscripten
+
+
+
+4.3 decoder.c
+
+decoder.cffmpeg
+
+./build_decoder_wasm.sh
+
+4.3 FFmpeg
+
+FFmpegFFmpeg
+
+git clone
+0.18988547142482975
+EmscriptenHttp Server
+
+http-server
+0.09880720327833317
+H265CPU
+0.08949726773424141
+MULAWG.723.1G.729GB28181
+0.057214381341271964

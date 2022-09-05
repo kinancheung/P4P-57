@@ -1,0 +1,18 @@
+Bitrig
+0.18794774834928918
+free, fast, secure, and highly portable Unix-like Open Source
+operating system
+0.17899167010653727
+source
+code
+0.15916122273835706
+current hardware platforms
+0.1467775553977098
+non-viral license
+0.1260498101577481
+Bitrig - Base system repository
+0.11582569893271265
+Donations
+
+Bitcoin
+0.08524629431764594

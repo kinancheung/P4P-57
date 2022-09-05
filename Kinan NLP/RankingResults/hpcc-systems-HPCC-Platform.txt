@@ -1,0 +1,189 @@
+ECL
+0.046343979128408194
+big data problems
+0.04619210217239243
+less nodes
+0.03180609512166175
+Thor and Roxie clusters
+0.023546839166866583
+Access
+0.023192640448888396
+system management
+0.02258061951314023
+HPCC Systems
+0.02212567842951359
+platform
+0.021480416208749548
+parallel processing power
+0.017616544358435657
+structure
+0.01630660132219281
+following sections
+0.015695804673544214
+auxiliary components
+0.01559739640381807
+single architecture
+0.015533643002662093
+thousands
+0.015532316194337991
+single node
+0.015457796448129068
+cluster types
+0.014595547870772867
+concurrent query processing
+0.013365320102015618
+Developer documentation
+0.01335961130048324
+single programming language
+0.013244993211860961
+HTTP
+0.012007366203289245
+SOAP
+0.011952031288312182
+XML
+0.011367001023916754
+REST
+0.011182357880235928
+Description / Rationale
+
+HPCC Systems
+0.011156226267446038
+storing
+0.0110866712162446
+loading
+0.01048589683201162
+Loading
+0.010300066158790484
+Sorting
+0.010266971341160223
+analysis
+0.010266261142221973
+interface
+0.010155446406114047
+tools
+0.010144421723147359
+thor
+0.009931966408946028
+roxie
+0.009718054438294634
+Standards-based interface
+0.009714963140469766
+Enterprise Services Platform
+0.009658142712557168
+ready, open source
+0.009585663818952884
+external sources
+0.009546592215348608
+easy
+0.009512035194284183
+ESP
+0.009497345651795719
+monitoring
+0.009463929620362695
+enterprise
+0.009406265782893471
+less code
+0.009326191103459528
+Transformation
+0.009209904643461157
+shared source code repositories
+0.009192791232646885
+current and historical job
+0.009112795207782163
+Indexing
+0.009088731742584066
+requests
+0.009069121333774431
+efficient processing
+0.008961996744671918
+introduction
+0.008913445737116662
+Complete development
+0.008775755231916
+debugging and testing environment
+0.008634477002574067
+greater efficiencies
+0.00861082228236021
+code generator - eclcc
+0.008600869519265161
+job graphs
+0.00855767262977
+technology division
+0.008535525377858047
+end-user services
+0.008534911489572757
+Big Data
+0.0085092592314192
+developers
+0.008480193556740465
+memory manager
+0.008450559180371495
+initialization
+0.008448010607630597
+client interfaces
+0.00843329866500274
+ECLWatch tool
+0.008432168378015447
+more detail
+0.008319649900872032
+Hadoop
+0.00829191766450278
+manipulation
+0.008276938648462519
+external communications layer
+0.008245586066228485
+Thor
+
+Thor
+0.008174919473627112
+LexisNexis Risk Solutions
+0.008027156771362974
+vast amounts
+0.007793905808539518
+Data Refinery Cluster
+0.007686455649938286
+C++ libraries
+0.007677647447006992
+common middleware components
+0.00766451877189184
+Build
+0.007361470130208191
+optimized C++
+
+ECL IDE
+
+ECL IDE
+0.007345627745266071
+workunits
+0.007341375536740676
+ecl-bundle
+0.007307595864019479
+details
+0.007250812602267833
+Query Cluster
+0.0072008266003227685
+Multi-threaded
+Distributed parallel processing
+Distributed file system
+0.007173418054887756
+cmake files
+0.007141589322040684
+Transparent and implicitly parallel programming language
+Non-procedural and dataflow oriented
+Modular, reusable, extensible syntax
+Combines data representation
+0.0070965002955828155
+separate high-performance online query processing and data warehouse capabilities
+0.007005789707633337
+HPCC
+Download
+Installation
+0.006948150946890228
+modern IDE
+0.0068944149060131766
+Enterprise Control Language
+0.0068009218806771785
+algorithm implementation
+0.006634737621198906
+Rapid Online XML Inquiry Engine
+0.006479950141156595

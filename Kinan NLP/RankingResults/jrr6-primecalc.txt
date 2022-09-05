@@ -1,0 +1,26 @@
+VS Code task
+0.1293970005660314
+prime numbers
+0.09552798207034305
+Open index.html
+0.08742131901854176
+natureyet
+0.08592219908972047
+equivalent (but not particularly fast) WASM and JavaScript methods
+0.0851932267516297
+root directory
+0.08131364483712109
+Web Workers
+0.07995619641141613
+cwrap
+0.07934659761226025
+simple tool
+0.07787790785332613
+js/wasmprimes.js -s EXTRA_EXPORTED_RUNTIME_METHODS=["ccall
+0.0749852450919678
+Compilation
+
+Install
+0.06840800491479478
+file:// protocol
+0.05465067578284723

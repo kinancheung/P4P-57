@@ -1,0 +1,40 @@
+new confidential address
+0.09717383181898655
+command
+0.08913068297520263
+words
+0.060745819851727736
+mnemonic sentence
+0.06054862779979668
+./build
+0.060139848230350595
+Main
+0.05519705535802269
+REGTEST
+0.054401149214448476
+end
+0.053388966638489424
+install_deps.sh output
+0.052610427418161555
+Adrr
+0.049739422893539484
+./scripts
+0.043038433660371966
+target folder
+0.04167366888481289
+enact luggage write fuel
+0.03986062868818428
+script execution
+0.0376783614718234
+deterministic key generation
+0.03760738838221678
+depth
+0.03642846901581327
+2dhPLwXL2MRXUUNkv4bkoggXQ54yaTPPnJJ
+0.03625392083045051
+drama soccer reason million upper tilt glimpse safe sweet govern error utility candy manage fish
+0.03615015651521556
+confidentialAddress
+0.029600916679375214
+funny grape
+0.028632223673010458
